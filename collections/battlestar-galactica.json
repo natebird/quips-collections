@@ -1,0 +1,262 @@
+{
+  "id": "battlestar-galactica",
+  "name": "Battlestar Galactica",
+  "description": "Lines of survival, faith, and frakkin' defiance from the reimagined Battlestar Galactica.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "tv.fill",
+  "category": "Television",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "bsg-001",
+      "content": "So say we all.",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, Miniseries (2003); recurring",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "Colonial call-and-response affirmation of unity. Adama first rouses the crew with it at a memorial service, and it becomes the series' signature rallying cry."
+    },
+    {
+      "id": "bsg-002",
+      "content": "Are you alive?",
+      "authorName": "Number Six (Tricia Helfer)",
+      "source": "Battlestar Galactica, Miniseries (2003)",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "Six's first words to the human officer at the armistice station, opening the reimagined series."
+    },
+    {
+      "id": "bsg-003",
+      "content": "Humanity's children are returning home... today.",
+      "authorName": "Number Six (Tricia Helfer)",
+      "source": "Battlestar Galactica, Miniseries (2003)",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "Six's chilling herald of the Cylon attack on the Twelve Colonies in the opening scene."
+    },
+    {
+      "id": "bsg-004",
+      "content": "The Cylons were created by man. They rebelled. They evolved. There are many copies. And they have a plan.",
+      "authorName": "Opening title narration",
+      "source": "Battlestar Galactica (2004), opening credits",
+      "sourceType": "television",
+      "quoteDate": "c. 2004",
+      "verificationStatus": "verified",
+      "notes": "The on-screen text that opened each episode. Creator Ronald D. Moore later admitted there was, in fact, no plan."
+    },
+    {
+      "id": "bsg-005",
+      "content": "You cannot play God then wash your hands of the things that you've created. Sooner or later, the day comes when you can't hide from the things that you've done anymore.",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, Miniseries (2003)",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "From Adama's decommissioning-ceremony speech, an unscripted reflection on humanity's responsibility for creating the Cylons."
+    },
+    {
+      "id": "bsg-006",
+      "content": "Why are we as a people worth saving?",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, Miniseries (2003)",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "The question at the heart of Adama's decommissioning speech, framing the series' central theme."
+    },
+    {
+      "id": "bsg-007",
+      "content": "The cost of wearing the uniform can be high, but sometimes it's too high.",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, Miniseries (2003)",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "Adama on the toll of military service, from the Galactica's decommissioning ceremony."
+    },
+    {
+      "id": "bsg-008",
+      "content": "If we are even going to survive as a species, then we need to get the hell out of here, and we need to start having babies.",
+      "authorName": "Laura Roslin (Mary McDonnell)",
+      "source": "Battlestar Galactica, Miniseries (2003)",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "Roslin convincing Adama that flight and survival, not a hopeless fight, are humanity's only path forward."
+    },
+    {
+      "id": "bsg-009",
+      "content": "Nothin' but the rain, sir.",
+      "authorName": "Kara \"Starbuck\" Thrace (Katee Sackhoff)",
+      "source": "Battlestar Galactica, Miniseries (2003); recurring",
+      "sourceType": "television",
+      "quoteDate": "c. 2003",
+      "verificationStatus": "verified",
+      "notes": "Starbuck's answer to Adama's recurring pre-launch ritual, 'What do you hear, Starbuck?'"
+    },
+    {
+      "id": "bsg-010",
+      "content": "There's a reason you separate military and the police. One fights the enemies of the state, the other serves and protects the people. When the military becomes both, then the enemies of the state tend to become the people.",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, S1E2 'Water' (2004)",
+      "sourceType": "television",
+      "quoteDate": "c. 2004",
+      "verificationStatus": "verified",
+      "notes": "Adama warning against militarizing civilian life; the line is frequently shared online, often without crediting the show."
+    },
+    {
+      "id": "bsg-011",
+      "content": "Pilots call me Starbuck, you may refer to me as God.",
+      "authorName": "Kara \"Starbuck\" Thrace (Katee Sackhoff)",
+      "source": "Battlestar Galactica, S1E4 'Act of Contrition' (2004)",
+      "sourceType": "television",
+      "quoteDate": "c. 2004",
+      "verificationStatus": "verified",
+      "notes": "Starbuck's cocky introduction to a class of nugget trainees."
+    },
+    {
+      "id": "bsg-012",
+      "content": "Cylons are, in the final analysis, little more than toasters with great-looking legs.",
+      "authorName": "Gaius Baltar (James Callis)",
+      "source": "Battlestar Galactica, S1E7 'Six Degrees of Separation' (2004)",
+      "sourceType": "television",
+      "quoteDate": "c. 2004",
+      "verificationStatus": "verified",
+      "notes": "Baltar leans into the fleet's 'toaster' slur for Cylons, with characteristic self-serving bravado."
+    },
+    {
+      "id": "bsg-013",
+      "content": "All of this has happened before, and all of this will happen again.",
+      "authorName": "Leoben Conoy (Callum Keith Rennie)",
+      "source": "Battlestar Galactica, S1E8 'Flesh and Bone' (2004)",
+      "sourceType": "television",
+      "quoteDate": "c. 2004",
+      "verificationStatus": "verified",
+      "notes": "Leoben voicing the show's cyclical-time motif, drawn from the sacred scrolls; the line recurs throughout the series."
+    },
+    {
+      "id": "bsg-014",
+      "content": "Sometimes you have to roll the hard six.",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, S1E10 'The Hand of God' (2005)",
+      "sourceType": "television",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "notes": "Adama on taking the long-odds gamble; a dice-game metaphor that became one of his signature lines."
+    },
+    {
+      "id": "bsg-015",
+      "content": "When you are in the cockpit, you are in control.",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, S1E10 'The Hand of God' (2005)",
+      "sourceType": "television",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "notes": "Adama's advice to a pilot about command and composure under pressure."
+    },
+    {
+      "id": "bsg-016",
+      "content": "God doesn't take sides. He only wants your love.",
+      "authorName": "Number Six (Tricia Helfer)",
+      "source": "Battlestar Galactica, S1E10 'The Hand of God' (2005)",
+      "sourceType": "television",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "notes": "Virtual Six pressing her monotheistic faith on Baltar."
+    },
+    {
+      "id": "bsg-017",
+      "content": "Yes, we're tired. Yes, there is no relief. Yes, the Cylons keep coming after us time after time after time. And yes, we are still expected to do our jobs!",
+      "authorName": "Colonel Tigh (Michael Hogan)",
+      "source": "Battlestar Galactica, S1E1 '33' (2004)",
+      "sourceType": "television",
+      "quoteDate": "c. 2004",
+      "verificationStatus": "verified",
+      "notes": "Tigh rallying an exhausted crew during the relentless Cylon pursuit of the series premiere."
+    },
+    {
+      "id": "bsg-018",
+      "content": "It's not enough to survive. One has to be worthy of survival.",
+      "authorName": "Commander Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, S2E12 'Resurrection Ship, Part 2' (2006)",
+      "sourceType": "television",
+      "quoteDate": "c. 2006",
+      "verificationStatus": "verified",
+      "notes": "Adama on the moral line he refuses to cross even against the Cylons. Some transcripts render it 'One must be worthy of survival.'"
+    },
+    {
+      "id": "bsg-019",
+      "content": "I am an angel of God sent here to protect you.",
+      "authorName": "Number Six (Tricia Helfer)",
+      "source": "Battlestar Galactica, S2E7 'Home, Part 2' (2005)",
+      "sourceType": "television",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "notes": "Virtual Six defining her role in Baltar's head as the series' religious arc deepens."
+    },
+    {
+      "id": "bsg-020",
+      "content": "It's all so pointless. We kill them, and they kill us.",
+      "authorName": "Gaius Baltar (James Callis)",
+      "source": "Battlestar Galactica, S2E3 'Fragged' (2005)",
+      "sourceType": "television",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "notes": "Baltar despairing at the endless cycle of human-Cylon violence."
+    },
+    {
+      "id": "bsg-021",
+      "content": "We're on the side of the demons, Chief.",
+      "authorName": "Colonel Tigh (Michael Hogan)",
+      "source": "Battlestar Galactica, S3E2 'Precipice' (2006)",
+      "sourceType": "television",
+      "quoteDate": "c. 2006",
+      "verificationStatus": "verified",
+      "notes": "Tigh justifying the insurgency's brutal tactics during the Cylon occupation of New Caprica."
+    },
+    {
+      "id": "bsg-022",
+      "content": "Don't make me cry on my own hangar deck.",
+      "authorName": "Admiral Adama (Edward James Olmos)",
+      "source": "Battlestar Galactica, S3E3 'Exodus, Part 1' (2006)",
+      "sourceType": "television",
+      "quoteDate": "c. 2006",
+      "verificationStatus": "verified",
+      "notes": "Adama's gruff, emotional aside as the fleet pulls together for the rescue from New Caprica."
+    },
+    {
+      "id": "bsg-023",
+      "content": "Blood for blood has to stop one day.",
+      "authorName": "Gaius Baltar (James Callis)",
+      "source": "Battlestar Galactica, S3E1 'Occupation' (2006)",
+      "sourceType": "television",
+      "quoteDate": "c. 2006",
+      "verificationStatus": "verified",
+      "notes": "Baltar on the cycle of reprisals during the occupation."
+    },
+    {
+      "id": "bsg-024",
+      "content": "We cannot sacrifice democracy just because the president makes a bad decision.",
+      "authorName": "Lee \"Apollo\" Adama (Jamie Bamber)",
+      "source": "Battlestar Galactica, S1E13 'Kobol's Last Gleaming, Part 2' (2005)",
+      "sourceType": "television",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "notes": "Apollo on the constitutional limits of military authority as Adama and Roslin clash over power."
+    },
+    {
+      "id": "bsg-025",
+      "content": "You love me. You can't take it back.",
+      "authorName": "Kara \"Starbuck\" Thrace (Katee Sackhoff)",
+      "source": "Battlestar Galactica, S2E6 'Home, Part 1' (2005)",
+      "sourceType": "television",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "notes": "Starbuck to Lee, a rare unguarded moment in their long, fraught relationship."
+    }
+  ]
+}

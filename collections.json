@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-06-27T12:00:00Z",
   "collections": [
     {
       "id": "lds-general-conference",
@@ -226,6 +226,36 @@
       "iconName": "sparkles",
       "category": "Movies",
       "lastUpdated": "2026-06-20T12:00:00Z"
+    },
+    {
+      "id": "star-wars",
+      "name": "Star Wars",
+      "description": "Iconic lines from a galaxy far, far away, spanning the Skywalker saga from the original trilogy to the prequels and sequels.",
+      "author": "Quips Editorial",
+      "quoteCount": 60,
+      "previewQuotes": [
+        "Do. Or do not. There is no try.",
+        "I find your lack of faith disturbing."
+      ],
+      "colorName": "gold",
+      "iconName": "star.fill",
+      "category": "Movies",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "battlestar-galactica",
+      "name": "Battlestar Galactica",
+      "description": "Lines of survival, faith, and frakkin' defiance from the reimagined Battlestar Galactica.",
+      "author": "Quips Editorial",
+      "quoteCount": 25,
+      "previewQuotes": [
+        "So say we all.",
+        "All of this has happened before, and all of this will happen again."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "tv.fill",
+      "category": "Television",
+      "lastUpdated": "2026-06-27T12:00:00Z"
     }
   ]
 }
