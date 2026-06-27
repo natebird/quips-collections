@@ -1,0 +1,612 @@
+{
+  "id": "star-wars",
+  "name": "Star Wars",
+  "description": "Iconic lines from a galaxy far, far away, spanning the Skywalker saga from the original trilogy to the prequels and sequels.",
+  "author": "Quips Editorial",
+  "colorName": "gold",
+  "iconName": "star.fill",
+  "category": "Movies",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "starwars-001",
+      "content": "May the Force be with you.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "The franchise's signature blessing, recurring across every film; Han offers it to Luke before the Death Star trench run."
+    },
+    {
+      "id": "starwars-002",
+      "content": "These aren't the droids you're looking for.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's Jedi mind trick on a Mos Eisley stormtrooper checkpoint."
+    },
+    {
+      "id": "starwars-003",
+      "content": "The Force will be with you, always.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's reassurance to Luke, echoed as a disembodied voice after his death."
+    },
+    {
+      "id": "starwars-004",
+      "content": "I find your lack of faith disturbing.",
+      "authorName": "Darth Vader (James Earl Jones)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Vader rebukes Admiral Motti aboard the Death Star, Force-choking him for doubting the Force."
+    },
+    {
+      "id": "starwars-005",
+      "content": "Help me, Obi-Wan Kenobi. You're my only hope.",
+      "authorName": "Princess Leia (Carrie Fisher)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Leia's holographic plea hidden inside R2-D2 that sets the story in motion."
+    },
+    {
+      "id": "starwars-006",
+      "content": "In my experience, there's no such thing as luck.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's gentle correction of Han's skepticism about the Force aboard the Millennium Falcon."
+    },
+    {
+      "id": "starwars-007",
+      "content": "That's no moon. It's a space station.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan recognizes the Death Star as the Falcon is drawn toward it."
+    },
+    {
+      "id": "starwars-008",
+      "content": "Great, kid! Don't get cocky.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Han's warning to Luke after a TIE fighter kill during the escape from the Death Star."
+    },
+    {
+      "id": "starwars-009",
+      "content": "Aren't you a little short for a stormtrooper?",
+      "authorName": "Princess Leia (Carrie Fisher)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Leia's deadpan greeting to a disguised Luke in her detention cell."
+    },
+    {
+      "id": "starwars-010",
+      "content": "Stay on target.",
+      "authorName": "Gold Five (Graham Ashley)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "A Rebel pilot's steady mantra during the Death Star trench run."
+    },
+    {
+      "id": "starwars-011",
+      "content": "Do. Or do not. There is no try.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda's lesson to Luke about commitment while training on Dagobah."
+    },
+    {
+      "id": "starwars-012",
+      "content": "No. I am your father.",
+      "authorName": "Darth Vader (James Earl Jones)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "The saga's great revelation on Cloud City; popularly misquoted as 'Luke, I am your father.'"
+    },
+    {
+      "id": "starwars-013",
+      "content": "I know.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Han's improvised reply to Leia's 'I love you' as he is lowered into carbon freeze."
+    },
+    {
+      "id": "starwars-014",
+      "content": "Never tell me the odds.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Han's retort to C-3PO while piloting the Falcon into an asteroid field."
+    },
+    {
+      "id": "starwars-015",
+      "content": "Size matters not.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda chides Luke for judging the Force by physical scale before raising the X-wing."
+    },
+    {
+      "id": "starwars-016",
+      "content": "Luminous beings are we, not this crude matter.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda describes the nature of the Force to Luke on Dagobah."
+    },
+    {
+      "id": "starwars-017",
+      "content": "Wars not make one great.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda's rebuke to Luke when first sizing him up as a potential Jedi."
+    },
+    {
+      "id": "starwars-018",
+      "content": "Why, you stuck-up, half-witted, scruffy-looking nerf herder!",
+      "authorName": "Princess Leia (Carrie Fisher)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Leia's insult to Han aboard the Falcon, prompting his 'Who's scruffy-looking?'"
+    },
+    {
+      "id": "starwars-019",
+      "content": "Laugh it up, fuzzball.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Han's jab at a chuckling Chewbacca aboard the Millennium Falcon."
+    },
+    {
+      "id": "starwars-020",
+      "content": "It's a trap!",
+      "authorName": "Admiral Ackbar (Erik Bauersfeld)",
+      "source": "Star Wars: Return of the Jedi (1983)",
+      "sourceType": "movie",
+      "quoteDate": "1983-05-25",
+      "verificationStatus": "verified",
+      "notes": "Ackbar's realization as the Rebel fleet springs the Emperor's ambush at Endor."
+    },
+    {
+      "id": "starwars-021",
+      "content": "I am a Jedi, like my father before me.",
+      "authorName": "Luke Skywalker (Mark Hamill)",
+      "source": "Star Wars: Return of the Jedi (1983)",
+      "sourceType": "movie",
+      "quoteDate": "1983-05-25",
+      "verificationStatus": "verified",
+      "notes": "Luke's defiant declaration to the Emperor as he refuses the dark side."
+    },
+    {
+      "id": "starwars-022",
+      "content": "Many of the truths we cling to depend greatly on our own point of view.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: Return of the Jedi (1983)",
+      "sourceType": "movie",
+      "quoteDate": "1983-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's spirit explains to Luke why he said Vader killed his father."
+    },
+    {
+      "id": "starwars-023",
+      "content": "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Phantom Menace (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-05-19",
+      "verificationStatus": "verified",
+      "notes": "Yoda warns the Jedi Council about the danger he senses in young Anakin."
+    },
+    {
+      "id": "starwars-024",
+      "content": "There's always a bigger fish.",
+      "authorName": "Qui-Gon Jinn (Liam Neeson)",
+      "source": "Star Wars: The Phantom Menace (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-05-19",
+      "verificationStatus": "verified",
+      "notes": "Qui-Gon's calm observation after a sea creature devours their pursuer in Naboo's core."
+    },
+    {
+      "id": "starwars-025",
+      "content": "Your focus determines your reality.",
+      "authorName": "Qui-Gon Jinn (Liam Neeson)",
+      "source": "Star Wars: The Phantom Menace (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-05-19",
+      "verificationStatus": "verified",
+      "notes": "Qui-Gon's advice to Anakin before the Boonta Eve podrace."
+    },
+    {
+      "id": "starwars-026",
+      "content": "The ability to speak does not make you intelligent.",
+      "authorName": "Qui-Gon Jinn (Liam Neeson)",
+      "source": "Star Wars: The Phantom Menace (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-05-19",
+      "verificationStatus": "verified",
+      "notes": "Qui-Gon's dry put-down of Jar Jar Binks in the Naboo swamp."
+    },
+    {
+      "id": "starwars-027",
+      "content": "Now, this is podracing!",
+      "authorName": "Anakin Skywalker (Jake Lloyd)",
+      "source": "Star Wars: The Phantom Menace (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-05-19",
+      "verificationStatus": "verified",
+      "notes": "Young Anakin's exhilaration piloting through the Boonta Eve Classic."
+    },
+    {
+      "id": "starwars-028",
+      "content": "I don't like sand. It's coarse and rough and irritating and it gets everywhere.",
+      "authorName": "Anakin Skywalker (Hayden Christensen)",
+      "source": "Star Wars: Attack of the Clones (2002)",
+      "sourceType": "movie",
+      "quoteDate": "2002-05-16",
+      "verificationStatus": "verified",
+      "notes": "Anakin's much-memed attempt at romance with Padmé on Naboo."
+    },
+    {
+      "id": "starwars-029",
+      "content": "Truly wonderful, the mind of a child is.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: Attack of the Clones (2002)",
+      "sourceType": "movie",
+      "quoteDate": "2002-05-16",
+      "verificationStatus": "verified",
+      "notes": "Yoda's remark after younglings help solve the mystery of a hidden planet."
+    },
+    {
+      "id": "starwars-030",
+      "content": "Only a Sith deals in absolutes.",
+      "authorName": "Obi-Wan Kenobi (Ewan McGregor)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's reply to Anakin's ultimatum during their duel on Mustafar."
+    },
+    {
+      "id": "starwars-031",
+      "content": "So this is how liberty dies. With thunderous applause.",
+      "authorName": "Padmé Amidala (Natalie Portman)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Padmé watches the Senate cheer as Palpatine declares the Galactic Empire."
+    },
+    {
+      "id": "starwars-032",
+      "content": "It's over, Anakin. I have the high ground!",
+      "authorName": "Obi-Wan Kenobi (Ewan McGregor)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's warning to Anakin atop the lava banks of Mustafar."
+    },
+    {
+      "id": "starwars-033",
+      "content": "Did you ever hear the tragedy of Darth Plagueis the Wise?",
+      "authorName": "Sheev Palpatine (Ian McDiarmid)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Palpatine begins seducing Anakin to the dark side at the Galaxies Opera House."
+    },
+    {
+      "id": "starwars-034",
+      "content": "Hello there.",
+      "authorName": "Obi-Wan Kenobi (Ewan McGregor)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's greeting to General Grievous; he first uses the line to Luke's R2 in A New Hope."
+    },
+    {
+      "id": "starwars-035",
+      "content": "Chewie, we're home.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: The Force Awakens (2015)",
+      "sourceType": "movie",
+      "quoteDate": "2015-12-18",
+      "verificationStatus": "verified",
+      "notes": "Han and Chewbacca step back aboard the recovered Millennium Falcon."
+    },
+    {
+      "id": "starwars-036",
+      "content": "It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan defines the Force for Luke during their first lightsaber lesson."
+    },
+    {
+      "id": "starwars-037",
+      "content": "I have a bad feeling about this.",
+      "authorName": "Luke Skywalker (Mark Hamill)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "The saga's running gag line, uttered by a different character in nearly every film."
+    },
+    {
+      "id": "starwars-038",
+      "content": "Use the Force, Luke.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's disembodied guidance as Luke makes the trench run on the Death Star."
+    },
+    {
+      "id": "starwars-039",
+      "content": "If you strike me down, I shall become more powerful than you can possibly imagine.",
+      "authorName": "Obi-Wan Kenobi (Alec Guinness)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's warning to Vader moments before letting himself be struck down."
+    },
+    {
+      "id": "starwars-040",
+      "content": "The Force is strong with this one.",
+      "authorName": "Darth Vader (James Earl Jones)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Vader senses Luke's potential while pursuing him in the Death Star trench."
+    },
+    {
+      "id": "starwars-041",
+      "content": "Traveling through hyperspace ain't like dusting crops, boy.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Han's retort to Luke's impatience aboard the Millennium Falcon."
+    },
+    {
+      "id": "starwars-042",
+      "content": "She may not look like much, but she's got it where it counts, kid.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Han defends the Millennium Falcon against Luke's first unimpressed reaction."
+    },
+    {
+      "id": "starwars-043",
+      "content": "Hokey religions and ancient weapons are no match for a good blaster at your side, kid.",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Han dismisses the Force to Luke before he comes to believe in it."
+    },
+    {
+      "id": "starwars-044",
+      "content": "Into the garbage chute, flyboy.",
+      "authorName": "Princess Leia (Carrie Fisher)",
+      "source": "Star Wars: A New Hope (1977)",
+      "sourceType": "movie",
+      "quoteDate": "1977-05-25",
+      "verificationStatus": "verified",
+      "notes": "Leia takes charge of the escape during the Death Star rescue."
+    },
+    {
+      "id": "starwars-045",
+      "content": "You must unlearn what you have learned.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda pushes Luke past his doubts during training on Dagobah."
+    },
+    {
+      "id": "starwars-046",
+      "content": "Always in motion is the future.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda warns Luke that visions of what is to come are never fixed."
+    },
+    {
+      "id": "starwars-047",
+      "content": "Adventure. Excitement. A Jedi craves not these things.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda chides the restless Luke for the wrong reasons to seek Jedi training."
+    },
+    {
+      "id": "starwars-048",
+      "content": "Judge me by my size, do you?",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda's challenge to Luke just before lifting the sunken X-wing from the swamp."
+    },
+    {
+      "id": "starwars-049",
+      "content": "If once you start down the dark path, forever will it dominate your destiny.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Yoda warns Luke against giving in to fear and anger on Dagobah."
+    },
+    {
+      "id": "starwars-050",
+      "content": "I am altering the deal. Pray I don't alter it any further.",
+      "authorName": "Darth Vader (James Earl Jones)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Vader tightens the screws on Lando's bargain at Cloud City."
+    },
+    {
+      "id": "starwars-051",
+      "content": "This deal is getting worse all the time.",
+      "authorName": "Lando Calrissian (Billy Dee Williams)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Lando's resigned reaction as Vader keeps changing the terms on Cloud City."
+    },
+    {
+      "id": "starwars-052",
+      "content": "Who's scruffy-looking?",
+      "authorName": "Han Solo (Harrison Ford)",
+      "source": "Star Wars: The Empire Strikes Back (1980)",
+      "sourceType": "movie",
+      "quoteDate": "1980-05-21",
+      "verificationStatus": "verified",
+      "notes": "Han's indignant comeback to Leia's 'scruffy-looking nerf herder' jab."
+    },
+    {
+      "id": "starwars-053",
+      "content": "Your overconfidence is your weakness.",
+      "authorName": "Luke Skywalker (Mark Hamill)",
+      "source": "Star Wars: Return of the Jedi (1983)",
+      "sourceType": "movie",
+      "quoteDate": "1983-05-25",
+      "verificationStatus": "verified",
+      "notes": "Luke's defiance of the Emperor, who replies that faith in friends is Luke's."
+    },
+    {
+      "id": "starwars-054",
+      "content": "Tell your sister, you were right.",
+      "authorName": "Anakin Skywalker (Sebastian Shaw)",
+      "source": "Star Wars: Return of the Jedi (1983)",
+      "sourceType": "movie",
+      "quoteDate": "1983-05-25",
+      "verificationStatus": "verified",
+      "notes": "The redeemed Anakin's dying words to Luke after turning on the Emperor."
+    },
+    {
+      "id": "starwars-055",
+      "content": "Always two there are, no more, no less. A master and an apprentice.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: The Phantom Menace (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-05-19",
+      "verificationStatus": "verified",
+      "notes": "Yoda explains the Rule of Two governing the Sith to the Jedi Council."
+    },
+    {
+      "id": "starwars-056",
+      "content": "Begun, the Clone War has.",
+      "authorName": "Yoda (Frank Oz)",
+      "source": "Star Wars: Attack of the Clones (2002)",
+      "sourceType": "movie",
+      "quoteDate": "2002-05-16",
+      "verificationStatus": "verified",
+      "notes": "Yoda's grim closing pronouncement as clone troopers march to war."
+    },
+    {
+      "id": "starwars-057",
+      "content": "This is where the fun begins.",
+      "authorName": "Anakin Skywalker (Hayden Christensen)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Anakin's relish as he and Obi-Wan dive into the battle over Coruscant."
+    },
+    {
+      "id": "starwars-058",
+      "content": "You were the Chosen One! It was said that you would destroy the Sith, not join them!",
+      "authorName": "Obi-Wan Kenobi (Ewan McGregor)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Obi-Wan's anguished cry at the wounded Anakin on the banks of Mustafar."
+    },
+    {
+      "id": "starwars-059",
+      "content": "Power! Unlimited power!",
+      "authorName": "Sheev Palpatine (Ian McDiarmid)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Palpatine exults as he blasts Mace Windu with Force lightning."
+    },
+    {
+      "id": "starwars-060",
+      "content": "It's treason, then.",
+      "authorName": "Sheev Palpatine (Ian McDiarmid)",
+      "source": "Star Wars: Revenge of the Sith (2005)",
+      "sourceType": "movie",
+      "quoteDate": "2005-05-19",
+      "verificationStatus": "verified",
+      "notes": "Palpatine's quiet line as Mace Windu and three Jedi arrive to arrest him."
+    }
+  ]
+}
