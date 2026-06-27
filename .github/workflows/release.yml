@@ -42,18 +42,20 @@ jobs:
             dist/manifest.json
             dist/collections.json
 
-      - name: Configure R2 (S3) credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          aws-region: auto
-
       - name: Push to R2 (data.quipsapp.com)
         env:
           TAG: ${{ github.ref_name }}
           ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
           BUCKET: ${{ secrets.R2_BUCKET }}
+          # R2 uses S3-compatible creds; the aws CLI is preinstalled on the
+          # runner, so configure it via env (no STS / configure-aws-credentials).
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          AWS_REGION: auto
+          # AWS CLI v2.23+ sends integrity checksums R2 rejects; only send when required.
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
         run: |
           set -euo pipefail
           VER="${TAG#v}"
