@@ -1,0 +1,68 @@
+name: Release collections
+
+# Cut a release by pushing a semver tag, e.g.:
+#   git tag v1.0.0 && git push origin v1.0.0
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write          # create the GitHub Release
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Validate (gate the release)
+        run: python3 scripts/validate_collections.py --strict
+
+      - name: Build dist + manifest
+        env:
+          TAG: ${{ github.ref_name }}        # e.g. v1.0.0
+        run: |
+          set -euo pipefail
+          VER="${TAG#v}"
+          mkdir -p dist/collections
+          cp collections.json dist/
+          cp collections/*.json dist/collections/
+          ( cd dist && zip -qr "quips-collections-${TAG}.zip" collections.json collections )
+          python3 scripts/build_manifest.py "$VER" > dist/manifest.json
+          echo "Manifest:"; cat dist/manifest.json
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/quips-collections-*.zip
+            dist/manifest.json
+            dist/collections.json
+
+      - name: Configure R2 (S3) credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws-region: auto
+
+      - name: Push to R2 (data.quipsapp.com)
+        env:
+          TAG: ${{ github.ref_name }}
+          ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          BUCKET: ${{ secrets.R2_BUCKET }}
+        run: |
+          set -euo pipefail
+          VER="${TAG#v}"
+          # Versioned objects are immutable -> cache forever.
+          aws s3 sync dist/ "s3://${BUCKET}/v${VER}/" \
+            --endpoint-url "$ENDPOINT" \
+            --exclude manifest.json \
+            --cache-control "public, max-age=31536000, immutable"
+          # The single mutable pointer -> short TTL.
+          aws s3 cp dist/manifest.json "s3://${BUCKET}/latest/manifest.json" \
+            --endpoint-url "$ENDPOINT" \
+            --cache-control "public, max-age=300"
