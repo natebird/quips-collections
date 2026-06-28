@@ -1,0 +1,382 @@
+{
+  "id": "jane-austen",
+  "name": "Jane Austen",
+  "description": "Wit, romance, and razor-sharp social observation from the novels of England's most beloved chronicler of the human heart.",
+  "author": "Quips Editorial",
+  "colorName": "lemon",
+  "iconName": "heart.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "austen-001",
+      "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "The novel's celebrated opening line, the narrator setting an ironic tone."
+    },
+    {
+      "id": "austen-002",
+      "content": "She is tolerable: but not handsome enough to tempt me.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Mr. Darcy's slighting remark about Elizabeth Bennet at the Meryton assembly."
+    },
+    {
+      "id": "austen-003",
+      "content": "I could easily forgive his pride, if he had not mortified mine.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Elizabeth Bennet, on her first impression of Mr. Darcy."
+    },
+    {
+      "id": "austen-004",
+      "content": "Vanity and pride are different things, though the words are often used synonymously.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Mary Bennet, moralizing on the difference between the two faults."
+    },
+    {
+      "id": "austen-005",
+      "content": "I declare, after all, there is no enjoyment like reading!",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Caroline Bingley, affecting a love of books to impress Mr. Darcy."
+    },
+    {
+      "id": "austen-006",
+      "content": "I have been a selfish being all my life, in practice, though not in principle.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Mr. Darcy, reflecting on his character to Elizabeth near the novel's end."
+    },
+    {
+      "id": "austen-007",
+      "content": "What are men to rocks and mountains?",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Elizabeth Bennet, delighting in the prospect of a tour to the Lakes."
+    },
+    {
+      "id": "austen-008",
+      "content": "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony, in a moment.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Mr. Darcy, teasing about how quickly affection is supposed."
+    },
+    {
+      "id": "austen-009",
+      "content": "Till this moment, I never knew myself.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Elizabeth Bennet, after reading Darcy's letter and confronting her own prejudice."
+    },
+    {
+      "id": "austen-010",
+      "content": "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Mr. Bennet, in his characteristically dry humour."
+    },
+    {
+      "id": "austen-011",
+      "content": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Mr. Darcy's first, ill-fated proposal to Elizabeth at Hunsford."
+    },
+    {
+      "id": "austen-012",
+      "content": "My good opinion once lost is lost for ever.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Mr. Darcy, describing his unyielding temper to Elizabeth."
+    },
+    {
+      "id": "austen-013",
+      "content": "Know your own happiness. You want nothing but patience—or give it a more fascinating name, call it hope.",
+      "authorName": "Jane Austen",
+      "source": "Sense and Sensibility (1811)",
+      "sourceType": "book",
+      "quoteDate": "1811",
+      "verificationStatus": "verified",
+      "notes": "Mrs. Dashwood, offering encouragement to Edward Ferrars."
+    },
+    {
+      "id": "austen-014",
+      "content": "The more I know of the world, the more am I convinced that I shall never see a man whom I can really love.",
+      "authorName": "Jane Austen",
+      "source": "Sense and Sensibility (1811)",
+      "sourceType": "book",
+      "quoteDate": "1811",
+      "verificationStatus": "verified",
+      "notes": "Marianne Dashwood, declaring her romantic ideals to her mother."
+    },
+    {
+      "id": "austen-015",
+      "content": "I will be calm; I will be mistress of myself.",
+      "authorName": "Jane Austen",
+      "source": "Sense and Sensibility (1811)",
+      "sourceType": "book",
+      "quoteDate": "1811",
+      "verificationStatus": "verified",
+      "notes": "Marianne Dashwood, steeling herself on seeing Willoughby in London."
+    },
+    {
+      "id": "austen-016",
+      "content": "It is not time or opportunity that is to determine intimacy;—it is disposition alone. Seven years would be insufficient to make some people acquainted with each other, and seven days are more than enough for others.",
+      "authorName": "Jane Austen",
+      "source": "Sense and Sensibility (1811)",
+      "sourceType": "book",
+      "quoteDate": "1811",
+      "verificationStatus": "verified",
+      "notes": "Marianne Dashwood, on the swift growth of true affinity."
+    },
+    {
+      "id": "austen-017",
+      "content": "If I could but know his heart, everything would become easy.",
+      "authorName": "Jane Austen",
+      "source": "Sense and Sensibility (1811)",
+      "sourceType": "book",
+      "quoteDate": "1811",
+      "verificationStatus": "verified",
+      "notes": "Elinor Dashwood, in a rare moment of betraying her feelings for Edward."
+    },
+    {
+      "id": "austen-018",
+      "content": "If I loved you less, I might be able to talk about it more.",
+      "authorName": "Jane Austen",
+      "source": "Emma (1815)",
+      "sourceType": "book",
+      "quoteDate": "1815",
+      "verificationStatus": "verified",
+      "notes": "Mr. Knightley, declaring his love to Emma Woodhouse."
+    },
+    {
+      "id": "austen-019",
+      "content": "One half of the world cannot understand the pleasures of the other.",
+      "authorName": "Jane Austen",
+      "source": "Emma (1815)",
+      "sourceType": "book",
+      "quoteDate": "1815",
+      "verificationStatus": "verified",
+      "notes": "Emma Woodhouse, to her father, Mr. Woodhouse."
+    },
+    {
+      "id": "austen-020",
+      "content": "There is no charm equal to tenderness of heart.",
+      "authorName": "Jane Austen",
+      "source": "Emma (1815)",
+      "sourceType": "book",
+      "quoteDate": "1815",
+      "verificationStatus": "verified",
+      "notes": "Emma Woodhouse, to herself, in praise of her friend Harriet."
+    },
+    {
+      "id": "austen-021",
+      "content": "Better be without sense, than misapply it as you do.",
+      "authorName": "Jane Austen",
+      "source": "Emma (1815)",
+      "sourceType": "book",
+      "quoteDate": "1815",
+      "verificationStatus": "verified",
+      "notes": "Mr. Knightley, chiding Emma for her matchmaking."
+    },
+    {
+      "id": "austen-022",
+      "content": "Silly things do cease to be silly if they are done by sensible people in an impudent way.",
+      "authorName": "Jane Austen",
+      "source": "Emma (1815)",
+      "sourceType": "book",
+      "quoteDate": "1815",
+      "verificationStatus": "verified",
+      "notes": "Emma Woodhouse, moralizing to herself."
+    },
+    {
+      "id": "austen-023",
+      "content": "We have all a better guide in ourselves, if we would attend to it, than any other person can be.",
+      "authorName": "Jane Austen",
+      "source": "Mansfield Park (1814)",
+      "sourceType": "book",
+      "quoteDate": "1814",
+      "verificationStatus": "verified",
+      "notes": "Fanny Price, to Edmund Bertram, on the conscience."
+    },
+    {
+      "id": "austen-024",
+      "content": "Let other pens dwell on guilt and misery.",
+      "authorName": "Jane Austen",
+      "source": "Mansfield Park (1814)",
+      "sourceType": "book",
+      "quoteDate": "1814",
+      "verificationStatus": "verified",
+      "notes": "The narrator, opening the novel's final chapter."
+    },
+    {
+      "id": "austen-025",
+      "content": "A large income is the best recipe for happiness I ever heard of.",
+      "authorName": "Jane Austen",
+      "source": "Mansfield Park (1814)",
+      "sourceType": "book",
+      "quoteDate": "1814",
+      "verificationStatus": "verified",
+      "notes": "Mary Crawford, on the comforts of wealth."
+    },
+    {
+      "id": "austen-026",
+      "content": "Selfishness must always be forgiven, you know, because there is no hope of a cure.",
+      "authorName": "Jane Austen",
+      "source": "Mansfield Park (1814)",
+      "sourceType": "book",
+      "quoteDate": "1814",
+      "verificationStatus": "verified",
+      "notes": "Mary Crawford, half-joking about her own faults."
+    },
+    {
+      "id": "austen-027",
+      "content": "I was quiet, but I was not blind.",
+      "authorName": "Jane Austen",
+      "source": "Mansfield Park (1814)",
+      "sourceType": "book",
+      "quoteDate": "1814",
+      "verificationStatus": "verified",
+      "notes": "Fanny Price, to Mary Crawford, on what she had observed."
+    },
+    {
+      "id": "austen-028",
+      "content": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+      "authorName": "Jane Austen",
+      "source": "Northanger Abbey (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "The narrator, in a spirited defence of novel-reading."
+    },
+    {
+      "id": "austen-029",
+      "content": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves; it is not my nature.",
+      "authorName": "Jane Austen",
+      "source": "Northanger Abbey (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "Isabella Thorpe, whose conduct soon belies her words."
+    },
+    {
+      "id": "austen-030",
+      "content": "But history, real solemn history, I cannot be interested in.",
+      "authorName": "Jane Austen",
+      "source": "Northanger Abbey (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "Catherine Morland, on her dislike of history books."
+    },
+    {
+      "id": "austen-031",
+      "content": "Friendship is certainly the finest balm for the pangs of disappointed love.",
+      "authorName": "Jane Austen",
+      "source": "Northanger Abbey (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "The narrator, with characteristic irony."
+    },
+    {
+      "id": "austen-032",
+      "content": "You pierce my soul. I am half agony, half hope.",
+      "authorName": "Jane Austen",
+      "source": "Persuasion (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "Captain Wentworth, in the letter he writes to Anne Elliot."
+    },
+    {
+      "id": "austen-033",
+      "content": "I have loved none but you.",
+      "authorName": "Jane Austen",
+      "source": "Persuasion (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "Captain Wentworth, in his letter to Anne Elliot."
+    },
+    {
+      "id": "austen-034",
+      "content": "I can listen no longer in silence. I must speak to you by such means as are within my reach.",
+      "authorName": "Jane Austen",
+      "source": "Persuasion (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "The opening of Captain Wentworth's letter to Anne Elliot."
+    },
+    {
+      "id": "austen-035",
+      "content": "All the privilege I claim for my own sex (it is not a very enviable one; you need not covet it), is that of loving longest, when existence or when hope is gone.",
+      "authorName": "Jane Austen",
+      "source": "Persuasion (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "Anne Elliot, in her debate with Captain Harville about constancy."
+    },
+    {
+      "id": "austen-036",
+      "content": "Men have had every advantage of us in telling their own story.",
+      "authorName": "Jane Austen",
+      "source": "Persuasion (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "Anne Elliot, on why books slight women's constancy."
+    },
+    {
+      "id": "austen-037",
+      "content": "She had been forced into prudence in her youth, she learned romance as she grew older: the natural sequel of an unnatural beginning.",
+      "authorName": "Jane Austen",
+      "source": "Persuasion (1817)",
+      "sourceType": "book",
+      "quoteDate": "1817",
+      "verificationStatus": "verified",
+      "notes": "The narrator, on Anne Elliot's changed view of love."
+    }
+  ]
+}

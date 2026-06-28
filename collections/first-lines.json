@@ -1,0 +1,402 @@
+{
+  "id": "first-lines",
+  "name": "First Lines",
+  "description": "The unforgettable opening sentences that pull readers into the world's most beloved novels.",
+  "author": "Quips Editorial",
+  "colorName": "brown",
+  "iconName": "book.pages.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "opening-001",
+      "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice (1813)",
+      "sourceType": "book",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "notes": "Austen's ironic opening sets the marriage-market satire of her most popular novel in a single sentence."
+    },
+    {
+      "id": "opening-002",
+      "content": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
+      "authorName": "Mary Shelley",
+      "source": "Frankenstein (1818)",
+      "sourceType": "book",
+      "quoteDate": "1818",
+      "verificationStatus": "verified",
+      "notes": "The novel opens not with the monster but with Captain Walton's letters home, framing the tale as a story within a story."
+    },
+    {
+      "id": "opening-003",
+      "content": "Marley was dead, to begin with.",
+      "authorName": "Charles Dickens",
+      "source": "A Christmas Carol (1843)",
+      "sourceType": "book",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "notes": "Dickens insists on Marley's death up front so his ghostly return will carry full weight."
+    },
+    {
+      "id": "opening-004",
+      "content": "There was no possibility of taking a walk that day.",
+      "authorName": "Charlotte Brontë",
+      "source": "Jane Eyre (1847)",
+      "sourceType": "book",
+      "quoteDate": "1847",
+      "verificationStatus": "verified",
+      "notes": "A quietly confining first line that mirrors young Jane's trapped existence at Gateshead."
+    },
+    {
+      "id": "opening-005",
+      "content": "1801.—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with.",
+      "authorName": "Emily Brontë",
+      "source": "Wuthering Heights (1847)",
+      "sourceType": "book",
+      "quoteDate": "1847",
+      "verificationStatus": "verified",
+      "notes": "Narrator Lockwood's diary-like opening introduces the outsider through whom we first glimpse Heathcliff."
+    },
+    {
+      "id": "opening-006",
+      "content": "Whether I shall turn out to be the hero of my own life, or whether that station will be held by anybody else, these pages must show.",
+      "authorName": "Charles Dickens",
+      "source": "David Copperfield (1850)",
+      "sourceType": "book",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "notes": "Dickens's most autobiographical hero begins by questioning his own heroism."
+    },
+    {
+      "id": "opening-007",
+      "content": "Call me Ishmael.",
+      "authorName": "Herman Melville",
+      "source": "Moby-Dick (1851)",
+      "sourceType": "book",
+      "quoteDate": "1851",
+      "verificationStatus": "verified",
+      "notes": "Three words that have become the most famous opening in American literature."
+    },
+    {
+      "id": "opening-008",
+      "content": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+      "authorName": "Charles Dickens",
+      "source": "A Tale of Two Cities (1859)",
+      "sourceType": "book",
+      "quoteDate": "1859",
+      "verificationStatus": "verified",
+      "notes": "Dickens's cascade of antitheses forms one of the longest and most quoted first sentences ever written."
+    },
+    {
+      "id": "opening-009",
+      "content": "I am a sick man.... I am a spiteful man.",
+      "authorName": "Fyodor Dostoevsky",
+      "source": "Notes from Underground (1864)",
+      "sourceType": "book",
+      "quoteDate": "1864",
+      "verificationStatus": "verified",
+      "notes": "The Underground Man's self-lacerating confession begins at once (Constance Garnett translation)."
+    },
+    {
+      "id": "opening-010",
+      "content": "Happy families are all alike; every unhappy family is unhappy in its own way.",
+      "authorName": "Leo Tolstoy",
+      "source": "Anna Karenina (1877)",
+      "sourceType": "book",
+      "quoteDate": "1877",
+      "verificationStatus": "verified",
+      "notes": "Tolstoy's aphoristic opening became known as the Anna Karenina principle (Constance Garnett translation)."
+    },
+    {
+      "id": "opening-011",
+      "content": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter.",
+      "authorName": "Mark Twain",
+      "source": "The Adventures of Huckleberry Finn (1884)",
+      "sourceType": "book",
+      "quoteDate": "1884",
+      "verificationStatus": "verified",
+      "notes": "Huck's vernacular voice, breaking the fourth wall, was revolutionary for American fiction."
+    },
+    {
+      "id": "opening-012",
+      "content": "All children, except one, grow up.",
+      "authorName": "J. M. Barrie",
+      "source": "Peter and Wendy (1911)",
+      "sourceType": "book",
+      "quoteDate": "1911",
+      "verificationStatus": "verified",
+      "notes": "Barrie's novelization of his play opens by naming, without naming, the boy who never grows up."
+    },
+    {
+      "id": "opening-013",
+      "content": "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect.",
+      "authorName": "Franz Kafka",
+      "source": "The Metamorphosis (1915)",
+      "sourceType": "book",
+      "quoteDate": "1915",
+      "verificationStatus": "verified",
+      "notes": "Kafka states the impossible as plain fact, refusing any explanation (Willa and Edwin Muir translation)."
+    },
+    {
+      "id": "opening-014",
+      "content": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed.",
+      "authorName": "James Joyce",
+      "source": "Ulysses (1922)",
+      "sourceType": "book",
+      "quoteDate": "1922",
+      "verificationStatus": "verified",
+      "notes": "Joyce opens his Dublin epic with a mock-priestly shaving ritual on the Martello tower."
+    },
+    {
+      "id": "opening-015",
+      "content": "Mrs. Dalloway said she would buy the flowers herself.",
+      "authorName": "Virginia Woolf",
+      "source": "Mrs. Dalloway (1925)",
+      "sourceType": "book",
+      "quoteDate": "1925",
+      "verificationStatus": "verified",
+      "notes": "An ordinary errand launches Woolf's single day of interwoven London consciousness."
+    },
+    {
+      "id": "opening-016",
+      "content": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
+      "authorName": "F. Scott Fitzgerald",
+      "source": "The Great Gatsby (1925)",
+      "sourceType": "book",
+      "quoteDate": "1925",
+      "verificationStatus": "verified",
+      "notes": "Nick Carraway's reflective opening establishes the narrator's pose of reserved judgment."
+    },
+    {
+      "id": "opening-017",
+      "content": "Robert Cohn was once middleweight boxing champion of Princeton.",
+      "authorName": "Ernest Hemingway",
+      "source": "The Sun Also Rises (1926)",
+      "sourceType": "book",
+      "quoteDate": "1926",
+      "verificationStatus": "verified",
+      "notes": "Hemingway opens not on his narrator but on Cohn, the outsider whose presence needles the Lost Generation."
+    },
+    {
+      "id": "opening-018",
+      "content": "Ships at a distance have every man's wish on board.",
+      "authorName": "Zora Neale Hurston",
+      "source": "Their Eyes Were Watching God (1937)",
+      "sourceType": "book",
+      "quoteDate": "1937",
+      "verificationStatus": "verified",
+      "notes": "Hurston opens with a maritime metaphor for deferred dreams that frames the whole novel."
+    },
+    {
+      "id": "opening-019",
+      "content": "In a hole in the ground there lived a hobbit.",
+      "authorName": "J. R. R. Tolkien",
+      "source": "The Hobbit (1937)",
+      "sourceType": "book",
+      "quoteDate": "1937",
+      "verificationStatus": "verified",
+      "notes": "Tolkien reportedly scribbled this line on a blank exam page, and an entire mythology grew from it."
+    },
+    {
+      "id": "opening-020",
+      "content": "Last night I dreamt I went to Manderley again.",
+      "authorName": "Daphne du Maurier",
+      "source": "Rebecca (1938)",
+      "sourceType": "book",
+      "quoteDate": "1938",
+      "verificationStatus": "verified",
+      "notes": "Du Maurier's dreamlike first line summons the haunted estate that dominates the novel."
+    },
+    {
+      "id": "opening-021",
+      "content": "Mother died today.",
+      "authorName": "Albert Camus",
+      "source": "The Stranger (1942)",
+      "sourceType": "book",
+      "quoteDate": "1942",
+      "verificationStatus": "verified",
+      "notes": "Meursault's flat report of his mother's death announces the novel's emotional detachment (Stuart Gilbert translation)."
+    },
+    {
+      "id": "opening-022",
+      "content": "If you really want to hear about it, the first thing you'll probably want to know is where I was born, and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don't feel like going into it, if you want to know the truth.",
+      "authorName": "J. D. Salinger",
+      "source": "The Catcher in the Rye (1951)",
+      "sourceType": "book",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "notes": "Holden Caulfield's voice arrives fully formed, sneering at the very conventions of memoir."
+    },
+    {
+      "id": "opening-023",
+      "content": "He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish.",
+      "authorName": "Ernest Hemingway",
+      "source": "The Old Man and the Sea (1952)",
+      "sourceType": "book",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "notes": "Hemingway lays out Santiago's solitude and his streak of bad luck in a single spare sentence."
+    },
+    {
+      "id": "opening-024",
+      "content": "I am an invisible man.",
+      "authorName": "Ralph Ellison",
+      "source": "Invisible Man (1952)",
+      "sourceType": "book",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "notes": "Ellison's narrator declares an invisibility born not of magic but of how a society refuses to see him."
+    },
+    {
+      "id": "opening-025",
+      "content": "\"Where's Papa going with that ax?\" said Fern to her mother as they were setting the table for breakfast.",
+      "authorName": "E. B. White",
+      "source": "Charlotte's Web (1952)",
+      "sourceType": "book",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "notes": "White opens a beloved children's book on the brink of violence, with a child rushing to stop it."
+    },
+    {
+      "id": "opening-026",
+      "content": "It was a pleasure to burn.",
+      "authorName": "Ray Bradbury",
+      "source": "Fahrenheit 451 (1953)",
+      "sourceType": "book",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "notes": "Bradbury's fireman Montag begins as a true believer, savoring the burning of books."
+    },
+    {
+      "id": "opening-027",
+      "content": "The past is a foreign country: they do things differently there.",
+      "authorName": "L. P. Hartley",
+      "source": "The Go-Between (1953)",
+      "sourceType": "book",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "notes": "Hartley's aphorism about memory has long outgrown the novel it opens."
+    },
+    {
+      "id": "opening-028",
+      "content": "Lolita, light of my life, fire of my loins.",
+      "authorName": "Vladimir Nabokov",
+      "source": "Lolita (1955)",
+      "sourceType": "book",
+      "quoteDate": "1955",
+      "verificationStatus": "verified",
+      "notes": "Humbert Humbert's incantatory opening seduces the reader even as it implicates him."
+    },
+    {
+      "id": "opening-029",
+      "content": "It was a dark and stormy night.",
+      "authorName": "Madeleine L'Engle",
+      "source": "A Wrinkle in Time (1962)",
+      "sourceType": "book",
+      "quoteDate": "1962",
+      "verificationStatus": "verified",
+      "notes": "L'Engle knowingly opens with the most cliched line in fiction, then redeems it utterly."
+    },
+    {
+      "id": "opening-030",
+      "content": "It was a queer, sultry summer, the summer they electrocuted the Rosenbergs, and I didn't know what I was doing in New York.",
+      "authorName": "Sylvia Plath",
+      "source": "The Bell Jar (1963)",
+      "sourceType": "book",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "notes": "Plath threads political violence and electricity through Esther Greenwood's unraveling summer."
+    },
+    {
+      "id": "opening-031",
+      "content": "Call me Jonah.",
+      "authorName": "Kurt Vonnegut",
+      "source": "Cat's Cradle (1963)",
+      "sourceType": "book",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "notes": "Vonnegut nods to Melville's Ishmael, then immediately undercuts the gesture with his narrator's real name."
+    },
+    {
+      "id": "opening-032",
+      "content": "Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
+      "authorName": "Gabriel García Márquez",
+      "source": "One Hundred Years of Solitude (1967)",
+      "sourceType": "book",
+      "quoteDate": "1967",
+      "verificationStatus": "verified",
+      "notes": "García Márquez folds past, future, and wonder into one sentence (Gregory Rabassa translation)."
+    },
+    {
+      "id": "opening-033",
+      "content": "All this happened, more or less.",
+      "authorName": "Kurt Vonnegut",
+      "source": "Slaughterhouse-Five (1969)",
+      "sourceType": "book",
+      "quoteDate": "1969",
+      "verificationStatus": "verified",
+      "notes": "Vonnegut's casual disclaimer sets the unstuck-in-time tone of his Dresden novel."
+    },
+    {
+      "id": "opening-034",
+      "content": "A screaming comes across the sky.",
+      "authorName": "Thomas Pynchon",
+      "source": "Gravity's Rainbow (1973)",
+      "sourceType": "book",
+      "quoteDate": "1973",
+      "verificationStatus": "verified",
+      "notes": "Pynchon opens with the sound of a falling V-2 rocket over wartime London."
+    },
+    {
+      "id": "opening-035",
+      "content": "You better not never tell nobody but God.",
+      "authorName": "Alice Walker",
+      "source": "The Color Purple (1982)",
+      "sourceType": "book",
+      "quoteDate": "1982",
+      "verificationStatus": "verified",
+      "notes": "A threatened warning that explains why Celie addresses her letters to God."
+    },
+    {
+      "id": "opening-036",
+      "content": "The man in black fled across the desert, and the gunslinger followed.",
+      "authorName": "Stephen King",
+      "source": "The Gunslinger (1982)",
+      "sourceType": "book",
+      "quoteDate": "1982",
+      "verificationStatus": "verified",
+      "notes": "King wrote this line as a teenager; it launched his eight-book Dark Tower saga."
+    },
+    {
+      "id": "opening-037",
+      "content": "The sky above the port was the color of television, tuned to a dead channel.",
+      "authorName": "William Gibson",
+      "source": "Neuromancer (1984)",
+      "sourceType": "book",
+      "quoteDate": "1984",
+      "verificationStatus": "verified",
+      "notes": "Gibson's foundational cyberpunk image; the dead-channel sky has shifted meaning as televisions changed."
+    },
+    {
+      "id": "opening-038",
+      "content": "124 was spiteful.",
+      "authorName": "Toni Morrison",
+      "source": "Beloved (1987)",
+      "sourceType": "book",
+      "quoteDate": "1987",
+      "verificationStatus": "verified",
+      "notes": "Morrison gives a house number a malevolent will, opening her novel inside a haunting."
+    },
+    {
+      "id": "opening-039",
+      "content": "It was the day my grandmother exploded.",
+      "authorName": "Iain Banks",
+      "source": "The Crow Road (1992)",
+      "sourceType": "book",
+      "quoteDate": "1992",
+      "verificationStatus": "verified",
+      "notes": "Banks's darkly comic hook (a forgotten pacemaker meets a crematorium) is a perennial favorite on best-openings lists."
+    }
+  ]
+}

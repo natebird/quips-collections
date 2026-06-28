@@ -1,0 +1,322 @@
+{
+  "id": "edgar-allan-poe",
+  "name": "Edgar Allan Poe",
+  "description": "Haunting lines from the gothic tales and shadow-haunted poems of Edgar Allan Poe, master of mystery and the macabre.",
+  "author": "Quips Editorial",
+  "colorName": "purple",
+  "iconName": "bird.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "poe-001",
+      "content": "Once upon a midnight dreary, while I pondered, weak and weary,",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Raven (1845)",
+      "sourceType": "poem",
+      "quoteDate": "1845",
+      "verificationStatus": "verified",
+      "notes": "The famous opening line of Poe's best-known poem, setting its sleepless, sorrowful mood."
+    },
+    {
+      "id": "poe-002",
+      "content": "Quoth the Raven, \"Nevermore.\"",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Raven (1845)",
+      "sourceType": "poem",
+      "quoteDate": "1845",
+      "verificationStatus": "verified",
+      "notes": "The poem's haunting refrain, spoken by the ominous bird perched above the chamber door."
+    },
+    {
+      "id": "poe-003",
+      "content": "Doubting, dreaming dreams no mortal ever dared to dream before;",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Raven (1845)",
+      "sourceType": "poem",
+      "quoteDate": "1845",
+      "verificationStatus": "verified",
+      "notes": "The narrator peers into the darkness beyond his door, lost in dread and longing."
+    },
+    {
+      "id": "poe-004",
+      "content": "And my soul from out that shadow that lies floating on the floor Shall be lifted--nevermore!",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Raven (1845)",
+      "sourceType": "poem",
+      "quoteDate": "1845",
+      "verificationStatus": "verified",
+      "notes": "The poem's despairing final lines, sealing the narrator's eternal grief."
+    },
+    {
+      "id": "poe-005",
+      "content": "Darkness there and nothing more.",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Raven (1845)",
+      "sourceType": "poem",
+      "quoteDate": "1845",
+      "verificationStatus": "verified",
+      "notes": "What the narrator finds upon opening the door into the night."
+    },
+    {
+      "id": "poe-006",
+      "content": "All that we see or seem Is but a dream within a dream.",
+      "authorName": "Edgar Allan Poe",
+      "source": "A Dream Within a Dream (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "Poe's meditation on the elusive boundary between reality and illusion."
+    },
+    {
+      "id": "poe-007",
+      "content": "I stand amid the roar Of a surf-tormented shore,",
+      "authorName": "Edgar Allan Poe",
+      "source": "A Dream Within a Dream (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The poem's second stanza, where the speaker confronts time slipping away like sand."
+    },
+    {
+      "id": "poe-008",
+      "content": "And I hold within my hand Grains of the golden sand--",
+      "authorName": "Edgar Allan Poe",
+      "source": "A Dream Within a Dream (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "An image of life's moments running irretrievably through the fingers."
+    },
+    {
+      "id": "poe-009",
+      "content": "It was many and many a year ago, In a kingdom by the sea,",
+      "authorName": "Edgar Allan Poe",
+      "source": "Annabel Lee (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The fairy-tale opening of Poe's final complete poem, a lament for a lost love."
+    },
+    {
+      "id": "poe-010",
+      "content": "But we loved with a love that was more than love-- I and my Annabel Lee;",
+      "authorName": "Edgar Allan Poe",
+      "source": "Annabel Lee (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The poem's most quoted profession of a devotion beyond ordinary affection."
+    },
+    {
+      "id": "poe-011",
+      "content": "I was a child and she was a child, In this kingdom by the sea:",
+      "authorName": "Edgar Allan Poe",
+      "source": "Annabel Lee (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "Recalling the youthful innocence of the speaker and his beloved."
+    },
+    {
+      "id": "poe-012",
+      "content": "For the moon never beams without bringing me dreams Of the beautiful Annabel Lee;",
+      "authorName": "Edgar Allan Poe",
+      "source": "Annabel Lee (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The grieving speaker is haunted nightly by visions of his lost love."
+    },
+    {
+      "id": "poe-013",
+      "content": "And so, all the night-tide, I lie down by the side Of my darling, my darling, my life and my bride,",
+      "authorName": "Edgar Allan Poe",
+      "source": "Annabel Lee (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The poem's eerie close, the speaker keeping vigil by his beloved's tomb."
+    },
+    {
+      "id": "poe-014",
+      "content": "Hear the sledges with the bells-- Silver bells! What a world of merriment their melody foretells!",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Bells (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The bright opening of Poe's onomatopoeic study of bells and the moods they evoke."
+    },
+    {
+      "id": "poe-015",
+      "content": "Keeping time, time, time, In a sort of Runic rhyme,",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Bells (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "A recurring refrain echoing the insistent rhythm of the ringing bells."
+    },
+    {
+      "id": "poe-016",
+      "content": "Gaily bedight, A gallant knight, In sunshine and in shadow, Had journeyed long, Singing a song, In search of Eldorado.",
+      "authorName": "Edgar Allan Poe",
+      "source": "Eldorado (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The opening stanza of Poe's ballad about a lifelong, unattainable quest."
+    },
+    {
+      "id": "poe-017",
+      "content": "\"Over the Mountains Of the Moon, Down the Valley of the Shadow, Ride, boldly ride,\" The shade replied, \"If you seek for Eldorado!\"",
+      "authorName": "Edgar Allan Poe",
+      "source": "Eldorado (1849)",
+      "sourceType": "poem",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "notes": "The pilgrim shade's answer, sending the aged knight ever onward toward his dream."
+    },
+    {
+      "id": "poe-018",
+      "content": "Helen, thy beauty is to me Like those Nicean barks of yore,",
+      "authorName": "Edgar Allan Poe",
+      "source": "To Helen (1831)",
+      "sourceType": "poem",
+      "quoteDate": "1831",
+      "verificationStatus": "verified",
+      "notes": "The opening of Poe's classical tribute, likening a woman's beauty to a homeward voyage."
+    },
+    {
+      "id": "poe-019",
+      "content": "To the glory that was Greece, To the grandeur that was Rome.",
+      "authorName": "Edgar Allan Poe",
+      "source": "To Helen (1831)",
+      "sourceType": "poem",
+      "quoteDate": "1831",
+      "verificationStatus": "verified",
+      "notes": "The poem's celebrated closing image of classical antiquity's splendor."
+    },
+    {
+      "id": "poe-020",
+      "content": "True!--nervous--very, very dreadfully nervous I had been and am; but why will you say that I am mad?",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Tell-Tale Heart (1843)",
+      "sourceType": "book",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "notes": "The unsettling opening line of the murderer-narrator protesting his sanity."
+    },
+    {
+      "id": "poe-021",
+      "content": "It is the beating of his hideous heart!",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Tell-Tale Heart (1843)",
+      "sourceType": "book",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "notes": "The narrator's final confession, undone by the phantom heartbeat of his victim."
+    },
+    {
+      "id": "poe-022",
+      "content": "I heard all things in the heaven and in the earth. I heard many things in hell.",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Tell-Tale Heart (1843)",
+      "sourceType": "book",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "notes": "The narrator's claim of preternaturally sharpened senses as proof of his soundness."
+    },
+    {
+      "id": "poe-023",
+      "content": "And Darkness and Decay and the Red Death held illimitable dominion over all.",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Masque of the Red Death (1842)",
+      "sourceType": "book",
+      "quoteDate": "1842",
+      "verificationStatus": "verified",
+      "notes": "The tale's chilling final sentence, as the plague claims even Prince Prospero's revelers."
+    },
+    {
+      "id": "poe-024",
+      "content": "The \"Red Death\" had long devastated the country.",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Masque of the Red Death (1842)",
+      "sourceType": "book",
+      "quoteDate": "1842",
+      "verificationStatus": "verified",
+      "notes": "The opening sentence introducing the pestilence no walls can keep out."
+    },
+    {
+      "id": "poe-025",
+      "content": "During the whole of a dull, dark, and soundless day in the autumn of the year, when the clouds hung oppressively low in the heavens, I had been passing alone, on horseback, through a singularly dreary tract of country;",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Fall of the House of Usher (1839)",
+      "sourceType": "book",
+      "quoteDate": "1839",
+      "verificationStatus": "verified",
+      "notes": "The atmospheric opening that establishes the tale's oppressive gothic dread."
+    },
+    {
+      "id": "poe-026",
+      "content": "The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult I vowed revenge.",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Cask of Amontillado (1846)",
+      "sourceType": "book",
+      "quoteDate": "1846",
+      "verificationStatus": "verified",
+      "notes": "Montresor's opening declaration of the grudge that drives his terrible vengeance."
+    },
+    {
+      "id": "poe-027",
+      "content": "In pace requiescat!",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Cask of Amontillado (1846)",
+      "sourceType": "book",
+      "quoteDate": "1846",
+      "verificationStatus": "verified",
+      "notes": "Montresor's Latin closing words--\"May he rest in peace\"--over his walled-up victim."
+    },
+    {
+      "id": "poe-028",
+      "content": "I was sick--sick unto death with that long agony;",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Pit and the Pendulum (1842)",
+      "sourceType": "book",
+      "quoteDate": "1842",
+      "verificationStatus": "verified",
+      "notes": "The opening of the narrator's account of his ordeal before the Inquisition."
+    },
+    {
+      "id": "poe-029",
+      "content": "Let me call myself, for the present, William Wilson.",
+      "authorName": "Edgar Allan Poe",
+      "source": "William Wilson (1839)",
+      "sourceType": "book",
+      "quoteDate": "1839",
+      "verificationStatus": "verified",
+      "notes": "The narrator's evasive opening in Poe's tale of a man pursued by his double."
+    },
+    {
+      "id": "poe-030",
+      "content": "The death, then, of a beautiful woman is, unquestionably, the most poetical topic in the world.",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Philosophy of Composition (1846)",
+      "sourceType": "article",
+      "quoteDate": "1846",
+      "verificationStatus": "verified",
+      "notes": "Poe's much-debated claim from his essay on how he composed The Raven."
+    },
+    {
+      "id": "poe-031",
+      "content": "I would define, in brief, the Poetry of words as The Rhythmical Creation of Beauty.",
+      "authorName": "Edgar Allan Poe",
+      "source": "The Poetic Principle (1850)",
+      "sourceType": "article",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "notes": "Poe's signature definition of poetry from his posthumously published essay."
+    }
+  ]
+}

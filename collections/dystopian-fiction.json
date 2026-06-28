@@ -1,0 +1,302 @@
+{
+  "id": "dystopian-fiction",
+  "name": "Dystopian Fiction",
+  "description": "Chilling visions of the future from the great dystopian novels, where surveillance, conformity, and control reveal what we stand to lose.",
+  "author": "Quips Editorial",
+  "colorName": "red",
+  "iconName": "eye.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "dystopia-001",
+      "content": "War is peace. Freedom is slavery. Ignorance is strength.",
+      "authorName": "George Orwell",
+      "source": "1984 (1949)",
+      "sourceType": "book",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "notes": "The three paradoxical slogans of the Party, emblazoned on the Ministry of Truth."
+    },
+    {
+      "id": "dystopia-002",
+      "content": "Big Brother is watching you.",
+      "authorName": "George Orwell",
+      "source": "1984 (1949)",
+      "sourceType": "book",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "notes": "The caption beneath the ubiquitous posters of the Party leader, embodying the surveillance state."
+    },
+    {
+      "id": "dystopia-003",
+      "content": "Who controls the past controls the future: who controls the present controls the past.",
+      "authorName": "George Orwell",
+      "source": "1984 (1949)",
+      "sourceType": "book",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "notes": "A Party slogan on the malleability of history that Winston records in his diary."
+    },
+    {
+      "id": "dystopia-004",
+      "content": "If you want a picture of the future, imagine a boot stamping on a human face—for ever.",
+      "authorName": "George Orwell",
+      "source": "1984 (1949)",
+      "sourceType": "book",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "notes": "O'Brien's vision of perpetual power, spoken during Winston's interrogation in the Ministry of Love."
+    },
+    {
+      "id": "dystopia-005",
+      "content": "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.",
+      "authorName": "George Orwell",
+      "source": "1984 (1949)",
+      "sourceType": "book",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "notes": "Winston writes this in his diary, defending objective truth against the Party."
+    },
+    {
+      "id": "dystopia-006",
+      "content": "We shall meet in the place where there is no darkness.",
+      "authorName": "George Orwell",
+      "source": "1984 (1949)",
+      "sourceType": "book",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "notes": "O'Brien's words to Winston, which Winston wrongly takes as a promise of solidarity."
+    },
+    {
+      "id": "dystopia-007",
+      "content": "Perhaps a lunatic was simply a minority of one.",
+      "authorName": "George Orwell",
+      "source": "1984 (1949)",
+      "sourceType": "book",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "notes": "Winston's reflection on how dissent from official reality is branded as madness."
+    },
+    {
+      "id": "dystopia-008",
+      "content": "All animals are equal, but some animals are more equal than others.",
+      "authorName": "George Orwell",
+      "source": "Animal Farm (1945)",
+      "sourceType": "book",
+      "quoteDate": "1945",
+      "verificationStatus": "verified",
+      "notes": "The revised commandment painted on the barn wall after the pigs seize power."
+    },
+    {
+      "id": "dystopia-009",
+      "content": "The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+      "authorName": "George Orwell",
+      "source": "Animal Farm (1945)",
+      "sourceType": "book",
+      "quoteDate": "1945",
+      "verificationStatus": "verified",
+      "notes": "The novel's closing sentence, as the pigs become indistinguishable from the humans they overthrew."
+    },
+    {
+      "id": "dystopia-010",
+      "content": "Man is the only creature that consumes without producing.",
+      "authorName": "George Orwell",
+      "source": "Animal Farm (1945)",
+      "sourceType": "book",
+      "quoteDate": "1945",
+      "verificationStatus": "verified",
+      "notes": "From Old Major's rousing speech that sparks the animals' rebellion."
+    },
+    {
+      "id": "dystopia-011",
+      "content": "Community, Identity, Stability.",
+      "authorName": "Aldous Huxley",
+      "source": "Brave New World (1932)",
+      "sourceType": "book",
+      "quoteDate": "1932",
+      "verificationStatus": "verified",
+      "notes": "The World State's motto, mounted over the door of the Central London Hatchery."
+    },
+    {
+      "id": "dystopia-012",
+      "content": "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.",
+      "authorName": "Aldous Huxley",
+      "source": "Brave New World (1932)",
+      "sourceType": "book",
+      "quoteDate": "1932",
+      "verificationStatus": "verified",
+      "notes": "John the Savage's defiance of Mustapha Mond, claiming the right to be unhappy."
+    },
+    {
+      "id": "dystopia-013",
+      "content": "Everyone belongs to everyone else.",
+      "authorName": "Aldous Huxley",
+      "source": "Brave New World (1932)",
+      "sourceType": "book",
+      "quoteDate": "1932",
+      "verificationStatus": "verified",
+      "notes": "A hypnopaedic slogan conditioning citizens against private attachment."
+    },
+    {
+      "id": "dystopia-014",
+      "content": "Ending is better than mending.",
+      "authorName": "Aldous Huxley",
+      "source": "Brave New World (1932)",
+      "sourceType": "book",
+      "quoteDate": "1932",
+      "verificationStatus": "verified",
+      "notes": "A sleep-taught slogan promoting consumption over repair."
+    },
+    {
+      "id": "dystopia-015",
+      "content": "A gramme is better than a damn.",
+      "authorName": "Aldous Huxley",
+      "source": "Brave New World (1932)",
+      "sourceType": "book",
+      "quoteDate": "1932",
+      "verificationStatus": "verified",
+      "notes": "A conditioning slogan urging the use of the drug soma to suppress discontent."
+    },
+    {
+      "id": "dystopia-016",
+      "content": "It was a pleasure to burn.",
+      "authorName": "Ray Bradbury",
+      "source": "Fahrenheit 451 (1953)",
+      "sourceType": "book",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "notes": "The novel's opening line, narrating fireman Guy Montag's delight in burning books."
+    },
+    {
+      "id": "dystopia-017",
+      "content": "Stuff your eyes with wonder, he said, live as if you'd drop dead in ten seconds.",
+      "authorName": "Ray Bradbury",
+      "source": "Fahrenheit 451 (1953)",
+      "sourceType": "book",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "notes": "Granger relays his grandfather's counsel to Montag near the novel's close."
+    },
+    {
+      "id": "dystopia-018",
+      "content": "We need not to be let alone. We need to be really bothered once in a while.",
+      "authorName": "Ray Bradbury",
+      "source": "Fahrenheit 451 (1953)",
+      "sourceType": "book",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "notes": "The retired professor Faber argues for the value of being challenged."
+    },
+    {
+      "id": "dystopia-019",
+      "content": "There must be something in books, things we can't imagine, to make a woman stay in a burning house; there must be something there.",
+      "authorName": "Ray Bradbury",
+      "source": "Fahrenheit 451 (1953)",
+      "sourceType": "book",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "notes": "Montag, shaken after a woman chooses to die with her books, begins to doubt his work."
+    },
+    {
+      "id": "dystopia-020",
+      "content": "Nolite te bastardes carborundorum.",
+      "authorName": "Margaret Atwood",
+      "source": "The Handmaid's Tale (1985)",
+      "sourceType": "book",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "notes": "Mock-Latin for \"don't let the bastards grind you down,\" which Offred finds scratched in her closet by a previous handmaid."
+    },
+    {
+      "id": "dystopia-021",
+      "content": "Better never means better for everyone. It always means worse, for some.",
+      "authorName": "Margaret Atwood",
+      "source": "The Handmaid's Tale (1985)",
+      "sourceType": "book",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "notes": "The Commander justifies the regime of Gilead to Offred."
+    },
+    {
+      "id": "dystopia-022",
+      "content": "We were the people who were not in the papers. We lived in the blank white spaces at the edges of print.",
+      "authorName": "Margaret Atwood",
+      "source": "The Handmaid's Tale (1985)",
+      "sourceType": "book",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "notes": "Offred recalls the willful complacency of life before Gilead."
+    },
+    {
+      "id": "dystopia-023",
+      "content": "There is more than one kind of freedom, said Aunt Lydia. Freedom to and freedom from.",
+      "authorName": "Margaret Atwood",
+      "source": "The Handmaid's Tale (1985)",
+      "sourceType": "book",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "notes": "Aunt Lydia reframes oppression as protection during the handmaids' indoctrination."
+    },
+    {
+      "id": "dystopia-024",
+      "content": "Is it better for a man to have chosen evil than to have good imposed upon him?",
+      "authorName": "Anthony Burgess",
+      "source": "A Clockwork Orange (1962)",
+      "sourceType": "book",
+      "quoteDate": "1962",
+      "verificationStatus": "verified",
+      "notes": "The prison chaplain frames the novel's central question about free will and forced virtue."
+    },
+    {
+      "id": "dystopia-025",
+      "content": "What's it going to be then, eh?",
+      "authorName": "Anthony Burgess",
+      "source": "A Clockwork Orange (1962)",
+      "sourceType": "book",
+      "quoteDate": "1962",
+      "verificationStatus": "verified",
+      "notes": "The opening line, narrated by Alex, that recurs to begin each of the novel's three parts."
+    },
+    {
+      "id": "dystopia-026",
+      "content": "Ralph wept for the end of innocence, the darkness of man's heart, and the fall through the air of the true, wise friend called Piggy.",
+      "authorName": "William Golding",
+      "source": "Lord of the Flies (1954)",
+      "sourceType": "book",
+      "quoteDate": "1954",
+      "verificationStatus": "verified",
+      "notes": "Near the close of the novel, Ralph grasps the savagery that consumed the marooned boys."
+    },
+    {
+      "id": "dystopia-027",
+      "content": "What I mean is... maybe it's only us.",
+      "authorName": "William Golding",
+      "source": "Lord of the Flies (1954)",
+      "sourceType": "book",
+      "quoteDate": "1954",
+      "verificationStatus": "verified",
+      "notes": "Simon haltingly suggests that the dreaded beast is the boys' own nature."
+    },
+    {
+      "id": "dystopia-028",
+      "content": "The worst part of holding the memories is not the pain. It's the loneliness of it. Memories need to be shared.",
+      "authorName": "Lois Lowry",
+      "source": "The Giver (1993)",
+      "sourceType": "book",
+      "quoteDate": "1993",
+      "verificationStatus": "verified",
+      "notes": "The Giver explains to Jonas the burden of bearing a community's memories alone."
+    },
+    {
+      "id": "dystopia-029",
+      "content": "Memories, even your most precious ones, fade surprisingly quickly. But I don't go along with that. The memories I value most, I don't ever see them fading.",
+      "authorName": "Kazuo Ishiguro",
+      "source": "Never Let Me Go (2005)",
+      "sourceType": "book",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "notes": "Kathy H., the narrator and a clone raised for organ donation, clings to memory against loss."
+    }
+  ]
+}

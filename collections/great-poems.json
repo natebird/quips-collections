@@ -1,0 +1,342 @@
+{
+  "id": "great-poems",
+  "name": "Great Poems",
+  "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "scroll.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "poem-001",
+      "content": "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
+      "authorName": "Robert Frost",
+      "source": "The Road Not Taken (1916)",
+      "sourceType": "poem",
+      "quoteDate": "1916",
+      "verificationStatus": "verified",
+      "notes": "The closing lines of Frost's much-quoted (and often misread) meditation on choice and self-mythology."
+    },
+    {
+      "id": "poem-002",
+      "content": "And miles to go before I sleep,\nAnd miles to go before I sleep.",
+      "authorName": "Robert Frost",
+      "source": "Stopping by Woods on a Snowy Evening (1923)",
+      "sourceType": "poem",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "notes": "The repeated final lines that turn a quiet snowy pause into a reflection on duty and mortality."
+    },
+    {
+      "id": "poem-003",
+      "content": "Some say the world will end in fire,\nSome say in ice.",
+      "authorName": "Robert Frost",
+      "source": "Fire and Ice (1920)",
+      "sourceType": "poem",
+      "quoteDate": "1920",
+      "verificationStatus": "verified",
+      "notes": "The opening of Frost's nine-line poem weighing desire against hatred as agents of the world's end."
+    },
+    {
+      "id": "poem-004",
+      "content": "\"Hope\" is the thing with feathers –\nThat perches in the soul –",
+      "authorName": "Emily Dickinson",
+      "source": "\"Hope\" is the thing with feathers (c. 1861)",
+      "sourceType": "poem",
+      "quoteDate": "c. 1861",
+      "verificationStatus": "verified",
+      "notes": "Dickinson's famous image of hope as a small bird that sings on without ever asking anything in return."
+    },
+    {
+      "id": "poem-005",
+      "content": "Because I could not stop for Death –\nHe kindly stopped for me –",
+      "authorName": "Emily Dickinson",
+      "source": "Because I could not stop for Death (c. 1863)",
+      "sourceType": "poem",
+      "quoteDate": "c. 1863",
+      "verificationStatus": "verified",
+      "notes": "The opening of Dickinson's serene carriage ride with a courteous, personified Death."
+    },
+    {
+      "id": "poem-006",
+      "content": "O Captain! my Captain! our fearful trip is done;",
+      "authorName": "Walt Whitman",
+      "source": "O Captain! My Captain! (1865)",
+      "sourceType": "poem",
+      "quoteDate": "1865",
+      "verificationStatus": "verified",
+      "notes": "Whitman's elegy for the assassinated Abraham Lincoln, cast as a ship returning home from a storm."
+    },
+    {
+      "id": "poem-007",
+      "content": "Do I contradict myself?\nVery well then I contradict myself,\n(I am large, I contain multitudes.)",
+      "authorName": "Walt Whitman",
+      "source": "Song of Myself (1855)",
+      "sourceType": "poem",
+      "quoteDate": "1855",
+      "verificationStatus": "verified",
+      "notes": "From the sprawling centerpiece of Leaves of Grass, Whitman's embrace of his own vast contradictions."
+    },
+    {
+      "id": "poem-008",
+      "content": "Beauty is truth, truth beauty,—that is all\nYe know on earth, and all ye need to know.",
+      "authorName": "John Keats",
+      "source": "Ode on a Grecian Urn (1819)",
+      "sourceType": "poem",
+      "quoteDate": "1819",
+      "verificationStatus": "verified",
+      "notes": "The urn's famous closing pronouncement, among the most debated lines in English Romantic poetry."
+    },
+    {
+      "id": "poem-009",
+      "content": "A thing of beauty is a joy for ever:",
+      "authorName": "John Keats",
+      "source": "Endymion (1818)",
+      "sourceType": "poem",
+      "quoteDate": "1818",
+      "verificationStatus": "verified",
+      "notes": "The celebrated opening line of Keats's long mythological poem about the moon goddess and a shepherd."
+    },
+    {
+      "id": "poem-010",
+      "content": "I wandered lonely as a cloud\nThat floats on high o'er vales and hills,",
+      "authorName": "William Wordsworth",
+      "source": "I Wandered Lonely as a Cloud (1807)",
+      "sourceType": "poem",
+      "quoteDate": "1807",
+      "verificationStatus": "verified",
+      "notes": "The opening of Wordsworth's 'Daffodils,' inspired by a host of golden flowers in England's Lake District."
+    },
+    {
+      "id": "poem-011",
+      "content": "Theirs not to make reply,\nTheirs not to reason why,\nTheirs but to do and die:",
+      "authorName": "Alfred, Lord Tennyson",
+      "source": "The Charge of the Light Brigade (1854)",
+      "sourceType": "poem",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "notes": "Tennyson's tribute to the doomed cavalry charge during the Battle of Balaclava in the Crimean War."
+    },
+    {
+      "id": "poem-012",
+      "content": "To strive, to seek, to find, and not to yield.",
+      "authorName": "Alfred, Lord Tennyson",
+      "source": "Ulysses (1842)",
+      "sourceType": "poem",
+      "quoteDate": "1842",
+      "verificationStatus": "verified",
+      "notes": "The resolute final line of Tennyson's dramatic monologue spoken by an aged, restless Ulysses."
+    },
+    {
+      "id": "poem-013",
+      "content": "'Tis better to have loved and lost\nThan never to have loved at all.",
+      "authorName": "Alfred, Lord Tennyson",
+      "source": "In Memoriam A.H.H. (1850)",
+      "sourceType": "poem",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "notes": "From Tennyson's long elegy mourning his friend Arthur Henry Hallam."
+    },
+    {
+      "id": "poem-014",
+      "content": "If you can keep your head when all about you\nAre losing theirs and blaming it on you;",
+      "authorName": "Rudyard Kipling",
+      "source": "If— (1910)",
+      "sourceType": "poem",
+      "quoteDate": "1910",
+      "verificationStatus": "verified",
+      "notes": "The opening of Kipling's catalogue of stoic virtues, addressed as advice to his son."
+    },
+    {
+      "id": "poem-015",
+      "content": "Do not go gentle into that good night,\nRage, rage against the dying of the light.",
+      "authorName": "Dylan Thomas",
+      "source": "Do not go gentle into that good night (1951)",
+      "sourceType": "poem",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "notes": "The opening and closing refrains of Thomas's villanelle urging his dying father to fight death."
+    },
+    {
+      "id": "poem-016",
+      "content": "You may write me down in history\nWith your bitter, twisted lies,\nYou may trod me in the very dirt\nBut still, like dust, I'll rise.",
+      "authorName": "Maya Angelou",
+      "source": "Still I Rise (1978)",
+      "sourceType": "poem",
+      "quoteDate": "1978",
+      "verificationStatus": "verified",
+      "notes": "The defiant opening stanza of Angelou's anthem of resilience against oppression."
+    },
+    {
+      "id": "poem-017",
+      "content": "Tyger Tyger, burning bright,\nIn the forests of the night;",
+      "authorName": "William Blake",
+      "source": "The Tyger (1794)",
+      "sourceType": "poem",
+      "quoteDate": "1794",
+      "verificationStatus": "verified",
+      "notes": "From Blake's Songs of Experience, questioning what creator could forge such fearful symmetry."
+    },
+    {
+      "id": "poem-018",
+      "content": "To see a World in a Grain of Sand\nAnd a Heaven in a Wild Flower,",
+      "authorName": "William Blake",
+      "source": "Auguries of Innocence (c. 1803)",
+      "sourceType": "poem",
+      "quoteDate": "c. 1803",
+      "verificationStatus": "verified",
+      "notes": "The opening couplet of Blake's poem on finding the infinite within the smallest things."
+    },
+    {
+      "id": "poem-019",
+      "content": "Hold fast to dreams\nFor if dreams die\nLife is a broken-winged bird\nThat cannot fly.",
+      "authorName": "Langston Hughes",
+      "source": "Dreams (1922)",
+      "sourceType": "poem",
+      "quoteDate": "1922",
+      "verificationStatus": "verified",
+      "notes": "Hughes's short, much-loved exhortation to cling to one's dreams."
+    },
+    {
+      "id": "poem-020",
+      "content": "What happens to a dream deferred?\nDoes it dry up\nlike a raisin in the sun?",
+      "authorName": "Langston Hughes",
+      "source": "Harlem (1951)",
+      "sourceType": "poem",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "notes": "The opening of Hughes's poem on postponed hopes, whose image gave Lorraine Hansberry her play's title."
+    },
+    {
+      "id": "poem-021",
+      "content": "Things fall apart; the centre cannot hold;\nMere anarchy is loosed upon the world,",
+      "authorName": "W. B. Yeats",
+      "source": "The Second Coming (1920)",
+      "sourceType": "poem",
+      "quoteDate": "1920",
+      "verificationStatus": "verified",
+      "notes": "Yeats's vision of a civilization unraveling, written in the aftermath of the First World War."
+    },
+    {
+      "id": "poem-022",
+      "content": "But one man loved the pilgrim soul in you,\nAnd loved the sorrows of your changing face;",
+      "authorName": "W. B. Yeats",
+      "source": "When You Are Old (1893)",
+      "sourceType": "poem",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Yeats's tender address imagining a beloved grown old, recalling the one who loved her truly."
+    },
+    {
+      "id": "poem-023",
+      "content": "Remember me when I am gone away,\nGone far away into the silent land;",
+      "authorName": "Christina Rossetti",
+      "source": "Remember (1862)",
+      "sourceType": "poem",
+      "quoteDate": "1862",
+      "verificationStatus": "verified",
+      "notes": "The opening of Rossetti's sonnet that gently releases the living from grief over the dead."
+    },
+    {
+      "id": "poem-024",
+      "content": "My name is Ozymandias, king of kings:\nLook on my works, ye Mighty, and despair!",
+      "authorName": "Percy Bysshe Shelley",
+      "source": "Ozymandias (1818)",
+      "sourceType": "poem",
+      "quoteDate": "1818",
+      "verificationStatus": "verified",
+      "notes": "The boast inscribed on a ruined statue in Shelley's sonnet on the vanity of empire and power."
+    },
+    {
+      "id": "poem-025",
+      "content": "She walks in beauty, like the night\nOf cloudless climes and starry skies;",
+      "authorName": "Lord Byron",
+      "source": "She Walks in Beauty (1814)",
+      "sourceType": "poem",
+      "quoteDate": "1814",
+      "verificationStatus": "verified",
+      "notes": "Byron's lyric praising a woman in mourning dress whose beauty he glimpsed at a party."
+    },
+    {
+      "id": "poem-026",
+      "content": "I am the master of my fate,\nI am the captain of my soul.",
+      "authorName": "William Ernest Henley",
+      "source": "Invictus (1888)",
+      "sourceType": "poem",
+      "quoteDate": "1888",
+      "verificationStatus": "verified",
+      "notes": "The closing lines of Henley's defiant poem, written as he recovered from a tubercular amputation."
+    },
+    {
+      "id": "poem-027",
+      "content": "O my Luve is like a red, red rose\nThat's newly sprung in June;",
+      "authorName": "Robert Burns",
+      "source": "A Red, Red Rose (1794)",
+      "sourceType": "poem",
+      "quoteDate": "1794",
+      "verificationStatus": "verified",
+      "notes": "The opening of Burns's Scots love song, drawn from traditional folk sources."
+    },
+    {
+      "id": "poem-028",
+      "content": "How do I love thee? Let me count the ways.",
+      "authorName": "Elizabeth Barrett Browning",
+      "source": "Sonnets from the Portuguese 43 (1850)",
+      "sourceType": "poem",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "notes": "The famous opening of Barrett Browning's sonnet to her husband, the poet Robert Browning."
+    },
+    {
+      "id": "poem-029",
+      "content": "The world is charged with the grandeur of God.",
+      "authorName": "Gerard Manley Hopkins",
+      "source": "God's Grandeur (1877)",
+      "sourceType": "poem",
+      "quoteDate": "1877",
+      "verificationStatus": "verified",
+      "notes": "The arresting first line of Hopkins's sonnet on the divine that flames out through nature."
+    },
+    {
+      "id": "poem-030",
+      "content": "Death, be not proud, though some have called thee\nMighty and dreadful, for thou art not so;",
+      "authorName": "John Donne",
+      "source": "Holy Sonnets: Death, be not proud (c. 1610)",
+      "sourceType": "poem",
+      "quoteDate": "c. 1610",
+      "verificationStatus": "verified",
+      "notes": "Donne's bold address that taunts death as a powerless slave to fate and chance."
+    },
+    {
+      "id": "poem-031",
+      "content": "This is the way the world ends\nNot with a bang but a whimper.",
+      "authorName": "T. S. Eliot",
+      "source": "The Hollow Men (1925)",
+      "sourceType": "poem",
+      "quoteDate": "1925",
+      "verificationStatus": "verified",
+      "notes": "The famous closing lines of Eliot's bleak poem about spiritual emptiness."
+    },
+    {
+      "id": "poem-032",
+      "content": "The fog comes\non little cat feet.",
+      "authorName": "Carl Sandburg",
+      "source": "Fog (1916)",
+      "sourceType": "poem",
+      "quoteDate": "1916",
+      "verificationStatus": "verified",
+      "notes": "Sandburg's tiny imagist poem comparing a rolling fog to a silent, watchful cat."
+    },
+    {
+      "id": "poem-033",
+      "content": "My candle burns at both ends;\nIt will not last the night;",
+      "authorName": "Edna St. Vincent Millay",
+      "source": "First Fig (1920)",
+      "sourceType": "poem",
+      "quoteDate": "1920",
+      "verificationStatus": "verified",
+      "notes": "The opening of Millay's brief, brilliant ode to living fast and burning bright."
+    }
+  ]
+}

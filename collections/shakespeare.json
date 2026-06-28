@@ -1,0 +1,552 @@
+{
+  "id": "shakespeare",
+  "name": "Shakespeare",
+  "description": "Timeless lines from the Bard's plays and sonnets, still echoing four centuries on.",
+  "author": "Quips Editorial",
+  "colorName": "gold",
+  "iconName": "theatermasks.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "shakespeare-001",
+      "content": "To be, or not to be, that is the question.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 3, Scene 1 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Hamlet opens his most famous soliloquy as he contemplates life and death."
+    },
+    {
+      "id": "shakespeare-002",
+      "content": "This above all: to thine own self be true.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 1, Scene 3 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Polonius offers parting advice to his son Laertes."
+    },
+    {
+      "id": "shakespeare-003",
+      "content": "Brevity is the soul of wit.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 2, Scene 2 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Polonius says this to the King and Queen, ironically before a long-winded speech."
+    },
+    {
+      "id": "shakespeare-004",
+      "content": "Though this be madness, yet there is method in't.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 2, Scene 2 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Polonius, aside, observing Hamlet's seemingly mad behavior."
+    },
+    {
+      "id": "shakespeare-005",
+      "content": "The lady doth protest too much, methinks.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 3, Scene 2 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Queen Gertrude reacts to the player queen during the play-within-a-play; often misquoted with the word order reversed."
+    },
+    {
+      "id": "shakespeare-006",
+      "content": "There is nothing either good or bad, but thinking makes it so.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 2, Scene 2 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Hamlet to Rosencrantz and Guildenstern, on Denmark as a prison."
+    },
+    {
+      "id": "shakespeare-007",
+      "content": "Something is rotten in the state of Denmark.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 1, Scene 4 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Spoken by the guard Marcellus as Hamlet follows his father's ghost."
+    },
+    {
+      "id": "shakespeare-008",
+      "content": "Alas, poor Yorick! I knew him, Horatio.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 5, Scene 1 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Hamlet holds the skull of the former court jester in the graveyard scene."
+    },
+    {
+      "id": "shakespeare-009",
+      "content": "The rest is silence.",
+      "authorName": "William Shakespeare",
+      "source": "Hamlet, Act 5, Scene 2 (c. 1600)",
+      "sourceType": "play",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "notes": "Hamlet's dying words."
+    },
+    {
+      "id": "shakespeare-010",
+      "content": "Double, double toil and trouble; Fire burn and cauldron bubble.",
+      "authorName": "William Shakespeare",
+      "source": "Macbeth, Act 4, Scene 1 (c. 1606)",
+      "sourceType": "play",
+      "quoteDate": "c. 1606",
+      "verificationStatus": "verified",
+      "notes": "The three witches chant over their cauldron; commonly misremembered as 'bubble bubble.'"
+    },
+    {
+      "id": "shakespeare-011",
+      "content": "Out, damned spot! out, I say!",
+      "authorName": "William Shakespeare",
+      "source": "Macbeth, Act 5, Scene 1 (c. 1606)",
+      "sourceType": "play",
+      "quoteDate": "c. 1606",
+      "verificationStatus": "verified",
+      "notes": "Lady Macbeth, sleepwalking, imagines bloodstains she cannot wash away."
+    },
+    {
+      "id": "shakespeare-012",
+      "content": "Is this a dagger which I see before me, the handle toward my hand?",
+      "authorName": "William Shakespeare",
+      "source": "Macbeth, Act 2, Scene 1 (c. 1606)",
+      "sourceType": "play",
+      "quoteDate": "c. 1606",
+      "verificationStatus": "verified",
+      "notes": "Macbeth hallucinates a dagger leading him to murder King Duncan."
+    },
+    {
+      "id": "shakespeare-013",
+      "content": "Fair is foul, and foul is fair.",
+      "authorName": "William Shakespeare",
+      "source": "Macbeth, Act 1, Scene 1 (c. 1606)",
+      "sourceType": "play",
+      "quoteDate": "c. 1606",
+      "verificationStatus": "verified",
+      "notes": "The witches chant this in the play's opening scene, setting its theme of moral inversion."
+    },
+    {
+      "id": "shakespeare-014",
+      "content": "Tomorrow, and tomorrow, and tomorrow, creeps in this petty pace from day to day.",
+      "authorName": "William Shakespeare",
+      "source": "Macbeth, Act 5, Scene 5 (c. 1606)",
+      "sourceType": "play",
+      "quoteDate": "c. 1606",
+      "verificationStatus": "verified",
+      "notes": "Macbeth's despairing soliloquy on hearing of his wife's death."
+    },
+    {
+      "id": "shakespeare-015",
+      "content": "Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and then is heard no more.",
+      "authorName": "William Shakespeare",
+      "source": "Macbeth, Act 5, Scene 5 (c. 1606)",
+      "sourceType": "play",
+      "quoteDate": "c. 1606",
+      "verificationStatus": "verified",
+      "notes": "Macbeth reflects on the futility of life moments before his end."
+    },
+    {
+      "id": "shakespeare-016",
+      "content": "O Romeo, Romeo, wherefore art thou Romeo?",
+      "authorName": "William Shakespeare",
+      "source": "Romeo and Juliet, Act 2, Scene 2 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Juliet at her window asks why Romeo must be a Montague ('wherefore' means 'why')."
+    },
+    {
+      "id": "shakespeare-017",
+      "content": "But soft, what light through yonder window breaks? It is the east, and Juliet is the sun.",
+      "authorName": "William Shakespeare",
+      "source": "Romeo and Juliet, Act 2, Scene 2 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Romeo sees Juliet appear at her window during the balcony scene."
+    },
+    {
+      "id": "shakespeare-018",
+      "content": "What's in a name? That which we call a rose by any other word would smell as sweet.",
+      "authorName": "William Shakespeare",
+      "source": "Romeo and Juliet, Act 2, Scene 2 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Juliet argues that names are arbitrary; the Folger and Quarto texts read 'word,' often modernized to 'name.'"
+    },
+    {
+      "id": "shakespeare-019",
+      "content": "Parting is such sweet sorrow.",
+      "authorName": "William Shakespeare",
+      "source": "Romeo and Juliet, Act 2, Scene 2 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Juliet bids Romeo good night at the close of the balcony scene."
+    },
+    {
+      "id": "shakespeare-020",
+      "content": "A plague o' both your houses!",
+      "authorName": "William Shakespeare",
+      "source": "Romeo and Juliet, Act 3, Scene 1 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Mercutio curses the Montagues and Capulets as he dies of his wound."
+    },
+    {
+      "id": "shakespeare-021",
+      "content": "For never was a story of more woe than this of Juliet and her Romeo.",
+      "authorName": "William Shakespeare",
+      "source": "Romeo and Juliet, Act 5, Scene 3 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "The Prince's closing couplet that ends the play."
+    },
+    {
+      "id": "shakespeare-022",
+      "content": "Friends, Romans, countrymen, lend me your ears.",
+      "authorName": "William Shakespeare",
+      "source": "Julius Caesar, Act 3, Scene 2 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "Mark Antony opens his funeral oration over Caesar's body."
+    },
+    {
+      "id": "shakespeare-023",
+      "content": "Et tu, Brute?",
+      "authorName": "William Shakespeare",
+      "source": "Julius Caesar, Act 3, Scene 1 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "Caesar's last words on seeing Brutus among his assassins ('You too, Brutus?')."
+    },
+    {
+      "id": "shakespeare-024",
+      "content": "Cowards die many times before their deaths; the valiant never taste of death but once.",
+      "authorName": "William Shakespeare",
+      "source": "Julius Caesar, Act 2, Scene 2 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "Caesar dismisses his wife Calphurnia's fears on the morning of his death."
+    },
+    {
+      "id": "shakespeare-025",
+      "content": "The fault, dear Brutus, is not in our stars, but in ourselves, that we are underlings.",
+      "authorName": "William Shakespeare",
+      "source": "Julius Caesar, Act 1, Scene 2 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "Cassius urges Brutus to take action against Caesar rather than blaming fate."
+    },
+    {
+      "id": "shakespeare-026",
+      "content": "Cry 'Havoc,' and let slip the dogs of war.",
+      "authorName": "William Shakespeare",
+      "source": "Julius Caesar, Act 3, Scene 1 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "Antony, alone with Caesar's corpse, prophesies the civil war to come."
+    },
+    {
+      "id": "shakespeare-027",
+      "content": "Beware the ides of March.",
+      "authorName": "William Shakespeare",
+      "source": "Julius Caesar, Act 1, Scene 2 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "A soothsayer warns Caesar of the day he will be assassinated."
+    },
+    {
+      "id": "shakespeare-028",
+      "content": "We are such stuff as dreams are made on, and our little life is rounded with a sleep.",
+      "authorName": "William Shakespeare",
+      "source": "The Tempest, Act 4, Scene 1 (c. 1611)",
+      "sourceType": "play",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "notes": "Prospero reflects on the illusory nature of life; note 'made on,' not 'made of.'"
+    },
+    {
+      "id": "shakespeare-029",
+      "content": "O brave new world, that has such people in't!",
+      "authorName": "William Shakespeare",
+      "source": "The Tempest, Act 5, Scene 1 (c. 1611)",
+      "sourceType": "play",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "notes": "Miranda marvels at the strangers she has never seen before."
+    },
+    {
+      "id": "shakespeare-030",
+      "content": "Hell is empty, and all the devils are here.",
+      "authorName": "William Shakespeare",
+      "source": "The Tempest, Act 1, Scene 2 (c. 1611)",
+      "sourceType": "play",
+      "quoteDate": "c. 1611",
+      "verificationStatus": "verified",
+      "notes": "Ariel reports the words of the panicked passengers during the shipwreck."
+    },
+    {
+      "id": "shakespeare-031",
+      "content": "All the world's a stage, and all the men and women merely players.",
+      "authorName": "William Shakespeare",
+      "source": "As You Like It, Act 2, Scene 7 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "The melancholy Jaques begins his 'seven ages of man' speech."
+    },
+    {
+      "id": "shakespeare-032",
+      "content": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+      "authorName": "William Shakespeare",
+      "source": "As You Like It, Act 5, Scene 1 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "Spoken by the clown Touchstone."
+    },
+    {
+      "id": "shakespeare-033",
+      "content": "If music be the food of love, play on.",
+      "authorName": "William Shakespeare",
+      "source": "Twelfth Night, Act 1, Scene 1 (c. 1601)",
+      "sourceType": "play",
+      "quoteDate": "c. 1601",
+      "verificationStatus": "verified",
+      "notes": "Duke Orsino's opening line, lovesick for Olivia."
+    },
+    {
+      "id": "shakespeare-034",
+      "content": "Some are born great, some achieve greatness, and some have greatness thrust upon 'em.",
+      "authorName": "William Shakespeare",
+      "source": "Twelfth Night, Act 2, Scene 5 (c. 1601)",
+      "sourceType": "play",
+      "quoteDate": "c. 1601",
+      "verificationStatus": "verified",
+      "notes": "Malvolio reads aloud from the forged letter he believes is from Olivia."
+    },
+    {
+      "id": "shakespeare-035",
+      "content": "Nothing will come of nothing.",
+      "authorName": "William Shakespeare",
+      "source": "King Lear, Act 1, Scene 1 (c. 1605)",
+      "sourceType": "play",
+      "quoteDate": "c. 1605",
+      "verificationStatus": "verified",
+      "notes": "Lear warns Cordelia when she refuses to flatter him."
+    },
+    {
+      "id": "shakespeare-036",
+      "content": "How sharper than a serpent's tooth it is to have a thankless child!",
+      "authorName": "William Shakespeare",
+      "source": "King Lear, Act 1, Scene 4 (c. 1605)",
+      "sourceType": "play",
+      "quoteDate": "c. 1605",
+      "verificationStatus": "verified",
+      "notes": "Lear laments the ingratitude of his daughter Goneril."
+    },
+    {
+      "id": "shakespeare-037",
+      "content": "As flies to wanton boys are we to th' gods; they kill us for their sport.",
+      "authorName": "William Shakespeare",
+      "source": "King Lear, Act 4, Scene 1 (c. 1605)",
+      "sourceType": "play",
+      "quoteDate": "c. 1605",
+      "verificationStatus": "verified",
+      "notes": "The blinded Gloucester despairs of the cruelty of the gods."
+    },
+    {
+      "id": "shakespeare-038",
+      "content": "Once more unto the breach, dear friends, once more.",
+      "authorName": "William Shakespeare",
+      "source": "Henry V, Act 3, Scene 1 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "King Henry rallies his troops at the siege of Harfleur."
+    },
+    {
+      "id": "shakespeare-039",
+      "content": "We few, we happy few, we band of brothers.",
+      "authorName": "William Shakespeare",
+      "source": "Henry V, Act 4, Scene 3 (c. 1599)",
+      "sourceType": "play",
+      "quoteDate": "c. 1599",
+      "verificationStatus": "verified",
+      "notes": "King Henry inspires his outnumbered men in the St. Crispin's Day speech before Agincourt."
+    },
+    {
+      "id": "shakespeare-040",
+      "content": "The quality of mercy is not strained; it droppeth as the gentle rain from heaven upon the place beneath.",
+      "authorName": "William Shakespeare",
+      "source": "The Merchant of Venice, Act 4, Scene 1 (c. 1596)",
+      "sourceType": "play",
+      "quoteDate": "c. 1596",
+      "verificationStatus": "verified",
+      "notes": "Portia, disguised as a lawyer, pleads for mercy in the courtroom."
+    },
+    {
+      "id": "shakespeare-041",
+      "content": "If you prick us, do we not bleed? If you tickle us, do we not laugh?",
+      "authorName": "William Shakespeare",
+      "source": "The Merchant of Venice, Act 3, Scene 1 (c. 1596)",
+      "sourceType": "play",
+      "quoteDate": "c. 1596",
+      "verificationStatus": "verified",
+      "notes": "Shylock argues for the shared humanity of Jews and Christians."
+    },
+    {
+      "id": "shakespeare-042",
+      "content": "All that glisters is not gold.",
+      "authorName": "William Shakespeare",
+      "source": "The Merchant of Venice, Act 2, Scene 7 (c. 1596)",
+      "sourceType": "play",
+      "quoteDate": "c. 1596",
+      "verificationStatus": "verified",
+      "notes": "The Prince of Morocco reads this scroll inside the golden casket; 'glisters,' not 'glitters.'"
+    },
+    {
+      "id": "shakespeare-043",
+      "content": "The course of true love never did run smooth.",
+      "authorName": "William Shakespeare",
+      "source": "A Midsummer Night's Dream, Act 1, Scene 1 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Lysander consoles Hermia about the obstacles to their love."
+    },
+    {
+      "id": "shakespeare-044",
+      "content": "Lord, what fools these mortals be!",
+      "authorName": "William Shakespeare",
+      "source": "A Midsummer Night's Dream, Act 3, Scene 2 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Puck remarks to Oberon on the lovers' confusion."
+    },
+    {
+      "id": "shakespeare-045",
+      "content": "And though she be but little, she is fierce.",
+      "authorName": "William Shakespeare",
+      "source": "A Midsummer Night's Dream, Act 3, Scene 2 (c. 1595)",
+      "sourceType": "play",
+      "quoteDate": "c. 1595",
+      "verificationStatus": "verified",
+      "notes": "Helena describes the small but formidable Hermia."
+    },
+    {
+      "id": "shakespeare-046",
+      "content": "Now is the winter of our discontent made glorious summer by this sun of York.",
+      "authorName": "William Shakespeare",
+      "source": "Richard III, Act 1, Scene 1 (c. 1593)",
+      "sourceType": "play",
+      "quoteDate": "c. 1593",
+      "verificationStatus": "verified",
+      "notes": "Richard, Duke of Gloucester, opens the play with this soliloquy."
+    },
+    {
+      "id": "shakespeare-047",
+      "content": "A horse! a horse! my kingdom for a horse!",
+      "authorName": "William Shakespeare",
+      "source": "Richard III, Act 5, Scene 4 (c. 1593)",
+      "sourceType": "play",
+      "quoteDate": "c. 1593",
+      "verificationStatus": "verified",
+      "notes": "King Richard cries out, unhorsed, at the Battle of Bosworth Field."
+    },
+    {
+      "id": "shakespeare-048",
+      "content": "Uneasy lies the head that wears a crown.",
+      "authorName": "William Shakespeare",
+      "source": "Henry IV, Part 2, Act 3, Scene 1 (c. 1597)",
+      "sourceType": "play",
+      "quoteDate": "c. 1597",
+      "verificationStatus": "verified",
+      "notes": "The sleepless King Henry IV reflects on the burdens of kingship."
+    },
+    {
+      "id": "shakespeare-049",
+      "content": "The better part of valour is discretion.",
+      "authorName": "William Shakespeare",
+      "source": "Henry IV, Part 1, Act 5, Scene 4 (c. 1597)",
+      "sourceType": "play",
+      "quoteDate": "c. 1597",
+      "verificationStatus": "verified",
+      "notes": "Falstaff justifies playing dead to survive the battle."
+    },
+    {
+      "id": "shakespeare-050",
+      "content": "O, beware, my lord, of jealousy; it is the green-eyed monster which doth mock the meat it feeds on.",
+      "authorName": "William Shakespeare",
+      "source": "Othello, Act 3, Scene 3 (c. 1603)",
+      "sourceType": "play",
+      "quoteDate": "c. 1603",
+      "verificationStatus": "verified",
+      "notes": "Iago slyly plants suspicion in Othello's mind."
+    },
+    {
+      "id": "shakespeare-051",
+      "content": "Shall I compare thee to a summer's day? Thou art more lovely and more temperate.",
+      "authorName": "William Shakespeare",
+      "source": "Sonnet 18 (1609)",
+      "sourceType": "poem",
+      "quoteDate": "1609",
+      "verificationStatus": "verified",
+      "notes": "The opening lines of one of Shakespeare's best-known sonnets."
+    },
+    {
+      "id": "shakespeare-052",
+      "content": "Let me not to the marriage of true minds admit impediments. Love is not love which alters when it alteration finds.",
+      "authorName": "William Shakespeare",
+      "source": "Sonnet 116 (1609)",
+      "sourceType": "poem",
+      "quoteDate": "1609",
+      "verificationStatus": "verified",
+      "notes": "A sonnet defining constant, unchanging love."
+    },
+    {
+      "id": "shakespeare-053",
+      "content": "My mistress' eyes are nothing like the sun.",
+      "authorName": "William Shakespeare",
+      "source": "Sonnet 130 (1609)",
+      "sourceType": "poem",
+      "quoteDate": "1609",
+      "verificationStatus": "verified",
+      "notes": "The opening line of a sonnet that mocks the clichés of love poetry."
+    },
+    {
+      "id": "shakespeare-054",
+      "content": "When in disgrace with fortune and men's eyes, I all alone beweep my outcast state.",
+      "authorName": "William Shakespeare",
+      "source": "Sonnet 29 (1609)",
+      "sourceType": "poem",
+      "quoteDate": "1609",
+      "verificationStatus": "verified",
+      "notes": "The opening lines of a sonnet that turns from despair to gratitude for love."
+    }
+  ]
+}

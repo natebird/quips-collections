@@ -1,0 +1,442 @@
+{
+  "id": "sherlock-holmes",
+  "name": "Sherlock Holmes",
+  "description": "The sharp deductions, dry wit, and enduring friendship of Sherlock Holmes and Dr. Watson, drawn straight from Arthur Conan Doyle's canon.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "magnifyingglass",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "sherlock-001",
+      "content": "How often have I said to you that when you have eliminated the impossible, whatever remains, however improbable, must be the truth?",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes chides Watson with the maxim that underpins his entire method of reasoning."
+    },
+    {
+      "id": "sherlock-002",
+      "content": "You see, but you do not observe. The distinction is clear.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Scandal in Bohemia (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes explains to Watson why he cannot say how many steps lead up to their Baker Street rooms."
+    },
+    {
+      "id": "sherlock-003",
+      "content": "Come, Watson, come! The game is afoot.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Abbey Grange (1904)",
+      "sourceType": "book",
+      "quoteDate": "1904",
+      "verificationStatus": "verified",
+      "notes": "Holmes rouses Watson from sleep to chase a fresh case, in his most famous rallying cry."
+    },
+    {
+      "id": "sherlock-004",
+      "content": "It is a capital mistake to theorize before one has data.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Scandal in Bohemia (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes warns against twisting facts to suit theories instead of theories to suit facts."
+    },
+    {
+      "id": "sherlock-005",
+      "content": "You know my methods. Apply them, and it will be instructive to compare results.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes invites Watson to deduce the history of a pocket watch for himself."
+    },
+    {
+      "id": "sherlock-006",
+      "content": "I am a brain, Watson. The rest of me is a mere appendix.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Mazarin Stone (1921)",
+      "sourceType": "book",
+      "quoteDate": "1921",
+      "verificationStatus": "verified",
+      "notes": "Holmes sums up his self-image as a creature of pure intellect."
+    },
+    {
+      "id": "sherlock-007",
+      "content": "Data! data! data! I can't make bricks without clay.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Copper Beeches (1892)",
+      "sourceType": "book",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Holmes cries out impatiently for facts before he will venture a conclusion."
+    },
+    {
+      "id": "sherlock-008",
+      "content": "It has long been an axiom of mine that the little things are infinitely the most important.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Case of Identity (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes explains why he fastens on the small details others overlook."
+    },
+    {
+      "id": "sherlock-009",
+      "content": "My name is Sherlock Holmes. It is my business to know what other people don't know.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Blue Carbuncle (1892)",
+      "sourceType": "book",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Holmes introduces himself to a wary salesman while tracing a stolen jewel."
+    },
+    {
+      "id": "sherlock-010",
+      "content": "There is nothing more deceptive than an obvious fact.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Boscombe Valley Mystery (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes laughs off the seemingly open-and-shut case against young McCarthy."
+    },
+    {
+      "id": "sherlock-011",
+      "content": "Education never ends, Watson. It is a series of lessons with the greatest for the last.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Red Circle (1911)",
+      "sourceType": "book",
+      "quoteDate": "1911",
+      "verificationStatus": "verified",
+      "notes": "Holmes reflects on the unending nature of learning as a case unfolds."
+    },
+    {
+      "id": "sherlock-012",
+      "content": "Mediocrity knows nothing higher than itself; but talent instantly recognizes genius.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Valley of Fear (1915)",
+      "sourceType": "book",
+      "quoteDate": "1915",
+      "verificationStatus": "verified",
+      "notes": "Holmes praises Inspector MacDonald's willingness to seek out the help of a superior mind."
+    },
+    {
+      "id": "sherlock-013",
+      "content": "Crime is common. Logic is rare. Therefore it is upon the logic rather than upon the crime that you should dwell.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Copper Beeches (1892)",
+      "sourceType": "book",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Holmes tells Watson to chronicle his reasoning rather than the sensational details of his cases."
+    },
+    {
+      "id": "sherlock-014",
+      "content": "I never make exceptions. An exception disproves the rule.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes defends his rigid habits of method."
+    },
+    {
+      "id": "sherlock-015",
+      "content": "Come at once if convenient—if inconvenient come all the same.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Creeping Man (1923)",
+      "sourceType": "book",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "notes": "Holmes's characteristically terse telegram summoning Watson to Baker Street."
+    },
+    {
+      "id": "sherlock-016",
+      "content": "You have a grand gift of silence, Watson. It makes you quite invaluable as a companion.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Man with the Twisted Lip (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes pays Watson a backhanded compliment as the two ride through the night."
+    },
+    {
+      "id": "sherlock-017",
+      "content": "My mind rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my own proper atmosphere.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes describes his craving for mental stimulation to ward off boredom."
+    },
+    {
+      "id": "sherlock-018",
+      "content": "I cannot live without brain-work. What else is there to live for?",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes confesses the restlessness that drives him to detective work."
+    },
+    {
+      "id": "sherlock-019",
+      "content": "The world is full of obvious things which nobody by any chance ever observes.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Hound of the Baskervilles (1902)",
+      "sourceType": "book",
+      "quoteDate": "1902",
+      "verificationStatus": "verified",
+      "notes": "Holmes remarks on how much passes unnoticed by the ordinary eye."
+    },
+    {
+      "id": "sherlock-020",
+      "content": "Singularity is almost invariably a clue.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Boscombe Valley Mystery (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes notes that the stranger and more featureless a crime, the harder it is to solve."
+    },
+    {
+      "id": "sherlock-021",
+      "content": "I am the last and highest court of appeal in detection.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes describes the role he plays once the official police are baffled."
+    },
+    {
+      "id": "sherlock-022",
+      "content": "Detection is, or ought to be, an exact science, and should be treated in the same cold and unemotional manner.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes critiques Watson for romanticizing his cases instead of reasoning coldly."
+    },
+    {
+      "id": "sherlock-023",
+      "content": "Where there is no imagination there is no horror.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Study in Scarlet (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Holmes muses on the murder scene in his very first recorded case with Watson."
+    },
+    {
+      "id": "sherlock-024",
+      "content": "There is nothing like first hand evidence.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Study in Scarlet (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Holmes insists on examining the scene himself rather than relying on reports."
+    },
+    {
+      "id": "sherlock-025",
+      "content": "I consider that a man's brain originally is like a little empty attic, and you have to stock it with such furniture as you choose.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Study in Scarlet (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Holmes explains why he deliberately ignores knowledge he deems useless to his work."
+    },
+    {
+      "id": "sherlock-026",
+      "content": "You know a conjuror gets no credit when once he has explained his trick.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Study in Scarlet (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Holmes hesitates to reveal his methods lest he seem ordinary once explained."
+    },
+    {
+      "id": "sherlock-027",
+      "content": "They say that genius is an infinite capacity for taking pains. It's a very bad definition, but it does apply to detective work.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Study in Scarlet (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Holmes ties painstaking effort to success in detection."
+    },
+    {
+      "id": "sherlock-028",
+      "content": "A man should keep his little brain-attic stocked with all the furniture that he is likely to use, and the rest he can put away in the lumber-room of his library, where he can get it if he wants it.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Five Orange Pips (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes returns to his attic metaphor for organizing the mind."
+    },
+    {
+      "id": "sherlock-029",
+      "content": "It is of the highest importance in the art of detection to be able to recognize, out of a number of facts, which are incidental and which vital.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Reigate Squires (1893)",
+      "sourceType": "book",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Holmes describes the essential skill of separating trivial facts from crucial ones."
+    },
+    {
+      "id": "sherlock-030",
+      "content": "I am lost without my Boswell.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Scandal in Bohemia (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes likens Watson to Samuel Johnson's devoted biographer."
+    },
+    {
+      "id": "sherlock-031",
+      "content": "Watson, if it should ever strike you that I am getting a little over-confident in my powers, or giving less pains to a case than it deserves, kindly whisper 'Norbury' in my ear, and I shall be infinitely obliged to you.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Yellow Face (1893)",
+      "sourceType": "book",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "A rare humbled Holmes, having badly misjudged a case, asks Watson to check his arrogance."
+    },
+    {
+      "id": "sherlock-032",
+      "content": "Now, Watson, the fair sex is your department.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Second Stain (1904)",
+      "sourceType": "book",
+      "quoteDate": "1904",
+      "verificationStatus": "verified",
+      "notes": "Holmes teases Watson after a lady departs from their consultation."
+    },
+    {
+      "id": "sherlock-033",
+      "content": "He is the Napoleon of crime, Watson.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Final Problem (1893)",
+      "sourceType": "book",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Holmes reveals to Watson the existence of his great adversary, Professor Moriarty."
+    },
+    {
+      "id": "sherlock-034",
+      "content": "To Sherlock Holmes she is always the woman.",
+      "authorName": "Dr. John Watson",
+      "source": "A Scandal in Bohemia (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Watson's opening words on Irene Adler, the one person to ever outwit Holmes."
+    },
+    {
+      "id": "sherlock-035",
+      "content": "You have been in Afghanistan, I perceive.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Study in Scarlet (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Holmes's first deduction about Watson, astonishing him at their very first meeting."
+    },
+    {
+      "id": "sherlock-036",
+      "content": "London, that great cesspool into which all the loungers and idlers of the Empire are irresistibly drained.",
+      "authorName": "Dr. John Watson",
+      "source": "A Study in Scarlet (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Watson narrates how his return from the war drew him to the capital, where he would meet Holmes."
+    },
+    {
+      "id": "sherlock-037",
+      "content": "I never guess. It is a shocking habit—destructive to the logical faculty.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Holmes refuses to speculate, insisting on reasoning from evidence alone."
+    },
+    {
+      "id": "sherlock-038",
+      "content": "You really are an automaton—a calculating-machine!",
+      "authorName": "Dr. John Watson",
+      "source": "The Sign of the Four (1890)",
+      "sourceType": "book",
+      "quoteDate": "1890",
+      "verificationStatus": "verified",
+      "notes": "Watson protests at Holmes's coldly detached approach to the case before them."
+    },
+    {
+      "id": "sherlock-039",
+      "content": "Work is the best antidote to sorrow, my dear Watson.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Empty House (1903)",
+      "sourceType": "book",
+      "quoteDate": "1903",
+      "verificationStatus": "verified",
+      "notes": "Holmes consoles Watson, recently widowed, by turning him back toward the work of detection."
+    },
+    {
+      "id": "sherlock-040",
+      "content": "What one man can invent another can discover.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Dancing Men (1903)",
+      "sourceType": "book",
+      "quoteDate": "1903",
+      "verificationStatus": "verified",
+      "notes": "Holmes explains his confidence in cracking the stick-figure cipher."
+    },
+    {
+      "id": "sherlock-041",
+      "content": "Elementary.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Crooked Man (1893)",
+      "sourceType": "book",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Holmes's actual one-word reply to Watson's 'Excellent!'; the famous phrase 'Elementary, my dear Watson' never appears in Doyle's canon."
+    },
+    {
+      "id": "sherlock-042",
+      "content": "It's every man's business to see justice done.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Crooked Man (1893)",
+      "sourceType": "book",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Holmes states the principle that guides his work beyond the letter of the law."
+    },
+    {
+      "id": "sherlock-043",
+      "content": "Mr. Holmes, they were the footprints of a gigantic hound!",
+      "authorName": "Dr. James Mortimer",
+      "source": "The Hound of the Baskervilles (1902)",
+      "sourceType": "book",
+      "quoteDate": "1902",
+      "verificationStatus": "verified",
+      "notes": "Dr. Mortimer's chilling revelation that sets the most famous Holmes novel in motion."
+    }
+  ]
+}

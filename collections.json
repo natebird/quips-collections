@@ -3,21 +3,6 @@
   "lastUpdated": "2026-06-27T12:00:00Z",
   "collections": [
     {
-      "id": "lds-general-conference",
-      "name": "LDS General Conference",
-      "description": "Faith-promoting words from prophets, apostles, and leaders of The Church of Jesus Christ of Latter-day Saints, drawn from recent general conferences.",
-      "author": "Quips Editorial",
-      "quoteCount": 56,
-      "previewQuotes": [
-        "Because of Jesus Christ, our failures do not have to define us. They can refine us.",
-        "Worthiness is not flawlessness. Worthiness is being honest and trying."
-      ],
-      "colorName": "primaryBlue",
-      "iconName": "mic.fill",
-      "category": "Faith",
-      "lastUpdated": "2026-06-20T12:00:00Z"
-    },
-    {
       "id": "inspiration-daily",
       "name": "Daily Inspiration",
       "description": "Start your day with motivational quotes from visionary leaders and thinkers.",
@@ -93,6 +78,141 @@
       "lastUpdated": "2026-06-20T12:00:00Z"
     },
     {
+      "id": "shakespeare",
+      "name": "Shakespeare",
+      "description": "Timeless lines from the Bard's plays and sonnets, still echoing four centuries on.",
+      "author": "Quips Editorial",
+      "quoteCount": 54,
+      "previewQuotes": [
+        "To be, or not to be, that is the question.",
+        "All the world's a stage, and all the men and women merely players."
+      ],
+      "colorName": "gold",
+      "iconName": "theatermasks.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "oscar-wilde",
+      "name": "Oscar Wilde",
+      "description": "The dazzling wit and paradoxical epigrams of Oscar Wilde, drawn straight from his plays, novel, and essays.",
+      "author": "Quips Editorial",
+      "quoteCount": 49,
+      "previewQuotes": [
+        "We are all in the gutter, but some of us are looking at the stars.",
+        "I can resist everything except temptation."
+      ],
+      "colorName": "magenta",
+      "iconName": "quote.bubble.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes",
+      "description": "The sharp deductions, dry wit, and enduring friendship of Sherlock Holmes and Dr. Watson, drawn straight from Arthur Conan Doyle's canon.",
+      "author": "Quips Editorial",
+      "quoteCount": 43,
+      "previewQuotes": [
+        "You see, but you do not observe. The distinction is clear.",
+        "Come, Watson, come! The game is afoot."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "magnifyingglass",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "edgar-allan-poe",
+      "name": "Edgar Allan Poe",
+      "description": "Haunting lines from the gothic tales and shadow-haunted poems of Edgar Allan Poe, master of mystery and the macabre.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "Quoth the Raven, \"Nevermore.\"",
+        "All that we see or seem Is but a dream within a dream."
+      ],
+      "colorName": "purple",
+      "iconName": "bird.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "jane-austen",
+      "name": "Jane Austen",
+      "description": "Wit, romance, and razor-sharp social observation from the novels of England's most beloved chronicler of the human heart.",
+      "author": "Quips Editorial",
+      "quoteCount": 37,
+      "previewQuotes": [
+        "You pierce my soul. I am half agony, half hope.",
+        "If I loved you less, I might be able to talk about it more."
+      ],
+      "colorName": "lemon",
+      "iconName": "heart.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "great-poems",
+      "name": "Great Poems",
+      "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
+      "author": "Quips Editorial",
+      "quoteCount": 33,
+      "previewQuotes": [
+        "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
+        "I am the master of my fate,\nI am the captain of my soul."
+      ],
+      "colorName": "forestGreen",
+      "iconName": "scroll.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "dystopian-fiction",
+      "name": "Dystopian Fiction",
+      "description": "Chilling visions of the future from the great dystopian novels, where surveillance, conformity, and control reveal what we stand to lose.",
+      "author": "Quips Editorial",
+      "quoteCount": 29,
+      "previewQuotes": [
+        "Big Brother is watching you.",
+        "It was a pleasure to burn."
+      ],
+      "colorName": "red",
+      "iconName": "eye.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "childrens-literature",
+      "name": "Children's Literature",
+      "description": "Warm, wise lines from beloved children's books that comfort and delight readers of every age.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "A person's a person, no matter how small.",
+        "And the tree was happy."
+      ],
+      "colorName": "cyan",
+      "iconName": "teddybear.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
+      "id": "first-lines",
+      "name": "First Lines",
+      "description": "The unforgettable opening sentences that pull readers into the world's most beloved novels.",
+      "author": "Quips Editorial",
+      "quoteCount": 39,
+      "previewQuotes": [
+        "Call me Ishmael.",
+        "In a hole in the ground there lived a hobbit."
+      ],
+      "colorName": "brown",
+      "iconName": "book.pages.fill",
+      "category": "Literature",
+      "lastUpdated": "2026-06-27T12:00:00Z"
+    },
+    {
       "id": "mindfulness",
       "name": "Mindfulness & Peace",
       "description": "Calming quotes about presence, meditation, and inner peace.",
@@ -135,6 +255,21 @@
       "colorName": "navyBlue",
       "iconName": "shield.fill",
       "category": "Movies",
+      "lastUpdated": "2026-06-20T12:00:00Z"
+    },
+    {
+      "id": "lds-general-conference",
+      "name": "LDS General Conference",
+      "description": "Faith-promoting words from prophets, apostles, and leaders of The Church of Jesus Christ of Latter-day Saints, drawn from recent general conferences.",
+      "author": "Quips Editorial",
+      "quoteCount": 56,
+      "previewQuotes": [
+        "Because of Jesus Christ, our failures do not have to define us. They can refine us.",
+        "Worthiness is not flawlessness. Worthiness is being honest and trying."
+      ],
+      "colorName": "primaryBlue",
+      "iconName": "mic.fill",
+      "category": "Faith",
       "lastUpdated": "2026-06-20T12:00:00Z"
     },
     {

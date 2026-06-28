@@ -1,0 +1,322 @@
+{
+  "id": "childrens-literature",
+  "name": "Children's Literature",
+  "description": "Warm, wise lines from beloved children's books that comfort and delight readers of every age.",
+  "author": "Quips Editorial",
+  "colorName": "cyan",
+  "iconName": "teddybear.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "kidlit-001",
+      "content": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "authorName": "Dr. Seuss",
+      "source": "Oh, the Places You'll Go! (1990)",
+      "sourceType": "book",
+      "quoteDate": "1990",
+      "verificationStatus": "verified",
+      "notes": "The book's signature line on self-direction and possibility."
+    },
+    {
+      "id": "kidlit-002",
+      "content": "Congratulations! Today is your day. You're off to Great Places! You're off and away!",
+      "authorName": "Dr. Seuss",
+      "source": "Oh, the Places You'll Go! (1990)",
+      "sourceType": "book",
+      "quoteDate": "1990",
+      "verificationStatus": "verified",
+      "notes": "The opening lines of the book, a perennial graduation gift."
+    },
+    {
+      "id": "kidlit-003",
+      "content": "And will you succeed? Yes! You will, indeed! (98 and 3/4 percent guaranteed.)",
+      "authorName": "Dr. Seuss",
+      "source": "Oh, the Places You'll Go! (1990)",
+      "sourceType": "book",
+      "quoteDate": "1990",
+      "verificationStatus": "verified",
+      "notes": "A playful assurance of success near the book's close."
+    },
+    {
+      "id": "kidlit-004",
+      "content": "Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.",
+      "authorName": "Dr. Seuss",
+      "source": "The Lorax (1971)",
+      "sourceType": "book",
+      "quoteDate": "1971",
+      "verificationStatus": "verified",
+      "notes": "The Once-ler passes on the word 'UNLESS' as the book's environmental message."
+    },
+    {
+      "id": "kidlit-005",
+      "content": "I am the Lorax. I speak for the trees.",
+      "authorName": "Dr. Seuss",
+      "source": "The Lorax (1971)",
+      "sourceType": "book",
+      "quoteDate": "1971",
+      "verificationStatus": "verified",
+      "notes": "The Lorax introduces himself as defender of the Truffula forest."
+    },
+    {
+      "id": "kidlit-006",
+      "content": "A person's a person, no matter how small.",
+      "authorName": "Dr. Seuss",
+      "source": "Horton Hears a Who! (1954)",
+      "sourceType": "book",
+      "quoteDate": "1954",
+      "verificationStatus": "verified",
+      "notes": "Horton the elephant's refrain about the worth of every living thing."
+    },
+    {
+      "id": "kidlit-007",
+      "content": "\"When you wake up in the morning, Pooh,\" said Piglet at last, \"what's the first thing you say to yourself?\" \"What's for breakfast?\" said Pooh. \"What do you say, Piglet?\" \"I say, I wonder what's going to happen exciting today?\" said Piglet. Pooh nodded thoughtfully. \"It's the same thing,\" he said.",
+      "authorName": "A.A. Milne",
+      "source": "The House at Pooh Corner (1928)",
+      "sourceType": "book",
+      "quoteDate": "1928",
+      "verificationStatus": "verified",
+      "notes": "An exchange between Pooh and Piglet from Milne's actual text, not a Disney addition."
+    },
+    {
+      "id": "kidlit-008",
+      "content": "There is no hurry. We shall get there some day.",
+      "authorName": "A.A. Milne",
+      "source": "The House at Pooh Corner (1928)",
+      "sourceType": "book",
+      "quoteDate": "1928",
+      "verificationStatus": "verified",
+      "notes": "Said by the grown-up stream as it nears the edge of the Forest."
+    },
+    {
+      "id": "kidlit-009",
+      "content": "A little Consideration, a little Thought for Others, makes all the difference.",
+      "authorName": "A.A. Milne",
+      "source": "Winnie-the-Pooh (1926)",
+      "sourceType": "book",
+      "quoteDate": "1926",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Eeyore in Milne's original book."
+    },
+    {
+      "id": "kidlit-010",
+      "content": "So please, oh please, we beg, we pray, go throw your TV set away, and in its place you can install a lovely bookshelf on the wall.",
+      "authorName": "Roald Dahl",
+      "source": "Charlie and the Chocolate Factory (1964)",
+      "sourceType": "book",
+      "quoteDate": "1964",
+      "verificationStatus": "verified",
+      "notes": "From the Oompa-Loompas' song after Mike Teavee is shrunk."
+    },
+    {
+      "id": "kidlit-011",
+      "content": "The books transported her into new worlds and introduced her to amazing people who lived exciting lives.",
+      "authorName": "Roald Dahl",
+      "source": "Matilda (1988)",
+      "sourceType": "book",
+      "quoteDate": "1988",
+      "verificationStatus": "verified",
+      "notes": "Describing how reading opened the world to young Matilda."
+    },
+    {
+      "id": "kidlit-012",
+      "content": "The matter with human beans is that they is absolutely refusing to believe in anything unless they is actually seeing it right in front of their own schnozzles.",
+      "authorName": "Roald Dahl",
+      "source": "The BFG (1982)",
+      "sourceType": "book",
+      "quoteDate": "1982",
+      "verificationStatus": "verified",
+      "notes": "The Big Friendly Giant on human skepticism."
+    },
+    {
+      "id": "kidlit-013",
+      "content": "Don't gobblefunk around with words.",
+      "authorName": "Roald Dahl",
+      "source": "The BFG (1982)",
+      "sourceType": "book",
+      "quoteDate": "1982",
+      "verificationStatus": "verified",
+      "notes": "The BFG's advice to Sophie about language."
+    },
+    {
+      "id": "kidlit-014",
+      "content": "You have been my friend. That in itself is a tremendous thing.",
+      "authorName": "E.B. White",
+      "source": "Charlotte's Web (1952)",
+      "sourceType": "book",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "notes": "Charlotte the spider explaining to Wilbur why she helped him."
+    },
+    {
+      "id": "kidlit-015",
+      "content": "It is not often that someone comes along who is a true friend and a good writer. Charlotte was both.",
+      "authorName": "E.B. White",
+      "source": "Charlotte's Web (1952)",
+      "sourceType": "book",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "notes": "The closing lines of the novel, in tribute to Charlotte."
+    },
+    {
+      "id": "kidlit-016",
+      "content": "We're all mad here. I'm mad. You're mad.",
+      "authorName": "Lewis Carroll",
+      "source": "Alice's Adventures in Wonderland (1865)",
+      "sourceType": "book",
+      "quoteDate": "1865",
+      "verificationStatus": "verified",
+      "notes": "The Cheshire Cat to Alice in Chapter 6."
+    },
+    {
+      "id": "kidlit-017",
+      "content": "Who in the world am I? Ah, that's the great puzzle!",
+      "authorName": "Lewis Carroll",
+      "source": "Alice's Adventures in Wonderland (1865)",
+      "sourceType": "book",
+      "quoteDate": "1865",
+      "verificationStatus": "verified",
+      "notes": "Alice puzzling over her changing identity in Chapter 2."
+    },
+    {
+      "id": "kidlit-018",
+      "content": "Curiouser and curiouser!",
+      "authorName": "Lewis Carroll",
+      "source": "Alice's Adventures in Wonderland (1865)",
+      "sourceType": "book",
+      "quoteDate": "1865",
+      "verificationStatus": "verified",
+      "notes": "Alice's exclamation as she begins to grow, opening Chapter 2."
+    },
+    {
+      "id": "kidlit-019",
+      "content": "It's no use going back to yesterday, because I was a different person then.",
+      "authorName": "Lewis Carroll",
+      "source": "Alice's Adventures in Wonderland (1865)",
+      "sourceType": "book",
+      "quoteDate": "1865",
+      "verificationStatus": "verified",
+      "notes": "Alice to the Caterpillar in Chapter 5; the exact text, not the popular 'I can't go back' paraphrase."
+    },
+    {
+      "id": "kidlit-020",
+      "content": "No matter how dreary and gray our homes are, we people of flesh and blood would rather live there than in any other country, be it ever so beautiful. There is no place like home.",
+      "authorName": "L. Frank Baum",
+      "source": "The Wonderful Wizard of Oz (1900)",
+      "sourceType": "book",
+      "quoteDate": "1900",
+      "verificationStatus": "verified",
+      "notes": "Dorothy to the Scarecrow; the book's wording for the famous sentiment."
+    },
+    {
+      "id": "kidlit-021",
+      "content": "And the tree was happy.",
+      "authorName": "Shel Silverstein",
+      "source": "The Giving Tree (1964)",
+      "sourceType": "book",
+      "quoteDate": "1964",
+      "verificationStatus": "verified",
+      "notes": "The book's recurring refrain and final line."
+    },
+    {
+      "id": "kidlit-022",
+      "content": "And now, cried Max, let the wild rumpus start!",
+      "authorName": "Maurice Sendak",
+      "source": "Where the Wild Things Are (1963)",
+      "sourceType": "book",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "notes": "Max declaring the start of the celebration among the Wild Things."
+    },
+    {
+      "id": "kidlit-023",
+      "content": "Oh please don't go—we'll eat you up—we love you so!",
+      "authorName": "Maurice Sendak",
+      "source": "Where the Wild Things Are (1963)",
+      "sourceType": "book",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "notes": "The Wild Things cry out as Max prepares to sail home."
+    },
+    {
+      "id": "kidlit-024",
+      "content": "And it was still hot.",
+      "authorName": "Maurice Sendak",
+      "source": "Where the Wild Things Are (1963)",
+      "sourceType": "book",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "notes": "The final line, about the supper waiting in Max's room."
+    },
+    {
+      "id": "kidlit-025",
+      "content": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "authorName": "Antoine de Saint-Exupery",
+      "source": "The Little Prince (1943)",
+      "sourceType": "book",
+      "quoteDate": "1943",
+      "verificationStatus": "verified",
+      "notes": "The fox's secret to the little prince (Katherine Woods translation)."
+    },
+    {
+      "id": "kidlit-026",
+      "content": "You become responsible, forever, for what you have tamed.",
+      "authorName": "Antoine de Saint-Exupery",
+      "source": "The Little Prince (1943)",
+      "sourceType": "book",
+      "quoteDate": "1943",
+      "verificationStatus": "verified",
+      "notes": "The fox on love and commitment (Katherine Woods translation)."
+    },
+    {
+      "id": "kidlit-027",
+      "content": "It is the time you have wasted for your rose that makes your rose so important.",
+      "authorName": "Antoine de Saint-Exupery",
+      "source": "The Little Prince (1943)",
+      "sourceType": "book",
+      "quoteDate": "1943",
+      "verificationStatus": "verified",
+      "notes": "The fox on what gives the prince's rose its value (Katherine Woods translation)."
+    },
+    {
+      "id": "kidlit-028",
+      "content": "All grown-ups were once children—although few of them remember it.",
+      "authorName": "Antoine de Saint-Exupery",
+      "source": "The Little Prince (1943)",
+      "sourceType": "book",
+      "quoteDate": "1943",
+      "verificationStatus": "verified",
+      "notes": "From the book's dedication (Katherine Woods translation)."
+    },
+    {
+      "id": "kidlit-029",
+      "content": "What makes the desert beautiful is that somewhere it hides a well.",
+      "authorName": "Antoine de Saint-Exupery",
+      "source": "The Little Prince (1943)",
+      "sourceType": "book",
+      "quoteDate": "1943",
+      "verificationStatus": "verified",
+      "notes": "The little prince to the narrator in the desert (Katherine Woods translation)."
+    },
+    {
+      "id": "kidlit-030",
+      "content": "Real isn't how you are made, said the Skin Horse. It's a thing that happens to you. When a child loves you for a long, long time, not just to play with, but REALLY loves you, then you become Real.",
+      "authorName": "Margery Williams",
+      "source": "The Velveteen Rabbit (1922)",
+      "sourceType": "book",
+      "quoteDate": "1922",
+      "verificationStatus": "verified",
+      "notes": "The Skin Horse explaining to the Rabbit what it means to become Real."
+    },
+    {
+      "id": "kidlit-031",
+      "content": "Once you are Real you can't become unreal again. It lasts for always.",
+      "authorName": "Margery Williams",
+      "source": "The Velveteen Rabbit (1922)",
+      "sourceType": "book",
+      "quoteDate": "1922",
+      "verificationStatus": "verified",
+      "notes": "The Skin Horse on the permanence of being Real."
+    }
+  ]
+}

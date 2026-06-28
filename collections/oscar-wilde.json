@@ -1,0 +1,502 @@
+{
+  "id": "oscar-wilde",
+  "name": "Oscar Wilde",
+  "description": "The dazzling wit and paradoxical epigrams of Oscar Wilde, drawn straight from his plays, novel, and essays.",
+  "author": "Quips Editorial",
+  "colorName": "magenta",
+  "iconName": "quote.bubble.fill",
+  "category": "Literature",
+  "lastUpdated": "2026-06-27T12:00:00Z",
+  "quotes": [
+    {
+      "id": "wilde-001",
+      "content": "The truth is rarely pure and never simple.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Algernon in Act I."
+    },
+    {
+      "id": "wilde-002",
+      "content": "To lose one parent, Mr. Worthing, may be regarded as a misfortune; to lose both looks like carelessness.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Lady Bracknell interrogating Jack about his parentage in Act I."
+    },
+    {
+      "id": "wilde-003",
+      "content": "When one is in town one amuses oneself. When one is in the country one amuses other people.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Jack in Act I."
+    },
+    {
+      "id": "wilde-004",
+      "content": "More than half of modern culture depends on what one shouldn't read.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Algernon in Act I."
+    },
+    {
+      "id": "wilde-005",
+      "content": "In married life three is company and two is none.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Algernon in Act I, inverting the proverb."
+    },
+    {
+      "id": "wilde-006",
+      "content": "I am sick to death of cleverness. Everybody is clever nowadays.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Jack in Act I."
+    },
+    {
+      "id": "wilde-007",
+      "content": "Divorces are made in Heaven.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Algernon in Act I."
+    },
+    {
+      "id": "wilde-008",
+      "content": "Ignorance is like a delicate exotic fruit; touch it and the bloom is gone.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Lady Bracknell on education in Act III."
+    },
+    {
+      "id": "wilde-009",
+      "content": "Relations are simply a tedious pack of people, who haven't got the remotest knowledge of how to live, nor the smallest instinct about when to die.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Algernon in Act II."
+    },
+    {
+      "id": "wilde-010",
+      "content": "All women become like their mothers. That is their tragedy. No man does. That's his.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Algernon in Act I."
+    },
+    {
+      "id": "wilde-011",
+      "content": "The good ended happily, and the bad unhappily. That is what Fiction means.",
+      "authorName": "Oscar Wilde",
+      "source": "The Importance of Being Earnest (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Miss Prism describing her own lost novel in Act II."
+    },
+    {
+      "id": "wilde-012",
+      "content": "I can resist everything except temptation.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Darlington in Act I."
+    },
+    {
+      "id": "wilde-013",
+      "content": "We are all in the gutter, but some of us are looking at the stars.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Darlington in Act III; often misquoted with extra words."
+    },
+    {
+      "id": "wilde-014",
+      "content": "A man who knows the price of everything and the value of nothing.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Lord Darlington's answer in Act III when Cecil Graham asks what a cynic is."
+    },
+    {
+      "id": "wilde-015",
+      "content": "Experience is the name every one gives to their mistakes.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Dumby in Act III."
+    },
+    {
+      "id": "wilde-016",
+      "content": "If you pretend to be good, the world takes you very seriously. If you pretend to be bad, it doesn't.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Darlington in Act I."
+    },
+    {
+      "id": "wilde-017",
+      "content": "Life is far too important a thing ever to talk seriously about it.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Darlington in Act II."
+    },
+    {
+      "id": "wilde-018",
+      "content": "In this world there are only two tragedies. One is not getting what one wants, and the other is getting it.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Dumby in Act III."
+    },
+    {
+      "id": "wilde-019",
+      "content": "History is merely gossip. But scandal is gossip made tedious by morality.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Cecil Graham in Act III."
+    },
+    {
+      "id": "wilde-020",
+      "content": "There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "From the Preface to the novel."
+    },
+    {
+      "id": "wilde-021",
+      "content": "All art is quite useless.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "The closing line of the Preface to the novel."
+    },
+    {
+      "id": "wilde-022",
+      "content": "It is the spectator, and not life, that art really mirrors.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "From the Preface to the novel."
+    },
+    {
+      "id": "wilde-023",
+      "content": "There is only one thing in the world worse than being talked about, and that is not being talked about.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 1."
+    },
+    {
+      "id": "wilde-024",
+      "content": "The only way to get rid of a temptation is to yield to it.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 2."
+    },
+    {
+      "id": "wilde-025",
+      "content": "Conscience and cowardice are really the same things, Basil. Conscience is the trade-name of the firm. That is all.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 1."
+    },
+    {
+      "id": "wilde-026",
+      "content": "Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 2."
+    },
+    {
+      "id": "wilde-027",
+      "content": "The basis of optimism is sheer terror.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 17."
+    },
+    {
+      "id": "wilde-028",
+      "content": "Being natural is simply a pose, and the most irritating pose I know.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 1."
+    },
+    {
+      "id": "wilde-029",
+      "content": "The only difference between a caprice and a lifelong passion is that the caprice lasts a little longer.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 6."
+    },
+    {
+      "id": "wilde-030",
+      "content": "The only things one never regrets are one's mistakes.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 8."
+    },
+    {
+      "id": "wilde-031",
+      "content": "When one is in love, one always begins by deceiving one's self, and one always ends by deceiving others. That is what the world calls a romance.",
+      "authorName": "Oscar Wilde",
+      "source": "The Picture of Dorian Gray (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Henry Wotton in Chapter 4."
+    },
+    {
+      "id": "wilde-032",
+      "content": "Questions are never indiscreet. Answers sometimes are.",
+      "authorName": "Oscar Wilde",
+      "source": "An Ideal Husband (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Mrs. Cheveley in Act I."
+    },
+    {
+      "id": "wilde-033",
+      "content": "To love oneself is the beginning of a lifelong romance.",
+      "authorName": "Oscar Wilde",
+      "source": "An Ideal Husband (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Lord Goring to his servant Phipps in Act III."
+    },
+    {
+      "id": "wilde-034",
+      "content": "Fashion is what one wears oneself. What is unfashionable is what other people wear.",
+      "authorName": "Oscar Wilde",
+      "source": "An Ideal Husband (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Lord Goring to Phipps in Act III."
+    },
+    {
+      "id": "wilde-035",
+      "content": "Romance should never begin with sentiment. It should begin with science and end with a settlement.",
+      "authorName": "Oscar Wilde",
+      "source": "An Ideal Husband (1895)",
+      "sourceType": "play",
+      "quoteDate": "1895",
+      "verificationStatus": "verified",
+      "notes": "Mrs. Cheveley reading aloud while snooping in Lord Goring's room in Act III."
+    },
+    {
+      "id": "wilde-036",
+      "content": "The youth of America is their oldest tradition. It has been going on now for three hundred years.",
+      "authorName": "Oscar Wilde",
+      "source": "A Woman of No Importance (1893)",
+      "sourceType": "play",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Illingworth in Act I."
+    },
+    {
+      "id": "wilde-037",
+      "content": "The Book of Life begins with a man and a woman in a garden.",
+      "authorName": "Oscar Wilde",
+      "source": "A Woman of No Importance (1893)",
+      "sourceType": "play",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Lord Illingworth in Act I; Mrs. Allonby answers, 'It ends with Revelations.'"
+    },
+    {
+      "id": "wilde-038",
+      "content": "One should never trust a woman who tells one her real age. A woman who would tell one that, would tell one anything.",
+      "authorName": "Oscar Wilde",
+      "source": "A Woman of No Importance (1893)",
+      "sourceType": "play",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Lord Illingworth in Act I."
+    },
+    {
+      "id": "wilde-039",
+      "content": "The middle-aged are mortgaged to Life. The old are in life's lumber-room. But youth is the Lord of Life.",
+      "authorName": "Oscar Wilde",
+      "source": "A Woman of No Importance (1893)",
+      "sourceType": "play",
+      "quoteDate": "1893",
+      "verificationStatus": "verified",
+      "notes": "Lord Illingworth to Gerald in Act III."
+    },
+    {
+      "id": "wilde-040",
+      "content": "There is no sin except stupidity.",
+      "authorName": "Oscar Wilde",
+      "source": "The Critic as Artist (1891)",
+      "sourceType": "article",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Gilbert in the dialogue-essay, collected in 'Intentions.'"
+    },
+    {
+      "id": "wilde-041",
+      "content": "The one duty we owe to history is to re-write it.",
+      "authorName": "Oscar Wilde",
+      "source": "The Critic as Artist (1891)",
+      "sourceType": "article",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Gilbert in the dialogue-essay, collected in 'Intentions.'"
+    },
+    {
+      "id": "wilde-042",
+      "content": "Anybody can make history. Only a great man can write it.",
+      "authorName": "Oscar Wilde",
+      "source": "The Critic as Artist (1891)",
+      "sourceType": "article",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Gilbert in the dialogue-essay, collected in 'Intentions.'"
+    },
+    {
+      "id": "wilde-043",
+      "content": "To do nothing at all is the most difficult thing in the world.",
+      "authorName": "Oscar Wilde",
+      "source": "The Critic as Artist (1891)",
+      "sourceType": "article",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Spoken by Gilbert in the dialogue-essay, collected in 'Intentions.'"
+    },
+    {
+      "id": "wilde-044",
+      "content": "A map of the world that does not include Utopia is not worth even glancing at.",
+      "authorName": "Oscar Wilde",
+      "source": "The Soul of Man under Socialism (1891)",
+      "sourceType": "article",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "From the essay first published in the Fortnightly Review."
+    },
+    {
+      "id": "wilde-045",
+      "content": "Disobedience, in the eyes of anyone who has read history, is man's original virtue.",
+      "authorName": "Oscar Wilde",
+      "source": "The Soul of Man under Socialism (1891)",
+      "sourceType": "article",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "From the essay first published in the Fortnightly Review."
+    },
+    {
+      "id": "wilde-046",
+      "content": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "authorName": "Oscar Wilde",
+      "source": "The Soul of Man under Socialism (1891)",
+      "sourceType": "article",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "From the essay first published in the Fortnightly Review."
+    },
+    {
+      "id": "wilde-047",
+      "content": "Where there is sorrow there is holy ground.",
+      "authorName": "Oscar Wilde",
+      "source": "De Profundis (written 1897, published 1905)",
+      "sourceType": "book",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "notes": "From the long prison letter written to Lord Alfred Douglas at Reading Gaol."
+    },
+    {
+      "id": "wilde-048",
+      "content": "Suffering is one very long moment. We cannot divide it by seasons.",
+      "authorName": "Oscar Wilde",
+      "source": "De Profundis (written 1897, published 1905)",
+      "sourceType": "book",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "notes": "From the long prison letter written at Reading Gaol."
+    },
+    {
+      "id": "wilde-049",
+      "content": "Most people are other people. Their thoughts are some one else's opinions, their lives a mimicry, their passions a quotation.",
+      "authorName": "Oscar Wilde",
+      "source": "De Profundis (written 1897, published 1905)",
+      "sourceType": "book",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "notes": "From the long prison letter written at Reading Gaol."
+    }
+  ]
+}
