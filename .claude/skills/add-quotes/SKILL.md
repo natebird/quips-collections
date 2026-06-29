@@ -92,7 +92,15 @@ Rules:
    - Bump the file's top-level `lastUpdated` to the same value.
    - Only touch `previewQuotes` if the user asks to feature a new quote.
 
-7. **Validate.** Run the shared validator, scoped to the collection you changed. It confirms
+7. **Refresh the index hashes.** Run `compute_hashes.py` to rewrite each entry's
+   `contentHash` + `bytes` from the files on disk. These drive progressive downloads (clients
+   re-fetch only collections whose hash changed), and CI rejects a stale index, so this is not
+   optional. Run it after every edit to `collections.json` or any collection file:
+   ```bash
+   python3 scripts/compute_hashes.py
+   ```
+
+8. **Validate.** Run the shared validator, scoped to the collection you changed. It confirms
    both files parse, `quoteCount` matches the actual count, ids are unique and well-formed,
    required fields are present, and there's no duplicate quote text. Don't report success until
    it passes.
@@ -100,11 +108,11 @@ Rules:
    python3 scripts/validate_collections.py --collection <id>
    ```
 
-8. **Publish.** Edits only reach the website and app through a release — see **Publishing**
+9. **Publish.** Edits only reach the website and app through a release — see **Publishing**
    below. Commit, cut a release (patch bump for added quotes), and ship to the site.
 
-9. **Report** how many quotes were added, the new total, the released version, anything marked
-   `unverified` (with reason), and any duplicates skipped.
+10. **Report** how many quotes were added, the new total, the released version, anything marked
+    `unverified` (with reason), and any duplicates skipped.
 
 ## Publishing — how edits reach the site and app
 

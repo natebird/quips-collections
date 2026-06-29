@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://data.quipsapp.com/schema/index.schema.json",
   "title": "Quips collections index",
-  "description": "Shape of the top-level collections.json index. Each entry mirrors core fields of its collections/<id>.json file; CI (scripts/validate_collections.py) verifies the entry and file agree and that quoteCount is accurate.",
+  "description": "Shape of the top-level collections.json index. Each entry mirrors core fields of its collections/<id>.json file; CI (scripts/validate_collections.py) verifies the entry and file agree and that quoteCount is accurate. The optional contentHash and bytes fields (filled in by scripts/compute_hashes.py) let a client fetch the lightweight index, compare each entry's hash against its cached copy, and download only the collections that changed.",
   "type": "object",
   "required": ["version", "lastUpdated", "collections"],
   "additionalProperties": true,
@@ -25,6 +25,16 @@
         "description": { "type": "string" },
         "author": { "type": "string" },
         "quoteCount": { "type": "integer", "minimum": 0 },
+        "bytes": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Byte length of collections/<id>.json exactly as served. Lets a client show download sizes and budget what to fetch. Filled in by scripts/compute_hashes.py."
+        },
+        "contentHash": {
+          "type": "string",
+          "pattern": "^sha256-[A-Za-z0-9+/]+=*$",
+          "description": "SRI-style sha256 of collections/<id>.json's raw bytes (sha256-<base64>). A client re-downloads a collection only when this differs from its cached copy, and can use it as a Subresource-Integrity check. Filled in by scripts/compute_hashes.py."
+        },
         "previewQuotes": {
           "type": "array",
           "minItems": 2,

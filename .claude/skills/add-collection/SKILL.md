@@ -87,7 +87,15 @@ entry, and `previewQuotes`.
    - `previewQuotes` — pick 2 of the most recognizable/short **verified** lines.
    - Bump the index's top-level `lastUpdated` to `<today>T12:00:00Z`.
 
-6. **Validate.** Run the shared validator as a full sweep — no `--collection` — so the
+6. **Refresh the index hashes.** Run `compute_hashes.py` to fill in the new entry's
+   `contentHash` + `bytes` (and refresh any others) from the files on disk. These drive
+   progressive downloads — clients re-fetch only collections whose hash changed — and CI
+   rejects a stale index, so this is not optional:
+   ```bash
+   python3 scripts/compute_hashes.py
+   ```
+
+7. **Validate.** Run the shared validator as a full sweep — no `--collection` — so the
    cross-collection prefix-uniqueness check runs and catches a new collection that reuses an
    existing prefix. It also confirms both files parse, `quoteCount` matches the actual count,
    ids are unique and well-formed, required fields are present, and there's no duplicate quote
@@ -96,10 +104,10 @@ entry, and `previewQuotes`.
    python3 scripts/validate_collections.py
    ```
 
-7. **Publish.** A new collection reaches users only through a release — follow the
+8. **Publish.** A new collection reaches users only through a release — follow the
    **Publishing** section of the `add-quotes` skill. Use a **minor** version bump for a new
    collection (commit & push to `main`, tag `vX.Y.Z`, then bump `.data-version` in the
    quipsapp.com repo to ship to the website).
 
-8. **Report** the new collection id, quote count, the released version, and any quotes marked
+9. **Report** the new collection id, quote count, the released version, and any quotes marked
    `unverified` (with reason).

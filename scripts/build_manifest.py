@@ -9,11 +9,23 @@ https://data.quipsapp.com/latest/manifest.json to discover the current
 version, then pins the immutable v<version> assets it names.
 """
 
+import base64
+import hashlib
 import json
 import sys
 from datetime import datetime, timezone
 
 BASE = "https://data.quipsapp.com"
+
+
+def sri_hash(raw: bytes) -> str:
+    """SRI-style sha256 of raw bytes: 'sha256-' + base64(digest).
+
+    Same scheme as the per-collection contentHash written by
+    scripts/compute_hashes.py, so a client verifies the index the same way it
+    verifies a collection.
+    """
+    return "sha256-" + base64.b64encode(hashlib.sha256(raw).digest()).decode("ascii")
 
 
 def main():
@@ -22,8 +34,12 @@ def main():
         return 1
     version = sys.argv[1].lstrip("v")
 
-    with open("collections.json", encoding="utf-8") as f:
-        index = json.load(f)
+    # Hash the index's raw bytes — the same bytes published as
+    # v<version>/collections.json — so a client can compare indexHash against
+    # its cached copy and skip the index fetch entirely when nothing changed.
+    with open("collections.json", "rb") as f:
+        index_raw = f.read()
+    index = json.loads(index_raw)
     collections = index.get("collections", [])
     quote_count = sum(c.get("quoteCount", 0) for c in collections)
 
@@ -34,6 +50,8 @@ def main():
         "collectionCount": len(collections),
         "quoteCount": quote_count,
         "indexUrl": f"{base}/collections.json",
+        "indexHash": sri_hash(index_raw),
+        "indexBytes": len(index_raw),
         "bundleUrl": f"{base}/quips-collections-v{version}.zip",
     }
     json.dump(manifest, sys.stdout, indent=2)

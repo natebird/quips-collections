@@ -15,7 +15,9 @@
       "colorName": "gold",
       "iconName": "sunrise.fill",
       "category": "Inspiration",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-3BWgSFZaLAbagA+u4Hfa23FhrfTjPZMUClziJB8z90s=",
+      "bytes": 14357
     },
     {
       "id": "stoic-wisdom",
@@ -30,7 +32,9 @@
       "colorName": "navyBlue",
       "iconName": "building.columns.fill",
       "category": "Philosophy",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-tSgsLhhpAoqsmrWxgP+0GUioqcY1Sra1wza2r+VxdjA=",
+      "bytes": 14307
     },
     {
       "id": "creative-minds",
@@ -45,7 +49,9 @@
       "colorName": "purple",
       "iconName": "paintbrush.fill",
       "category": "Creativity",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-fi0FkbsN/+bAO9rq9oZlKNcEQiO+GZ4H5lEDZstlqDI=",
+      "bytes": 13521
     },
     {
       "id": "tech-visionaries",
@@ -60,7 +66,9 @@
       "colorName": "primaryBlue",
       "iconName": "cpu.fill",
       "category": "Technology",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-uzyzNV62gNk+RuhOsdFkzGnacGYajiKLN1Lw3kVtgCg=",
+      "bytes": 13995
     },
     {
       "id": "literary-classics",
@@ -75,7 +83,9 @@
       "colorName": "brown",
       "iconName": "book.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-jAQmAs4WyFnnvOige1Bl1R+MjEybNN0M7LVZt22yuEY=",
+      "bytes": 13617
     },
     {
       "id": "shakespeare",
@@ -90,7 +100,9 @@
       "colorName": "gold",
       "iconName": "theatermasks.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-/6lf5ayL/uBBZtv/PipirlFcgWQSOIWYv8ffeEsheiY=",
+      "bytes": 22024
     },
     {
       "id": "oscar-wilde",
@@ -105,7 +117,9 @@
       "colorName": "magenta",
       "iconName": "quote.bubble.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-G7L99OQdN69myh4nDC180kFl9yMN5EeHB4Tb7A9Br34=",
+      "bytes": 19003
     },
     {
       "id": "sherlock-holmes",
@@ -120,7 +134,9 @@
       "colorName": "navyBlue",
       "iconName": "magnifyingglass",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-jTlX6B9EBPW5DhWhoOsBwVzjrEs9XKQ3urRiJxBcYY8=",
+      "bytes": 18431
     },
     {
       "id": "edgar-allan-poe",
@@ -135,7 +151,9 @@
       "colorName": "purple",
       "iconName": "bird.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-sWuzN3LHV/IuPHH0FHZx4jWJiwcvHkYMf59LjT0JULE=",
+      "bytes": 12836
     },
     {
       "id": "jane-austen",
@@ -150,7 +168,9 @@
       "colorName": "lemon",
       "iconName": "heart.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-Em+nfmaidBBp0gPw0ZxmOtkhEgAnFi8idHko3TQGgAA=",
+      "bytes": 14677
     },
     {
       "id": "great-poems",
@@ -165,7 +185,9 @@
       "colorName": "forestGreen",
       "iconName": "scroll.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-yWsPD2maV+v3bLKe72n/HfhjyGjmW9Gb+cRM0NT6WNw=",
+      "bytes": 14066
     },
     {
       "id": "dystopian-fiction",
@@ -180,7 +202,9 @@
       "colorName": "red",
       "iconName": "eye.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-sxidX/6wNofS7A4stWj2ZPXu0wV1l3nrpP/Ua6SXbCo=",
+      "bytes": 12147
     },
     {
       "id": "childrens-literature",
@@ -195,7 +219,9 @@
       "colorName": "cyan",
       "iconName": "teddybear.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-o56YaFamgGfolSaVAyLpf1zItxDLzviR9PvPHvB7pXg=",
+      "bytes": 12840
     },
     {
       "id": "first-lines",
@@ -210,7 +236,9 @@
       "colorName": "brown",
       "iconName": "book.pages.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-V7EqQzHXZJcbhR21AGhzkB5SNHjOr0YP/ra9V9wt9C0=",
+      "bytes": 17320
     },
     {
       "id": "mindfulness",
@@ -225,7 +253,9 @@
       "colorName": "mint",
       "iconName": "leaf.fill",
       "category": "Wellness",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-IcCw+l/joUhYyOQFJq2BZVP/EOjgPUf8GY+Oldmeiq0=",
+      "bytes": 13409
     },
     {
       "id": "marvel-movies",
@@ -240,7 +270,9 @@
       "colorName": "red",
       "iconName": "bolt.fill",
       "category": "Movies",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-CUykigs6aUxJAQHL+HJJMft7PQ8GejrMUCE78v6UrNI=",
+      "bytes": 16598
     },
     {
       "id": "dc-comics",
@@ -255,7 +287,9 @@
       "colorName": "navyBlue",
       "iconName": "shield.fill",
       "category": "Movies",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-cbkxoLz3qux8smsVbR1MHddyuyQO+foWH/NLrpF/FA0=",
+      "bytes": 14910
     },
     {
       "id": "lds-general-conference",
@@ -270,7 +304,9 @@
       "colorName": "primaryBlue",
       "iconName": "mic.fill",
       "category": "Faith",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-wsS0DUvT7nZLGJKs2Zky5dmE6JusKhlappH9D9uq7hs=",
+      "bytes": 30697
     },
     {
       "id": "disney-animated",
@@ -285,7 +321,9 @@
       "colorName": "magenta",
       "iconName": "wand.and.stars",
       "category": "Movies",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-935Dksf2CKWHsi/nGZa5WK/CTbNo9DdAouL55OQBIA8=",
+      "bytes": 15663
     },
     {
       "id": "seinfeld",
@@ -300,7 +338,9 @@
       "colorName": "orange",
       "iconName": "tv.fill",
       "category": "Television",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-bRH+hViqUqKG1bShMpvDxqdZsZJAKNjd6N4zh9VirKY=",
+      "bytes": 11023
     },
     {
       "id": "how-i-met-your-mother",
@@ -315,7 +355,9 @@
       "colorName": "lemon",
       "iconName": "umbrella.fill",
       "category": "Television",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-1wbeXlVJPgKvNF3lMB/SYNxZQlwphhExzJAgw2sUgo8=",
+      "bytes": 48586
     },
     {
       "id": "fantasy-worlds",
@@ -330,7 +372,9 @@
       "colorName": "forestGreen",
       "iconName": "flame.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-Nk+QkayEklJq2OvvhLvj9hLMLuoZveJKJuVBAAXVScg=",
+      "bytes": 15337
     },
     {
       "id": "western-movies",
@@ -345,7 +389,9 @@
       "colorName": "brown",
       "iconName": "sun.dust.fill",
       "category": "Movies",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-iaZ+iiMdh2WCMA36B2g6o4mjYOD5rKi7fSHGMCwlzGI=",
+      "bytes": 12549
     },
     {
       "id": "scifi-screen",
@@ -360,7 +406,9 @@
       "colorName": "cyan",
       "iconName": "sparkles",
       "category": "Movies",
-      "lastUpdated": "2026-06-20T12:00:00Z"
+      "lastUpdated": "2026-06-20T12:00:00Z",
+      "contentHash": "sha256-bwQGMnOEPYtb47eoUZdbVbRvVtA6mCtdIlkK4COGeXY=",
+      "bytes": 16111
     },
     {
       "id": "star-wars",
@@ -375,7 +423,9 @@
       "colorName": "gold",
       "iconName": "star.fill",
       "category": "Movies",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-pYk00P7X22EO5jhW+FGTBb3qnfxAvY/kNRHcjWZ8mZY=",
+      "bytes": 24399
     },
     {
       "id": "battlestar-galactica",
@@ -390,7 +440,9 @@
       "colorName": "navyBlue",
       "iconName": "tv.fill",
       "category": "Television",
-      "lastUpdated": "2026-06-27T12:00:00Z"
+      "lastUpdated": "2026-06-27T12:00:00Z",
+      "contentHash": "sha256-mBdqcXdb9MrX0VfKZYtuQEWU70/CchmUune/edOh7sk=",
+      "bytes": 11968
     }
   ]
 }

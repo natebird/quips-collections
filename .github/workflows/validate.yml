@@ -17,3 +17,7 @@ jobs:
       # Validator is stdlib-only; no dependencies to install.
       - name: Validate collections data
         run: python3 scripts/validate_collections.py --strict
+      # Per-collection contentHash/bytes in the index must match the files on
+      # disk, or progressive-download clients fetch the wrong deltas.
+      - name: Check index hashes are current
+        run: python3 scripts/compute_hashes.py --check
