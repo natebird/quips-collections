@@ -1,0 +1,262 @@
+{
+  "id": "johnny-cash",
+  "name": "Johnny Cash",
+  "description": "Faith, love, and hard-won redemption in the words of the Man in Black.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "guitars",
+  "category": "Music",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "cash-001",
+      "content": "I wore black because I liked it. I still do, and wearing it still means something to me. It's still my symbol of rebellion—against a stagnant status quo, against our hypocritical houses of God, against people whose minds are closed to others' ideas.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Cash reflecting on the enduring meaning of the Man in Black persona."
+    },
+    {
+      "id": "cash-002",
+      "content": "How well I have learned that there is no fence to sit on between heaven and hell. There is a deep, wide gulf, a chasm, and in that chasm is no place for any man.",
+      "authorName": "Johnny Cash",
+      "source": "Man in Black: His Own Story in His Own Words (1975)",
+      "quoteDate": "1975",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From his first autobiography, written after his conversion and recovery."
+    },
+    {
+      "id": "cash-003",
+      "content": "She loves me in spite of everything. In spite of myself. She has saved my life more than once.",
+      "authorName": "Johnny Cash",
+      "source": "Rolling Stone interview",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Cash describing June Carter's unconditional love in a documented Rolling Stone interview."
+    },
+    {
+      "id": "cash-004",
+      "content": "The spirit of June Carter overshadows me tonight with the love she had for me and the love I have for her. We connect somewhere between here and Heaven.",
+      "authorName": "Johnny Cash",
+      "source": "Carter Family Fold concert, Hiltons, Virginia (July 5, 2003)",
+      "quoteDate": "2003-07-05",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Spoken from the stage weeks after June's death, at one of his final public performances."
+    },
+    {
+      "id": "cash-005",
+      "content": "There's nothing hypocritical about it. There is a spiritual side to me that goes real deep, but I confess right up front that I'm the biggest sinner of them all.",
+      "authorName": "Johnny Cash",
+      "source": "Rolling Stone interview",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Cash reconciling his devout faith with his struggles in a documented interview."
+    },
+    {
+      "id": "cash-006",
+      "content": "I am not a Christian artist. I am an artist who is a Christian.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "His signature distinction between his faith and his craft."
+    },
+    {
+      "id": "cash-007",
+      "content": "Gospel music—and the word 'Gospel' means 'the Good News about Jesus Christ'—is a part of who I am and part of what I do. I don't cram anything down people's throats, but neither do I make apologies for it.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On refusing to hide his faith when network executives pressed him about it."
+    },
+    {
+      "id": "cash-008",
+      "content": "I'd been a Christian all my life, and while I'd never advertised it, I didn't believe I could compromise or evade when the question was put to me. I had to tell the truth.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On guarding his testimony while never denying it."
+    },
+    {
+      "id": "cash-009",
+      "content": "Give God's temple back to Him. The alternative is death.",
+      "authorName": "Johnny Cash",
+      "source": "Guideposts, first-person account (November 1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "From Cash's own written account of surrendering his addiction to God."
+    },
+    {
+      "id": "cash-010",
+      "content": "I realized that to be free again I would need all the will power I could acquire, and I knew this power could come only from God.",
+      "authorName": "Johnny Cash",
+      "source": "Guideposts, first-person account (November 1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Cash on the source of strength in his early recovery."
+    },
+    {
+      "id": "cash-011",
+      "content": "I am a free man now, as I have been since that morning when I discovered that I could be once again.",
+      "authorName": "Johnny Cash",
+      "source": "Guideposts, first-person account (November 1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Closing his own testimony of overcoming pills."
+    },
+    {
+      "id": "cash-012",
+      "content": "I was taking the pills for a while, and then the pills started taking me.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "His often-repeated summary of how amphetamine addiction took hold."
+    },
+    {
+      "id": "cash-013",
+      "content": "It's like an alcoholic. He can't drink, and I can't take painkillers.",
+      "authorName": "Johnny Cash",
+      "source": "Interview, PBS 'Blank on Blank' animated series (1996)",
+      "quoteDate": "1996",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "On the lifelong vigilance his recovery demanded, even amid chronic pain."
+    },
+    {
+      "id": "cash-014",
+      "content": "Any talent is a gift of God.",
+      "authorName": "Johnny Cash",
+      "source": "Interview, PBS 'Blank on Blank' animated series (1996)",
+      "quoteDate": "1996",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Cash crediting his gift to God in a documented interview."
+    },
+    {
+      "id": "cash-015",
+      "content": "You build on failure. You use it as a stepping stone. Close the door on the past. You don't try to forget the mistakes, but you don't dwell on it.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On refusing to let past mistakes define the future."
+    },
+    {
+      "id": "cash-016",
+      "content": "If you aren't gonna say exactly how and what you feel, you might as well not say anything at all.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "His credo on honesty in song and speech."
+    },
+    {
+      "id": "cash-017",
+      "content": "Jack was my big brother and my hero: my best friend, my big buddy, my mentor and my protector.",
+      "authorName": "Johnny Cash",
+      "source": "Cash: The Autobiography, with Patrick Carr (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On his brother Jack, whose death when Cash was twelve haunted him for life."
+    },
+    {
+      "id": "cash-018",
+      "content": "The more I dug into the book the more I came to realize why it's such a puzzle, even to many Theologians.",
+      "authorName": "Johnny Cash",
+      "source": "Liner notes, 'American IV: The Man Comes Around' (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "On wrestling with the Book of Revelation while writing his late-career title track."
+    },
+    {
+      "id": "cash-019",
+      "content": "I love songs about horses, railroads, land, judgment day, family, hard times, whiskey, courtship, marriage, adultery, separation, murder, war, prison, rambling, damnation, home, salvation, death, pride, humor, piety, rebellion, patriotism, larceny, determination, tragedy, rowdiness, heartbreak and love. And Mother. And God.",
+      "authorName": "Johnny Cash",
+      "source": "Widely attributed; primary source unconfirmed",
+      "quoteDate": "1975",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: wording is consistent across sources, but the original primary source (source axis) could not be confirmed."
+    },
+    {
+      "id": "cash-020",
+      "content": "Sometimes I am two people. Johnny is the nice one. Cash causes all the trouble. They fight.",
+      "authorName": "Johnny Cash",
+      "source": "Widely attributed; primary source unconfirmed",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: circulates widely without a documented primary source (source axis)."
+    },
+    {
+      "id": "cash-021",
+      "content": "This morning, with her, having coffee.",
+      "authorName": "Johnny Cash",
+      "source": "Attributed reply about his definition of paradise; disputed",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified and likely apocryphal: no reliable primary source documents Cash saying it (source axis)."
+    },
+    {
+      "id": "cash-022",
+      "content": "Success is having to worry about every damn thing in the world, except money.",
+      "authorName": "Johnny Cash",
+      "source": "Widely attributed; primary source unconfirmed",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: no documented interview or writing located for this line (source axis)."
+    },
+    {
+      "id": "cash-023",
+      "content": "People call me wild. Not really though, I'm not. I guess I've never been normal, not what you call Establishment. I'm country.",
+      "authorName": "Johnny Cash",
+      "source": "Widely attributed; primary source unconfirmed",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: attribution rests on aggregator sites with no primary citation (source axis)."
+    },
+    {
+      "id": "cash-024",
+      "content": "No matter how much you've sinned, no matter how much you've stumbled, no matter how far you've got from God, don't give up. You can still be redeemed.",
+      "authorName": "Johnny Cash",
+      "source": "Attributed spoken remark; primary source unconfirmed",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: paraphrased across sources with no fixed wording or documented origin (source axis)."
+    },
+    {
+      "id": "cash-025",
+      "content": "I honestly thought it was a gift from God, these pills.",
+      "authorName": "Johnny Cash",
+      "source": "Attributed interview remark on addiction; wording unconfirmed",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: reflects his documented view of amphetamines but exact wording could not be confirmed (exact-wording axis)."
+    }
+  ]
+}

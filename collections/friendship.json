@@ -1,0 +1,292 @@
+{
+  "id": "friendship",
+  "name": "Friendship",
+  "description": "On loyalty, kindred spirits, and the friends who shape a life.",
+  "author": "Quips Editorial",
+  "colorName": "orange",
+  "iconName": "person.2.fill",
+  "category": "Love & Relationships",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "friend-001",
+      "content": "For without friends no one would choose to live, though he had all other goods.",
+      "authorName": "Aristotle",
+      "source": "Nicomachean Ethics, Book VIII, Ch. 1 (c. 340 BC)",
+      "quoteDate": "c. 340 BC",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "W. D. Ross translation; the opening claim of Aristotle's account of philia."
+    },
+    {
+      "id": "friend-002",
+      "content": "Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves.",
+      "authorName": "Aristotle",
+      "source": "Nicomachean Ethics, Book VIII, Ch. 3 (c. 340 BC)",
+      "quoteDate": "c. 340 BC",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "W. D. Ross translation; Aristotle's highest of the three kinds of friendship."
+    },
+    {
+      "id": "friend-003",
+      "content": "For though the wish for friendship comes quickly, friendship does not.",
+      "authorName": "Aristotle",
+      "source": "Nicomachean Ethics, Book VIII, Ch. 3 (c. 340 BC)",
+      "quoteDate": "c. 340 BC",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "W. D. Ross translation; true friendship requires time and shared salt."
+    },
+    {
+      "id": "friend-004",
+      "content": "For his friend is another self.",
+      "authorName": "Aristotle",
+      "source": "Nicomachean Ethics, Book IX, Ch. 4 (c. 340 BC)",
+      "quoteDate": "c. 340 BC",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "W. D. Ross translation; the good man relates to his friend as to himself."
+    },
+    {
+      "id": "friend-005",
+      "content": "Friendship is nothing else than an accord in all things, human and divine, conjoined with mutual goodwill and affection.",
+      "authorName": "Marcus Tullius Cicero",
+      "source": "Laelius de Amicitia, VI.20 (44 BC)",
+      "quoteDate": "44 BC",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Falconer translation, Loeb Classical Library 1923; Cicero's formal definition of friendship."
+    },
+    {
+      "id": "friend-006",
+      "content": "For friendship adds a brighter radiance to prosperity and lessens the burden of adversity by dividing and sharing it.",
+      "authorName": "Marcus Tullius Cicero",
+      "source": "Laelius de Amicitia, VI.22 (44 BC)",
+      "quoteDate": "44 BC",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Falconer translation, Loeb Classical Library 1923; friendship doubles joy and halves grief."
+    },
+    {
+      "id": "friend-007",
+      "content": "Wherefore friends, though absent, are at hand; though in need, yet abound; though weak, are strong; and—harder saying still—though dead, are yet alive.",
+      "authorName": "Marcus Tullius Cicero",
+      "source": "Laelius de Amicitia, VII.23 (44 BC)",
+      "quoteDate": "44 BC",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Falconer translation, Loeb Classical Library 1923; friendship's power to hold the absent present."
+    },
+    {
+      "id": "friend-008",
+      "content": "If you press me to tell why I loved him, I feel that this cannot be expressed, except by answering: Because it was he, because it was I.",
+      "authorName": "Michel de Montaigne",
+      "source": "Of Friendship, Essays (1580)",
+      "quoteDate": "1580",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Donald Frame translation; Montaigne on his friendship with Étienne de La Boétie."
+    },
+    {
+      "id": "friend-009",
+      "content": "Our souls mingle and blend with each other so completely that they efface the seam that joined them, and cannot find it again.",
+      "authorName": "Michel de Montaigne",
+      "source": "Of Friendship, Essays (1580)",
+      "quoteDate": "1580",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Donald Frame translation; Montaigne's image of the perfect friendship as one soul."
+    },
+    {
+      "id": "friend-010",
+      "content": "A friend is a person with whom I may be sincere. Before him I may think aloud.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Friendship, Essays: First Series (1841)",
+      "quoteDate": "1841",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "One of the two 'elements' (Truth) Emerson names as the composition of friendship."
+    },
+    {
+      "id": "friend-011",
+      "content": "A friend may well be reckoned the masterpiece of nature.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Friendship, Essays: First Series (1841)",
+      "quoteDate": "1841",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Emerson exalting friendship among nature's works."
+    },
+    {
+      "id": "friend-012",
+      "content": "The essence of friendship is entireness, a total magnanimity and trust.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Friendship, Essays: First Series (1841)",
+      "quoteDate": "1841",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Emerson on the wholeness demanded by true friendship."
+    },
+    {
+      "id": "friend-013",
+      "content": "Friendship requires that rare mean betwixt likeness and unlikeness, that piques each with the presence of power and of consent in the other party.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Friendship, Essays: First Series (1841)",
+      "quoteDate": "1841",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Emerson on friendship as a balance of sameness and difference."
+    },
+    {
+      "id": "friend-014",
+      "content": "The only reward of virtue is virtue; the only way to have a friend is to be one.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Friendship, Essays: First Series (1841)",
+      "quoteDate": "1841",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The full sentence behind the famous 'to have a friend, be one'; from the essay's close."
+    },
+    {
+      "id": "friend-015",
+      "content": "Your friend is your needs answered. He is your field which you sow with love and reap with thanksgiving.",
+      "authorName": "Khalil Gibran",
+      "source": "The Prophet, On Friendship (1923)",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Opening of the Prophet's answer when a youth asks him to speak of friendship."
+    },
+    {
+      "id": "friend-016",
+      "content": "When you part from your friend, you grieve not; For that which you love most in him may be clearer in his absence, as the mountain to the climber is clearer from the plain.",
+      "authorName": "Khalil Gibran",
+      "source": "The Prophet, On Friendship (1923)",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Gibran on distance clarifying what we love in a friend."
+    },
+    {
+      "id": "friend-017",
+      "content": "Seek him always with hours to live. For it is his to fill your need, but not your emptiness.",
+      "authorName": "Khalil Gibran",
+      "source": "The Prophet, On Friendship (1923)",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Gibran warning against treating a friend as a mere killer of idle time."
+    },
+    {
+      "id": "friend-018",
+      "content": "And in the sweetness of friendship let there be laughter, and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.",
+      "authorName": "Khalil Gibran",
+      "source": "The Prophet, On Friendship (1923)",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The closing lines of Gibran's meditation on friendship."
+    },
+    {
+      "id": "friend-019",
+      "content": "Friendship is born at the moment when one man says to another 'What! You too? I thought that no one but myself . . .'",
+      "authorName": "C. S. Lewis",
+      "source": "The Four Loves (1960)",
+      "quoteDate": "1960",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lewis on the flash of recognition that turns companionship into friendship."
+    },
+    {
+      "id": "friend-020",
+      "content": "Friendship is unnecessary, like philosophy, like art, like the universe itself (for God did not need to create). It has no survival value; rather it is one of those things which give value to survival.",
+      "authorName": "C. S. Lewis",
+      "source": "The Four Loves (1960)",
+      "quoteDate": "1960",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lewis defending friendship as gloriously superfluous to mere survival."
+    },
+    {
+      "id": "friend-021",
+      "content": "Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a new world is born.",
+      "authorName": "Anaïs Nin",
+      "source": "The Diary of Anaïs Nin, Vol. 1 (1966)",
+      "quoteDate": "1966",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the first published volume of Nin's diaries (entry period 1931–1934)."
+    },
+    {
+      "id": "friend-022",
+      "content": "She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order.",
+      "authorName": "Toni Morrison",
+      "source": "Beloved (1987)",
+      "quoteDate": "1987",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sixo describing the Thirty-Mile Woman; one of the novel's images of restorative love."
+    },
+    {
+      "id": "friend-023",
+      "content": "My friends have made the story of my life. In a thousand ways they have turned my limitations into beautiful privileges.",
+      "authorName": "Helen Keller",
+      "source": "The Story of My Life (1903)",
+      "quoteDate": "1903",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the friends and teachers who shaped Keller's life."
+    },
+    {
+      "id": "friend-024",
+      "content": "I do then with my friends as I do with my books. I would have them where I can find them, but I seldom use them.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Friendship, Essays: First Series (1841)",
+      "quoteDate": "1841",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Emerson on prizing friends while guarding his own solitude and independence."
+    },
+    {
+      "id": "friend-025",
+      "content": "Friendship is a single soul dwelling in two bodies.",
+      "authorName": "Aristotle",
+      "source": "Attributed via Diogenes Laërtius, Lives of the Eminent Philosophers",
+      "quoteDate": "c. 340 BC",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: not found in the Nicomachean Ethics; attributed to Aristotle only by Diogenes Laërtius (3rd c. AD), wording varies by translation."
+    },
+    {
+      "id": "friend-026",
+      "content": "Walking with a friend in the dark is better than walking alone in the light.",
+      "authorName": "Helen Keller",
+      "source": "Attributed; no located primary work",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: widely attributed to Keller across aggregators but no book, essay, or letter has been located."
+    },
+    {
+      "id": "friend-027",
+      "content": "Friendship is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.",
+      "authorName": "Muhammad Ali",
+      "source": "Attributed; no located primary work",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: circulates only on quote aggregators with no cited speech, interview, or book."
+    },
+    {
+      "id": "friend-028",
+      "content": "A real friend is one who walks in when the rest of the world walks out.",
+      "authorName": "Walter Winchell",
+      "source": "Attributed; popularized in his newspaper column",
+      "quoteDate": "c. 1933",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: per Quote Investigator, an evolving adage (earlier forms 1924/1933) that Winchell popularized but did not originate."
+    }
+  ]
+}

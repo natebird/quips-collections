@@ -1,0 +1,292 @@
+{
+  "id": "civil-rights-voices",
+  "name": "Civil Rights Voices",
+  "description": "Courage and conscience from the leaders who marched for freedom and equality.",
+  "author": "Quips Editorial",
+  "colorName": "gold",
+  "iconName": "figure.walk.motion",
+  "category": "History & Speeches",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "rights-001",
+      "content": "Power concedes nothing without a demand. It never did and it never will.",
+      "authorName": "Frederick Douglass",
+      "source": "\"West India Emancipation\" address, Canandaigua, New York (1857)",
+      "quoteDate": "1857-08-03",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Douglass's speech marking the anniversary of British West Indian emancipation; text preserved in the Frederick Douglass Papers."
+    },
+    {
+      "id": "rights-002",
+      "content": "If there is no struggle, there is no progress. Those who profess to favor freedom, and yet depreciate agitation, are men who want crops without plowing up the ground; they want rain without thunder and lightning.",
+      "authorName": "Frederick Douglass",
+      "source": "\"West India Emancipation\" address, Canandaigua, New York (1857)",
+      "quoteDate": "1857-08-03",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Same 1857 address; among the most-cited passages of Douglass's oratory."
+    },
+    {
+      "id": "rights-003",
+      "content": "I would unite with anybody to do right; and with nobody to do wrong.",
+      "authorName": "Frederick Douglass",
+      "source": "\"The Anti-Slavery Movement\" lecture, Rochester, New York (1855)",
+      "quoteDate": "1855",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Douglass's reply to the 'no union with slaveholders' abolitionist motto, arguing for pragmatic alliances."
+    },
+    {
+      "id": "rights-004",
+      "content": "I had reasoned this out in my mind; there was one of two things I had a right to, liberty or death; if I could not have one, I would have the other.",
+      "authorName": "Harriet Tubman",
+      "source": "Sarah H. Bradford, Scenes in the Life of Harriet Tubman (1869)",
+      "quoteDate": "1869",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Tubman's words on her first escape as recorded in Bradford's biography, the earliest documented source for her recollections."
+    },
+    {
+      "id": "rights-005",
+      "content": "I freed a thousand slaves. I could have freed a thousand more, if only they had known they were slaves.",
+      "authorName": "Harriet Tubman",
+      "source": "Attributed; no primary source",
+      "quoteDate": "c. 1990s",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: fact-checkers (PolitiFact, Snopes, Africa Check) find no evidence Tubman said this; the line surfaced only in the 1990s-2000s and contradicts her own accounts of freeing about 70 people."
+    },
+    {
+      "id": "rights-006",
+      "content": "I am a woman's rights. I have as much muscle as any man, and can do as much work as any man.",
+      "authorName": "Sojourner Truth",
+      "source": "Speech to the Women's Rights Convention, Akron, Ohio; Marius Robinson transcription, Anti-Slavery Bugle (1851)",
+      "quoteDate": "1851",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the contemporaneous 1851 transcription by Marius Robinson, whom Truth knew and who reviewed the text with her; considered the most reliable record of the speech."
+    },
+    {
+      "id": "rights-007",
+      "content": "That man over there says that women need to be helped into carriages, and lifted over ditches... Nobody ever helps me into carriages, or over mud-puddles... And ain't I a woman?",
+      "authorName": "Sojourner Truth",
+      "source": "Frances Dana Gage's reconstruction (1863) of the 1851 Akron speech",
+      "quoteDate": "1863",
+      "verificationStatus": "unverified",
+      "sourceType": "speech",
+      "notes": "Wording axis fails: this famous 'Ain't I a woman?' version is Gage's 1863 reconstruction in a fabricated Southern dialect, published 12 years later and differing sharply from the 1851 Robinson transcript."
+    },
+    {
+      "id": "rights-008",
+      "content": "I felt that one had better die fighting against injustice than to die like a dog or a rat in a trap.",
+      "authorName": "Ida B. Wells",
+      "source": "Crusade for Justice: The Autobiography of Ida B. Wells (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From her posthumously published autobiography, recounting her resolve after the 1892 Memphis lynching of her friend Thomas Moss."
+    },
+    {
+      "id": "rights-009",
+      "content": "The way to right wrongs is to turn the light of truth upon them.",
+      "authorName": "Ida B. Wells",
+      "source": "Attributed; primary source not established",
+      "quoteDate": "c. 1892",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: universally attributed to Wells and reportedly used on her lecture advertising, but not located in a dated primary text such as Southern Horrors."
+    },
+    {
+      "id": "rights-010",
+      "content": "The problem of the twentieth century is the problem of the color line.",
+      "authorName": "W. E. B. Du Bois",
+      "source": "The Souls of Black Folk (1903)",
+      "quoteDate": "1903",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The thesis Du Bois announces in the 'Forethought' of his landmark essay collection."
+    },
+    {
+      "id": "rights-011",
+      "content": "The cost of liberty is less than the price of repression.",
+      "authorName": "W. E. B. Du Bois",
+      "source": "John Brown (1909)",
+      "quoteDate": "1909",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A recurring refrain in the closing chapter, 'The Legacy of John Brown,' of Du Bois's biography of the abolitionist."
+    },
+    {
+      "id": "rights-012",
+      "content": "None of us got where we are solely by pulling ourselves up by our bootstraps. We got here because somebody—a parent, a teacher, an Ivy League crony or a few nuns—bent down and helped us pick up our boots.",
+      "authorName": "Thurgood Marshall",
+      "source": "\"The Equality Speech,\" installation of Wiley Branton as dean of Howard Law School (1978)",
+      "quoteDate": "1978-11-18",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered by the Supreme Court justice; collected in J. Clay Smith Jr., ed., Supreme Justice: Speeches and Writings (2003)."
+    },
+    {
+      "id": "rights-013",
+      "content": "Until the killing of black men, black mothers' sons, becomes as important to the rest of the country as the killing of a white mother's sons, we who believe in freedom cannot rest.",
+      "authorName": "Ella Baker",
+      "source": "Speech, Mississippi Freedom Democratic Party convention (1964)",
+      "quoteDate": "1964",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Spoken after the murders of James Chaney, Andrew Goodman, and Michael Schwerner; later adapted into 'Ella's Song' by Bernice Johnson Reagon."
+    },
+    {
+      "id": "rights-014",
+      "content": "Give light and people will find the way.",
+      "authorName": "Ella Baker",
+      "source": "Attributed; primary source not established",
+      "quoteDate": "c. 1960s",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: widely cited as Baker's personal motto and used as the title of Barbara Ransby's biography, but not traced to a dated primary source."
+    },
+    {
+      "id": "rights-015",
+      "content": "We need, in every community, a group of angelic troublemakers.",
+      "authorName": "Bayard Rustin",
+      "source": "Time on Two Crosses: The Collected Writings of Bayard Rustin",
+      "quoteDate": "c. 1948",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Rustin's line, dated by biographers to his return from India around 1948 and echoed in later speeches; collected in his published writings."
+    },
+    {
+      "id": "rights-016",
+      "content": "The only tired I was, was tired of giving in.",
+      "authorName": "Rosa Parks",
+      "source": "Rosa Parks: My Story (1992)",
+      "quoteDate": "1992",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From her autobiography, correcting the myth that her refusal to give up her bus seat was merely physical exhaustion."
+    },
+    {
+      "id": "rights-017",
+      "content": "I am sick and tired of being sick and tired.",
+      "authorName": "Fannie Lou Hamer",
+      "source": "Speech at Williams Institutional CME Church, Harlem, New York (1964)",
+      "quoteDate": "1964-12-20",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered at a rally, shared with Malcolm X, supporting the Mississippi Freedom Democratic Party's congressional challenge."
+    },
+    {
+      "id": "rights-018",
+      "content": "Nobody's free until everybody's free.",
+      "authorName": "Fannie Lou Hamer",
+      "source": "Speech at the founding of the National Women's Political Caucus, Washington, D.C. (1971)",
+      "quoteDate": "1971-07-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The closing line and title of her address; collected in The Speeches of Fannie Lou Hamer: To Tell It Like It Is."
+    },
+    {
+      "id": "rights-019",
+      "content": "Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"Letter from Birmingham Jail\" (1963)",
+      "quoteDate": "1963-04-16",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "King's reply to clergymen who called him an 'outsider,' written from jail during the Birmingham campaign."
+    },
+    {
+      "id": "rights-020",
+      "content": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "Strength to Love, \"Loving Your Enemies\" (1963)",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From King's published sermon collection; the chapter develops his case for nonviolent, redemptive love."
+    },
+    {
+      "id": "rights-021",
+      "content": "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "Strength to Love, \"On Being a Good Neighbor\" (1963)",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Appears in Strength to Love; an earlier version was printed in King's The Measure of a Man (1959)."
+    },
+    {
+      "id": "rights-022",
+      "content": "Let us realize that the arc of the moral universe is long, but it bends toward justice.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"Where Do We Go from Here?\" address to the SCLC, Atlanta (1967)",
+      "quoteDate": "1967-08-16",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "King's paraphrase of 19th-century abolitionist Theodore Parker, whose source he acknowledged when quoting the line."
+    },
+    {
+      "id": "rights-023",
+      "content": "We want freedom by any means necessary. We want justice by any means necessary. We want equality by any means necessary.",
+      "authorName": "Malcolm X",
+      "source": "Speech at the founding rally of the Organization of Afro-American Unity, Audubon Ballroom, New York (1964)",
+      "quoteDate": "1964-06-28",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Collected in By Any Means Necessary: Speeches, Interviews, and a Letter by Malcolm X (1970)."
+    },
+    {
+      "id": "rights-024",
+      "content": "I'm for truth, no matter who tells it. I'm for justice, no matter who it is for or against.",
+      "authorName": "Malcolm X",
+      "source": "The Autobiography of Malcolm X (1965)",
+      "quoteDate": "1965",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From a letter written during his pilgrimage to Mecca, quoted in the autobiography's final chapter."
+    },
+    {
+      "id": "rights-025",
+      "content": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+      "authorName": "Malcolm X",
+      "source": "Attributed; primary source not established",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: ubiquitous on aggregator sites but not located in any documented Malcolm X speech, interview, or writing."
+    },
+    {
+      "id": "rights-026",
+      "content": "Never, ever be afraid to make some noise and get in good trouble, necessary trouble.",
+      "authorName": "John Lewis",
+      "source": "Post on Twitter (2018)",
+      "quoteDate": "2018-06-27",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "From Lewis's own social-media account; his signature phrase 'good trouble' recurred throughout his speeches and interviews."
+    },
+    {
+      "id": "rights-027",
+      "content": "Though I may not be here with you, I urge you to answer the highest calling of your heart and stand up for what you truly believe.",
+      "authorName": "John Lewis",
+      "source": "Posthumous essay, The New York Times (2020)",
+      "quoteDate": "2020-07-30",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Lewis asked that this essay be published on the day of his funeral, addressed to future generations."
+    },
+    {
+      "id": "rights-028",
+      "content": "Racism is a grown-up disease, and we must stop using our children to spread it.",
+      "authorName": "Ruby Bridges",
+      "source": "Ruby Bridges Foundation statement / rubybridges.com",
+      "quoteDate": "c. 2000s",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "The guiding slogan of Bridges's own foundation, stated by her in public remarks and on its official site; minor wording variants exist."
+    }
+  ]
+}

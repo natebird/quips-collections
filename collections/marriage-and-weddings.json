@@ -1,0 +1,252 @@
+{
+  "id": "marriage-and-weddings",
+  "name": "Marriage & Weddings",
+  "description": "Words for the wedding toast and the long marriage after — on commitment and lasting love.",
+  "author": "Quips Editorial",
+  "colorName": "magenta",
+  "iconName": "heart.text.square.fill",
+  "category": "Love & Relationships",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "wed-001",
+      "content": "What greater thing is there for two human souls than to feel that they are joined for life—to strengthen each other in all labour, to rest on each other in all sorrow, to minister to each other in all pain, to be one with each other in silent unspeakable memories at the moment of the last parting?",
+      "authorName": "George Eliot",
+      "source": "Adam Bede, Ch. 54 (1859)",
+      "quoteDate": "1859",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Marriage Bells' chapter, on the union of Adam and Dinah; one of the most-read wedding passages."
+    },
+    {
+      "id": "wed-002",
+      "content": "There is nothing nobler or more admirable than when two people who see eye to eye keep house as man and wife, confounding their enemies and delighting their friends.",
+      "authorName": "Homer",
+      "source": "The Odyssey, Book 6 (E. V. Rieu trans.)",
+      "quoteDate": "c. 700 BC",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Odysseus's blessing to Nausicaa, the 'homophrosyne' (like-mindedness) ideal of marriage; Rieu's 1946 translation."
+    },
+    {
+      "id": "wed-003",
+      "content": "If ever two were one, then surely we. If ever man were loved by wife, then thee. If ever wife was happy in a man, compare with me, ye women, if you can... Then while we live, in love let's so persevere, that when we live no more, we may live ever.",
+      "authorName": "Anne Bradstreet",
+      "source": "To My Dear and Loving Husband (1678)",
+      "quoteDate": "1678",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Published posthumously; a Puritan poet's plain-spoken vow, spelling modernized for reading."
+    },
+    {
+      "id": "wed-004",
+      "content": "Love is not love which alters when it alteration finds, or bends with the remover to remove. O no, it is an ever-fixed mark that looks on tempests and is never shaken.",
+      "authorName": "William Shakespeare",
+      "source": "Sonnet 116 (1609)",
+      "quoteDate": "1609",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The 'marriage of true minds' sonnet, a fixture of wedding ceremonies."
+    },
+    {
+      "id": "wed-005",
+      "content": "How do I love thee? Let me count the ways. I love thee to the depth and breadth and height my soul can reach... I love thee with the breath, smiles, tears, of all my life; and, if God choose, I shall but love thee better after death.",
+      "authorName": "Elizabeth Barrett Browning",
+      "source": "Sonnets from the Portuguese, 43 (1850)",
+      "quoteDate": "1850",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Written in secret during her courtship with Robert Browning."
+    },
+    {
+      "id": "wed-006",
+      "content": "Grow old along with me! The best is yet to be, the last of life, for which the first was made.",
+      "authorName": "Robert Browning",
+      "source": "Rabbi Ben Ezra (1864)",
+      "quoteDate": "1864",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The poem's opening lines, long borrowed as a toast to lifelong companionship."
+    },
+    {
+      "id": "wed-007",
+      "content": "Whatever our souls are made of, his and mine are the same.",
+      "authorName": "Emily Brontë",
+      "source": "Wuthering Heights, Ch. 9 (1847)",
+      "quoteDate": "1847",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Catherine Earnshaw on her bond with Heathcliff, spoken to Nelly Dean."
+    },
+    {
+      "id": "wed-008",
+      "content": "I have for the first time found what I can truly love—I have found you. You are my sympathy—my better self—my good angel.",
+      "authorName": "Charlotte Brontë",
+      "source": "Jane Eyre, Ch. 23 (1847)",
+      "quoteDate": "1847",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Rochester to Jane during his proposal."
+    },
+    {
+      "id": "wed-009",
+      "content": "What do we live for, if it is not to make life less difficult to each other?",
+      "authorName": "George Eliot",
+      "source": "Middlemarch, Ch. 72 (1872)",
+      "quoteDate": "1872",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Spoken by Dorothea; often loosely misquoted as 'the world less difficult'—this is the original wording."
+    },
+    {
+      "id": "wed-010",
+      "content": "Once the realization is accepted that even between the closest human beings infinite distances continue, a wonderful living side by side can grow, if they succeed in loving the distance between them which makes it possible for each to see the other whole and against a wide sky.",
+      "authorName": "Rainer Maria Rilke",
+      "source": "Letters to a Young Poet, Letter 7 (1904)",
+      "quoteDate": "1904",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Letter of May 14, 1904, M. D. Herter Norton translation; Rilke's idea of marriage as guarded solitude."
+    },
+    {
+      "id": "wed-011",
+      "content": "Love consists in this, that two solitudes protect and border and salute each other.",
+      "authorName": "Rainer Maria Rilke",
+      "source": "Letters to a Young Poet, Letter 7 (1904)",
+      "quoteDate": "1904",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Stephen Mitchell translation of the same letter's most-quoted line."
+    },
+    {
+      "id": "wed-012",
+      "content": "Let there be spaces in your togetherness, and let the winds of the heavens dance between you... And stand together yet not too near together: for the pillars of the temple stand apart, and the oak tree and the cypress grow not in each other's shadow.",
+      "authorName": "Kahlil Gibran",
+      "source": "The Prophet, 'On Marriage' (1923)",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The closing of Gibran's marriage passage, a staple of contemporary ceremonies."
+    },
+    {
+      "id": "wed-013",
+      "content": "Love one another, but make not a bond of love: let it rather be a moving sea between the shores of your souls.",
+      "authorName": "Kahlil Gibran",
+      "source": "The Prophet, 'On Marriage' (1923)",
+      "quoteDate": "1923",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the same section of The Prophet."
+    },
+    {
+      "id": "wed-014",
+      "content": "Life has taught us that love does not consist in gazing at each other but in looking outward together in the same direction.",
+      "authorName": "Antoine de Saint-Exupéry",
+      "source": "Wind, Sand and Stars (1939)",
+      "quoteDate": "1939",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lewis Galantière translation of Terre des Hommes, Ch. 8; often paraphrased loosely, this is the published wording."
+    },
+    {
+      "id": "wed-015",
+      "content": "A successful marriage requires falling in love many times, always with the same person.",
+      "authorName": "Mignon McLaughlin",
+      "source": "The Neurotic's Notebook (1963)",
+      "quoteDate": "1963",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Aphorism from her published notebook; some sources date the collection to 1960."
+    },
+    {
+      "id": "wed-016",
+      "content": "Love is a temporary madness. It erupts like an earthquake and then subsides. And when it subsides you have to make a decision... Love itself is what is left over when being in love has burned away. We had roots that grew towards each other underground, and when all the pretty blossom had fallen from our branches we found that we were one tree and not two.",
+      "authorName": "Louis de Bernières",
+      "source": "Captain Corelli's Mandolin (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dr. Iannis's counsel to his daughter Pelagia; one of the most requested modern wedding readings."
+    },
+    {
+      "id": "wed-017",
+      "content": "Love is lak de sea. It's uh movin' thing, but still and all, it takes its shape from de shore it meets, and it's different with every shore.",
+      "authorName": "Zora Neale Hurston",
+      "source": "Their Eyes Were Watching God (1937)",
+      "quoteDate": "1937",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Janie's closing reflection on love; dialect preserved as written."
+    },
+    {
+      "id": "wed-018",
+      "content": "To keep your marriage brimming, with love in the loving cup, whenever you're wrong, admit it; whenever you're right, shut up.",
+      "authorName": "Ogden Nash",
+      "source": "A Word to Husbands (1964)",
+      "quoteDate": "1964",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Collected in Marriage Lines: Notes of a Student Husband; the lighthearted toast standby."
+    },
+    {
+      "id": "wed-019",
+      "content": "Two are better than one; because they have a good reward for their labour... And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.",
+      "authorName": "Ecclesiastes",
+      "source": "Ecclesiastes 4:9–12 (King James Version)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "KJV wording; the 'threefold cord' verse is a common wedding reading. Date given is the KJV publication year."
+    },
+    {
+      "id": "wed-020",
+      "content": "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death... Many waters cannot quench love, neither can the floods drown it.",
+      "authorName": "Song of Solomon",
+      "source": "Song of Solomon 8:6–7 (King James Version)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "KJV wording. Date given is the KJV publication year."
+    },
+    {
+      "id": "wed-021",
+      "content": "Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude... Love bears all things, believes all things, hopes all things, endures all things.",
+      "authorName": "Paul the Apostle",
+      "source": "1 Corinthians 13:4–7 (Revised Standard Version)",
+      "quoteDate": "1946",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "RSV wording (KJV renders 'love' as 'charity'); the most requested wedding scripture. Date given is the RSV New Testament publication year."
+    },
+    {
+      "id": "wed-022",
+      "content": "Whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.",
+      "authorName": "Ruth",
+      "source": "Ruth 1:16 (King James Version)",
+      "quoteDate": "1611",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "KJV wording; Ruth's pledge to Naomi, widely adapted as a marriage vow. Date given is the KJV publication year."
+    },
+    {
+      "id": "wed-023",
+      "content": "The supreme happiness of life is the conviction that we are loved; loved for ourselves—say rather, loved in spite of ourselves.",
+      "authorName": "Victor Hugo",
+      "source": "Les Misérables, Part 1, Book 5, Ch. 4 (1862)",
+      "quoteDate": "1862",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Charles Wilbour's 1862 translation of the French original."
+    },
+    {
+      "id": "wed-024",
+      "content": "You must allow me to tell you how ardently I admire and love you.",
+      "authorName": "Jane Austen",
+      "source": "Pride and Prejudice, Ch. 34 (1813)",
+      "quoteDate": "1813",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Darcy's first proposal to Elizabeth Bennet."
+    }
+  ]
+}

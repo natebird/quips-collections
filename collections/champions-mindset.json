@@ -1,0 +1,312 @@
+{
+  "id": "champions-mindset",
+  "name": "Champion's Mindset",
+  "description": "Grit, drive, and greatness in the words of the athletes who reached the top.",
+  "author": "Quips Editorial",
+  "colorName": "gold",
+  "iconName": "trophy.fill",
+  "category": "Sports",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "champ-001",
+      "content": "I am the greatest! I shook up the world! I'm the prettiest thing that ever lived.",
+      "authorName": "Muhammad Ali",
+      "source": "Ringside interview after defeating Sonny Liston for the heavyweight title, Miami Beach (broadcast footage), February 25, 1964",
+      "quoteDate": "1964-02-25",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Ali's (then Cassius Clay) live reaction after Liston quit on his stool; preserved on broadcast footage."
+    },
+    {
+      "id": "champ-002",
+      "content": "I have wrestled with an alligator. I done tussled with a whale. I done handcuffed lightning, thrown thunder in jail. Only last week I murdered a rock, injured a stone, hospitalized a brick. I'm so mean I make medicine sick.",
+      "authorName": "Muhammad Ali",
+      "source": "Pre-fight press conference before the 'Rumble in the Jungle' vs. George Foreman, New York, September 17, 1974 (filmed in 'When We Were Kings')",
+      "quoteDate": "1974-09-17",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Ali's signature braggadocio before the Foreman bout, preserved on film."
+    },
+    {
+      "id": "champ-003",
+      "content": "The man who views the world at 50 the same as he did at 20 has wasted 30 years of his life.",
+      "authorName": "Muhammad Ali",
+      "source": "Playboy interview, November 1975",
+      "quoteDate": "1975",
+      "verificationStatus": "verified",
+      "sourceType": "magazine",
+      "notes": "Ali on personal growth; wording and dated print attribution confirmed by Quote Investigator."
+    },
+    {
+      "id": "champ-004",
+      "content": "I've missed more than 9,000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+      "authorName": "Michael Jordan",
+      "source": "Nike 'Failure' television commercial, 1997",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "His most famous line on failing forward, delivered as a Nike voiceover; wording matches the archived ad."
+    },
+    {
+      "id": "champ-005",
+      "content": "If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (Harper San Francisco, 1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Jordan's own motivational book, in its section on commitment."
+    },
+    {
+      "id": "champ-006",
+      "content": "Winning has a price. And leadership has a price. So I pulled people along when they didn't want to be pulled. I challenged people when they didn't want to be challenged.",
+      "authorName": "Michael Jordan",
+      "source": "The Last Dance (ESPN/Netflix documentary), Episode 7, 2020",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "Jordan's emotional defense of his demanding leadership style, spoken on camera."
+    },
+    {
+      "id": "champ-007",
+      "content": "What's there to be happy about? Job's not finished. Job finished? I don't think so.",
+      "authorName": "Kobe Bryant",
+      "source": "Postgame press conference, Game 2 of the 2009 NBA Finals (Lakers vs. Magic), June 7, 2009",
+      "quoteDate": "2009-06-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Bryant's stoic response to taking a 2-0 Finals lead; the press-conference video is hosted by NBA.com."
+    },
+    {
+      "id": "champ-008",
+      "content": "To sum up what mamba mentality is, it means to be able to constantly try to be the best version of yourself. It's a constant quest to try to be better today than you were yesterday.",
+      "authorName": "Kobe Bryant",
+      "source": "Bryant's own remarks defining the 'Mamba Mentality,' c. 2016",
+      "quoteDate": "c. 2016",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "His most-cited self-definition of the concept, in his own words."
+    },
+    {
+      "id": "champ-009",
+      "content": "I was born to play football, just like Beethoven was born to write music and Michelangelo was born to paint.",
+      "authorName": "Pelé",
+      "source": "FIFA.com exclusive interview (as 2014 World Cup ambassador), February 21, 2012",
+      "quoteDate": "2012-02-21",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Pelé on his sense of purpose and destiny for the game."
+    },
+    {
+      "id": "champ-010",
+      "content": "Every kid around the world who plays soccer wants to be Pelé. I have a great responsibility to show them not just how to be like a soccer player, but how to be like a man.",
+      "authorName": "Pelé",
+      "source": "Sports Illustrated, 'SI Flashback: Soccer's greatest genius,' June 1, 1999",
+      "quoteDate": "1999",
+      "verificationStatus": "verified",
+      "sourceType": "magazine",
+      "notes": "Pelé on the burden of fame and setting an example; attribution traces to the dated SI piece."
+    },
+    {
+      "id": "champ-011",
+      "content": "I really practiced hard, I really knew who I was going to play against. Each and every night, I spent countless hours in the video rooms going over things with coaches, so I made myself into the player that I became.",
+      "authorName": "Wayne Gretzky",
+      "source": "Introductory press conference as head coach of the Phoenix Coyotes, August 8, 2005",
+      "quoteDate": "2005-08-08",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Gretzky framing his greatness as self-made through work rather than raw gift."
+    },
+    {
+      "id": "champ-012",
+      "content": "A life is not important except in the impact it has on other lives.",
+      "authorName": "Jackie Robinson",
+      "source": "I Never Had It Made: An Autobiography (with Alfred Duckett), 1972 (closing line; also on his gravestone)",
+      "quoteDate": "1972",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The final line of Robinson's autobiography, later inscribed on his headstone."
+    },
+    {
+      "id": "champ-013",
+      "content": "As I write this twenty years later, I cannot stand and sing the anthem. I cannot salute the flag; I know that I am a black man in a white world.",
+      "authorName": "Jackie Robinson",
+      "source": "I Never Had It Made: An Autobiography, Prologue, 1972",
+      "quoteDate": "1972",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the prologue reflecting on his 1947 debut; the fuller wording precedes the title line."
+    },
+    {
+      "id": "champ-014",
+      "content": "Hitler didn't snub me—it was our president who snubbed me. The president didn't even send me a telegram.",
+      "authorName": "Jesse Owens",
+      "source": "Campaign speech for Alf Landon, October 1936 (documented in Jeremy Schaap, 'Triumph,' 2007, p. 211)",
+      "quoteDate": "1936",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Owens correcting the myth after FDR declined to honor his four Berlin gold medals."
+    },
+    {
+      "id": "champ-015",
+      "content": "I didn't get where I got on pure talent alone. I got there by trying to outwork my opponents.",
+      "authorName": "Roger Federer",
+      "source": "Dartmouth College commencement address, June 9, 2024",
+      "quoteDate": "2024-06-09",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From his 'effortless is a myth' theme; confirmed against Dartmouth's official transcript."
+    },
+    {
+      "id": "champ-016",
+      "content": "In the 1,526 singles matches I played in my career, I won almost 80% of those matches. Now, I have a question for you. What percentage of the points do you think I won in those matches? Only 54%.",
+      "authorName": "Roger Federer",
+      "source": "Dartmouth College commencement address, June 9, 2024",
+      "quoteDate": "2024-06-09",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The setup to his 'it's only a point' lesson on resilience; figures appear verbatim in the official transcript."
+    },
+    {
+      "id": "champ-017",
+      "content": "Negative energy is wasted energy. You want to become a master at overcoming hard moments.",
+      "authorName": "Roger Federer",
+      "source": "Dartmouth College commencement address, June 9, 2024",
+      "quoteDate": "2024-06-09",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Federer on discipline over dwelling on setbacks; confirmed against the official transcript."
+    },
+    {
+      "id": "champ-018",
+      "content": "The best word to describe what I'm up to is evolution. I'm here to tell you that I'm evolving away from tennis, toward other things that are important to me.",
+      "authorName": "Serena Williams",
+      "source": "Vogue essay, 'Serena Williams Says Farewell to Tennis On Her Own Terms,' August 9, 2022",
+      "quoteDate": "2022",
+      "verificationStatus": "verified",
+      "sourceType": "magazine",
+      "notes": "Serena's own framing of stepping away from the sport, from her authored essay."
+    },
+    {
+      "id": "champ-019",
+      "content": "The way I see it, I should have had 30-plus Grand Slams. Maybe I thought about it too much, and that didn't help.",
+      "authorName": "Serena Williams",
+      "source": "Vogue essay, 'Serena Williams Says Farewell to Tennis On Her Own Terms,' August 9, 2022",
+      "quoteDate": "2022",
+      "verificationStatus": "verified",
+      "sourceType": "magazine",
+      "notes": "On the drive for greatness and the mental cost of chasing records."
+    },
+    {
+      "id": "champ-020",
+      "content": "The big picture for me is always winning. I'm not going to sit here and lie about that.",
+      "authorName": "Serena Williams",
+      "source": "Australian Open quarterfinal press conference, January 22, 2019",
+      "quoteDate": "2019-01-22",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Serena on her competitiveness, from the official Australian Open transcript."
+    },
+    {
+      "id": "champ-021",
+      "content": "Pressure is a privilege.",
+      "authorName": "Billie Jean King",
+      "source": "Pressure Is a Privilege: Lessons I've Learned from Life and the Battle of the Sexes (book title), 2008",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "King's signature maxim; she recounts coining it courtside in 2000 and made it her book title."
+    },
+    {
+      "id": "champ-022",
+      "content": "Champions adjust. Champions are masters at being resilient.",
+      "authorName": "Billie Jean King",
+      "source": "All In: An Autobiography (Alfred A. Knopf), 2021",
+      "quoteDate": "2021",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "King on the championship mindset, from her memoir."
+    },
+    {
+      "id": "champ-023",
+      "content": "I say put mental health first. Because if you don't, then you're not going to enjoy your sport and you're not going to succeed as much as you want to.",
+      "authorName": "Simone Biles",
+      "source": "Press conference after the Tokyo 2020 Olympics team final, July 27, 2021",
+      "quoteDate": "2021-07-27",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Biles after withdrawing from the team final; confirmed against NPR's verbatim transcript."
+    },
+    {
+      "id": "champ-024",
+      "content": "We're not just athletes, we're people at the end of the day, and sometimes you just have to step back.",
+      "authorName": "Simone Biles",
+      "source": "Press conference after the Tokyo 2020 Olympics team final, July 27, 2021 (reported by AP/Reuters)",
+      "quoteDate": "2021-07-27",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Part of her remarks on protecting athletes' minds and bodies."
+    },
+    {
+      "id": "champ-025",
+      "content": "It's OK sometimes to even sit out the big competitions to focus on yourself, because it shows how strong of a competitor and person that you really are.",
+      "authorName": "Simone Biles",
+      "source": "Press conference after the Tokyo 2020 Olympics team final, July 27, 2021",
+      "quoteDate": "2021-07-27",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Follows directly from her 'put mental health first' remark; confirmed against NPR's transcript."
+    },
+    {
+      "id": "champ-026",
+      "content": "My one aim was just to be a champion. That is what I came here to do. I told you I was going to be number one and I did just that.",
+      "authorName": "Usain Bolt",
+      "source": "Post-race reaction after the Beijing 2008 Olympic 100m final (Press Association wire), August 16, 2008",
+      "quoteDate": "2008-08-16",
+      "verificationStatus": "verified",
+      "sourceType": "newspaper",
+      "notes": "Said immediately after his world-record 9.69s gold in Beijing."
+    },
+    {
+      "id": "champ-027",
+      "content": "I'm now a legend, I'm also the greatest athlete to live. I am in the same category as Michael Johnson.",
+      "authorName": "Usain Bolt",
+      "source": "World Athletics official event report, 'London 2012 – Men's 200m Final,' August 9, 2012",
+      "quoteDate": "2012-08-09",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Bolt after defending his Olympic 200m title, quoted verbatim by the sport's governing body."
+    },
+    {
+      "id": "champ-028",
+      "content": "There you go. I'm the greatest.",
+      "authorName": "Usain Bolt",
+      "source": "ESPN coverage after the Rio 2016 Olympic 4x100m relay, August 19, 2016",
+      "quoteDate": "2016-08-19",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "His line after completing the 'triple-triple' with a ninth Olympic gold."
+    },
+    {
+      "id": "champ-029",
+      "content": "My belief always has been that you have to play every shot to the hilt, as if your life depended on it. That was my game. And I always found that the harder I worked at the game the more it relaxed me.",
+      "authorName": "Arnold Palmer",
+      "source": "A Life Well Played: My Stories (St. Martin's Press, 2016)",
+      "quoteDate": "2016",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Palmer's effort-and-drive philosophy from his late-career memoir."
+    },
+    {
+      "id": "champ-030",
+      "content": "You just can't beat the person who never gives up.",
+      "authorName": "Babe Ruth",
+      "source": "The Rotarian magazine, 'Bat It Out!' bylined George Herman 'Babe' Ruth, July 1940, p. 14",
+      "quoteDate": "1940",
+      "verificationStatus": "verified",
+      "sourceType": "magazine",
+      "notes": "Exact primary wording from Ruth's own bylined article; the common 'It's hard to beat...' form is a paraphrase."
+    }
+  ]
+}

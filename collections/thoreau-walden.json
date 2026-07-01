@@ -1,0 +1,312 @@
+{
+  "id": "thoreau-walden",
+  "name": "Thoreau & Walden",
+  "description": "Simplicity, solitude, and deliberate living from the sage of Walden Pond.",
+  "author": "Quips Editorial",
+  "colorName": "mint",
+  "iconName": "tree.fill",
+  "category": "Nature",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "thoreau-001",
+      "content": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Where I Lived, and What I Lived For\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The book's most quoted passage, stating the purpose of Thoreau's two-year experiment at the pond."
+    },
+    {
+      "id": "thoreau-002",
+      "content": "I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Where I Lived, and What I Lived For\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Continues the 'live deliberately' passage with Thoreau's appetite for essential experience."
+    },
+    {
+      "id": "thoreau-003",
+      "content": "Our life is frittered away by detail... Simplify, simplify.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Where I Lived, and What I Lived For\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Ellipsis marks omitted text; the twinned 'Simplify, simplify' follows the same paragraph as Thoreau's call for a spare life."
+    },
+    {
+      "id": "thoreau-004",
+      "content": "The mass of men lead lives of quiet desperation.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Economy\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Perhaps the most famous line of the book, from the opening chapter's critique of conventional labor."
+    },
+    {
+      "id": "thoreau-005",
+      "content": "As if you could kill time without injuring eternity.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Economy\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thoreau's rebuke to those who treat time as something merely to be spent or wasted."
+    },
+    {
+      "id": "thoreau-006",
+      "content": "The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Economy\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Frequently mangled as 'the price of anything is the amount of life you exchange for it'; this is Thoreau's actual wording."
+    },
+    {
+      "id": "thoreau-007",
+      "content": "Public opinion is a weak tyrant compared with our own private opinion.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Economy\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On self-reliance: the harshest judge of a person is their own inner conscience, not the crowd."
+    },
+    {
+      "id": "thoreau-008",
+      "content": "A man is rich in proportion to the number of things which he can afford to let alone.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Where I Lived, and What I Lived For\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thoreau redefines wealth as freedom from possessions rather than their accumulation."
+    },
+    {
+      "id": "thoreau-009",
+      "content": "Time is but the stream I go a-fishing in.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Where I Lived, and What I Lived For\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A meditation on drinking from the current of time while glimpsing eternity beneath it."
+    },
+    {
+      "id": "thoreau-010",
+      "content": "I never found the companion that was so companionable as solitude.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Solitude\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter defending the richness of a life lived largely alone at the pond."
+    },
+    {
+      "id": "thoreau-011",
+      "content": "I had three chairs in my house; one for solitude, two for friendship, three for society.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Visitors\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thoreau's playful accounting of hospitality in his one-room cabin."
+    },
+    {
+      "id": "thoreau-012",
+      "content": "Not till we are lost, in other words, not till we have lost the world, do we begin to find ourselves.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"The Village\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the disorienting walk home in the dark as a metaphor for self-discovery."
+    },
+    {
+      "id": "thoreau-013",
+      "content": "Every man is the builder of a temple, called his body.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Higher Laws\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on discipline, purity, and the reverence owed to one's own life."
+    },
+    {
+      "id": "thoreau-014",
+      "content": "Heaven is under our feet as well as over our heads.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"The Pond in Winter\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Written while sounding the frozen depths of Walden Pond, finding the divine in the ordinary earth."
+    },
+    {
+      "id": "thoreau-015",
+      "content": "We need the tonic of wildness.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Spring\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Often misprinted as 'tonic of wilderness'; Thoreau's word is 'wildness.'"
+    },
+    {
+      "id": "thoreau-016",
+      "content": "We can never have enough of nature.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Spring\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the same passage praising wildness as a restorative for the human spirit."
+    },
+    {
+      "id": "thoreau-017",
+      "content": "However mean your life is, meet it and live it; do not shun it and call it hard names.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Conclusion\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Closing counsel to embrace one's actual life rather than envy another's."
+    },
+    {
+      "id": "thoreau-018",
+      "content": "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Conclusion\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The genuine source of the popular but loose paraphrase 'Go confidently in the direction of your dreams.'"
+    },
+    {
+      "id": "thoreau-019",
+      "content": "Rather than love, than money, than fame, give me truth.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Conclusion\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thoreau's ranking of truth above the ordinary objects of ambition."
+    },
+    {
+      "id": "thoreau-020",
+      "content": "Things do not change; we change.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Conclusion\" (1854)",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the inward locus of transformation in the book's final chapter."
+    },
+    {
+      "id": "thoreau-021",
+      "content": "I wish to speak a word for Nature, for absolute freedom and wildness, as contrasted with a freedom and culture merely civil.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Walking\" (1862)",
+      "quoteDate": "1862",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening sentence of the essay, first delivered as a lecture in 1851 and published in The Atlantic in 1862."
+    },
+    {
+      "id": "thoreau-022",
+      "content": "The West of which I speak is but another name for the Wild; and what I have been preparing to say is, that in Wildness is the preservation of the World.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Walking\" (1862)",
+      "quoteDate": "1862",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The full line behind the widely misquoted 'in wilderness is the preservation of the world'; Thoreau wrote 'Wildness' and 'preservation.'"
+    },
+    {
+      "id": "thoreau-023",
+      "content": "Life consists with wildness. The most alive is the wildest.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Walking\" (1862)",
+      "quoteDate": "1862",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thoreau equates vitality itself with the untamed and unsubdued."
+    },
+    {
+      "id": "thoreau-024",
+      "content": "That government is best which governs least.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Civil Disobedience\" (1849)",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The motto Thoreau 'heartily accepts' to open the essay, though he pushes it toward 'governs not at all.'"
+    },
+    {
+      "id": "thoreau-025",
+      "content": "Under a government which imprisons any unjustly, the true place for a just man is also a prison.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Civil Disobedience\" (1849)",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Written after Thoreau's night in jail for refusing a tax that funded slavery and the Mexican-American War."
+    },
+    {
+      "id": "thoreau-026",
+      "content": "Any man more right than his neighbors constitutes a majority of one.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Civil Disobedience\" (1849)",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the moral authority of the lone individual against the majority."
+    },
+    {
+      "id": "thoreau-027",
+      "content": "It is not desirable to cultivate a respect for the law, so much as for the right.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Civil Disobedience\" (1849)",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thoreau places conscience above statute as the true guide to conduct."
+    },
+    {
+      "id": "thoreau-028",
+      "content": "The only obligation which I have a right to assume is to do at any time what I think right.",
+      "authorName": "Henry David Thoreau",
+      "source": "\"Civil Disobedience\" (1849)",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A cornerstone of Thoreau's argument for individual conscience over collective demand."
+    },
+    {
+      "id": "thoreau-029",
+      "content": "It is not enough to be industrious; so are the ants. What are you industrious about?",
+      "authorName": "Henry David Thoreau",
+      "source": "Letter to H. G. O. Blake, November 16, 1857",
+      "quoteDate": "1857",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "The genuine original of the popular misquote 'It is not enough to be busy; so are the ants,' from Thoreau's correspondence with Harrison Blake."
+    },
+    {
+      "id": "thoreau-030",
+      "content": "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each.",
+      "authorName": "Henry David Thoreau",
+      "source": "Journal, August 23, 1853",
+      "quoteDate": "1853",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "From Thoreau's private Journal, a distillation of his practice of living attentively in the present."
+    }
+  ]
+}

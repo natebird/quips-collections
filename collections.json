@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-01T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -324,6 +324,74 @@
       "lastUpdated": "2026-06-20T12:00:00Z",
       "contentHash": "sha256-IcCw+l/joUhYyOQFJq2BZVP/EOjgPUf8GY+Oldmeiq0=",
       "bytes": 13409
+    },
+    {
+      "id": "gratitude",
+      "name": "Gratitude & Thankfulness",
+      "description": "Quotes on appreciation, counting blessings, and the quiet power of a thankful heart.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Gratitude turns what we have into enough.",
+        "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."
+      ],
+      "colorName": "orange",
+      "iconName": "hands.sparkles.fill",
+      "category": "Wellness",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-Fhdy5+8smMx67C3jLQKSZac2E5gx3JYg7R90C4YCET4=",
+      "bytes": 13814
+    },
+    {
+      "id": "resilience",
+      "name": "Resilience & Grit",
+      "description": "Words for the hard days — on enduring adversity, bouncing back, and finding strength in the struggle.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "What does not kill me makes me stronger.",
+        "Fall seven times, stand up eight."
+      ],
+      "colorName": "forestGreen",
+      "iconName": "mountain.2.fill",
+      "category": "Wellness",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-Q3uOXBA2AwFwoh3qhL/temuMEjhfrho5LdEawvK9xKQ=",
+      "bytes": 12494
+    },
+    {
+      "id": "self-compassion",
+      "name": "Self-Compassion & Kindness",
+      "description": "Gentle reminders to treat yourself, and everyone you meet, with the kindness you deserve.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Talk to yourself like you would to someone you love.",
+        "Be kind whenever possible. It is always possible."
+      ],
+      "colorName": "magenta",
+      "iconName": "heart.circle.fill",
+      "category": "Wellness",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-S0mYxhsFlaOH3qyHv5DSgO8ssM4oeYDuIJvzgEM/XAo=",
+      "bytes": 13233
+    },
+    {
+      "id": "rest-balance",
+      "name": "Rest, Sleep & Balance",
+      "description": "Permission to slow down — quotes on the quiet art of rest, sleep, and a life in balance.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Early to bed and early to rise makes a man healthy, wealthy, and wise.",
+        "Sleep is the best meditation."
+      ],
+      "colorName": "purple",
+      "iconName": "moon.stars.fill",
+      "category": "Wellness",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-7gThHC8YCzPhmcIgdi+t4FSb73lqMLgAALFzD51pZdE=",
+      "bytes": 11897
     },
     {
       "id": "marvel-movies",
@@ -732,6 +800,516 @@
       "lastUpdated": "2026-06-30T12:00:00Z",
       "contentHash": "sha256-ukcE89gJxmNbtdAeni7M/UADZtXhv3S0bgDL1yOeGr0=",
       "bytes": 10218
+    },
+    {
+      "id": "legendary-coaches",
+      "name": "Legendary Coaches",
+      "description": "Hard-won wisdom on winning, discipline, and teamwork from the greatest coaches in sports.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "We're on to Cincinnati.",
+        "Be quick, but don't hurry."
+      ],
+      "colorName": "forestGreen",
+      "iconName": "figure.american.football",
+      "category": "Sports",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-GDMvf8mI298jJADQrnzPi9wEAUPeDmvFeBUZLba+IuQ=",
+      "bytes": 13346
+    },
+    {
+      "id": "champions-mindset",
+      "name": "Champion's Mindset",
+      "description": "Grit, drive, and greatness in the words of the athletes who reached the top.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Pressure is a privilege.",
+        "There you go. I'm the greatest."
+      ],
+      "colorName": "gold",
+      "iconName": "trophy.fill",
+      "category": "Sports",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-YCgkauxz5sxA9YinEMCFwxsmFeHpjajm9hCCKg3ro9U=",
+      "bytes": 15864
+    },
+    {
+      "id": "yogi-berra",
+      "name": "Yogi Berra",
+      "description": "The gloriously tangled wisdom of baseball's greatest philosopher, one Yogi-ism at a time.",
+      "author": "Quips Editorial",
+      "quoteCount": 29,
+      "previewQuotes": [
+        "Pair up in threes.",
+        "It's deja vu all over again."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "baseball.fill",
+      "category": "Sports",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-h6GmJPavH20sMA5iCgiYfCZF1CdTbsq3xs4ABjXLfLE=",
+      "bytes": 12921
+    },
+    {
+      "id": "entrepreneurs",
+      "name": "Entrepreneurs",
+      "description": "Building, betting, and beginning — hard lessons from founders who bet on themselves.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Screw it, let's do it.",
+        "Competition is for losers."
+      ],
+      "colorName": "primaryBlue",
+      "iconName": "lightbulb.fill",
+      "category": "Business & Leadership",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-qMSnx46fT1bSDIKnGvD8MjCH/oGLXvrKb8V8bvJQNUY=",
+      "bytes": 14816
+    },
+    {
+      "id": "on-leadership",
+      "name": "On Leadership",
+      "description": "What it takes to lead — insight on trust, vision, and service from those who led.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Leadership belongs to those who take it.",
+        "Perpetual optimism is a force multiplier."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "person.3.fill",
+      "category": "Business & Leadership",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-Uak+6snLmRhybFz7jBEvtwn9RnflmCURj3Gr8DGGdyA=",
+      "bytes": 14397
+    },
+    {
+      "id": "money-investing",
+      "name": "Money & Investing",
+      "description": "Timeless sense about wealth, markets, and money from investors who built it.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Lost time is never found again.",
+        "Pain plus reflection equals progress."
+      ],
+      "colorName": "forestGreen",
+      "iconName": "dollarsign.circle.fill",
+      "category": "Business & Leadership",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-hacvsnkoOZMsMagzSzN37dS7DMmR+12kfcMqcxm7sT4=",
+      "bytes": 13722
+    },
+    {
+      "id": "great-speeches",
+      "name": "Great Speeches",
+      "description": "The lines that changed history, drawn from the world's most powerful addresses.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "I have nothing to offer but blood, toil, tears and sweat.",
+        "Free at last! Free at last! Thank God Almighty, we are free at last!"
+      ],
+      "colorName": "red",
+      "iconName": "megaphone.fill",
+      "category": "History & Speeches",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-4303qdchfm4sVrD8PXGJ3HwJLYSVJnL3c9LWMPutJX4=",
+      "bytes": 16581
+    },
+    {
+      "id": "founding-fathers",
+      "name": "Founding Fathers",
+      "description": "Liberty, virtue, and self-government in the words of America's founders.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Well done is better than well said.",
+        "My country is the world, and my religion is to do good."
+      ],
+      "colorName": "brown",
+      "iconName": "flag.fill",
+      "category": "History & Speeches",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-v0yo49I4ViYtMpNSWVODCHGPGQGg/1A1f96fXKXB5fw=",
+      "bytes": 16228
+    },
+    {
+      "id": "civil-rights-voices",
+      "name": "Civil Rights Voices",
+      "description": "Courage and conscience from the leaders who marched for freedom and equality.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Nobody's free until everybody's free.",
+        "I am sick and tired of being sick and tired."
+      ],
+      "colorName": "gold",
+      "iconName": "figure.walk.motion",
+      "category": "History & Speeches",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-vBHH6r5xDh2QRKp++a51cg+H4S0jAw3vVsgEg/xVZZQ=",
+      "bytes": 14975
+    },
+    {
+      "id": "cosmos-space",
+      "name": "Cosmos & Space",
+      "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Magnificent desolation.",
+        "I touch the future. I teach."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "moon.stars.fill",
+      "category": "Science",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-KT8m4thUg+vFE5QhqX7BTIYhzKCLKGtbLZM6lXGZq3w=",
+      "bytes": 14023
+    },
+    {
+      "id": "great-scientists",
+      "name": "Great Scientists",
+      "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
+      "author": "Quips Editorial",
+      "quoteCount": 29,
+      "previewQuotes": [
+        "The secret is comprised in three words—Work, Finish, Publish.",
+        "I think I can safely say that nobody understands quantum mechanics."
+      ],
+      "colorName": "cyan",
+      "iconName": "atom",
+      "category": "Science",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-ckr5qxBdiL+Up31jrK43uiCZMZ7+bs45ThtNXeiCo/o=",
+      "bytes": 15666
+    },
+    {
+      "id": "curiosity-discovery",
+      "name": "Curiosity & Discovery",
+      "description": "The restless spirit of invention and inquiry that pushes the boundary of the known.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Like what you do, and then you will do your best.",
+        "Machines take me by surprise with great frequency."
+      ],
+      "colorName": "purple",
+      "iconName": "sparkle.magnifyingglass",
+      "category": "Science",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-/JIZQ+sGUEm7/Xrpm8PUP7XcvYBzgUcg6CzFW0CEv7k=",
+      "bytes": 14678
+    },
+    {
+      "id": "bob-dylan",
+      "name": "Bob Dylan",
+      "description": "The Nobel laureate off the record — Dylan on art, fame, and freedom in his own words.",
+      "author": "Quips Editorial",
+      "quoteCount": 26,
+      "previewQuotes": [
+        "I want to needle them.",
+        "I welcome them—with open arms."
+      ],
+      "colorName": "brown",
+      "iconName": "guitars.fill",
+      "category": "Music",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-rmpgk5qzBrV5DFLCJ8xEAchqgxuK6sUZYgTn0s8YG7E=",
+      "bytes": 11463
+    },
+    {
+      "id": "the-beatles",
+      "name": "The Beatles",
+      "description": "Wit and wisdom from John, Paul, George, and Ringo — the Fab Four off the record.",
+      "author": "Quips Editorial",
+      "quoteCount": 26,
+      "previewQuotes": [
+        "He must be blind.",
+        "I had one yesterday."
+      ],
+      "colorName": "magenta",
+      "iconName": "music.note",
+      "category": "Music",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-9YS7IcWo8+wqxTy2DIk6ZTunWa5mrPg2pIBQKXK5fnY=",
+      "bytes": 12842
+    },
+    {
+      "id": "johnny-cash",
+      "name": "Johnny Cash",
+      "description": "Faith, love, and hard-won redemption in the words of the Man in Black.",
+      "author": "Quips Editorial",
+      "quoteCount": 25,
+      "previewQuotes": [
+        "Any talent is a gift of God.",
+        "Give God's temple back to Him. The alternative is death."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "guitars",
+      "category": "Music",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-xrRM84VvlyBGHTI9CBPqzB6XgNATGwshzVW5BbsDls8=",
+      "bytes": 12212
+    },
+    {
+      "id": "one-liners",
+      "name": "One-Liners",
+      "description": "Rapier wit in a single sentence, from the sharpest tongues in comedy and letters.",
+      "author": "Quips Editorial",
+      "quoteCount": 27,
+      "previewQuotes": [
+        "Take my wife... please.",
+        "What fresh hell can this be?"
+      ],
+      "colorName": "gold",
+      "iconName": "text.bubble.fill",
+      "category": "Comedy",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-kMZ5RKJRZUnBtodN9mHTuxkOTRTvI2ZwZ7znz7c3ZEc=",
+      "bytes": 11874
+    },
+    {
+      "id": "mark-twain-wit",
+      "name": "Mark Twain's Wit",
+      "description": "The wisecracks and satire of America's greatest humorist, drawn from his own pen.",
+      "author": "Quips Editorial",
+      "quoteCount": 32,
+      "previewQuotes": [
+        "When in doubt, tell the truth.",
+        "All right, then, I'll go to hell."
+      ],
+      "colorName": "brown",
+      "iconName": "quote.bubble.fill",
+      "category": "Comedy",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-M7rL09gU7KFw2QiDb8DEcd5a08NyM7n2Ib+S8OBSsXY=",
+      "bytes": 15116
+    },
+    {
+      "id": "standup-legends",
+      "name": "Stand-Up Legends",
+      "description": "Deadpan, absurd, and observational — clean classics from the masters of stand-up.",
+      "author": "Quips Editorial",
+      "quoteCount": 25,
+      "previewQuotes": [
+        "Snub no man, nice cinnamon buns.",
+        "Procrastinate now, don't put it off."
+      ],
+      "colorName": "orange",
+      "iconName": "mic.fill",
+      "category": "Comedy",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-SYY8Q6Zsa6bsg9kZpmNi2IkNK/NxDj/unlzbHbL5PEw=",
+      "bytes": 11368
+    },
+    {
+      "id": "love-and-romance",
+      "name": "Love & Romance",
+      "description": "The timeless language of the heart, from the greatest poets and writers of love.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "How do I love thee? Let me count the ways.",
+        "You pierce my soul. I am half agony, half hope."
+      ],
+      "colorName": "red",
+      "iconName": "heart.circle.fill",
+      "category": "Love & Relationships",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-22S7OvEZ5i0KxGDZ3aYS7X52+LAD1za9YEGAgWmGH3I=",
+      "bytes": 12977
+    },
+    {
+      "id": "friendship",
+      "name": "Friendship",
+      "description": "On loyalty, kindred spirits, and the friends who shape a life.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "For his friend is another self.",
+        "A friend may well be reckoned the masterpiece of nature."
+      ],
+      "colorName": "orange",
+      "iconName": "person.2.fill",
+      "category": "Love & Relationships",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-Fy7GK9c2vZS9W6jbHEU5pisx3mGFbBMkg+Ps+m7tnJI=",
+      "bytes": 13285
+    },
+    {
+      "id": "marriage-and-weddings",
+      "name": "Marriage & Weddings",
+      "description": "Words for the wedding toast and the long marriage after — on commitment and lasting love.",
+      "author": "Quips Editorial",
+      "quoteCount": 24,
+      "previewQuotes": [
+        "Whatever our souls are made of, his and mine are the same.",
+        "You must allow me to tell you how ardently I admire and love you."
+      ],
+      "colorName": "magenta",
+      "iconName": "heart.text.square.fill",
+      "category": "Love & Relationships",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-B4hKqu1a6ZnZ+HuXHJJYZeLYK454piZsId2U7gUqpEo=",
+      "bytes": 12498
+    },
+    {
+      "id": "john-muir",
+      "name": "John Muir",
+      "description": "The rapture of the wild from America's great naturalist and champion of the mountains.",
+      "author": "Quips Editorial",
+      "quoteCount": 32,
+      "previewQuotes": [
+        "The snow is melting into music.",
+        "In every walk with Nature one receives far more than he seeks."
+      ],
+      "colorName": "forestGreen",
+      "iconName": "mountain.2.fill",
+      "category": "Nature",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-4bUN53UIZ7zhVJWGdw/JiC6QaQKHbZ2sZxRwQXix/hk=",
+      "bytes": 16397
+    },
+    {
+      "id": "thoreau-walden",
+      "name": "Thoreau & Walden",
+      "description": "Simplicity, solitude, and deliberate living from the sage of Walden Pond.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "We need the tonic of wildness.",
+        "Things do not change; we change."
+      ],
+      "colorName": "mint",
+      "iconName": "tree.fill",
+      "category": "Nature",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-7QeOXGBtskjFyLRTIs0XAPJ+Y//UErwY6i6gKUUWd0k=",
+      "bytes": 13649
+    },
+    {
+      "id": "earth-and-the-wild",
+      "name": "Earth & the Wild",
+      "description": "Reverence for the living world, from the great voices of nature and conservation.",
+      "author": "Quips Editorial",
+      "quoteCount": 29,
+      "previewQuotes": [
+        "All flourishing is mutual.",
+        "In nature nothing exists alone."
+      ],
+      "colorName": "cyan",
+      "iconName": "globe.americas.fill",
+      "category": "Nature",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-shUJVrcByopdvXSgHamQ4KyqatyWDw96l3uj66/6xFQ=",
+      "bytes": 14235
+    },
+    {
+      "id": "studio-ghibli",
+      "name": "Studio Ghibli",
+      "description": "Wonder, courage, and quiet wisdom from the enchanted films of Studio Ghibli.",
+      "author": "Quips Editorial",
+      "quoteCount": 28,
+      "previewQuotes": [
+        "Ponyo wants ham!",
+        "May all your bacon burn!"
+      ],
+      "colorName": "cyan",
+      "iconName": "wind",
+      "category": "Anime & Manga",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-gw1LJsDf4HYclSbIEFnTvl6jEtLlxNhKjCTSQ0boFbE=",
+      "bytes": 12345
+    },
+    {
+      "id": "naruto",
+      "name": "Naruto",
+      "description": "Ninja resolve, pain, and never giving up — iconic lines from the world of Naruto.",
+      "author": "Quips Editorial",
+      "quoteCount": 26,
+      "previewQuotes": [
+        "The power of youth!",
+        "Sorry I'm late. I got lost on the path of life."
+      ],
+      "colorName": "orange",
+      "iconName": "figure.martial.arts",
+      "category": "Anime & Manga",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-6KNFcS40BjRjglaDScy5+A/57x/9hQuCxVBhgd2sAgA=",
+      "bytes": 13571
+    },
+    {
+      "id": "one-piece",
+      "name": "One Piece",
+      "description": "Dreams, freedom, and the bonds of a crew — unforgettable lines from One Piece.",
+      "author": "Quips Editorial",
+      "quoteCount": 26,
+      "previewQuotes": [
+        "I want to live!",
+        "Luffy… help me."
+      ],
+      "colorName": "red",
+      "iconName": "sailboat.fill",
+      "category": "Anime & Manga",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-pLLtmedfj+1m67+kyp/9oAFKLKrglZIbvKZtn1zi0qk=",
+      "bytes": 13516
+    },
+    {
+      "id": "iconic-game-lines",
+      "name": "Iconic Game Lines",
+      "description": "The unforgettable lines that gamers quote, from the classics to modern blockbusters.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "Praise the Sun!",
+        "Ah, fresh meat!"
+      ],
+      "colorName": "purple",
+      "iconName": "gamecontroller.fill",
+      "category": "Video Games",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-VZvS/bovGg+2uRiE4ZmyItz8S3x/DXunx02YAhMfncU=",
+      "bytes": 13006
+    },
+    {
+      "id": "legend-of-zelda",
+      "name": "The Legend of Zelda",
+      "description": "Courage, wisdom, and power — memorable lines from across Hyrule's long history.",
+      "author": "Quips Editorial",
+      "quoteCount": 20,
+      "previewQuotes": [
+        "Open your eyes.",
+        "Thank you, Master Link."
+      ],
+      "colorName": "gold",
+      "iconName": "triangle.fill",
+      "category": "Video Games",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-SHs7kz3muHTEaF+/VMoNI0O4MUkY+QfJ3Hye8SF1+FU=",
+      "bytes": 9369
+    },
+    {
+      "id": "rpg-wisdom",
+      "name": "RPG Wisdom",
+      "description": "Philosophy from the pause menu — the lines that made role-playing games unforgettable.",
+      "author": "Quips Editorial",
+      "quoteCount": 26,
+      "previewQuotes": [
+        "Not until the end. Always.",
+        "Does this unit have a soul?"
+      ],
+      "colorName": "navyBlue",
+      "iconName": "shield.lefthalf.filled",
+      "category": "Video Games",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-b8WR8bLX0Jv1Dnbj8QyxDiOqHEtycCvuY8boaX/ioK4=",
+      "bytes": 11938
     }
   ]
 }

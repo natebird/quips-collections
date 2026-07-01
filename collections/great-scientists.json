@@ -1,0 +1,302 @@
+{
+  "id": "great-scientists",
+  "name": "Great Scientists",
+  "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
+  "author": "Quips Editorial",
+  "colorName": "cyan",
+  "iconName": "atom",
+  "category": "Science",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "sci-001",
+      "content": "The first principle is that you must not fool yourself—and you are the easiest person to fool.",
+      "authorName": "Richard Feynman",
+      "source": "'Cargo Cult Science,' Caltech commencement address (1974)",
+      "quoteDate": "1974",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Feynman's summary of scientific integrity, delivered to Caltech's graduating class and later reprinted in his essays."
+    },
+    {
+      "id": "sci-002",
+      "content": "I think I can safely say that nobody understands quantum mechanics.",
+      "authorName": "Richard Feynman",
+      "source": "The Character of Physical Law, Ch. 6 (1965)",
+      "quoteDate": "1965",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the book of Feynman's 1964 Messenger Lectures at Cornell, in the chapter on quantum uncertainty."
+    },
+    {
+      "id": "sci-003",
+      "content": "I have approximate answers and possible beliefs and different degrees of certainty about different things, but I'm not absolutely sure of anything.",
+      "authorName": "Richard Feynman",
+      "source": "BBC Horizon interview, 'The Pleasure of Finding Things Out' (1981)",
+      "quoteDate": "1981",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Feynman on living comfortably with uncertainty, from his filmed BBC Horizon interview."
+    },
+    {
+      "id": "sci-004",
+      "content": "One never notices what has been done; one can only see what remains to be done.",
+      "authorName": "Marie Curie",
+      "source": "Letter to her brother Jozef Sklodowski (18 March 1894)",
+      "quoteDate": "1894-03-18",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Written early in her career; reproduced in Eve Curie's biography Madame Curie (1937)."
+    },
+    {
+      "id": "sci-005",
+      "content": "I am among those who think that science has great beauty. A scientist in his laboratory is not a mere technician: he is also a child confronting natural phenomena that impress him as though they were fairy tales.",
+      "authorName": "Marie Curie",
+      "source": "Quoted in Eve Curie, Madame Curie: A Biography (1937)",
+      "quoteDate": "1937",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Curie's own words as recorded by her daughter Eve; date reflects the documented source."
+    },
+    {
+      "id": "sci-006",
+      "content": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "authorName": "Marie Curie",
+      "source": "Widely attributed; earliest traceable to Glenn T. Seaborg's 1967 account of a Curie centenary address",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Fails both axes: no primary Curie source, and the second sentence appears to be Seaborg's own addition, not Curie's words."
+    },
+    {
+      "id": "sci-007",
+      "content": "I have called this principle, by which each slight variation, if useful, is preserved, by the term of Natural Selection, in order to mark its relation to man's power of selection.",
+      "authorName": "Charles Darwin",
+      "source": "On the Origin of Species, Ch. 3 (1859)",
+      "quoteDate": "1859",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Darwin's formal introduction of the term 'natural selection.'"
+    },
+    {
+      "id": "sci-008",
+      "content": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+      "authorName": "Charles Darwin",
+      "source": "On the Origin of Species, closing sentence, 1st ed. (1859)",
+      "quoteDate": "1859",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The famous final sentence of the first edition, before 'by the Creator' was added in later editions."
+    },
+    {
+      "id": "sci-009",
+      "content": "I love fools' experiments. I am always making them.",
+      "authorName": "Charles Darwin",
+      "source": "Recollection by E. Ray Lankester, in Library of the World's Best Literature (1896)",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Fails the wording/source axis: a secondhand recollection recorded years after Darwin's death, not from his own writing."
+    },
+    {
+      "id": "sci-010",
+      "content": "If I have seen further it is by standing on the shoulders of Giants.",
+      "authorName": "Isaac Newton",
+      "source": "Letter to Robert Hooke (5 February 1675)",
+      "quoteDate": "1675-02-05",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "From Newton's letter to Hooke; the original is held by the Historical Society of Pennsylvania."
+    },
+    {
+      "id": "sci-011",
+      "content": "Plato is my friend, Aristotle is my friend, but my greatest friend is truth.",
+      "authorName": "Isaac Newton",
+      "source": "Motto in his student notebook, Quaestiones quaedam philosophicae (c. 1664)",
+      "quoteDate": "c. 1664",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Newton inscribed this classical Latin adage ('Amicus Plato... magis amica veritas') as the motto of his Cambridge notebook; content is the standard translation."
+    },
+    {
+      "id": "sci-012",
+      "content": "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.",
+      "authorName": "Isaac Newton",
+      "source": "Attributed; recorded posthumously in Spence's Anecdotes and Brewster's Memoirs of Newton (1855)",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Fails the source axis: traced only to secondhand anecdotes gathered after Newton's death, with no primary source in his own hand."
+    },
+    {
+      "id": "sci-013",
+      "content": "Philosophy is written in this grand book, the universe, which stands continually open to our gaze. But the book cannot be understood unless one first learns to comprehend the language and to read the characters in which it is composed. It is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures, without which it is humanly impossible to understand a single word of it.",
+      "authorName": "Galileo Galilei",
+      "source": "The Assayer (Il Saggiatore), 1623",
+      "quoteDate": "1623",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Galileo's 'book of nature' passage, in the standard Stillman Drake translation."
+    },
+    {
+      "id": "sci-014",
+      "content": "In the sciences, the authority of thousands of opinions is not worth as much as one tiny spark of reason in an individual man.",
+      "authorName": "Galileo Galilei",
+      "source": "Third Letter on Sunspots (1612)",
+      "quoteDate": "1612",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Galileo's genuine wording; the popular 'authority of a thousand is not worth the humble reasoning of a single individual' is a looser 1859 translation and is not used here."
+    },
+    {
+      "id": "sci-015",
+      "content": "Nothing is too wonderful to be true, if it be consistent with the laws of nature.",
+      "authorName": "Michael Faraday",
+      "source": "Laboratory notebook (1849), in The Life and Letters of Faraday, Vol. 2 (1870)",
+      "quoteDate": "1849",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Written in his lab notebook while musing on a possible link between gravity and electricity."
+    },
+    {
+      "id": "sci-016",
+      "content": "The secret is comprised in three words—Work, Finish, Publish.",
+      "authorName": "Michael Faraday",
+      "source": "Advice to William Crookes, in J. H. Gladstone, Michael Faraday (1874)",
+      "quoteDate": "1874",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Faraday's reply when the young chemist Crookes asked the secret of his success; date reflects the documented source."
+    },
+    {
+      "id": "sci-017",
+      "content": "The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.",
+      "authorName": "Niels Bohr",
+      "source": "As recalled by Werner Heisenberg, Physics and Beyond (1971)",
+      "quoteDate": "1971",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Bohr's favorite maxim on complementarity, recorded by his colleague Heisenberg; consistent with the son Hans Bohr's 1967 account."
+    },
+    {
+      "id": "sci-018",
+      "content": "An expert is a man who has made all the mistakes which can be made, in a very narrow field.",
+      "authorName": "Niels Bohr",
+      "source": "Attributed to Bohr by Edward Teller, LIFE magazine (1954)",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "article",
+      "notes": "Fails the source axis: attributed secondhand via Teller and part of an older family of similar sayings; no primary Bohr source."
+    },
+    {
+      "id": "sci-019",
+      "content": "In the fields of observation, chance favours only the prepared mind.",
+      "authorName": "Louis Pasteur",
+      "source": "Inaugural lecture, University of Lille (7 December 1854)",
+      "quoteDate": "1854-12-07",
+      "verificationStatus": "verified",
+      "sourceType": "lecture",
+      "notes": "Original French: 'Dans les champs de l'observation le hasard ne favorise que les esprits prepares.'"
+    },
+    {
+      "id": "sci-020",
+      "content": "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.",
+      "authorName": "Louis Pasteur",
+      "source": "Toast at the International Congress of Sericulture, Milan (1876)",
+      "quoteDate": "1876",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Recorded in Rene Dubos, Louis Pasteur, Free Lance of Science (1960)."
+    },
+    {
+      "id": "sci-021",
+      "content": "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.",
+      "authorName": "Max Planck",
+      "source": "Scientific Autobiography and Other Papers (1950)",
+      "quoteDate": "1950",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sometimes paraphrased as 'science advances one funeral at a time'; this is Planck's actual wording."
+    },
+    {
+      "id": "sci-022",
+      "content": "The Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
+      "authorName": "Ada Lovelace",
+      "source": "Notes on Menabrea's 'Sketch of the Analytical Engine' (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "From Lovelace's translator's notes, published in Taylor's Scientific Memoirs."
+    },
+    {
+      "id": "sci-023",
+      "content": "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.",
+      "authorName": "Ada Lovelace",
+      "source": "Notes on Menabrea's 'Sketch of the Analytical Engine,' Note G (1843)",
+      "quoteDate": "1843",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Often cited in debates on machine creativity and artificial intelligence."
+    },
+    {
+      "id": "sci-024",
+      "content": "The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology.",
+      "authorName": "E. O. Wilson",
+      "source": "Debate at the Harvard Museum of Natural History (9 September 2009)",
+      "quoteDate": "2009-09-09",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Wilson's answer during a moderated public debate with James Watson."
+    },
+    {
+      "id": "sci-025",
+      "content": "Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal.",
+      "authorName": "E. O. Wilson",
+      "source": "Quoted in Time, 'Splendor in the Grass' (3 September 1990)",
+      "quoteDate": "1990",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Wilson on the irreversibility of biodiversity loss."
+    },
+    {
+      "id": "sci-026",
+      "content": "Science and everyday life cannot and should not be separated. Science, for me, gives a partial explanation of life.",
+      "authorName": "Rosalind Franklin",
+      "source": "Letter to her father (summer 1940), in Brenda Maddox, Rosalind Franklin: The Dark Lady of DNA (2002)",
+      "quoteDate": "1940",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Franklin, then a student, replying to her father's view of science as separate from real life; also in the Oxford Dictionary of Quotations."
+    },
+    {
+      "id": "sci-027",
+      "content": "What we observe is not nature in itself, but nature exposed to our method of questioning.",
+      "authorName": "Werner Heisenberg",
+      "source": "Physics and Philosophy: The Revolution in Modern Science (1958)",
+      "quoteDate": "1958",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From lectures Heisenberg gave at St. Andrews, on the observer's role in physics."
+    },
+    {
+      "id": "sci-028",
+      "content": "I know my corn plants intimately, and I find it a great pleasure to know them.",
+      "authorName": "Barbara McClintock",
+      "source": "Quoted in Evelyn Fox Keller, A Feeling for the Organism (1983)",
+      "quoteDate": "1983",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "McClintock's own words from Keller's interviews for the biography, published the year she won the Nobel Prize."
+    },
+    {
+      "id": "sci-029",
+      "content": "Only if we understand, will we care. Only if we care, will we help. Only if we help, shall all be saved.",
+      "authorName": "Jane Goodall",
+      "source": "Attributed; associated with Jane Goodall: 40 Years at Gombe (1999)",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Fails the wording axis: a genuine Goodall theme, but phrasing varies across sources ('can we care' vs 'will we care') with no single confirmed primary text."
+    }
+  ]
+}

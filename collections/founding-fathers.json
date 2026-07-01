@@ -1,0 +1,312 @@
+{
+  "id": "founding-fathers",
+  "name": "Founding Fathers",
+  "description": "Liberty, virtue, and self-government in the words of America's founders.",
+  "author": "Quips Editorial",
+  "colorName": "brown",
+  "iconName": "flag.fill",
+  "category": "History & Speeches",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "found-001",
+      "content": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.",
+      "authorName": "Thomas Jefferson",
+      "source": "Declaration of Independence (1776)",
+      "quoteDate": "1776-07-04",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "The Declaration's second paragraph, the founding statement of natural rights; text confirmed against the National Archives engrossed copy."
+    },
+    {
+      "id": "found-002",
+      "content": "The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants. It is its natural manure.",
+      "authorName": "Thomas Jefferson",
+      "source": "Letter to William Stephens Smith (1787)",
+      "quoteDate": "1787-11-13",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Written from Paris reflecting on Shays's Rebellion; confirmed on Founders Online (Jefferson to W. S. Smith, 13 Nov. 1787)."
+    },
+    {
+      "id": "found-003",
+      "content": "I am not an advocate for frequent changes in laws and constitutions, but laws and institutions must go hand in hand with the progress of the human mind.",
+      "authorName": "Thomas Jefferson",
+      "source": "Letter to Samuel Kercheval (1816)",
+      "quoteDate": "1816-07-12",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "On constitutional reform in Virginia; confirmed on Founders Online. A redacted version is carved on the Jefferson Memorial."
+    },
+    {
+      "id": "found-004",
+      "content": "Equal and exact justice to all men, of whatever state or persuasion, religious or political.",
+      "authorName": "Thomas Jefferson",
+      "source": "First Inaugural Address (1801)",
+      "quoteDate": "1801-03-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The first of the 'essential principles' Jefferson listed in his conciliatory first inaugural; confirmed on Founders Online."
+    },
+    {
+      "id": "found-005",
+      "content": "Rightful liberty is unobstructed action according to our will within limits drawn around us by the equal rights of others.",
+      "authorName": "Thomas Jefferson",
+      "source": "Letter to Isaac H. Tiffany (1819)",
+      "quoteDate": "1819-04-04",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Jefferson's definition of liberty, distinguishing it from unlimited license; confirmed on Founders Online."
+    },
+    {
+      "id": "found-006",
+      "content": "I like the dreams of the future better than the history of the past.",
+      "authorName": "Thomas Jefferson",
+      "source": "Letter to John Adams (1816)",
+      "quoteDate": "1816-08-01",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "From the reconciled Adams-Jefferson correspondence of their retirement years; confirmed on Founders Online."
+    },
+    {
+      "id": "found-007",
+      "content": "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.",
+      "authorName": "Benjamin Franklin",
+      "source": "Pennsylvania Assembly: Reply to the Governor (1755)",
+      "quoteDate": "1755-11-11",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Written for the Pennsylvania Assembly during a tax dispute in the French and Indian War, not about civil liberties as often quoted; confirmed on Founders Online."
+    },
+    {
+      "id": "found-008",
+      "content": "Well done is better than well said.",
+      "authorName": "Benjamin Franklin",
+      "source": "Poor Richard's Almanack (1737)",
+      "quoteDate": "1737",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "One of Franklin's maxims under the Poor Richard pseudonym; confirmed on Founders Online (Poor Richard, 1737)."
+    },
+    {
+      "id": "found-009",
+      "content": "These are the times that try men's souls. The summer soldier and the sunshine patriot will, in this crisis, shrink from the service of their country.",
+      "authorName": "Thomas Paine",
+      "source": "The American Crisis, No. I (1776)",
+      "quoteDate": "1776-12-19",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Opening of the first Crisis pamphlet, read aloud to Washington's troops before the crossing of the Delaware."
+    },
+    {
+      "id": "found-010",
+      "content": "Society in every state is a blessing, but government, even in its best state, is but a necessary evil; in its worst state an intolerable one.",
+      "authorName": "Thomas Paine",
+      "source": "Common Sense (1776)",
+      "quoteDate": "1776",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening argument of Common Sense distinguishing society from government."
+    },
+    {
+      "id": "found-011",
+      "content": "My country is the world, and my religion is to do good.",
+      "authorName": "Thomas Paine",
+      "source": "Rights of Man, Part II (1792)",
+      "quoteDate": "1792",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Part II of Rights of Man; the fuller line begins 'Independence is my happiness...'."
+    },
+    {
+      "id": "found-012",
+      "content": "Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports.",
+      "authorName": "George Washington",
+      "source": "Farewell Address (1796)",
+      "quoteDate": "1796-09-19",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "From Washington's printed valedictory to the nation, first published in Claypoole's American Daily Advertiser."
+    },
+    {
+      "id": "found-013",
+      "content": "The Government of the United States, which gives to bigotry no sanction, to persecution no assistance, requires only that they who live under its protection should demean themselves as good citizens.",
+      "authorName": "George Washington",
+      "source": "Letter to the Hebrew Congregation in Newport (1790)",
+      "quoteDate": "1790-08-18",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Washington's statement of religious liberty, echoing warden Moses Seixas's own words; confirmed on Founders Online."
+    },
+    {
+      "id": "found-014",
+      "content": "The freedom of speech may be taken away, and, dumb and silent we may be led, like sheep, to the slaughter.",
+      "authorName": "George Washington",
+      "source": "Address to the Officers of the Army at Newburgh (1783)",
+      "quoteDate": "1783-03-15",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered to defuse the Newburgh conspiracy among unpaid officers; confirmed on Founders Online."
+    },
+    {
+      "id": "found-015",
+      "content": "If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary.",
+      "authorName": "James Madison",
+      "source": "Federalist No. 51 (1788)",
+      "quoteDate": "1788-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Madison's argument for checks and balances, published under the pseudonym Publius."
+    },
+    {
+      "id": "found-016",
+      "content": "The religion then of every man must be left to the conviction and conscience of every man; and it is the right of every man to exercise it as these may dictate.",
+      "authorName": "James Madison",
+      "source": "Memorial and Remonstrance Against Religious Assessments (1785)",
+      "quoteDate": "1785",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Madison's petition opposing a Virginia tax to support clergy; confirmed on Founders Online."
+    },
+    {
+      "id": "found-017",
+      "content": "The accumulation of all powers, legislative, executive, and judiciary, in the same hands, whether of one, a few, or many, and whether hereditary, self-appointed, or elective, may justly be pronounced the very definition of tyranny.",
+      "authorName": "James Madison",
+      "source": "Federalist No. 47 (1788)",
+      "quoteDate": "1788-01-30",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Madison on the separation of powers, published as Publius."
+    },
+    {
+      "id": "found-018",
+      "content": "Knowledge will forever govern ignorance: And a people who mean to be their own Governors, must arm themselves with the power which knowledge gives.",
+      "authorName": "James Madison",
+      "source": "Letter to W. T. Barry (1822)",
+      "quoteDate": "1822-08-04",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "On the necessity of public education to self-government; confirmed on Founders Online."
+    },
+    {
+      "id": "found-019",
+      "content": "They define a republic to be a government of laws, and not of men.",
+      "authorName": "John Adams",
+      "source": "Novanglus, No. VII (1775)",
+      "quoteDate": "1775-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "From Adams's Novanglus essays in the Boston Gazette; he was invoking James Harrington's earlier formulation. Confirmed on Founders Online."
+    },
+    {
+      "id": "found-020",
+      "content": "Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.",
+      "authorName": "John Adams",
+      "source": "Argument in Defense of the British Soldiers, Boston Massacre trial (1770)",
+      "quoteDate": "1770-12-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Adams's summation defending the accused soldiers; confirmed on Founders Online (Adams' Argument for the Defense)."
+    },
+    {
+      "id": "found-021",
+      "content": "Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.",
+      "authorName": "John Adams",
+      "source": "Letter to the Massachusetts Militia (1798)",
+      "quoteDate": "1798-10-11",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "To the officers of the First Brigade, Third Division of the Massachusetts Militia; confirmed on Founders Online."
+    },
+    {
+      "id": "found-022",
+      "content": "I desire you would remember the ladies, and be more generous and favourable to them than your ancestors. Do not put such unlimited power into the hands of the husbands. Remember, all men would be tyrants if they could.",
+      "authorName": "Abigail Adams",
+      "source": "Letter to John Adams (1776)",
+      "quoteDate": "1776-03-31",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Written as the Continental Congress moved toward independence; confirmed on Founders Online (spelling lightly modernized)."
+    },
+    {
+      "id": "found-023",
+      "content": "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.",
+      "authorName": "Abigail Adams",
+      "source": "Letter to John Quincy Adams (1780)",
+      "quoteDate": "1780-03-20",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Advice to her teenage son, the future president; confirmed on Founders Online."
+    },
+    {
+      "id": "found-024",
+      "content": "It seems to have been reserved to the people of this country, by their conduct and example, to decide the important question, whether societies of men are really capable or not of establishing good government from reflection and choice, or whether they are forever destined to depend for their political constitutions on accident and force.",
+      "authorName": "Alexander Hamilton",
+      "source": "Federalist No. 1 (1787)",
+      "quoteDate": "1787-10-27",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "The framing question that opens the Federalist essays, published as Publius."
+    },
+    {
+      "id": "found-025",
+      "content": "Energy in the executive is a leading character in the definition of good government.",
+      "authorName": "Alexander Hamilton",
+      "source": "Federalist No. 70 (1788)",
+      "quoteDate": "1788-03-15",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Hamilton's argument for a single, vigorous executive; confirmed on Founders Online."
+    },
+    {
+      "id": "found-026",
+      "content": "The only foundation for a useful education in a republic is to be laid in religion. Without this there can be no virtue, and without virtue there can be no liberty, and liberty is the object and life of all republican governments.",
+      "authorName": "Benjamin Rush",
+      "source": "Of the Mode of Education Proper in a Republic (1786)",
+      "quoteDate": "1786",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Rush, a signer of the Declaration, on virtue and civic education; text confirmed against the University of Chicago Founders' Constitution."
+    },
+    {
+      "id": "found-027",
+      "content": "Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty, or give me death!",
+      "authorName": "Patrick Henry",
+      "source": "Speech to the Second Virginia Convention (1775)",
+      "quoteDate": "1775-03-23",
+      "verificationStatus": "unverified",
+      "sourceType": "speech",
+      "notes": "Wording axis fails: no contemporaneous transcript exists. The famous text is biographer William Wirt's 1817 reconstruction from witnesses' recollections decades after the fact, and historians dispute whether Henry spoke these exact words."
+    },
+    {
+      "id": "found-028",
+      "content": "A republic, if you can keep it.",
+      "authorName": "Benjamin Franklin",
+      "source": "Constitutional Convention, per James McHenry's notes (1787)",
+      "quoteDate": "1787-09-18",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution axis fails: the line survives only in a single secondhand anecdote in delegate James McHenry's notes (first printed in 1906), not in any of Franklin's own writings or the convention record."
+    },
+    {
+      "id": "found-029",
+      "content": "Dissent is the highest form of patriotism.",
+      "authorName": "Thomas Jefferson",
+      "source": "Commonly misattributed; not found in Jefferson's papers",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: the Monticello staff classify this as spurious. It appears nowhere in Jefferson's writings and likely entered circulation during the Vietnam era."
+    },
+    {
+      "id": "found-030",
+      "content": "A government big enough to give you everything you want is a government big enough to take away everything that you have.",
+      "authorName": "Thomas Jefferson",
+      "source": "Commonly misattributed; not found in Jefferson's papers",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford."
+    }
+  ]
+}

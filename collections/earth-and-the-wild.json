@@ -1,0 +1,302 @@
+{
+  "id": "earth-and-the-wild",
+  "name": "Earth & the Wild",
+  "description": "Reverence for the living world, from the great voices of nature and conservation.",
+  "author": "Quips Editorial",
+  "colorName": "cyan",
+  "iconName": "globe.americas.fill",
+  "category": "Nature",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "earth-001",
+      "content": "The \"control of nature\" is a phrase conceived in arrogance, born of the Neanderthal age of biology and philosophy, when it was supposed that nature exists for the convenience of man.",
+      "authorName": "Rachel Carson",
+      "source": "Silent Spring (1962)",
+      "quoteDate": "1962",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The closing indictment of Carson's landmark book that launched the modern environmental movement."
+    },
+    {
+      "id": "earth-002",
+      "content": "In nature nothing exists alone.",
+      "authorName": "Rachel Carson",
+      "source": "Silent Spring, Ch. 4 (1962)",
+      "quoteDate": "1962",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Carson's core ecological principle: every organism is bound to the web of the whole."
+    },
+    {
+      "id": "earth-003",
+      "content": "Those who contemplate the beauty of the earth find reserves of strength that will endure as long as life lasts.",
+      "authorName": "Rachel Carson",
+      "source": "The Sense of Wonder (1965)",
+      "quoteDate": "1965",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Carson's posthumously published meditation on nurturing a child's sense of wonder."
+    },
+    {
+      "id": "earth-004",
+      "content": "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
+      "authorName": "Rachel Carson",
+      "source": "Acceptance speech, John Burroughs Medal (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered on receiving the John Burroughs Medal; later reprinted in reflections on wonder."
+    },
+    {
+      "id": "earth-005",
+      "content": "A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise.",
+      "authorName": "Aldo Leopold",
+      "source": "A Sand County Almanac, \"The Land Ethic\" (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The foundational maxim of Leopold's land ethic."
+    },
+    {
+      "id": "earth-006",
+      "content": "We reached the old wolf in time to watch a fierce green fire dying in her eyes. I realized then, and have known ever since, that there was something new to me in those eyes—something known only to her and to the mountain.",
+      "authorName": "Aldo Leopold",
+      "source": "A Sand County Almanac, \"Thinking Like a Mountain\" (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The moment of conversion that taught Leopold to see the land as a whole."
+    },
+    {
+      "id": "earth-007",
+      "content": "We abuse land because we regard it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect.",
+      "authorName": "Aldo Leopold",
+      "source": "A Sand County Almanac, Foreword (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the foreword Leopold completed shortly before his death in 1948."
+    },
+    {
+      "id": "earth-008",
+      "content": "There are some who can live without wild things, and some who cannot. These essays are the delights and dilemmas of one who cannot.",
+      "authorName": "Aldo Leopold",
+      "source": "A Sand County Almanac, Foreword (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening lines of the book's foreword."
+    },
+    {
+      "id": "earth-009",
+      "content": "Conservation is a state of harmony between men and land.",
+      "authorName": "Aldo Leopold",
+      "source": "A Sand County Almanac, \"The Land Ethic\" (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Leopold's spare definition of conservation as relationship rather than resource management."
+    },
+    {
+      "id": "earth-010",
+      "content": "We can be ethical only in relation to something we can see, feel, understand, love, or otherwise have faith in.",
+      "authorName": "Aldo Leopold",
+      "source": "A Sand County Almanac, \"The Land Ethic\" (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Why Leopold believed conservation depends on love and direct contact with the land."
+    },
+    {
+      "id": "earth-011",
+      "content": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "authorName": "Mary Oliver",
+      "source": "\"The Summer Day,\" House of Light (1990)",
+      "quoteDate": "1990",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The famous closing question of Oliver's grasshopper poem."
+    },
+    {
+      "id": "earth-012",
+      "content": "You do not have to be good. You do not have to walk on your knees for a hundred miles through the desert, repenting. You only have to let the soft animal of your body love what it loves.",
+      "authorName": "Mary Oliver",
+      "source": "\"Wild Geese,\" Dream Work (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The opening lines of one of Oliver's most beloved poems."
+    },
+    {
+      "id": "earth-013",
+      "content": "Whoever you are, no matter how lonely, the world offers itself to your imagination, calls to you like the wild geese, harsh and exciting—over and over announcing your place in the family of things.",
+      "authorName": "Mary Oliver",
+      "source": "\"Wild Geese,\" Dream Work (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The closing lines of \"Wild Geese,\" placing every reader within the living world."
+    },
+    {
+      "id": "earth-014",
+      "content": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+      "authorName": "Mary Oliver",
+      "source": "\"Sometimes,\" Red Bird (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Oliver's distilled creed of attentiveness to the world."
+    },
+    {
+      "id": "earth-015",
+      "content": "When it's over, I want to say: all my life I was a bride married to amazement.",
+      "authorName": "Mary Oliver",
+      "source": "\"When Death Comes,\" New and Selected Poems (1992)",
+      "quoteDate": "1992",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "From the poem in the collection that won the National Book Award for Poetry."
+    },
+    {
+      "id": "earth-016",
+      "content": "In the woods, we return to reason and faith.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Nature (1836)",
+      "quoteDate": "1836",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the passage preceding Emerson's famous 'transparent eyeball' vision."
+    },
+    {
+      "id": "earth-017",
+      "content": "Nature always wears the colors of the spirit.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Nature (1836)",
+      "quoteDate": "1836",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Emerson's claim that we meet in nature the mood we bring to it."
+    },
+    {
+      "id": "earth-018",
+      "content": "The lover of nature is he whose inward and outward senses are still truly adjusted to each other; who has retained the spirit of infancy even into the era of manhood.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Nature (1836)",
+      "quoteDate": "1836",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The founding essay of American Transcendentalism on keeping a childlike openness to the world."
+    },
+    {
+      "id": "earth-019",
+      "content": "All flourishing is mutual.",
+      "authorName": "Robin Wall Kimmerer",
+      "source": "Braiding Sweetgrass (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Kimmerer's summary of reciprocity, drawn from how forest trees share resources underground."
+    },
+    {
+      "id": "earth-020",
+      "content": "Knowing that you love the earth changes you, activates you to defend and protect and celebrate. But when you feel that the earth loves you in return, that feeling transforms the relationship from a one-way street into a sacred bond.",
+      "authorName": "Robin Wall Kimmerer",
+      "source": "Braiding Sweetgrass (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On reciprocity between people and the living land, blending Indigenous wisdom and botany."
+    },
+    {
+      "id": "earth-021",
+      "content": "In a consumer society, contentment is a radical proposition. Recognizing abundance rather than scarcity undermines an economy that thrives by creating unmet desires.",
+      "authorName": "Robin Wall Kimmerer",
+      "source": "Braiding Sweetgrass (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Kimmerer argues that gratitude for the earth's gifts is itself a form of resistance."
+    },
+    {
+      "id": "earth-022",
+      "content": "Paying attention is a form of reciprocity with the living world, receiving the gifts with open eyes and open heart.",
+      "authorName": "Robin Wall Kimmerer",
+      "source": "Braiding Sweetgrass (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Attention as the first act of care we can offer the natural world."
+    },
+    {
+      "id": "earth-023",
+      "content": "I come into the peace of wild things who do not tax their lives with forethought of grief. I come into the presence of still water. And I feel above me the day-blind stars waiting with their light. For a time I rest in the grace of the world, and am free.",
+      "authorName": "Wendell Berry",
+      "source": "\"The Peace of Wild Things\" (1968)",
+      "quoteDate": "1968",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Berry's poem of finding release from human dread among untroubled wild creatures."
+    },
+    {
+      "id": "earth-024",
+      "content": "The care of the Earth is our most ancient and most worthy, and after all, our most pleasing responsibility. To cherish what remains of it, and to foster its renewal, is our only hope.",
+      "authorName": "Wendell Berry",
+      "source": "The Unsettling of America (1977)",
+      "quoteDate": "1977",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Berry's critique of industrial agriculture and its rupture from the land."
+    },
+    {
+      "id": "earth-025",
+      "content": "I pray to the birds because I believe they will carry the messages of my heart upward. I pray to them because I believe in their existence, the way their songs begin and end each day—the invocations and benedictions of Earth.",
+      "authorName": "Terry Tempest Williams",
+      "source": "Refuge: An Unnatural History of Family and Place (1991)",
+      "quoteDate": "1991",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Williams's memoir braiding her mother's illness with the flooding of a bird refuge."
+    },
+    {
+      "id": "earth-026",
+      "content": "The eyes of the future are looking back at us and they are praying for us to see beyond our own time.",
+      "authorName": "Terry Tempest Williams",
+      "source": "Attributed to Terry Tempest Williams",
+      "quoteDate": "c. 1994",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified on the source axis: widely quoted but attributed inconsistently across her books (Refuge and Red)."
+    },
+    {
+      "id": "earth-027",
+      "content": "Wilderness to the people of America is a spiritual necessity, an antidote to the high pressure of modern life, a means of regaining serenity and equilibrium.",
+      "authorName": "Sigurd F. Olson",
+      "source": "Attributed to The Singing Wilderness (1956)",
+      "quoteDate": "c. 1956",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified on the source axis: attributed both to The Singing Wilderness and to Olson's 1946 essay 'We Need Wilderness'; primary text unconfirmed."
+    },
+    {
+      "id": "earth-028",
+      "content": "This is not about saving our planet, it's about saving ourselves.",
+      "authorName": "David Attenborough",
+      "source": "David Attenborough: A Life on Our Planet (2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "Attenborough's framing of the biodiversity crisis in his filmed 'witness statement.'"
+    },
+    {
+      "id": "earth-029",
+      "content": "I go to nature to be soothed and healed, and to have my senses put in order.",
+      "authorName": "John Burroughs",
+      "source": "Attributed to John Burroughs, The Summit of the Years (1913)",
+      "quoteDate": "c. 1913",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified on the source axis: attributed variously to The Summit of the Years (1913) and Time and Change (1912); primary text unconfirmed."
+    }
+  ]
+}

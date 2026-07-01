@@ -1,0 +1,292 @@
+{
+  "id": "studio-ghibli",
+  "name": "Studio Ghibli",
+  "description": "Wonder, courage, and quiet wisdom from the enchanted films of Studio Ghibli.",
+  "author": "Quips Editorial",
+  "colorName": "cyan",
+  "iconName": "wind",
+  "category": "Anime & Manga",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "ghibli-001",
+      "content": "Once you've met someone, you never really forget them. It just takes a while for your memories to return.",
+      "authorName": "Zeniba (Spirited Away)",
+      "source": "Spirited Away (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Zeniba reassures Chihiro about her fading memories; wording is the Disney English dub (John Lasseter production)."
+    },
+    {
+      "id": "ghibli-002",
+      "content": "If you completely forget your name, you'll never find your way back home.",
+      "authorName": "Haku (Spirited Away)",
+      "source": "Spirited Away (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Haku warns Chihiro after Yubaba steals her name; Disney English dub wording."
+    },
+    {
+      "id": "ghibli-003",
+      "content": "So, your name's Chihiro? What a pretty name. And it belongs to me now.",
+      "authorName": "Yubaba (Spirited Away)",
+      "source": "Spirited Away (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Yubaba seizes Chihiro's name to bind her in servitude; Disney English dub."
+    },
+    {
+      "id": "ghibli-004",
+      "content": "Now go, and don't look back.",
+      "authorName": "Haku (Spirited Away)",
+      "source": "Spirited Away (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Haku's parting instruction as Chihiro leaves the spirit world; Disney English dub."
+    },
+    {
+      "id": "ghibli-005",
+      "content": "To see with eyes unclouded by hate.",
+      "authorName": "Ashitaka (Princess Mononoke)",
+      "source": "Princess Mononoke (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Ashitaka's guiding creed for the film; Neil Gaiman's Miramax English dub (Japanese literally closer to 'to see with clear eyes')."
+    },
+    {
+      "id": "ghibli-006",
+      "content": "The trees cry out as they die, but you cannot hear them.",
+      "authorName": "Moro (Princess Mononoke)",
+      "source": "Princess Mononoke (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "The wolf-god Moro rebukes humankind; Neil Gaiman's Miramax English dub."
+    },
+    {
+      "id": "ghibli-007",
+      "content": "Now watch closely, everyone. I'm going to show you how to kill a god.",
+      "authorName": "Lady Eboshi (Princess Mononoke)",
+      "source": "Princess Mononoke (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Eboshi before firing on the Forest Spirit; Miramax English dub wording."
+    },
+    {
+      "id": "ghibli-008",
+      "content": "No. Live.",
+      "authorName": "Ashitaka (Princess Mononoke)",
+      "source": "Princess Mononoke (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Ashitaka urging the dying San to keep living; Miramax English dub."
+    },
+    {
+      "id": "ghibli-009",
+      "content": "You cannot alter your fate. However, you can rise to meet it if you choose.",
+      "authorName": "Hii-sama (Princess Mononoke)",
+      "source": "Princess Mononoke (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "The village wise-woman sends the cursed Ashitaka away; Miramax English dub (minor wording variants like 'change your fate' appear in fan transcripts)."
+    },
+    {
+      "id": "ghibli-010",
+      "content": "A heart is a heavy burden.",
+      "authorName": "Sophie (Howl's Moving Castle)",
+      "source": "Howl's Moving Castle (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Sophie on Howl's traded-away heart; Disney English dub."
+    },
+    {
+      "id": "ghibli-011",
+      "content": "I see no point in living if I can't be beautiful.",
+      "authorName": "Howl (Howl's Moving Castle)",
+      "source": "Howl's Moving Castle (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Howl's melodramatic despair after his hair is dyed the wrong color; Disney English dub (Christian Bale)."
+    },
+    {
+      "id": "ghibli-012",
+      "content": "I'm done running away. I've finally found someone I want to protect. You.",
+      "authorName": "Howl (Howl's Moving Castle)",
+      "source": "Howl's Moving Castle (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "Howl's declaration to Sophie; wording axis failed - the Disney dub phrasing varies across transcripts ('now that I have something I want to protect - it's you')."
+    },
+    {
+      "id": "ghibli-013",
+      "content": "May all your bacon burn!",
+      "authorName": "Calcifer (Howl's Moving Castle)",
+      "source": "Howl's Moving Castle (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "The fire demon Calcifer's petulant curse; Disney English dub (Billy Crystal)."
+    },
+    {
+      "id": "ghibli-014",
+      "content": "Without even thinking about it, I used to be able to fly. Now I'm trying to look inside myself and find out how I did it.",
+      "authorName": "Kiki (Kiki's Delivery Service)",
+      "source": "Kiki's Delivery Service (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Kiki describing her lost magic; Disney English dub (Kirsten Dunst)."
+    },
+    {
+      "id": "ghibli-015",
+      "content": "We each need to find our own inspiration, Kiki. Sometimes it's not easy.",
+      "authorName": "Ursula (Kiki's Delivery Service)",
+      "source": "Kiki's Delivery Service (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "The painter Ursula's advice on creative blocks; wording axis failed - reconstructed from fan summaries rather than a confirmed dub transcript."
+    },
+    {
+      "id": "ghibli-016",
+      "content": "All right, first: don't panic! Second: don't panic! And third: did I mention not to panic?",
+      "authorName": "Jiji (Kiki's Delivery Service)",
+      "source": "Kiki's Delivery Service (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "The cat Jiji's frantic pep talk; Disney English dub (Phil Hartman, whose ad-libs differ notably from the subtitles)."
+    },
+    {
+      "id": "ghibli-017",
+      "content": "Take root in the ground, live in harmony with the wind, plant your seeds in the winter, and rejoice with the birds in the coming of spring.",
+      "authorName": "Sheeta (Castle in the Sky)",
+      "source": "Castle in the Sky (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Sheeta recites the Spell of the Valley to Muska; Disney English dub (Anna Paquin)."
+    },
+    {
+      "id": "ghibli-018",
+      "content": "No matter how many weapons you have, no matter how great your technology might be, the world cannot live without love.",
+      "authorName": "Sheeta (Castle in the Sky)",
+      "source": "Castle in the Sky (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Sheeta explaining why the Laputans abandoned their floating kingdom; Disney English dub."
+    },
+    {
+      "id": "ghibli-019",
+      "content": "He will descend from the sky, clad in blue and surrounded by fields of gold, to restore mankind's bond with the earth.",
+      "authorName": "Obaba (Nausicaä of the Valley of the Wind)",
+      "source": "Nausicaä of the Valley of the Wind (1984)",
+      "quoteDate": "1984",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "The old woman's prophecy fulfilled by Nausicaa; wording axis failed - the Disney 2005 dub phrasing varies and this is a normalized paraphrase."
+    },
+    {
+      "id": "ghibli-020",
+      "content": "Airplanes are beautiful dreams. Engineers turn dreams into reality.",
+      "authorName": "Caproni (The Wind Rises)",
+      "source": "The Wind Rises (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "The Italian designer Caproni in Jiro's dream; Disney English dub (Stanley Tucci) delivers these as two adjacent lines."
+    },
+    {
+      "id": "ghibli-021",
+      "content": "The wind is rising! We must try to live!",
+      "authorName": "Jiro Horikoshi (The Wind Rises)",
+      "source": "The Wind Rises (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "The film's refrain, a line from Paul Valery's poem 'Le Cimetiere marin'; Disney English dub."
+    },
+    {
+      "id": "ghibli-022",
+      "content": "Life is wonderful, isn't it?",
+      "authorName": "Naoko Satomi (The Wind Rises)",
+      "source": "The Wind Rises (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Naoko to Jiro amid her illness; Disney English dub (Emily Blunt)."
+    },
+    {
+      "id": "ghibli-023",
+      "content": "Ponyo loves Sosuke! I will be a human, too!",
+      "authorName": "Ponyo (Ponyo)",
+      "source": "Ponyo (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "The fish-girl Ponyo declaring her wish; Disney English dub (Noah Cyrus)."
+    },
+    {
+      "id": "ghibli-024",
+      "content": "Ponyo wants ham!",
+      "authorName": "Ponyo (Ponyo)",
+      "source": "Ponyo (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Ponyo's gleeful demand at dinner; Disney English dub."
+    },
+    {
+      "id": "ghibli-025",
+      "content": "You know, a long time ago, trees and people used to be good friends.",
+      "authorName": "Tatsuo Kusakabe (My Neighbor Totoro)",
+      "source": "My Neighbor Totoro (1988)",
+      "quoteDate": "1988",
+      "verificationStatus": "unverified",
+      "sourceType": "movie",
+      "notes": "The father explaining why he bought the house by the camphor tree; wording axis failed - the Disney 2006 and older Streamline dubs phrase this differently."
+    },
+    {
+      "id": "ghibli-026",
+      "content": "I would like to make a film to tell children it's good to be alive.",
+      "authorName": "Hayao Miyazaki",
+      "source": "interview",
+      "quoteDate": "1988",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Miyazaki's stated aim, widely attributed to a making-of interview around My Neighbor Totoro; not film dialogue."
+    },
+    {
+      "id": "ghibli-027",
+      "content": "Today, all of humanity's dreams are cursed somehow.",
+      "authorName": "Hayao Miyazaki",
+      "source": "documentary",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "Miyazaki reflecting on The Wind Rises in Mami Sunada's documentary 'The Kingdom of Dreams and Madness'; English subtitle translation."
+    },
+    {
+      "id": "ghibli-028",
+      "content": "Yes, I'm the scariest witch of them all - the kind that cleans!",
+      "authorName": "Sophie (Howl's Moving Castle)",
+      "source": "Howl's Moving Castle (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "movie",
+      "notes": "Sophie briskly taking charge of Howl's filthy castle; Disney English dub."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "id": "legend-of-zelda",
+  "name": "The Legend of Zelda",
+  "description": "Courage, wisdom, and power — memorable lines from across Hyrule's long history.",
+  "author": "Quips Editorial",
+  "colorName": "gold",
+  "iconName": "triangle.fill",
+  "category": "Video Games",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "zelda-001",
+      "content": "It's dangerous to go alone! Take this.",
+      "authorName": "The Old Man (The Legend of Zelda)",
+      "source": "The Legend of Zelda, Nintendo (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The old man hands Link his first sword in the opening cave; one of gaming's most-quoted lines."
+    },
+    {
+      "id": "zelda-002",
+      "content": "It's a secret to everybody.",
+      "authorName": "Moblin (The Legend of Zelda)",
+      "source": "The Legend of Zelda, Nintendo (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "A hidden Moblin gives Link rupees on the condition he keep the gift quiet."
+    },
+    {
+      "id": "zelda-003",
+      "content": "The youth whose destiny it is to lead Hyrule to the path of justice and truth.",
+      "authorName": "The Great Deku Tree (Ocarina of Time)",
+      "source": "The Legend of Zelda: Ocarina of Time, Nintendo (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Deku Tree describes Link's destiny as he sends Navi to summon the young hero."
+    },
+    {
+      "id": "zelda-004",
+      "content": "Hey! Listen!",
+      "authorName": "Navi (Ocarina of Time)",
+      "source": "The Legend of Zelda: Ocarina of Time, Nintendo (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Navi the fairy's signature call to grab Link's attention throughout the adventure."
+    },
+    {
+      "id": "zelda-005",
+      "content": "The flow of time is always cruel. Its speed seems different for each person, but no one can change it.",
+      "authorName": "Sheik (Ocarina of Time)",
+      "source": "The Legend of Zelda: Ocarina of Time, Nintendo (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Sheik reflects on time and memory as Link awakens seven years into the future."
+    },
+    {
+      "id": "zelda-006",
+      "content": "Time passes, people move... Like a river's flow, it never ends.",
+      "authorName": "Sheik (Ocarina of Time)",
+      "source": "The Legend of Zelda: Ocarina of Time, Nintendo (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "One of Sheik's meditations on growth and change delivered before teaching a song."
+    },
+    {
+      "id": "zelda-007",
+      "content": "You've met with a terrible fate, haven't you?",
+      "authorName": "Happy Mask Salesman (Majora's Mask)",
+      "source": "The Legend of Zelda: Majora's Mask, Nintendo (2000)",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Happy Mask Salesman greets a transformed Link with the game's most iconic line."
+    },
+    {
+      "id": "zelda-008",
+      "content": "Whenever there is a meeting, a parting is sure to follow.",
+      "authorName": "Happy Mask Salesman (Majora's Mask)",
+      "source": "The Legend of Zelda: Majora's Mask, Nintendo (2000)",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Salesman's parting words to Link after reclaiming Majora's Mask."
+    },
+    {
+      "id": "zelda-009",
+      "content": "My country lay within a vast desert. When the sun rose into the sky, a burning wind punished my lands, searing the world. And when the moon climbed into the dark of night, a frigid gale pierced our homes. No matter when it came, the wind carried the same thing... Death. But the winds that blew across the green fields of Hyrule brought something other than suffering and ruin. I coveted that wind, I suppose.",
+      "authorName": "Ganondorf (The Wind Waker)",
+      "source": "The Legend of Zelda: The Wind Waker, Nintendo (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Ganondorf's wind monologue explaining his longing for Hyrule's land near the game's climax."
+    },
+    {
+      "id": "zelda-010",
+      "content": "The wind... It is blowing...",
+      "authorName": "Ganondorf (The Wind Waker)",
+      "source": "The Legend of Zelda: The Wind Waker, Nintendo (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Ganondorf's final words as he is turned to stone at the end of the game."
+    },
+    {
+      "id": "zelda-011",
+      "content": "Hope! I desire hope for these children! Give them a future!",
+      "authorName": "King Daphnes Nohansen Hyrule (The Wind Waker)",
+      "source": "The Legend of Zelda: The Wind Waker, Nintendo (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The King of Red Lions makes his wish on the Triforce for the next generation's future."
+    },
+    {
+      "id": "zelda-012",
+      "content": "Shadow and Light are two sides of the same coin, one cannot exist without the other.",
+      "authorName": "Princess Zelda (Twilight Princess)",
+      "source": "The Legend of Zelda: Twilight Princess, Nintendo (2006)",
+      "quoteDate": "2006",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Zelda explains the bond between the light and twilight realms to Midna."
+    },
+    {
+      "id": "zelda-013",
+      "content": "Link... I... see you later.",
+      "authorName": "Midna (Twilight Princess)",
+      "source": "The Legend of Zelda: Twilight Princess, Nintendo (2006)",
+      "quoteDate": "2006",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Midna's tearful farewell before shattering the Mirror of Twilight."
+    },
+    {
+      "id": "zelda-014",
+      "content": "You may call me Ghirahim. In truth, I very much prefer to be indulged with my full title: Lord Ghirahim.",
+      "authorName": "Ghirahim (Skyward Sword)",
+      "source": "The Legend of Zelda: Skyward Sword, Nintendo (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Demon Lord Ghirahim introduces himself to Link with flamboyant menace."
+    },
+    {
+      "id": "zelda-015",
+      "content": "Thank you, Master Link.",
+      "authorName": "Fi (Skyward Sword)",
+      "source": "The Legend of Zelda: Skyward Sword, Nintendo (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The sword spirit Fi's parting words before entering an eternal sleep within the Master Sword."
+    },
+    {
+      "id": "zelda-016",
+      "content": "Open your eyes.",
+      "authorName": "Princess Zelda (Breath of the Wild)",
+      "source": "The Legend of Zelda: Breath of the Wild, Nintendo (2017)",
+      "quoteDate": "2017",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Zelda's voice awakens Link in the Shrine of Resurrection as the game opens."
+    },
+    {
+      "id": "zelda-017",
+      "content": "Courage need not be remembered... For it is never forgotten.",
+      "authorName": "King Rhoam (Breath of the Wild)",
+      "source": "The Legend of Zelda: Breath of the Wild, Nintendo (2017)",
+      "quoteDate": "2017",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The spirit of King Rhoam reassures a memory-less Link on the Great Plateau."
+    },
+    {
+      "id": "zelda-018",
+      "content": "The fate of Hyrule rests with you.",
+      "authorName": "King Rhoam (Breath of the Wild)",
+      "source": "The Legend of Zelda: Breath of the Wild, Nintendo (2017)",
+      "quoteDate": "2017",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "King Rhoam charges Link with defeating Calamity Ganon and rescuing Zelda."
+    },
+    {
+      "id": "zelda-019",
+      "content": "This one here is called the silent princess. It's a rare, endangered species.",
+      "authorName": "Princess Zelda (Breath of the Wild)",
+      "source": "The Legend of Zelda: Breath of the Wild, Nintendo (2017)",
+      "quoteDate": "2017",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Zelda, a devoted researcher, describes the fragile silent princess flower in a recovered memory."
+    },
+    {
+      "id": "zelda-020",
+      "content": "Was that the sword that seals the darkness? A blade that shatters so easily against my power cannot save you from me.",
+      "authorName": "Ganondorf (Tears of the Kingdom)",
+      "source": "The Legend of Zelda: Tears of the Kingdom, Nintendo (2023)",
+      "quoteDate": "2023",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Demon King Ganondorf taunts Link after breaking the Master Sword in the prologue."
+    }
+  ]
+}

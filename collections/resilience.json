@@ -1,0 +1,292 @@
+{
+  "id": "resilience",
+  "name": "Resilience & Grit",
+  "description": "Words for the hard days — on enduring adversity, bouncing back, and finding strength in the struggle.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "mountain.2.fill",
+  "category": "Wellness",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "res-001",
+      "content": "What does not kill me makes me stronger.",
+      "authorName": "Friedrich Nietzsche",
+      "source": "Twilight of the Idols (1888)",
+      "sourceType": "book",
+      "notes": "From 'Maxims and Arrows,' the opening section of Nietzsche's late work; often rendered as 'that which does not kill us.'",
+      "quoteDate": "1888",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-002",
+      "content": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+      "authorName": "Viktor E. Frankl",
+      "source": "Man's Search for Meaning (1946)",
+      "sourceType": "book",
+      "notes": "From the psychiatrist and Holocaust survivor's account of finding meaning in suffering.",
+      "quoteDate": "1946",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-003",
+      "content": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.",
+      "authorName": "Viktor E. Frankl",
+      "source": "Man's Search for Meaning (1946)",
+      "sourceType": "book",
+      "notes": "Frankl's central insight from his years in Nazi concentration camps.",
+      "quoteDate": "1946",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-004",
+      "content": "I can be changed by what happens to me. But I refuse to be reduced by it.",
+      "authorName": "Maya Angelou",
+      "source": "Letter to My Daughter (2008)",
+      "sourceType": "book",
+      "notes": "From Angelou's collection of essays addressed to the daughter she never had.",
+      "quoteDate": "2008",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-005",
+      "content": "Although the world is full of suffering, it is also full of the overcoming of it.",
+      "authorName": "Helen Keller",
+      "source": "Optimism (1903)",
+      "sourceType": "book",
+      "notes": "From Keller's essay on optimism, written while a student at Radcliffe.",
+      "quoteDate": "1903",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-006",
+      "content": "Never give in, never give in, never, never, never, never—in nothing, great or small, large or petty.",
+      "authorName": "Winston Churchill",
+      "source": "Address at Harrow School (29 October 1941)",
+      "sourceType": "speech",
+      "notes": "Churchill's wartime exhortation to the students of his old school.",
+      "quoteDate": "1941-10-29",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-007",
+      "content": "If there is no struggle, there is no progress.",
+      "authorName": "Frederick Douglass",
+      "source": "West India Emancipation speech (1857)",
+      "sourceType": "speech",
+      "notes": "From Douglass's address on the anniversary of emancipation in the British West Indies.",
+      "quoteDate": "1857",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-008",
+      "content": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case, you fail by default.",
+      "authorName": "J. K. Rowling",
+      "source": "Harvard University Commencement Address (2008)",
+      "sourceType": "speech",
+      "notes": "From Rowling's speech on the fringe benefits of failure and the importance of imagination.",
+      "quoteDate": "2008-06-05",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-009",
+      "content": "And once the storm is over, you won't remember how you made it through, how you managed to survive. But one thing is certain. When you come out of the storm, you won't be the same person who walked in.",
+      "authorName": "Haruki Murakami",
+      "source": "Kafka on the Shore (2002)",
+      "sourceType": "book",
+      "notes": "From Murakami's novel; the passage is often quoted on weathering hardship.",
+      "quoteDate": "2002",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-010",
+      "content": "The most beautiful people we have known are those who have known defeat, known suffering, known struggle, known loss, and have found their way out of the depths.",
+      "authorName": "Elisabeth Kübler-Ross",
+      "source": "Death: The Final Stage of Growth (1975)",
+      "sourceType": "book",
+      "notes": "From the psychiatrist who pioneered the study of grief and dying.",
+      "quoteDate": "1975",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-011",
+      "content": "The impediment to action advances action. What stands in the way becomes the way.",
+      "authorName": "Marcus Aurelius",
+      "source": "Meditations, Book 5 (c. 170-180 CE)",
+      "sourceType": "book",
+      "notes": "From Book 5, section 20; a Stoic reframing of obstacles as opportunities.",
+      "quoteDate": "c. 170-180 CE",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-012",
+      "content": "Becoming is better than being.",
+      "authorName": "Carol S. Dweck",
+      "source": "Mindset: The New Psychology of Success (2006)",
+      "sourceType": "book",
+      "notes": "A summation of the growth mindset from the Stanford psychologist's research.",
+      "quoteDate": "2006",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-013",
+      "content": "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward; how much you can take and keep moving forward.",
+      "authorName": "Rocky Balboa (Sylvester Stallone)",
+      "source": "Rocky Balboa (2006)",
+      "sourceType": "movie",
+      "notes": "Rocky's speech to his son about perseverance in the sixth film of the series.",
+      "quoteDate": "2006",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-014",
+      "content": "Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.",
+      "authorName": "Rainer Maria Rilke",
+      "source": "Letters to a Young Poet (1929)",
+      "sourceType": "book",
+      "notes": "From the eighth letter, on facing what frightens us.",
+      "quoteDate": "1929",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-015",
+      "content": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+      "authorName": "Albert Camus",
+      "source": "Return to Tipasa (1952)",
+      "sourceType": "book",
+      "notes": "From Camus's lyrical essay, later collected in Summer.",
+      "quoteDate": "1952",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-016",
+      "content": "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+      "authorName": "Booker T. Washington",
+      "source": "Up from Slavery (1901)",
+      "sourceType": "book",
+      "notes": "From the educator's autobiography of rising from slavery to found the Tuskegee Institute.",
+      "quoteDate": "1901",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-017",
+      "content": "I don't think of all the misery, but of the beauty that still remains.",
+      "authorName": "Anne Frank",
+      "source": "The Diary of a Young Girl (1947)",
+      "sourceType": "book",
+      "notes": "Written while in hiding from the Nazis in Amsterdam.",
+      "quoteDate": "1944-03-07",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "res-018",
+      "content": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "authorName": "Confucius",
+      "source": "Attributed (c. 5th century BCE)",
+      "sourceType": "unspecified",
+      "notes": "Traditionally attributed to Confucius; the sentiment is the likely source of many later variations.",
+      "quoteDate": "c. 5th century BCE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-019",
+      "content": "It always seems impossible until it's done.",
+      "authorName": "Nelson Mandela",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Widely attributed to Mandela; a fixed original source has not been established.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-020",
+      "content": "Fall seven times, stand up eight.",
+      "authorName": "Japanese proverb",
+      "source": "Traditional proverb (nana korobi ya oki)",
+      "sourceType": "unspecified",
+      "notes": "A well-known Japanese saying about perseverance.",
+      "quoteDate": null,
+      "verificationStatus": "folk-wisdom"
+    },
+    {
+      "id": "res-021",
+      "content": "It's not whether you get knocked down; it's whether you get up.",
+      "authorName": "Vince Lombardi",
+      "source": "Attributed (c. 1960s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the legendary Green Bay Packers coach.",
+      "quoteDate": "c. 1960s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-022",
+      "content": "In three words I can sum up everything I've learned about life: it goes on.",
+      "authorName": "Robert Frost",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Widely attributed to the poet, though it does not appear in his published verse.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-023",
+      "content": "Do not pray for an easy life; pray for the strength to endure a difficult one.",
+      "authorName": "Bruce Lee",
+      "source": "Attributed (c. 1960s-1970s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the martial artist and philosopher.",
+      "quoteDate": "c. 1960s-1970s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-024",
+      "content": "It's not what happens to you, but how you react to it that matters.",
+      "authorName": "Epictetus",
+      "source": "Attributed (paraphrase of the Enchiridion, c. 125 CE)",
+      "sourceType": "unspecified",
+      "notes": "A modern paraphrase of the Stoic doctrine that judgments, not events, disturb us.",
+      "quoteDate": "c. 125 CE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-025",
+      "content": "A gem cannot be polished without friction, nor a man perfected without trials.",
+      "authorName": "Seneca",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Commonly attributed to Seneca; the same image also circulates as a Chinese proverb.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-026",
+      "content": "I have not failed. I've just found 10,000 ways that won't work.",
+      "authorName": "Thomas Edison",
+      "source": "Attributed (c. late 1800s)",
+      "sourceType": "unspecified",
+      "notes": "A popular paraphrase of Edison's remarks on his experiments; wording varies widely.",
+      "quoteDate": "c. 1890s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-027",
+      "content": "You're braver than you believe, and stronger than you seem, and smarter than you think.",
+      "authorName": "A. A. Milne",
+      "source": "Attributed (Winnie the Pooh)",
+      "sourceType": "unspecified",
+      "notes": "Associated with Winnie the Pooh but originating in the 1997 film adaptation, not Milne's original books.",
+      "quoteDate": "c. 1997",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "res-028",
+      "content": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
+      "authorName": "Maya Angelou",
+      "source": "Interview / Letter to My Daughter (2008)",
+      "sourceType": "book",
+      "notes": "A frequently cited reflection from Angelou on the necessity of setbacks.",
+      "quoteDate": "2008",
+      "verificationStatus": "verified"
+    }
+  ]
+}

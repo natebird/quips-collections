@@ -1,0 +1,272 @@
+{
+  "id": "the-beatles",
+  "name": "The Beatles",
+  "description": "Wit and wisdom from John, Paul, George, and Ringo — the Fab Four off the record.",
+  "author": "Quips Editorial",
+  "colorName": "magenta",
+  "iconName": "music.note",
+  "category": "Music",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "beatles-001",
+      "content": "For our last number, I'd like to ask your help. Will the people in the cheaper seats clap your hands? And the rest of you, if you'll just rattle your jewellery.",
+      "authorName": "John Lennon",
+      "source": "Royal Variety Performance, Prince of Wales Theatre, London (4 November 1963)",
+      "quoteDate": "1963-11-04",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Lennon's cheeky aside to the royal box before the Beatles' closing number, preserved on the broadcast recording."
+    },
+    {
+      "id": "beatles-002",
+      "content": "Great. Especially his poems.",
+      "authorName": "Ringo Starr",
+      "source": "Press conference, John F. Kennedy Airport, New York (7 February 1964)",
+      "quoteDate": "1964-02-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ringo's deadpan reply when a reporter asked what he thought of Beethoven, captured on the filmed press conference."
+    },
+    {
+      "id": "beatles-003",
+      "content": "He must be blind.",
+      "authorName": "John Lennon",
+      "source": "Press conference, John F. Kennedy Airport, New York (7 February 1964)",
+      "quoteDate": "1964-02-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Lennon's response to a reporter who called the Beatles nothing but a bunch of British Elvis Presleys."
+    },
+    {
+      "id": "beatles-004",
+      "content": "No, we need money first.",
+      "authorName": "John Lennon",
+      "source": "Press conference, John F. Kennedy Airport, New York (7 February 1964)",
+      "quoteDate": "1964-02-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Lennon answering a reporter who suggested there was some doubt the group could actually sing."
+    },
+    {
+      "id": "beatles-005",
+      "content": "All of us.",
+      "authorName": "Ringo Starr",
+      "source": "Press conference, John F. Kennedy Airport, New York (7 February 1964)",
+      "quoteDate": "1964-02-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ringo replying to the question of how many of the Beatles were bald and had to wear wigs."
+    },
+    {
+      "id": "beatles-006",
+      "content": "I had one yesterday.",
+      "authorName": "George Harrison",
+      "source": "Press conference, John F. Kennedy Airport, New York (7 February 1964)",
+      "quoteDate": "1964-02-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "George's answer when asked whether he was going to get a haircut while in America."
+    },
+    {
+      "id": "beatles-007",
+      "content": "Yeah, well, we're bringing out a 'Stamp Out Detroit' campaign.",
+      "authorName": "Paul McCartney",
+      "source": "Press conference, John F. Kennedy Airport, New York (7 February 1964)",
+      "quoteDate": "1964-02-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Paul's comeback after being told Detroit fans were handing out 'Stamp Out The Beatles' stickers."
+    },
+    {
+      "id": "beatles-008",
+      "content": "It pleases them, I think. Well, it must do, 'cause they're buying it.",
+      "authorName": "Ringo Starr",
+      "source": "Press conference, John F. Kennedy Airport, New York (7 February 1964)",
+      "quoteDate": "1964-02-07",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ringo asked what the Beatles' music does for their fans."
+    },
+    {
+      "id": "beatles-009",
+      "content": "Turn left at Greenland.",
+      "authorName": "Ringo Starr",
+      "source": "Attributed, 1964 US tour press",
+      "quoteDate": "1964",
+      "verificationStatus": "unverified",
+      "sourceType": "interview",
+      "notes": "Widely told reply to 'How did you find America?', but authorship is disputed (George also recounted the exchange as a group gag) — attribution axis unverified."
+    },
+    {
+      "id": "beatles-010",
+      "content": "I thought you had to drive tanks and win wars to get the MBE.",
+      "authorName": "John Lennon",
+      "source": "Attributed, 1965 MBE announcement",
+      "quoteDate": "1965",
+      "verificationStatus": "unverified",
+      "sourceType": "interview",
+      "notes": "Frequently quoted Lennon reaction to the MBE, but exact wording survives only through aggregators — wording axis unverified."
+    },
+    {
+      "id": "beatles-011",
+      "content": "We like it, or we'd be the Rolling Stones.",
+      "authorName": "John Lennon",
+      "source": "Press conference, Toronto (17 August 1965)",
+      "quoteDate": "1965-08-17",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Lennon's quip about the band still enjoying their fame during the 1965 North American tour."
+    },
+    {
+      "id": "beatles-012",
+      "content": "I haven't said anything, but people keep making it up. So if you'd like to make it up, I'll sue ya.",
+      "authorName": "Paul McCartney",
+      "source": "Press conference, Toronto (17 August 1965)",
+      "quoteDate": "1965-08-17",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Paul brushing off persistent press speculation about his marriage plans."
+    },
+    {
+      "id": "beatles-013",
+      "content": "It's not boring staying in a hotel room. It's boring taking photos in a hotel room.",
+      "authorName": "Ringo Starr",
+      "source": "Press conference, Toronto (17 August 1965)",
+      "quoteDate": "1965-08-17",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ringo on the tedium of touring life during the 1965 tour."
+    },
+    {
+      "id": "beatles-014",
+      "content": "It's just the face, you know. Just the face won't smile.",
+      "authorName": "Ringo Starr",
+      "source": "Press conference, Chicago (20 August 1965)",
+      "quoteDate": "1965-08-20",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ringo answering a reporter who asked why he always looked so sad."
+    },
+    {
+      "id": "beatles-015",
+      "content": "I'm so lazy, you know. It's ridiculous.",
+      "authorName": "George Harrison",
+      "source": "Press conference, Chicago (20 August 1965)",
+      "quoteDate": "1965-08-20",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "George making light of how little he had contributed to the Beatles' songwriting at that point."
+    },
+    {
+      "id": "beatles-016",
+      "content": "I've sort of been writing one song for the last four years and still haven't finished it.",
+      "authorName": "Ringo Starr",
+      "source": "Press conference, Chicago (20 August 1965)",
+      "quoteDate": "1965-08-20",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ringo joking about his own songwriting output alongside Lennon and McCartney."
+    },
+    {
+      "id": "beatles-017",
+      "content": "Left foot forward! We were drilled beforehand by some big guardsman fella.",
+      "authorName": "John Lennon",
+      "source": "Press conference after receiving the MBE, London (26 October 1965)",
+      "quoteDate": "1965-10-26",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Lennon describing the palace rehearsal before the group met the Queen to collect their MBEs."
+    },
+    {
+      "id": "beatles-018",
+      "content": "Forty years.",
+      "authorName": "Ringo Starr",
+      "source": "Press conference after receiving the MBE, London (26 October 1965)",
+      "quoteDate": "1965-10-26",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ringo's throwaway answer, recounted at the press conference, when the Queen asked how long the Beatles had been together."
+    },
+    {
+      "id": "beatles-019",
+      "content": "Christianity will go. It will vanish and shrink. I needn't argue about that; I know I'm right and I will be proved right. We're more popular than Jesus now; I don't know which will go first, rock 'n' roll or Christianity. Jesus was all right, but his disciples were thick and ordinary.",
+      "authorName": "John Lennon",
+      "source": "Interview by Maureen Cleave, London Evening Standard (4 March 1966)",
+      "quoteDate": "1966-03-04",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "The full 'more popular than Jesus' passage in context; Cleave noted Lennon was observing Christianity's decline, not boasting."
+    },
+    {
+      "id": "beatles-020",
+      "content": "I'm not saying that we're better or greater, or comparing us with Jesus Christ as a person or God as a thing or whatever it is. I just said what I said and it was wrong, or it was taken wrong.",
+      "authorName": "John Lennon",
+      "source": "Press conference, Astor Towers Hotel, Chicago (11 August 1966)",
+      "quoteDate": "1966-08-11",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Lennon's public clarification at the start of the 1966 US tour after the Jesus remark caused an uproar."
+    },
+    {
+      "id": "beatles-021",
+      "content": "I'd join a band with John Lennon any day, but I couldn't join a band with Paul McCartney. It's nothing personal, it's just from a musical point of view.",
+      "authorName": "George Harrison",
+      "source": "Attributed, 1974 interview",
+      "quoteDate": "1974",
+      "verificationStatus": "unverified",
+      "sourceType": "interview",
+      "notes": "Consistently attributed to a 1974 interview, but no primary transcript located to confirm exact wording — source axis unverified."
+    },
+    {
+      "id": "beatles-022",
+      "content": "I am not really Beatle George. Beatle George is like a suit or shirt that I once wore on occasion, and until the end of my life people may see that shirt and mistake it for me.",
+      "authorName": "George Harrison",
+      "source": "I, Me, Mine (autobiography, 1980)",
+      "quoteDate": "1980",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Harrison distinguishing his private self from the public 'Beatle George' persona in his memoir."
+    },
+    {
+      "id": "beatles-023",
+      "content": "Produce your own dream. Don't expect Jimmy Carter or Ronald Reagan or John Lennon or Yoko Ono or Bob Dylan or Jesus Christ to come and do it for you. You have to do it yourself.",
+      "authorName": "John Lennon",
+      "source": "Playboy interview with David Sheff (September 1980)",
+      "quoteDate": "1980",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Lennon on self-reliance, from his last major interview, published shortly before his death."
+    },
+    {
+      "id": "beatles-024",
+      "content": "Somebody said to me, 'But the Beatles were anti-materialistic.' That's a huge myth. John and I literally used to sit down and say, 'Now, let's write a swimming pool.'",
+      "authorName": "Paul McCartney",
+      "source": "Rolling Stone interview (1990)",
+      "quoteDate": "1990",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "McCartney debunking the notion that he and Lennon wrote songs free of any thought of earning a living."
+    },
+    {
+      "id": "beatles-025",
+      "content": "In the dream my mother, who had died when I was fourteen, came to me and said, 'It will be all right, just let it be.'",
+      "authorName": "Paul McCartney",
+      "source": "The Beatles Anthology (2000)",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "McCartney recounting the dream of his late mother Mary that inspired the title of a song — his description of the dream, not the lyric."
+    },
+    {
+      "id": "beatles-026",
+      "content": "Everything else can wait, but the search for God cannot wait, and love one another.",
+      "authorName": "George Harrison",
+      "source": "Attributed; issued by his family as his message after his death (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Family said Harrison 'often said' this, but it traces to no single documented interview or text — source axis unverified."
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "id": "mark-twain-wit",
+  "name": "Mark Twain's Wit",
+  "description": "The wisecracks and satire of America's greatest humorist, drawn from his own pen.",
+  "author": "Quips Editorial",
+  "colorName": "brown",
+  "iconName": "quote.bubble.fill",
+  "category": "Comedy",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "twain-001",
+      "content": "Adam was but human—this explains it all. He did not want the apple for the apple's sake, he wanted it only because it was forbidden.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 2, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A calendar maxim heading Chapter 2 of the novel, on the perverse appeal of the forbidden."
+    },
+    {
+      "id": "twain-002",
+      "content": "Whoever has lived long enough to find out what life is knows how deep a debt of gratitude we owe to Adam, the first great benefactor of our race. He brought death into the world.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 3, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 3, mock-thanking Adam for the gift of mortality."
+    },
+    {
+      "id": "twain-003",
+      "content": "Training is everything. The peach was once a bitter almond; cauliflower is nothing but cabbage with a college education.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 5, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 5, one of Twain's most-quoted quips on nurture."
+    },
+    {
+      "id": "twain-004",
+      "content": "Consider well the proportions of things. It is better to be a young June-bug than an old bird of paradise.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 8, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 8, a wry defense of youth over faded splendor."
+    },
+    {
+      "id": "twain-005",
+      "content": "Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 9, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 9, on the selfishness lurking behind our sentiments."
+    },
+    {
+      "id": "twain-006",
+      "content": "When angry, count four; when very angry, swear.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 10, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 10, Twain's revision of the old count-to-ten advice."
+    },
+    {
+      "id": "twain-007",
+      "content": "October. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, June, December, August, and February.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 13, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 13, listing all twelve months as dangerous for speculation."
+    },
+    {
+      "id": "twain-008",
+      "content": "If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a dog and a man.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 16, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 16, on gratitude and human ingratitude."
+    },
+    {
+      "id": "twain-009",
+      "content": "Few things are harder to put up with than the annoyance of a good example.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 19, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 19, on the irritation of the virtuous neighbor."
+    },
+    {
+      "id": "twain-010",
+      "content": "It were not best that we should all think alike; it is difference of opinion that makes horse races.",
+      "authorName": "Mark Twain",
+      "source": "Pudd'nhead Wilson, Ch. 19, Pudd'nhead Wilson's Calendar (1894)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 19, defending disagreement as the spice of life."
+    },
+    {
+      "id": "twain-011",
+      "content": "When in doubt, tell the truth.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 2, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph opening Chapter 2 of Twain's travel book."
+    },
+    {
+      "id": "twain-012",
+      "content": "Truth is the most valuable thing we have. Let us economize it.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 7, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 7, a mock-thrifty counsel on honesty."
+    },
+    {
+      "id": "twain-013",
+      "content": "It could probably be shown by facts and figures that there is no distinctly native American criminal class except Congress.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 8, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 8, Twain's enduring jab at the legislature."
+    },
+    {
+      "id": "twain-014",
+      "content": "It is by the goodness of God that in our country we have those three unspeakably precious things: freedom of speech, freedom of conscience, and the prudence never to practice either of them.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 20, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 20, on the gap between liberties held and liberties used."
+    },
+    {
+      "id": "twain-015",
+      "content": "Man is the only animal that blushes. Or needs to.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 27, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 27, contrasting human shame with animal innocence."
+    },
+    {
+      "id": "twain-016",
+      "content": "Let us be thankful for the fools. But for them the rest of us could not succeed.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 28, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 28, on the usefulness of the foolish."
+    },
+    {
+      "id": "twain-017",
+      "content": "There are several good protections against temptations, but the surest is cowardice.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 36, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 36, crediting fear where others credit virtue."
+    },
+    {
+      "id": "twain-018",
+      "content": "Prosperity is the best protector of principle.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator, Ch. 38, Pudd'nhead Wilson's New Calendar (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Calendar epigraph to Chapter 38, on how comfort makes morality easier."
+    },
+    {
+      "id": "twain-019",
+      "content": "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.",
+      "authorName": "Mark Twain",
+      "source": "The Innocents Abroad, Conclusion (1869)",
+      "quoteDate": "1869",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the closing chapter of Twain's first major travel book."
+    },
+    {
+      "id": "twain-020",
+      "content": "The gentle reader will never, never know what a consummate ass he can become, until he goes abroad.",
+      "authorName": "Mark Twain",
+      "source": "The Innocents Abroad, Ch. 23 (1869)",
+      "quoteDate": "1869",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Twain mocking the affectations Americans adopt while traveling in Europe."
+    },
+    {
+      "id": "twain-021",
+      "content": "Virtue never has been as respectable as money.",
+      "authorName": "Mark Twain",
+      "source": "The Innocents Abroad, Ch. 54 (1869)",
+      "quoteDate": "1869",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A dry aside on the social currency of wealth."
+    },
+    {
+      "id": "twain-022",
+      "content": "Work consists of whatever a body is obliged to do, and Play consists of whatever a body is not obliged to do.",
+      "authorName": "Mark Twain",
+      "source": "The Adventures of Tom Sawyer, Ch. 2 (1876)",
+      "quoteDate": "1876",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The moral Twain draws from the famous whitewashing-the-fence episode."
+    },
+    {
+      "id": "twain-023",
+      "content": "Persons attempting to find a motive in this narrative will be prosecuted; persons attempting to find a moral in it will be banished; persons attempting to find a plot in it will be shot.",
+      "authorName": "Mark Twain",
+      "source": "Adventures of Huckleberry Finn, Notice (1885)",
+      "quoteDate": "1885",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The mock warning 'By Order of the Author' that opens the novel."
+    },
+    {
+      "id": "twain-024",
+      "content": "All right, then, I'll go to hell.",
+      "authorName": "Mark Twain",
+      "source": "Adventures of Huckleberry Finn, Ch. 31 (1885)",
+      "quoteDate": "1885",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Huck's decision to help Jim escape rather than obey the morality he was taught."
+    },
+    {
+      "id": "twain-025",
+      "content": "I reckon I got to light out for the Territory ahead of the rest, because Aunt Sally she's going to adopt me and sivilize me, and I can't stand it. I been there before.",
+      "authorName": "Mark Twain",
+      "source": "Adventures of Huckleberry Finn, Chapter the Last (1885)",
+      "quoteDate": "1885",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Huck's closing words, fleeing civilization for the frontier."
+    },
+    {
+      "id": "twain-026",
+      "content": "Many a small thing has been made large by the right kind of advertising.",
+      "authorName": "Mark Twain",
+      "source": "A Connecticut Yankee in King Arthur's Court, Ch. 22 (1889)",
+      "quoteDate": "1889",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Hank Morgan the Yankee on the power of promotion in sixth-century Britain."
+    },
+    {
+      "id": "twain-027",
+      "content": "You can't throw too much style into a miracle.",
+      "authorName": "Mark Twain",
+      "source": "A Connecticut Yankee in King Arthur's Court, Ch. 23 (1889)",
+      "quoteDate": "1889",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Hank Morgan on stage-managing wonders for maximum effect."
+    },
+    {
+      "id": "twain-028",
+      "content": "When I was a boy, there was but one permanent ambition among my comrades in our village on the west bank of the Mississippi River. That was, to be a steamboatman.",
+      "authorName": "Mark Twain",
+      "source": "Life on the Mississippi, Ch. 4 (1883)",
+      "quoteDate": "1883",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening of the boyhood-ambition chapter, from Twain's memoir of river piloting."
+    },
+    {
+      "id": "twain-029",
+      "content": "The report of my death was an exaggeration.",
+      "authorName": "Mark Twain",
+      "source": "Note to reporter Frank Marshall White, New York Journal (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Twain's actual wording, published June 2, 1897; the popular 'greatly exaggerated' is a later misquote."
+    },
+    {
+      "id": "twain-030",
+      "content": "A classic—something that everybody wants to have read and nobody wants to read.",
+      "authorName": "Mark Twain",
+      "source": "\"The Disappearance of Literature\" speech, New York (1900)",
+      "quoteDate": "1900",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered Nov. 20, 1900; Twain credited the definition to a Professor Winchester in the same speech."
+    },
+    {
+      "id": "twain-031",
+      "content": "When I was younger I could remember anything, whether it had happened or not.",
+      "authorName": "Mark Twain",
+      "source": "Chapters from My Autobiography, North American Review (1907)",
+      "quoteDate": "1907",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The verbatim opening clause of a longer memory joke in Twain's serialized autobiography."
+    },
+    {
+      "id": "twain-032",
+      "content": "Familiarity breeds contempt—and children.",
+      "authorName": "Mark Twain",
+      "source": "Mark Twain's Notebook, entry of Feb. 2, 1894 (pub. 1935)",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "A documented notebook entry; Twain's own margin note credits the classical source Apuleius."
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "on-leadership",
+  "name": "On Leadership",
+  "description": "What it takes to lead — insight on trust, vision, and service from those who led.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "person.3.fill",
+  "category": "Business & Leadership",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "ldr-001",
+      "content": "Efficiency is concerned with doing things right. Effectiveness is doing the right things.",
+      "authorName": "Peter Drucker",
+      "source": "Management: Tasks, Responsibilities, Practices (1974)",
+      "quoteDate": "1974",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Drucker's own published wording; the popular 'management vs. leadership' rephrasing is a later paraphrase."
+    },
+    {
+      "id": "ldr-002",
+      "content": "The only definition of a leader is someone who has followers.",
+      "authorName": "Peter Drucker",
+      "source": "Foreword to The Leader of the Future, ed. Frances Hesselbein et al. (1996)",
+      "quoteDate": "1996",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opens Drucker's list of things all effective leaders he had observed understood."
+    },
+    {
+      "id": "ldr-003",
+      "content": "Managers are people who do things right and leaders are people who do the right thing.",
+      "authorName": "Warren Bennis",
+      "source": "Warren Bennis and Burt Nanus, Leaders: The Strategies for Taking Charge (1985)",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The much-quoted manager/leader distinction, from the book Bennis co-authored with Burt Nanus."
+    },
+    {
+      "id": "ldr-004",
+      "content": "At bottom, becoming a leader is synonymous with becoming yourself. It's precisely that simple, and it's also that difficult.",
+      "authorName": "Warren Bennis",
+      "source": "On Becoming a Leader (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A central thesis of Bennis's classic that leadership is a matter of authentic self-development."
+    },
+    {
+      "id": "ldr-005",
+      "content": "The most dangerous leadership myth is that leaders are born—that there is a genetic factor to leadership. That's nonsense; in fact, the opposite is true. Leaders are made rather than born.",
+      "authorName": "Warren Bennis",
+      "source": "On Becoming a Leader (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Bennis's rebuttal to the 'born leader' idea, arguing leadership is learned."
+    },
+    {
+      "id": "ldr-006",
+      "content": "Leadership is influence—nothing more, nothing less.",
+      "authorName": "John C. Maxwell",
+      "source": "The 21 Irrefutable Laws of Leadership (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Maxwell's summation of his 'Law of Influence,' the second of the twenty-one laws."
+    },
+    {
+      "id": "ldr-007",
+      "content": "Leadership ability determines a person's level of effectiveness.",
+      "authorName": "John C. Maxwell",
+      "source": "The 21 Irrefutable Laws of Leadership (1998), 'The Law of the Lid'",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The book's opening law: leadership ability is the 'lid' that caps a person's potential."
+    },
+    {
+      "id": "ldr-008",
+      "content": "The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help or concluded you do not care. Either case is a failure of leadership.",
+      "authorName": "Colin Powell",
+      "source": "My American Journey (1995)",
+      "quoteDate": "1995",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "One of the leadership principles Powell recounts in his autobiography."
+    },
+    {
+      "id": "ldr-009",
+      "content": "I believe that when you first take over a new outfit, start out trusting the people there unless you have real evidence not to.",
+      "authorName": "Colin Powell",
+      "source": "It Worked for Me: In Life and Leadership (2012)",
+      "quoteDate": "2012",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Powell's chapter on beginning with trust when assuming command."
+    },
+    {
+      "id": "ldr-010",
+      "content": "Perpetual optimism is a force multiplier.",
+      "authorName": "Colin Powell",
+      "source": "My American Journey (1995)",
+      "quoteDate": "1995",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The last of Powell's '13 Rules,' reproduced in his autobiography."
+    },
+    {
+      "id": "ldr-011",
+      "content": "By leadership we mean the art of getting someone else to do something that you want done because he wants to do it, not because your position of power can compel him to do it, or your position of authority.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "Remarks at the Annual Conference of the Society for Personnel Administration, Washington, D.C. (May 12, 1954)",
+      "quoteDate": "1954-05-12",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Exact wording and citation confirmed via the Eisenhower Presidential Library."
+    },
+    {
+      "id": "ldr-012",
+      "content": "The essence of leadership is to get others to do something because they think you want it done and because they know it is worth while doing.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "Remarks at the Republican Campaign Picnic at the President's Gettysburg Farm (September 12, 1956)",
+      "quoteDate": "1956-09-12",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered during a 1956 campaign address at his Gettysburg farm."
+    },
+    {
+      "id": "ldr-013",
+      "content": "Customers will never love a company until the employees love it first.",
+      "authorName": "Simon Sinek",
+      "source": "Leaders Eat Last: Why Some Teams Pull Together and Others Don't (2014)",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Sinek's argument that leaders must protect their people before serving customers."
+    },
+    {
+      "id": "ldr-014",
+      "content": "Leadership is not about being in charge. Leadership is about taking care of those in your charge.",
+      "authorName": "Simon Sinek",
+      "source": "Simon Sinek, official X (Twitter) account (January 28, 2015)",
+      "quoteDate": "2015-01-28",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Posted from Sinek's own verified account; a recurring theme in his talks and books."
+    },
+    {
+      "id": "ldr-015",
+      "content": "There are only two ways to influence human behavior: you can manipulate it or you can inspire it.",
+      "authorName": "Simon Sinek",
+      "source": "Start With Why: How Great Leaders Inspire Everyone to Take Action (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opens Sinek's contrast between manipulation and inspiration as leadership tools."
+    },
+    {
+      "id": "ldr-016",
+      "content": "A team is not a group of people who work together. A team is a group of people who trust each other.",
+      "authorName": "Simon Sinek",
+      "source": "Together Is Better: A Little Book of Inspiration (2016)",
+      "quoteDate": "2016",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sinek's distinction between mere collaboration and trust-based teams."
+    },
+    {
+      "id": "ldr-017",
+      "content": "The first responsibility of a leader is to define reality. The last is to say thank you. In between the two, the leader must become a servant and a debtor.",
+      "authorName": "Max De Pree",
+      "source": "Leadership Is an Art (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening lines of the former Herman Miller CEO's book on servant leadership."
+    },
+    {
+      "id": "ldr-018",
+      "content": "The signs of outstanding leadership appear primarily among the followers.",
+      "authorName": "Max De Pree",
+      "source": "Leadership Is an Art (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "De Pree measures leaders by whether their people are reaching their potential."
+    },
+    {
+      "id": "ldr-019",
+      "content": "A leader is best when people barely know that he exists... Of a good leader, who talks little, when his work is done, his aim fulfilled, they will all say, 'We did this ourselves.'",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 17, translated by Witter Bynner (1944)",
+      "quoteDate": "1944",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The original Chinese text dates to roughly the 4th century BCE; this exact English wording is Bynner's 1944 translation."
+    },
+    {
+      "id": "ldr-020",
+      "content": "Leadership belongs to those who take it.",
+      "authorName": "Sheryl Sandberg",
+      "source": "Commencement address, Barnard College (May 17, 2011)",
+      "quoteDate": "2011-05-17",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Sandberg's Barnard commencement, urging graduates to claim leadership rather than wait for it."
+    },
+    {
+      "id": "ldr-021",
+      "content": "We cannot change what we are not aware of, and once we are aware, we cannot help but change.",
+      "authorName": "Sheryl Sandberg",
+      "source": "Lean In: Women, Work, and the Will to Lead (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sandberg on how awareness of bias is the first step toward changing it."
+    },
+    {
+      "id": "ldr-022",
+      "content": "As a leader, I am tough on myself and I raise the standard for everybody; however, I am very caring because I want people to excel at what they are doing so that they can aspire to be me in the future.",
+      "authorName": "Indra Nooyi",
+      "source": "Forbes India interview, 'A Learning CEO Can Power Through Tough Times' (December 5, 2013)",
+      "quoteDate": "2013-12-05",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "The PepsiCo CEO on balancing high standards with genuine care for her people."
+    },
+    {
+      "id": "ldr-023",
+      "content": "Just because you are CEO, don't think you have landed. You must continually increase your learning, the way you think, and the way you approach the organization.",
+      "authorName": "Indra Nooyi",
+      "source": "Gary Burnison, No Fear of Failure (2011), quoting Indra Nooyi",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nooyi on continuous learning, quoted in Burnison's interview-based book on leadership."
+    },
+    {
+      "id": "ldr-024",
+      "content": "Management is doing things right; leadership is doing the right things.",
+      "authorName": "Peter Drucker",
+      "source": "Widely attributed; popularized by Stephen R. Covey, The 7 Habits of Highly Effective People (1989)",
+      "quoteDate": "c. 1989",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified — wording/attribution axis: this exact antithesis is not found verbatim in Drucker's writings, which instead contrast efficiency and effectiveness (see lead-001); Covey credited both Drucker and Bennis."
+    },
+    {
+      "id": "ldr-025",
+      "content": "Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.",
+      "authorName": "Jack Welch",
+      "source": "Commonly attributed to Winning (2005)",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified — source axis: universally credited to Welch and often to Winning, but the line could not be confirmed in the book's text or another primary Welch source."
+    },
+    {
+      "id": "ldr-026",
+      "content": "It is better to lead from behind and to put others in front, especially when you celebrate victory when nice things occur. You take the front line when there is danger. Then people will appreciate your leadership.",
+      "authorName": "Nelson Mandela",
+      "source": "Commonly attributed to Long Walk to Freedom (1994)",
+      "quoteDate": "c. 1994",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified — source axis: widely circulated but not located verbatim in the autobiography, whose confirmed 'lead from behind' passage uses a shepherd metaphor instead."
+    },
+    {
+      "id": "ldr-027",
+      "content": "A leader is one who knows the way, goes the way, and shows the way.",
+      "authorName": "John C. Maxwell",
+      "source": "Attributed to John C. Maxwell; appears in quote compilations rather than a confirmed original work",
+      "quoteDate": "c. 1999",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified — source axis: no primary Maxwell text located; the aphorism echoes older sayings and surfaces mainly on quote sites and gift compilations."
+    },
+    {
+      "id": "ldr-028",
+      "content": "A leader takes people where they want to go. A great leader takes people where they don't necessarily want to go, but ought to be.",
+      "authorName": "Rosalynn Carter",
+      "source": "Attributed to Rosalynn Carter; no confirmed primary source",
+      "quoteDate": "c. 1987",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified — source axis: appears only on aggregator sites with no documented speech, book, or interview behind it."
+    }
+  ]
+}

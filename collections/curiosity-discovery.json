@@ -1,0 +1,292 @@
+{
+  "id": "curiosity-discovery",
+  "name": "Curiosity & Discovery",
+  "description": "The restless spirit of invention and inquiry that pushes the boundary of the known.",
+  "author": "Quips Editorial",
+  "colorName": "purple",
+  "iconName": "sparkle.magnifyingglass",
+  "category": "Science",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "disc-001",
+      "content": "Genius is one per cent inspiration, ninety-nine per cent perspiration.",
+      "authorName": "Thomas Edison",
+      "source": "Quoted in M. A. Rosanoff, \"Edison in His Laboratory,\" Harper's Monthly Magazine (September 1932)",
+      "quoteDate": "c. 1902",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Rosanoff, who worked in Edison's lab, records this as Edison's 'historic remark' about the primacy of hard work over talent."
+    },
+    {
+      "id": "disc-002",
+      "content": "I have gotten a lot of results! I know several thousand things that won't work.",
+      "authorName": "Thomas Edison",
+      "source": "F. L. Dyer & T. C. Martin, Edison: His Life and Inventions (1910), recounted by associate Walter S. Mallory",
+      "quoteDate": "1910",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "This documented wording is the origin of the popular paraphrase 'I have not failed 10,000 times,' which is itself unsourced."
+    },
+    {
+      "id": "disc-003",
+      "content": "The progressive development of man is vitally dependent on invention.",
+      "authorName": "Nikola Tesla",
+      "source": "My Inventions, opening line (Electrical Experimenter, 1919)",
+      "quoteDate": "1919",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The first sentence of Tesla's serialized autobiography, framing invention as the engine of human advance."
+    },
+    {
+      "id": "disc-004",
+      "content": "I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success.",
+      "authorName": "Nikola Tesla",
+      "source": "My Inventions (Electrical Experimenter, 1919)",
+      "quoteDate": "1919",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Tesla describes the emotional reward of invention, adding that such feeling makes one forget food, sleep, and everything else."
+    },
+    {
+      "id": "disc-005",
+      "content": "The present is theirs; the future, for which I really worked, is mine.",
+      "authorName": "Nikola Tesla",
+      "source": "Interview in Politika (April 1927); reproduced in Cheney, Uth & Glenn, Tesla: Master of Lightning (1999)",
+      "quoteDate": "1927",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Tesla's reflection amid patent disputes, staking his claim on posterity rather than contemporary recognition."
+    },
+    {
+      "id": "disc-006",
+      "content": "If you are looking for perfect safety, you will do well to sit on a fence and watch the birds; but if you really wish to learn, you must mount a machine and become acquainted with its tricks by actual trial.",
+      "authorName": "Wilbur Wright",
+      "source": "\"Some Aeronautical Experiments,\" address to the Western Society of Engineers, Chicago (18 September 1901)",
+      "quoteDate": "1901-09-18",
+      "verificationStatus": "verified",
+      "sourceType": "lecture",
+      "notes": "From the Wright brothers' first published paper, arguing that real knowledge comes only from hands-on trial."
+    },
+    {
+      "id": "disc-007",
+      "content": "If we all worked on the assumption that what is accepted as true is really true, there would be little hope of advance.",
+      "authorName": "Orville Wright",
+      "source": "Letter to George A. Spratt, 7 June 1908; published in Miracle at Kitty Hawk: The Letters of Wilbur and Orville Wright (1951)",
+      "quoteDate": "1908-06-07",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Wright argues that progress depends on questioning received wisdom."
+    },
+    {
+      "id": "disc-008",
+      "content": "The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily underdose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant.",
+      "authorName": "Alexander Fleming",
+      "source": "Nobel Lecture, \"Penicillin,\" Stockholm (11 December 1945)",
+      "quoteDate": "1945-12-11",
+      "verificationStatus": "verified",
+      "sourceType": "lecture",
+      "notes": "In accepting the Nobel Prize, Fleming foresaw antibiotic resistance decades before it became a crisis."
+    },
+    {
+      "id": "disc-009",
+      "content": "I did not invent penicillin. Nature did that. I only discovered it by accident.",
+      "authorName": "Alexander Fleming",
+      "source": "Widely attributed to Fleming; no confirmed primary source located",
+      "quoteDate": "c. 1945",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified on the source axis: the line is repeated in secondary accounts but no original speech, paper, or interview has been traced."
+    },
+    {
+      "id": "disc-010",
+      "content": "Well, the people, I would say. There is no patent. Could you patent the sun?",
+      "authorName": "Jonas Salk",
+      "source": "Interview with Edward R. Murrow, See It Now, CBS (12 April 1955)",
+      "quoteDate": "1955-04-12",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Salk's reply when Murrow asked who owned the patent on the polio vaccine."
+    },
+    {
+      "id": "disc-011",
+      "content": "The most damaging phrase in the language is: We've always done it this way.",
+      "authorName": "Grace Hopper",
+      "source": "Interview, Information Week (9 March 1987), p. 52",
+      "quoteDate": "1987",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "The widely quoted 'most dangerous phrase' variant is unsourced; this 'most damaging' wording is the documented one."
+    },
+    {
+      "id": "disc-012",
+      "content": "It's much easier to apologize than it is to get permission.",
+      "authorName": "Grace Hopper",
+      "source": "Recorded remarks; a habitual saying quoted, e.g., at her U.S. Navy retirement (1986) and in a 1993 recorded talk",
+      "quoteDate": "c. 1986",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Hopper called this a motto she lived by; she popularized rather than coined the expression, which predates her."
+    },
+    {
+      "id": "disc-013",
+      "content": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+      "authorName": "Alan Turing",
+      "source": "\"Computing Machinery and Intelligence,\" Mind 59 (1950), closing lines",
+      "quoteDate": "1950",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "The final sentence of Turing's foundational paper on machine intelligence."
+    },
+    {
+      "id": "disc-014",
+      "content": "Machines take me by surprise with great frequency.",
+      "authorName": "Alan Turing",
+      "source": "\"Computing Machinery and Intelligence,\" Mind 59 (1950), p. 450",
+      "quoteDate": "1950",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Turing rebuts the claim that machines can never do anything genuinely new or unexpected."
+    },
+    {
+      "id": "disc-015",
+      "content": "I am not a thing—a noun. I seem to be a verb, an evolutionary process—an integral function of the universe.",
+      "authorName": "Buckminster Fuller",
+      "source": "I Seem To Be A Verb (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Fuller reframes identity as a dynamic process rather than a static object."
+    },
+    {
+      "id": "disc-016",
+      "content": "When one man, for whatever reason, has the opportunity to lead an extraordinary life, he has no right to keep it to himself.",
+      "authorName": "Jacques-Yves Cousteau",
+      "source": "The Silent World (1953), with Frédéric Dumas",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Cousteau's account of early scuba exploration, on the duty to share discovery."
+    },
+    {
+      "id": "disc-017",
+      "content": "The sea, once it casts its spell, holds one in its net of wonder forever.",
+      "authorName": "Jacques-Yves Cousteau",
+      "source": "Attributed to Cousteau; sometimes cited to Life and Death in a Coral Sea (1978), unconfirmed",
+      "quoteDate": "c. 1978",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified on the source axis: the exact origin within Cousteau's writings could not be confirmed."
+    },
+    {
+      "id": "disc-018",
+      "content": "The most important practical lesson that can be given to nurses is to teach them what to observe—how to observe.",
+      "authorName": "Florence Nightingale",
+      "source": "Notes on Nursing: What It Is, and What It Is Not (1859)",
+      "quoteDate": "1859",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Nightingale places disciplined observation at the heart of nursing and of evidence itself."
+    },
+    {
+      "id": "disc-019",
+      "content": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
+      "authorName": "Katherine Johnson",
+      "source": "Recollection in interviews, cited by NASA and Biography.com",
+      "quoteDate": "c. 2015",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Johnson describes the childhood curiosity for numbers that led to her NASA career."
+    },
+    {
+      "id": "disc-020",
+      "content": "The women did what they were told to do. They didn't ask questions or take the task any further. I asked questions; I wanted to know why.",
+      "authorName": "Katherine Johnson",
+      "source": "Recollection in NASA interview about her early work at Langley",
+      "quoteDate": "c. 2015",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Johnson credits her insistence on asking 'why' for advancing her into flight-research meetings."
+    },
+    {
+      "id": "disc-021",
+      "content": "Like what you do, and then you will do your best.",
+      "authorName": "Katherine Johnson",
+      "source": "Interview, on advice to future NASA employees; cited by Biography.com",
+      "quoteDate": "c. 2015",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Johnson's advice given when a NASA building was named in her honor."
+    },
+    {
+      "id": "disc-022",
+      "content": "Iron rusts from disuse; stagnant water loses its purity, and in cold weather becomes frozen; even so does inaction sap the vigour of the mind.",
+      "authorName": "Leonardo da Vinci",
+      "source": "The Notebooks of Leonardo da Vinci, trans. Jean Paul Richter (1888)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Richter's scholarly edition of the notebooks; wording reflects that standard translation."
+    },
+    {
+      "id": "disc-023",
+      "content": "Experience never errs; it is only your judgments that err by promising themselves effects such as are not caused by your experiments.",
+      "authorName": "Leonardo da Vinci",
+      "source": "The Notebooks of Leonardo da Vinci, trans. Jean Paul Richter (1888), no. 1008",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Leonardo's argument that nature is reliable and only human inference goes astray."
+    },
+    {
+      "id": "disc-024",
+      "content": "Anything will give up its secrets if you love it enough.",
+      "authorName": "George Washington Carver",
+      "source": "Attributed to Carver; no confirmed primary source located",
+      "quoteDate": "c. 1930",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified on the source axis: widely repeated but not traced to a specific letter, speech, or writing."
+    },
+    {
+      "id": "disc-025",
+      "content": "When you can do the common things of life in an uncommon way, you will command the attention of the world.",
+      "authorName": "George Washington Carver",
+      "source": "Attributed to Carver; sometimes cited to Kremer, ed., George Washington Carver in His Own Words (1987), unconfirmed",
+      "quoteDate": "c. 1930",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified on the source axis: the cited page in the Kremer collection could not be independently confirmed."
+    },
+    {
+      "id": "disc-026",
+      "content": "Give me a place to stand, and I will move the earth.",
+      "authorName": "Archimedes",
+      "source": "Reported by Pappus of Alexandria, Synagoge (Collection), Book VIII, c. AD 340",
+      "quoteDate": "c. 250 BC",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified on the source axis: no writing of Archimedes survives with these words; the saying is preserved only by later authors."
+    },
+    {
+      "id": "disc-027",
+      "content": "Eureka! I have found it!",
+      "authorName": "Archimedes",
+      "source": "Bathtub anecdote first recorded by Vitruvius, De Architectura, Book IX, c. 30–15 BC",
+      "quoteDate": "c. 250 BC",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified on the source axis: the story appears roughly two centuries after Archimedes and he left no record of it."
+    },
+    {
+      "id": "disc-028",
+      "content": "Reserve your right to think, for even to think wrongly is better than not to think at all.",
+      "authorName": "Hypatia",
+      "source": "Attributed to Hypatia in Elbert Hubbard, Little Journeys to the Homes of Great Teachers (1908)",
+      "quoteDate": "c. 400",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified—misattribution: the line was invented by Hubbard for a largely fictional biography and appears in no ancient source."
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "rpg-wisdom",
+  "name": "RPG Wisdom",
+  "description": "Philosophy from the pause menu — the lines that made role-playing games unforgettable.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "shield.lefthalf.filled",
+  "category": "Video Games",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "rpg-001",
+      "content": "Had to be me. Someone else might have gotten it wrong.",
+      "authorName": "Mordin Solus (Mass Effect 3)",
+      "source": "Mass Effect 3, BioWare (2012)",
+      "quoteDate": "2012",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Mordin's parting words as he sacrifices himself to cure the krogan genophage he helped design."
+    },
+    {
+      "id": "rpg-002",
+      "content": "Can it wait for a bit? I'm in the middle of some calibrations.",
+      "authorName": "Garrus Vakarian (Mass Effect 2)",
+      "source": "Mass Effect 2, BioWare (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Garrus's recurring brush-off aboard the Normandy that became the trilogy's most beloved running gag."
+    },
+    {
+      "id": "rpg-003",
+      "content": "I am Garrus Vakarian, and this is now my favorite spot on the Citadel.",
+      "authorName": "Garrus Vakarian (Mass Effect 3)",
+      "source": "Mass Effect 3, BioWare (2012)",
+      "quoteDate": "2012",
+      "verificationStatus": "unverified",
+      "sourceType": "video",
+      "notes": "From the Citadel sniping scene; unverified on exact wording (sources vary on 'now' placement and favorite/favourite spelling)."
+    },
+    {
+      "id": "rpg-004",
+      "content": "I am the very model of a scientist salarian.",
+      "authorName": "Mordin Solus (Mass Effect 2)",
+      "source": "Mass Effect 2, BioWare (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Opening line of Mordin's Gilbert-and-Sullivan parody, sung to the tune of 'The Major-General's Song.'"
+    },
+    {
+      "id": "rpg-005",
+      "content": "Does this unit have a soul?",
+      "authorName": "Legion (Mass Effect 3)",
+      "source": "Mass Effect 3, BioWare (2012)",
+      "quoteDate": "2012",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The question a single geth once asked its quarian creators, echoed by Legion as it gains true consciousness."
+    },
+    {
+      "id": "rpg-006",
+      "content": "I used to be an adventurer like you. Then I took an arrow in the knee.",
+      "authorName": "Whiterun Guard (The Elder Scrolls V: Skyrim)",
+      "source": "The Elder Scrolls V: Skyrim, Bethesda Game Studios (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "A throwaway guard barb, written by Emil Pagliarulo, that became one of gaming's most enduring memes."
+    },
+    {
+      "id": "rpg-007",
+      "content": "What is better - to be born good, or to overcome your evil nature through great effort?",
+      "authorName": "Paarthurnax (The Elder Scrolls V: Skyrim)",
+      "source": "The Elder Scrolls V: Skyrim, Bethesda Game Studios (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The ancient dragon reflects on his own reformed nature atop the Throat of the World."
+    },
+    {
+      "id": "rpg-008",
+      "content": "The Voice was a gift of the goddess Kynareth, at the dawn of time. She gave mortals the ability to speak as dragons do.",
+      "authorName": "Arngeir (The Elder Scrolls V: Skyrim)",
+      "source": "The Elder Scrolls V: Skyrim, Bethesda Game Studios (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Greybeard master explains the origin of the Thu'um to the Dragonborn at High Hrothgar."
+    },
+    {
+      "id": "rpg-009",
+      "content": "Evil is evil. Lesser, greater, middling... makes no difference. The degree is arbitrary. The definition's blurred. If I'm to choose between one evil and another, I'd rather not choose at all.",
+      "authorName": "Geralt of Rivia (The Witcher 3: Wild Hunt)",
+      "source": "The Witcher 3: Wild Hunt, CD Projekt Red (2015)",
+      "quoteDate": "2015",
+      "verificationStatus": "unverified",
+      "sourceType": "video",
+      "notes": "Widely attributed to the game, but the line originates in Sapkowski's novel 'The Last Wish' and the 'Killing Monsters' cinematic trailer; unverified as spoken in-game Wild Hunt dialogue."
+    },
+    {
+      "id": "rpg-010",
+      "content": "Despite everything, it's still you.",
+      "authorName": "Narration (Undertale)",
+      "source": "Undertale, Toby Fox (2015)",
+      "quoteDate": "2015",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The message on the mirror in Asgore's home, a quiet reassurance to the player near the end of a pacifist run."
+    },
+    {
+      "id": "rpg-011",
+      "content": "In this world, it's kill or be killed.",
+      "authorName": "Flowey (Undertale)",
+      "source": "Undertale, Toby Fox (2015)",
+      "quoteDate": "2015",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Flowey's opening philosophy, delivered with a smile before the game dismantles it."
+    },
+    {
+      "id": "rpg-012",
+      "content": "If you keep going the way you are now... you're gonna have a bad time.",
+      "authorName": "Sans (Undertale)",
+      "source": "Undertale, Toby Fox (2015)",
+      "quoteDate": "2015",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Sans's warning to a player heading down the genocide route; rendered in lowercase in-game."
+    },
+    {
+      "id": "rpg-013",
+      "content": "It's a beautiful day outside. Birds are singing, flowers are blooming... on days like these, kids like you... should be burning in hell.",
+      "authorName": "Sans (Undertale)",
+      "source": "Undertale, Toby Fox (2015)",
+      "quoteDate": "2015",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Sans's chilling greeting before the hardest boss fight in the game, on the genocide route."
+    },
+    {
+      "id": "rpg-014",
+      "content": "This is it. This is your story. It all begins here.",
+      "authorName": "Auron (Final Fantasy X)",
+      "source": "Final Fantasy X, Square (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Auron sets Tidus on his journey at the ruins of Zanarkand."
+    },
+    {
+      "id": "rpg-015",
+      "content": "Listen to my story. This... may be our last chance.",
+      "authorName": "Tidus (Final Fantasy X)",
+      "source": "Final Fantasy X, Square (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Tidus's opening narration that frames the entire game as a story being told."
+    },
+    {
+      "id": "rpg-016",
+      "content": "Not until the end. Always.",
+      "authorName": "Tidus (Final Fantasy X)",
+      "source": "Final Fantasy X, Square (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Tidus's answer to Yuna atop Mt. Gagazet, promising to stay by her side."
+    },
+    {
+      "id": "rpg-017",
+      "content": "Stay with me till the end. Please.",
+      "authorName": "Yuna (Final Fantasy X)",
+      "source": "Final Fantasy X, Square (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Yuna's plea to Tidus as her pilgrimage nears its close."
+    },
+    {
+      "id": "rpg-018",
+      "content": "Life... dreams... hope... Where'd they come from? And where are they headed...? These things... I'm going to destroy!",
+      "authorName": "Kefka (Final Fantasy VI)",
+      "source": "Final Fantasy VI, Square (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The nihilist god-clown Kefka's declaration during the final battle."
+    },
+    {
+      "id": "rpg-019",
+      "content": "The sun is a wondrous body. Like a magnificent father! If only I could be so grossly incandescent!",
+      "authorName": "Solaire of Astora (Dark Souls)",
+      "source": "Dark Souls, FromSoftware (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The sun-worshipping knight's earnest praise that inspired the 'Praise the Sun' phenomenon."
+    },
+    {
+      "id": "rpg-020",
+      "content": "In the Age of Ancients the world was unformed, shrouded by fog.",
+      "authorName": "Narrator (Dark Souls)",
+      "source": "Dark Souls, FromSoftware (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The opening line of the game's mythic prologue narration."
+    },
+    {
+      "id": "rpg-021",
+      "content": "Go for the eyes, Boo! Go for the eyes!",
+      "authorName": "Minsc (Baldur's Gate II: Shadows of Amn)",
+      "source": "Baldur's Gate II: Shadows of Amn, BioWare (2000)",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The berserker Minsc's battle cry, shouted to his miniature giant space hamster; recurs across the series."
+    },
+    {
+      "id": "rpg-022",
+      "content": "You cannot open all the doors. You have to integrate this into your character.",
+      "authorName": "Narration (Disco Elysium)",
+      "source": "Disco Elysium, ZA/UM (2019)",
+      "quoteDate": "2019",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The game reminds the detective that some possibilities will forever stay closed to who he is."
+    },
+    {
+      "id": "rpg-023",
+      "content": "Every school of thought and government has failed in this city -- but I love it nonetheless.",
+      "authorName": "Kim Kitsuragi (Disco Elysium)",
+      "source": "Disco Elysium, ZA/UM (2019)",
+      "quoteDate": "2019",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Lieutenant Kitsuragi on his weary, unwavering affection for Revachol."
+    },
+    {
+      "id": "rpg-024",
+      "content": "For a moment, there was hope.",
+      "authorName": "Narration (Disco Elysium)",
+      "source": "Disco Elysium, ZA/UM (2019)",
+      "quoteDate": "2019",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "A recurring line of narration marking fragile, fleeting optimism amid the ruin of Revachol."
+    },
+    {
+      "id": "rpg-025",
+      "content": "We stand upon the precipice of change. The world fears the inevitable plummet into the abyss. Watch for that moment... and when it comes, do not hesitate to leap. It is only when you fall that you learn whether you can fly.",
+      "authorName": "Flemeth (Dragon Age II)",
+      "source": "Dragon Age II, BioWare (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Witch of the Wilds' cryptic counsel to Hawke."
+    },
+    {
+      "id": "rpg-026",
+      "content": "Believe in whatever you like; absent creators or whimsical gods, follow prophets or ashkaari, or omens in the earth and sky. You will find wisdom only if you seek it.",
+      "authorName": "Sten (Dragon Age: Origins)",
+      "source": "Dragon Age: Origins, BioWare (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "unverified",
+      "sourceType": "video",
+      "notes": "Attributed to the Qunari warrior Sten; unverified on exact wording as sources reproduce it inconsistently."
+    }
+  ]
+}

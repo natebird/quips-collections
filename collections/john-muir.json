@@ -1,0 +1,332 @@
+{
+  "id": "john-muir",
+  "name": "John Muir",
+  "description": "The rapture of the wild from America's great naturalist and champion of the mountains.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "mountain.2.fill",
+  "category": "Nature",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "muir-001",
+      "content": "The mountains are calling and I must go, and I will work on while I can, studying incessantly.",
+      "authorName": "John Muir",
+      "source": "Letter to his sister Sarah Muir Galloway, September 3, 1873; Life and Letters of John Muir (1924), ch. 10",
+      "quoteDate": "1873",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "The genuine full line; the famous short form drops the second clause about ceaseless study and work."
+    },
+    {
+      "id": "muir-002",
+      "content": "Thousands of tired, nerve-shaken, over-civilized people are beginning to find out that going to the mountains is going home; that wildness is a necessity; and that mountain parks and reservations are useful not only as fountains of timber and irrigating rivers, but as fountains of life.",
+      "authorName": "John Muir",
+      "source": "Our National Parks (1901), ch. 1",
+      "quoteDate": "1901",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The passage that gives the genuine 'going to the mountains is going home' line."
+    },
+    {
+      "id": "muir-003",
+      "content": "Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop off like autumn leaves.",
+      "authorName": "John Muir",
+      "source": "Our National Parks (1901), ch. 1",
+      "quoteDate": "1901",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Often misquoted as 'glad tidings' and 'leaves of Autumn'; Sierra Club confirms 'good tidings' and 'drop off like autumn leaves.'"
+    },
+    {
+      "id": "muir-004",
+      "content": "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul alike.",
+      "authorName": "John Muir",
+      "source": "The Yosemite (1912), ch. 15",
+      "quoteDate": "1912",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's plea to preserve the Hetch Hetchy valley."
+    },
+    {
+      "id": "muir-005",
+      "content": "The clearest way into the Universe is through a forest wilderness.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 313",
+      "quoteDate": "c. 1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From his journals as edited by Linnie Marsh Wolfe."
+    },
+    {
+      "id": "muir-006",
+      "content": "In every walk with Nature one receives far more than he seeks.",
+      "authorName": "John Muir",
+      "source": "Steep Trails (1918), ch. 9",
+      "quoteDate": "1918",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Published posthumously in a collection of Muir's travel essays."
+    },
+    {
+      "id": "muir-007",
+      "content": "The mountains are fountains of men as well as of rivers, of glaciers, of fertile soil. The great poets, philosophers, prophets, able men whose thoughts and deeds have moved the world, have come down from the mountains.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), pp. 315-316",
+      "quoteDate": "c. 1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals."
+    },
+    {
+      "id": "muir-008",
+      "content": "This grand show is eternal. It is always sunrise somewhere; the dew is never all dried at once; a shower is forever falling; vapor ever rising. Eternal sunrise, eternal sunset, eternal dawn and gloaming, on seas and continents and islands, each in its turn, as the round earth rolls.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 438",
+      "quoteDate": "c. 1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals."
+    },
+    {
+      "id": "muir-009",
+      "content": "I only went out for a walk, and finally concluded to stay out till sundown, for going out, I found, was really going in.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 439",
+      "quoteDate": "c. 1913",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals."
+    },
+    {
+      "id": "muir-010",
+      "content": "In God's wildness lies the hope of the world - the great fresh unblighted, unredeemed wilderness.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 317",
+      "quoteDate": "c. 1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals."
+    },
+    {
+      "id": "muir-011",
+      "content": "The snow is melting into music.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 107",
+      "quoteDate": "c. 1872",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals, describing the Sierra spring thaw."
+    },
+    {
+      "id": "muir-012",
+      "content": "Wander here a whole summer, if you can. Thousands of God's wild blessings will search you and soak you as if you were a sponge, and the big days will go by uncounted.",
+      "authorName": "John Muir",
+      "source": "Our National Parks (1901), ch. 1",
+      "quoteDate": "1901",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "An invitation to visit the Sierra forest reservations."
+    },
+    {
+      "id": "muir-013",
+      "content": "None of Nature's landscapes are ugly so long as they are wild.",
+      "authorName": "John Muir",
+      "source": "Our National Parks (1901), ch. 1, p. 4",
+      "quoteDate": "1901",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Frequently confused with the misquote 'God never made an ugly landscape.'"
+    },
+    {
+      "id": "muir-014",
+      "content": "When we try to pick out anything by itself, we find it hitched to everything else in the Universe.",
+      "authorName": "John Muir",
+      "source": "My First Summer in the Sierra (1911), ch. 6",
+      "quoteDate": "1911",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The correct wording; the widely circulated 'when one tugs at a single thing in nature' version is a misquote."
+    },
+    {
+      "id": "muir-015",
+      "content": "Another glorious Sierra day in which one seems to be dissolved and absorbed and sent pulsing onward we know not where. Life seems neither long nor short, and we take no more heed to save time or make haste than do the trees and stars. This is true freedom, a good practical sort of immortality.",
+      "authorName": "John Muir",
+      "source": "My First Summer in the Sierra (1911), ch. 2",
+      "quoteDate": "1911",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From his 1869 journal of a summer herding sheep in the high Sierra."
+    },
+    {
+      "id": "muir-016",
+      "content": "Oh, these vast, calm, measureless mountain days, inciting at once to work and rest! Days in whose light everything seems equally divine, opening a thousand windows to show us God.",
+      "authorName": "John Muir",
+      "source": "My First Summer in the Sierra (1911), ch. 2",
+      "quoteDate": "1911",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 1869 Sierra journal."
+    },
+    {
+      "id": "muir-017",
+      "content": "Come to the woods, for here is rest. There is no repose like that of the green deep woods.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 235",
+      "quoteDate": "c. 1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals."
+    },
+    {
+      "id": "muir-018",
+      "content": "Everything is flowing - going somewhere, animals and so-called lifeless rocks as well as water. Thus the snow flows fast or slow in grand beauty-making glaciers and avalanches; the air in majestic floods carrying minerals, plant leaves, seeds, spores, with streams of music and fragrance.",
+      "authorName": "John Muir",
+      "source": "My First Summer in the Sierra (1911), ch. 10",
+      "quoteDate": "1911",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 1869 Sierra journal."
+    },
+    {
+      "id": "muir-019",
+      "content": "One day's exposure to mountains is better than cartloads of books. See how willingly Nature poses herself upon photographers' plates. No earthly chemicals are so sensitive as those of the human soul.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 95",
+      "quoteDate": "c. 1871",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals."
+    },
+    {
+      "id": "muir-020",
+      "content": "Winds are advertisements of all they touch, however much or little we may be able to read them; telling their wanderings even by their scents alone.",
+      "authorName": "John Muir",
+      "source": "The Mountains of California (1894), ch. 10",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the wind-storms of the Sierra forests."
+    },
+    {
+      "id": "muir-021",
+      "content": "Fresh beauty opens one's eyes wherever it is really seen, but the very abundance and completeness of the common beauty that besets our steps prevents its being absorbed and appreciated.",
+      "authorName": "John Muir",
+      "source": "The Mountains of California (1894), ch. 15",
+      "quoteDate": "1894",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the overlooked beauty of the everyday Sierra."
+    },
+    {
+      "id": "muir-022",
+      "content": "Then it seemed to me that the Sierra should be called, not the Nevada or Snowy Range, but the Range of Light.",
+      "authorName": "John Muir",
+      "source": "The Yosemite (1912), ch. 1",
+      "quoteDate": "1912",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The origin of Muir's celebrated name for the Sierra Nevada."
+    },
+    {
+      "id": "muir-023",
+      "content": "No dogma taught by the present civilization seems to form so insuperable an obstacle in the way of a right understanding of the relations which culture sustains to wildness as that which regards the world as made especially for the uses of man.",
+      "authorName": "John Muir",
+      "source": "\"Wild Wool,\" Overland Monthly (April 1875); reprinted in Steep Trails (1918), ch. 1",
+      "quoteDate": "1875",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "An early published statement of Muir's biocentric view of nature."
+    },
+    {
+      "id": "muir-024",
+      "content": "Why should man value himself as more than a small part of the one great unit of creation?",
+      "authorName": "John Muir",
+      "source": "A Thousand-Mile Walk to the Gulf (1916), ch. 5",
+      "quoteDate": "c. 1867",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the journal of his 1867 southern walk, published posthumously."
+    },
+    {
+      "id": "muir-025",
+      "content": "Nature is always lovely, invincible, glad, whatever is done and suffered by her creatures. All scars she heals, whether in rocks or water or sky or hearts.",
+      "authorName": "John Muir",
+      "source": "John of the Mountains: The Unpublished Journals of John Muir (1938), p. 337",
+      "quoteDate": "c. 1890",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Muir's journals."
+    },
+    {
+      "id": "muir-026",
+      "content": "Nature is ever at work building and pulling down, creating and destroying, keeping everything whirling and flowing, allowing no rest but in rhythmical motion, chasing everything in endless song out of one beautiful form into another.",
+      "authorName": "John Muir",
+      "source": "Our National Parks (1901), ch. 3",
+      "quoteDate": "1901",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the wild gardens of the Yosemite National Park."
+    },
+    {
+      "id": "muir-027",
+      "content": "Only by going alone in silence, without baggage, can one truly get into the heart of the wilderness. All other travel is mere dust and hotels and baggage and chatter.",
+      "authorName": "John Muir",
+      "source": "Letter to his wife Louie Strentzel Muir, July 1888; Life and Letters of John Muir (1924), ch. 15",
+      "quoteDate": "1888",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Written from Mount Rainier during his Pacific Northwest travels."
+    },
+    {
+      "id": "muir-028",
+      "content": "We all flow from one fountain Soul. All are expressions of one Love.",
+      "authorName": "John Muir",
+      "source": "Letter to Catharine Merrill, June 9, 1872; Life and Letters of John Muir (1924), ch. 9",
+      "quoteDate": "1872",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "From a Yosemite-era letter on the unity of nature and spirit."
+    },
+    {
+      "id": "muir-029",
+      "content": "Between every two pine trees there is a door leading to a new way of life.",
+      "authorName": "John Muir",
+      "source": "Marginal note in Muir's copy of Ralph Waldo Emerson's Prose Works, Vol. I (Yale collection)",
+      "quoteDate": "c. 1872",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "A genuine Muir marginal note documented by the Sierra Club, not from a published work."
+    },
+    {
+      "id": "muir-030",
+      "content": "Keep close to Nature's heart... and break clear away, once in a while, and climb a mountain or spend a week in the woods. Wash your spirit clean.",
+      "authorName": "John Muir",
+      "source": "Recalled by Samuel Hall Young in Alaska Days with John Muir (1915), ch. 7",
+      "quoteDate": "c. 1879",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Authorship/wording axis: recorded secondhand as Muir's parting words in a companion's memoir, not written by Muir himself, and popularly circulated with added ellipses."
+    },
+    {
+      "id": "muir-031",
+      "content": "As long as I live, I'll hear waterfalls and birds and winds sing. I'll interpret the rocks, learn the language of flood, storm, and the avalanche.",
+      "authorName": "John Muir",
+      "source": "Paraphrased in Linnie Marsh Wolfe, Son of the Wilderness: The Life of John Muir (1945), p. 144",
+      "quoteDate": "c. 1873",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Wording axis: this is Wolfe's biographical paraphrase, not Muir's own verbatim text."
+    },
+    {
+      "id": "muir-032",
+      "content": "There is a love of wild nature in everybody, an ancient mother-love ever showing itself whether recognized or no, and however covered by cares and duties.",
+      "authorName": "John Muir",
+      "source": "Muir's journals, cited in The Wilderness World of John Muir, ed. Edwin Way Teale (1954)",
+      "quoteDate": "unspecified",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Source axis: attested only through a later anthology, without a pinned original journal date or page."
+    }
+  ]
+}

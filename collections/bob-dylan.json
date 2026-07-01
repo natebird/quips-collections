@@ -1,0 +1,272 @@
+{
+  "id": "bob-dylan",
+  "name": "Bob Dylan",
+  "description": "The Nobel laureate off the record — Dylan on art, fame, and freedom in his own words.",
+  "author": "Quips Editorial",
+  "colorName": "brown",
+  "iconName": "guitars.fill",
+  "category": "Music",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "dylan-001",
+      "content": "If someone had ever told me that I had the slightest chance of winning the Nobel Prize, I would have to think that I'd have about the same odds as standing on the moon.",
+      "authorName": "Bob Dylan",
+      "source": "Nobel Prize banquet speech, Stockholm (2016)",
+      "quoteDate": "2016-12-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Opening of Dylan's acceptance remarks, read on his behalf at the Nobel banquet."
+    },
+    {
+      "id": "dylan-002",
+      "content": "Not once have I ever had the time to ask myself, 'Are my songs literature?'",
+      "authorName": "Bob Dylan",
+      "source": "Nobel Prize banquet speech, Stockholm (2016)",
+      "quoteDate": "2016-12-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The closing line of his banquet speech, thanking the Swedish Academy for answering the question for him."
+    },
+    {
+      "id": "dylan-003",
+      "content": "As a performer I've played for 50,000 people and I've played for 50 people and I can tell you that it is harder to play for 50 people.",
+      "authorName": "Bob Dylan",
+      "source": "Nobel Prize banquet speech, Stockholm (2016)",
+      "quoteDate": "2016-12-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Dylan on the intimacy and difficulty of small audiences."
+    },
+    {
+      "id": "dylan-004",
+      "content": "I began to think about William Shakespeare, the great literary figure. I would reckon he thought of himself as a dramatist. The thought that he was writing literature couldn't have entered his head.",
+      "authorName": "Bob Dylan",
+      "source": "Nobel Prize banquet speech, Stockholm (2016)",
+      "quoteDate": "2016-12-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Dylan compares his own songwriting to Shakespeare's practical, working-craftsman mindset."
+    },
+    {
+      "id": "dylan-005",
+      "content": "His words were written for the stage. Meant to be spoken not read.",
+      "authorName": "Bob Dylan",
+      "source": "Nobel Prize banquet speech, Stockholm (2016)",
+      "quoteDate": "2016-12-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "On Shakespeare, drawing the parallel that songs, like plays, are meant to be performed."
+    },
+    {
+      "id": "dylan-006",
+      "content": "Our songs are alive in the land of the living.",
+      "authorName": "Bob Dylan",
+      "source": "Nobel Lecture in Literature (2017)",
+      "quoteDate": "2017-06-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Near the close of his recorded Nobel lecture, on songs being meant to be sung, not read."
+    },
+    {
+      "id": "dylan-007",
+      "content": "These songs didn't come out of thin air. I didn't just make them up out of whole cloth.",
+      "authorName": "Bob Dylan",
+      "source": "MusiCares Person of the Year speech (2015)",
+      "quoteDate": "2015-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Dylan crediting the folk and traditional-music roots of his catalog."
+    },
+    {
+      "id": "dylan-008",
+      "content": "It all came out of traditional music: traditional folk music, traditional rock 'n' roll and traditional big-band swing orchestra music.",
+      "authorName": "Bob Dylan",
+      "source": "MusiCares Person of the Year speech (2015)",
+      "quoteDate": "2015-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Continuing his account of how his songwriting was seeded by tradition, not invented from nothing."
+    },
+    {
+      "id": "dylan-009",
+      "content": "I learned lyrics and how to write them from listening to folk songs.",
+      "authorName": "Bob Dylan",
+      "source": "MusiCares Person of the Year speech (2015)",
+      "quoteDate": "2015-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Dylan on the folk repertoire as his songwriting apprenticeship."
+    },
+    {
+      "id": "dylan-010",
+      "content": "They gave me the code for everything that's fair game, that everything belongs to everyone.",
+      "authorName": "Bob Dylan",
+      "source": "MusiCares Person of the Year speech (2015)",
+      "quoteDate": "2015-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "On what the old folk standards taught him about the commons of song."
+    },
+    {
+      "id": "dylan-011",
+      "content": "Oh, I think of myself more as a song and dance man, y'know.",
+      "authorName": "Bob Dylan",
+      "source": "San Francisco KQED press conference (1965)",
+      "quoteDate": "1965-12-03",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "His famous deflection when asked whether he was primarily a singer or a poet."
+    },
+    {
+      "id": "dylan-012",
+      "content": "The words are just as important as the music. There would be no music without the words.",
+      "authorName": "Bob Dylan",
+      "source": "San Francisco KQED press conference (1965)",
+      "quoteDate": "1965-12-03",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Dylan on the primacy of lyrics, adding that he writes the words first."
+    },
+    {
+      "id": "dylan-013",
+      "content": "I like to think of it more in terms of vision music—it's mathematical music.",
+      "authorName": "Bob Dylan",
+      "source": "San Francisco KQED press conference (1965)",
+      "quoteDate": "1965-12-03",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "His answer when asked what to call his music, resisting the 'folk-rock' label."
+    },
+    {
+      "id": "dylan-014",
+      "content": "I welcome them—with open arms.",
+      "authorName": "Bob Dylan",
+      "source": "San Francisco KQED press conference (1965)",
+      "quoteDate": "1965-12-03",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Reply when asked what he thinks of people who analyze his songs."
+    },
+    {
+      "id": "dylan-015",
+      "content": "As a constitutional re-play of mass production.",
+      "authorName": "Bob Dylan",
+      "source": "San Francisco KQED press conference (1965)",
+      "quoteDate": "1965-12-03",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "His cryptic, deadpan definition of folk music at the press conference."
+    },
+    {
+      "id": "dylan-016",
+      "content": "I made a bargain with it, you know, long time ago. And I'm holding up my end.",
+      "authorName": "Bob Dylan",
+      "source": "60 Minutes interview with Ed Bradley (2004)",
+      "quoteDate": "2004-12-05",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Explaining why he still tours; he later names the other party as 'the chief commander.'"
+    },
+    {
+      "id": "dylan-017",
+      "content": "All those early songs were almost magically written.",
+      "authorName": "Bob Dylan",
+      "source": "60 Minutes interview with Ed Bradley (2004)",
+      "quoteDate": "2004-12-05",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Dylan reflecting on his 1960s output, which he says he couldn't write today."
+    },
+    {
+      "id": "dylan-018",
+      "content": "I don't know how I got to write those songs.",
+      "authorName": "Bob Dylan",
+      "source": "60 Minutes interview with Ed Bradley (2004)",
+      "quoteDate": "2004-12-05",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "On the mystery of his own early creative period."
+    },
+    {
+      "id": "dylan-019",
+      "content": "A song is like a dream, and you have to make it come true.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Dylan's memoir, describing the elusive work of writing a song."
+    },
+    {
+      "id": "dylan-020",
+      "content": "I had very little in common with and knew even less about a generation that I was supposed to be the voice of.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dylan rejecting the 'voice of a generation' mantle placed on him in the 1960s."
+    },
+    {
+      "id": "dylan-021",
+      "content": "I was sick of the way my lyrics had been extrapolated, their meanings subverted into polemics.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On his weariness with being read as a political spokesman."
+    },
+    {
+      "id": "dylan-022",
+      "content": "Folk music was a reality of a more brilliant dimension.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dylan on the imaginative world he found in traditional song."
+    },
+    {
+      "id": "dylan-023",
+      "content": "It was a strange world ahead that would unfold, a thunderhead of a world with jagged lightning edges.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A closing image from the memoir on the future he sensed at the start of his career."
+    },
+    {
+      "id": "dylan-024",
+      "content": "Most of the other performers tried to put themselves across, rather than the song.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dylan on what set the singers he admired apart in the early folk scene."
+    },
+    {
+      "id": "dylan-025",
+      "content": "I want to needle them.",
+      "authorName": "Bob Dylan",
+      "source": "San Francisco KQED press conference (1965)",
+      "quoteDate": "1965-12-03",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "His reply when asked why his songs are so hard on people."
+    },
+    {
+      "id": "dylan-026",
+      "content": "Destiny is a feeling you have that you know something about yourself nobody else does.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Widely attributed to Chronicles, but exact wording not confirmed against the primary text (wording axis)."
+    }
+  ]
+}

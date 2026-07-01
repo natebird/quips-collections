@@ -1,0 +1,272 @@
+{
+  "id": "naruto",
+  "name": "Naruto",
+  "description": "Ninja resolve, pain, and never giving up — iconic lines from the world of Naruto.",
+  "author": "Quips Editorial",
+  "colorName": "orange",
+  "iconName": "figure.martial.arts",
+  "category": "Anime & Manga",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "naruto-001",
+      "content": "I never go back on my word. That's my ninja way!",
+      "authorName": "Naruto Uzumaki",
+      "source": "Naruto, Land of Waves arc, ch. 26 / ep. 15 (2000); recurring nindō",
+      "quoteDate": "c. 2000",
+      "verificationStatus": "verified",
+      "sourceType": "comic",
+      "notes": "Naruto's signature nindō (ninja way), first stated fully during the Land of Waves arc and repeated throughout the series; wording follows the standard Viz manga / English dub rendering."
+    },
+    {
+      "id": "naruto-002",
+      "content": "Believe it!",
+      "authorName": "Naruto Uzumaki",
+      "source": "Naruto, ep. 1 (2005); recurring English dub catchphrase",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "The English dub's catchphrase rendering of Naruto's verbal tic 'dattebayo,' used mainly in the early dubbed episodes (Viz/dub)."
+    },
+    {
+      "id": "naruto-003",
+      "content": "Stop trying to tell me you can't change what you are. You can do it too — 'cause after all, unlike me, you're not a failure.",
+      "authorName": "Naruto Uzumaki",
+      "source": "Naruto, Chunin Exams (Naruto vs. Neji), ep. 62 (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Naruto to Neji after defeating him, rejecting Neji's fatalism about destiny; standard English dub wording (Viz/dub), documented as one of the arc's key lines."
+    },
+    {
+      "id": "naruto-004",
+      "content": "I want to believe in the kind of peace Master Jiraiya believed in. That's why I won't take my revenge on you.",
+      "authorName": "Naruto Uzumaki",
+      "source": "Naruto: Shippuden, Naruto and Nagato, ep. 175 (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "television",
+      "notes": "Naruto rejecting revenge on Nagato during their final confrontation; this condenses the scene, so the exact official wording is unconfirmed (wording axis)."
+    },
+    {
+      "id": "naruto-005",
+      "content": "In the ninja world, those who break the rules are scum, that's true. But those who abandon their friends are worse than scum.",
+      "authorName": "Kakashi Hatake",
+      "source": "Naruto, bell test, ch. 4 / ep. 5 (2000)",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "comic",
+      "notes": "Kakashi to Team 7 at the memorial stone after the bell test (a line he inherited from Obito); Viz manga and the English dub use 'scum,' while some fan translations render it 'trash.'"
+    },
+    {
+      "id": "naruto-006",
+      "content": "Sorry I'm late. I got lost on the path of life.",
+      "authorName": "Kakashi Hatake",
+      "source": "Naruto, recurring excuse (2005); English dub",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Kakashi's habitual excuse for his chronic lateness; this is the standard English dub wording, itself a loose rendering of the Japanese line."
+    },
+    {
+      "id": "naruto-007",
+      "content": "My likes and dislikes... I don't feel like telling you that. My dreams for the future... I've never really thought about it. As for my hobbies... I have lots of hobbies.",
+      "authorName": "Kakashi Hatake",
+      "source": "Naruto, Team 7 introductions, ch. 4 / ep. 4 (2000)",
+      "quoteDate": "2000",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Kakashi deflecting during the team's self-introductions; wording follows the widely documented English dub rendering (Viz/dub)."
+    },
+    {
+      "id": "naruto-008",
+      "content": "It's not the number of jutsu you have that matters. All you need is the guts to never give up.",
+      "authorName": "Jiraiya",
+      "source": "Naruto, Jiraiya training Naruto, ep. 96 (2006)",
+      "quoteDate": "2006",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Jiraiya to Naruto on what truly makes a shinobi; English dub wording, cited to Naruto episode 96."
+    },
+    {
+      "id": "naruto-009",
+      "content": "A tale is only as good as its final turn of events.",
+      "authorName": "Jiraiya",
+      "source": "Naruto: Shippuden, Jiraiya vs. Pain arc, ep. 133 (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Jiraiya reflecting on his own life and death during his battle with Pain; English dub wording, cited to Shippuden episode 133."
+    },
+    {
+      "id": "naruto-010",
+      "content": "My duty is to be a model for the next generation.",
+      "authorName": "Jiraiya",
+      "source": "Naruto: Shippuden, ep. 126 (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Jiraiya on his responsibility to those who come after him; English dub wording, cited to Shippuden episode 126."
+    },
+    {
+      "id": "naruto-011",
+      "content": "People live their lives bound by what they accept as correct and true. That's how they define reality. But what does it mean to be correct or true? Merely vague concepts... their reality may all be an illusion.",
+      "authorName": "Itachi Uchiha",
+      "source": "Naruto, ch. 385 (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "comic",
+      "notes": "Itachi to Sasuke during their confrontation, Viz manga chapter 385; among Itachi's most-quoted lines."
+    },
+    {
+      "id": "naruto-012",
+      "content": "You don't have to forgive me. But no matter what you do from here on, know this: I will love you always.",
+      "authorName": "Itachi Uchiha",
+      "source": "Naruto, ch. 590 (2012) / Naruto: Shippuden, ep. 339 (2013)",
+      "quoteDate": "2012",
+      "verificationStatus": "verified",
+      "sourceType": "comic",
+      "notes": "Itachi's final words to Sasuke as a reanimated shinobi (the 'I Will Love You Always' scene), Viz manga ch. 590 / anime ep. 339; wording follows the widely documented official English rendering."
+    },
+    {
+      "id": "naruto-013",
+      "content": "You and I are flesh and blood. I'm always going to be there for you, even if it's only as an obstacle for you to overcome.",
+      "authorName": "Itachi Uchiha",
+      "source": "Naruto: Shippuden, ep. 141 (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Itachi to Sasuke on his role as an older brother; English dub wording, cited to Shippuden episode 141."
+    },
+    {
+      "id": "naruto-014",
+      "content": "Those who do not understand true pain can never understand true peace.",
+      "authorName": "Pain (Nagato)",
+      "source": "Naruto: Shippuden, Pain's Assault arc, ep. 166 (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Pain explaining his philosophy of peace through suffering during the assault on the Hidden Leaf; widely documented official English (Viz/dub) wording, cited to episode 166."
+    },
+    {
+      "id": "naruto-015",
+      "content": "Religion, ideology, resources, land, spite, love, or just because. No matter how pathetic the reason, it's enough to start war.",
+      "authorName": "Pain (Nagato)",
+      "source": "Naruto: Shippuden, Naruto vs. Pain, ep. 172 (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Pain arguing to Naruto that war needs no noble cause; official English wording, cited to the Pain's Assault arc (episode 172)."
+    },
+    {
+      "id": "naruto-016",
+      "content": "Feel pain. Contemplate pain. Accept pain. Know pain.",
+      "authorName": "Pain (Nagato)",
+      "source": "Naruto: Shippuden, Pain's Assault arc, ep. 166 (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Pain's words as he devastates the Hidden Leaf; official English (Viz/dub) rendering, cited to the Pain's Assault arc."
+    },
+    {
+      "id": "naruto-017",
+      "content": "If love is just a word, then why is it so painful when you realize it isn't there?",
+      "authorName": "Gaara",
+      "source": "Naruto, Chunin Exams / Konoha Crush arc (2004)",
+      "quoteDate": "c. 2004",
+      "verificationStatus": "unverified",
+      "sourceType": "television",
+      "notes": "Widely attributed to Gaara reflecting on love and loneliness, but the exact scene and official translation could not be confirmed (source and wording axes)."
+    },
+    {
+      "id": "naruto-018",
+      "content": "I fight only for myself, and I love only myself.",
+      "authorName": "Gaara",
+      "source": "Naruto, Chunin Exams arc, ep. 60 (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "unverified",
+      "sourceType": "television",
+      "notes": "Gaara describing his nihilistic self-reliance before his change of heart; exact official wording varies by translation, so it is unconfirmed (wording axis)."
+    },
+    {
+      "id": "naruto-019",
+      "content": "A dropout will beat a genius through hard work.",
+      "authorName": "Rock Lee",
+      "source": "Naruto, Chunin Exams arc, ch. 84 / ep. 49 (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "comic",
+      "notes": "Rock Lee's guiding creed under Might Guy, stated during the Chunin Exams; widely documented official English (Viz/dub) rendering of his hard-work philosophy."
+    },
+    {
+      "id": "naruto-020",
+      "content": "The power of youth!",
+      "authorName": "Might Guy",
+      "source": "Naruto, Might Guy's recurring catchphrase (2005); English dub",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Guy's exuberant catchphrase celebrating youthful energy and hard work, tied to his 'springtime of youth' motif; standard English dub rendering."
+    },
+    {
+      "id": "naruto-021",
+      "content": "Naruto is not the Nine-Tailed Fox. He is a member of the Hidden Leaf Village — he is Naruto Uzumaki!",
+      "authorName": "Iruka Umino",
+      "source": "Naruto, ch. 1 / ep. 1 (1999)",
+      "quoteDate": "1999",
+      "verificationStatus": "unverified",
+      "sourceType": "comic",
+      "notes": "Iruka defending Naruto against Mizuki in the series' opening arc; the sentiment is verified but this phrasing is condensed and differs from the official dub/manga wording (wording axis)."
+    },
+    {
+      "id": "naruto-022",
+      "content": "What a drag.",
+      "authorName": "Shikamaru Nara",
+      "source": "Naruto, recurring catchphrase (2005); English dub",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Shikamaru's signature complaint, the English dub's rendering of his catchphrase 'mendokusē' (also translated 'how troublesome')."
+    },
+    {
+      "id": "naruto-023",
+      "content": "I finally understand what my sensei was trying to protect. Now it's my turn to carry the Will of Fire.",
+      "authorName": "Shikamaru Nara",
+      "source": "Naruto: Shippuden, Hidan and Kakuzu arc (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "unverified",
+      "sourceType": "television",
+      "notes": "Shikamaru resolving to honor Asuma after his death; paraphrased, so official wording is unconfirmed (wording axis)."
+    },
+    {
+      "id": "naruto-024",
+      "content": "I am the Fifth Hokage, Tsunade, and I will protect everyone in this village with my life!",
+      "authorName": "Tsunade",
+      "source": "Naruto: Shippuden, Pain's Assault arc (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "unverified",
+      "sourceType": "television",
+      "notes": "Tsunade rallying to defend the Hidden Leaf during Pain's invasion; paraphrased, so official wording is unconfirmed (wording axis)."
+    },
+    {
+      "id": "naruto-025",
+      "content": "You can become strong. After all, you're my son.",
+      "authorName": "Minato Namikaze",
+      "source": "Naruto: Shippuden, Nine-Tails / Minato's chakra arc, ep. 246 (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Minato encouraging Naruto when his chakra imprint meets his son; English dub wording, cited to the Fourth Hokage / Nine-Tails arc (episode approximate)."
+    },
+    {
+      "id": "naruto-026",
+      "content": "In this world, those who don't have comrades are the unfortunate ones. But those who don't know what it means to have comrades are the truly pitiful ones.",
+      "authorName": "Obito Uchiha",
+      "source": "Naruto, Kakashi Gaiden, ch. 242 (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "comic",
+      "notes": "Young Obito to Kakashi in the Kakashi Gaiden flashback, the origin of the 'those who abandon their friends' creed; widely documented official English (Viz) rendering."
+    }
+  ]
+}

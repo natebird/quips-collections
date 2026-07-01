@@ -1,0 +1,292 @@
+{
+  "id": "entrepreneurs",
+  "name": "Entrepreneurs",
+  "description": "Building, betting, and beginning — hard lessons from founders who bet on themselves.",
+  "author": "Quips Editorial",
+  "colorName": "primaryBlue",
+  "iconName": "lightbulb.fill",
+  "category": "Business & Leadership",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "entre-001",
+      "content": "Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.",
+      "authorName": "Jeff Bezos",
+      "source": "Amazon 2016 Letter to Shareholders (published April 2017)",
+      "quoteDate": "2016",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Bezos's warning against complacency at scale; verified verbatim on Amazon's official aboutamazon.com posting of the letter."
+    },
+    {
+      "id": "entre-002",
+      "content": "We believe that a fundamental measure of our success will be the shareholder value we create over the long term.",
+      "authorName": "Jeff Bezos",
+      "source": "Amazon 1997 Letter to Shareholders, 'It's all about the long term'",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Opening line of the famous long-term section; verified verbatim on Amazon's official reprint of the original 1997 letter."
+    },
+    {
+      "id": "entre-003",
+      "content": "We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages.",
+      "authorName": "Jeff Bezos",
+      "source": "Amazon 1997 Letter to Shareholders",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "From the 1997 letter's management-and-decision-making principles; confirmed against the letter's primary text."
+    },
+    {
+      "id": "entre-004",
+      "content": "When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we'll take the cash flows.",
+      "authorName": "Jeff Bezos",
+      "source": "Amazon 1997 Letter to Shareholders",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "A core Bezos long-term-bet principle; confirmed against the primary 1997 letter text."
+    },
+    {
+      "id": "entre-005",
+      "content": "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.",
+      "authorName": "Jeff Bezos",
+      "source": "Bloomberg BusinessWeek interview, 'Jeff Bezos on Word-of-Mouth Power' (2004)",
+      "quoteDate": "2004-08-02",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Often misattributed to a shareholder letter; it is actually from a 2004 Bloomberg BusinessWeek interview, confirmed on the bloomberg.com article page."
+    },
+    {
+      "id": "entre-006",
+      "content": "Your margin is my opportunity.",
+      "authorName": "Jeff Bezos",
+      "source": "Attributed; reported in Brad Stone's 'The Everything Store' (2013)",
+      "quoteDate": "c. 2013",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: reported in a reputable biography but with no primary letter, transcript, or on-record utterance; treat as reported rather than documented."
+    },
+    {
+      "id": "entre-007",
+      "content": "Every moment in business happens only once. The next Bill Gates will not build an operating system.",
+      "authorName": "Peter Thiel",
+      "source": "Zero to One: Notes on Startups, or How to Build the Future (2014), Preface",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening lines of the book's preface, arguing that copying past winners ('1 to n') is not creating the new ('0 to 1'); confirmed against the book text."
+    },
+    {
+      "id": "entre-008",
+      "content": "Monopoly is the condition of every successful business.",
+      "authorName": "Peter Thiel",
+      "source": "Zero to One (2014), Ch. 3",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thiel's core claim that durable success means escaping competition; extracted directly from the book's full text."
+    },
+    {
+      "id": "entre-009",
+      "content": "Competition is for losers.",
+      "authorName": "Peter Thiel",
+      "source": "'Competition Is for Losers,' The Wall Street Journal (Sept. 12, 2014), adapted from Zero to One",
+      "quoteDate": "2014-09-12",
+      "verificationStatus": "verified",
+      "sourceType": "newspaper",
+      "notes": "Functions as the title and thesis of Thiel's own bylined WSJ essay; attribution to Thiel is solid."
+    },
+    {
+      "id": "entre-010",
+      "content": "Brilliant thinking is rare, but courage is in even shorter supply than genius.",
+      "authorName": "Peter Thiel",
+      "source": "Zero to One (2014), Preface",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thiel argues the binding constraint on innovation is courage, not intelligence; wording confirmed against the book."
+    },
+    {
+      "id": "entre-011",
+      "content": "There are no silver bullets for this, only lead bullets.",
+      "authorName": "Ben Horowitz",
+      "source": "'Lead Bullets,' a16z blog (2011); also in 'The Hard Thing About Hard Things' (2014)",
+      "quoteDate": "2011-11-13",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "The lesson that existential competitive threats are beaten by a better product, not a shortcut; verified on Horowitz's own a16z post."
+    },
+    {
+      "id": "entre-012",
+      "content": "The hard thing isn't setting a big, hairy, audacious goal. The hard thing is laying people off when you miss the big goal.",
+      "authorName": "Ben Horowitz",
+      "source": "The Hard Thing About Hard Things (2014), Introduction",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the book's opening litany on what actually makes running a company hard; wording is identical across all reproductions of the intro."
+    },
+    {
+      "id": "entre-013",
+      "content": "Startups take off because the founders make them take off.",
+      "authorName": "Paul Graham",
+      "source": "Essay 'Do Things that Don't Scale' (2013), paulgraham.com",
+      "quoteDate": "2013-07",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Verified against Graham's own site; the full sentence begins 'Actually startups take off...'. Startups rarely grow by themselves — founders must push them into motion."
+    },
+    {
+      "id": "entre-014",
+      "content": "Make something people want.",
+      "authorName": "Paul Graham",
+      "source": "Y Combinator motto; discussed in Graham's essay 'Be Good' (2008), paulgraham.com",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Y Combinator's founding motto, associated with Graham and appearing in his essays and YC materials."
+    },
+    {
+      "id": "entre-015",
+      "content": "If you're not embarrassed by the first version of your product, you've launched too late.",
+      "authorName": "Reid Hoffman",
+      "source": "Reid Hoffman on X/Twitter (2017); rooted in LinkedIn's launch philosophy",
+      "quoteDate": "2017-03-29",
+      "verificationStatus": "verified",
+      "sourceType": "socialMedia",
+      "notes": "Hoffman restated his own maxim verbatim on his own X account; the concept traces to LinkedIn's early ship-fast approach."
+    },
+    {
+      "id": "entre-016",
+      "content": "In business, to be a success, you only have to be right once.",
+      "authorName": "Mark Cuban",
+      "source": "'Success and Motivation – You only have to be right once!' blogmaverick.com (2005)",
+      "quoteDate": "2005-05-30",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "The true verbatim line from Cuban's own blog; the popular one-line paraphrase conflates two non-adjacent sentences, so this restores the original wording."
+    },
+    {
+      "id": "entre-017",
+      "content": "Sweat equity is the best startup capital.",
+      "authorName": "Mark Cuban",
+      "source": "'The Best Equity is Sweat Equity,' blogmaverick.com (2008)",
+      "quoteDate": "2008-01-02",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Verbatim from Cuban's blog (original: 'Sweat Equity is the best start up capital'); the widely-quoted 'most valuable equity there is' version is a paraphrase and was not used."
+    },
+    {
+      "id": "entre-018",
+      "content": "Every day some stranger from anywhere in the world that you have never met is trying to come up with a way to put you out of business.",
+      "authorName": "Mark Cuban",
+      "source": "'The Sport of Business,' blogmaverick.com (2005)",
+      "quoteDate": "2005-03-12",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Cuban's own blog wording (original spells 'any where'); this is the documented source behind the polished 'work like someone is trying to take it away' aphorism."
+    },
+    {
+      "id": "entre-019",
+      "content": "If somebody offers you an amazing opportunity but you are not sure you can do it, say yes – then learn how to do it later.",
+      "authorName": "Richard Branson",
+      "source": "Screw It, Let's Do It (2006); posted verbatim on Branson's own X account (2018)",
+      "quoteDate": "2006",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Branson's 'opportunity favours the bold' maxim; confirmed verbatim on his own X account and Virgin.com."
+    },
+    {
+      "id": "entre-020",
+      "content": "Screw it, let's do it.",
+      "authorName": "Richard Branson",
+      "source": "Title of 'Screw It, Let's Do It: Lessons in Life' (2006); Branson's documented personal motto",
+      "quoteDate": "2006",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "His action-over-hesitation mantra and the title of his own book."
+    },
+    {
+      "id": "entre-021",
+      "content": "Business opportunities are like buses, there's always another one coming.",
+      "authorName": "Richard Branson",
+      "source": "Attributed to Branson (often cited to his memoirs)",
+      "quoteDate": "c. 2008",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: found only in third-party books quoting him, never confirmed inside a Branson-authored primary source; likely genuine but not citable to a primary."
+    },
+    {
+      "id": "entre-022",
+      "content": "What did you fail at this week?",
+      "authorName": "Sara Blakely",
+      "source": "Recounted by Blakely, CNBC interview (2013)",
+      "quoteDate": "2013-10-16",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "The dinner-table question Blakely's father asked her as a child, which she credits with reframing failure as effort rather than outcome; consistently recounted in her on-record interviews."
+    },
+    {
+      "id": "entre-023",
+      "content": "We are not in the coffee business serving people. We are in the people business serving coffee.",
+      "authorName": "Howard Schultz",
+      "source": "Widely attributed to Schultz (often to 'Pour Your Heart Into It', 1997)",
+      "quoteDate": "c. 1997",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: full-text search did not locate it in his own books; the exact phrase surfaces only in third-party books attributing it to him."
+    },
+    {
+      "id": "entre-024",
+      "content": "Let everyone else call your idea crazy... just keep going. Don't stop. Don't even think about stopping until you get there, and don't give much thought to where 'there' is.",
+      "authorName": "Phil Knight",
+      "source": "Shoe Dog: A Memoir by the Creator of Nike (2016)",
+      "quoteDate": "2016",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Source axis fails: wording is consistent and genuinely from Knight's 1962 'I told myself' passage, but every locatable source is an aggregator; not confirmed against the primary book text."
+    },
+    {
+      "id": "entre-025",
+      "content": "I only hope that we never lose sight of one thing — that it was all started by a mouse.",
+      "authorName": "Walt Disney",
+      "source": "'The Disneyland Story,' premiere of the Disneyland TV series, ABC (Oct. 27, 1954)",
+      "quoteDate": "1954-10-27",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Walt said this on camera on his own TV show, crediting Mickey Mouse as the origin of the enterprise; minor punctuation variants exist across transcriptions."
+    },
+    {
+      "id": "entre-026",
+      "content": "Failure is only the opportunity more intelligently to begin again.",
+      "authorName": "Henry Ford",
+      "source": "My Life and Work (1922, with Samuel Crowther)",
+      "quoteDate": "1922",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The genuine primary wording (confirmed in Project Gutenberg's full text); the popular 'Failure is simply the opportunity to begin again, this time more intelligently' is a paraphrase with no primary source."
+    },
+    {
+      "id": "entre-027",
+      "content": "I never dreamed about success. I worked for it.",
+      "authorName": "Estée Lauder",
+      "source": "Official Estée Lauder Companies 'Our Founder' heritage page",
+      "quoteDate": "c. 1985",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Wording is endorsed by the company she founded on its official heritage page; date is approximate as the page does not pin it to a book passage or occasion."
+    },
+    {
+      "id": "entre-028",
+      "content": "Luck is a dividend of sweat. The more you sweat, the luckier you get.",
+      "authorName": "Ray Kroc",
+      "source": "Attributed to Grinding It Out: The Making of McDonald's (1977)",
+      "quoteDate": "1977",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Source axis fails: attributed to Kroc's memoir but no primary passage was reachable to confirm it, and wording splits between 'a dividend' and 'the dividend.'"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "legendary-coaches",
+  "name": "Legendary Coaches",
+  "description": "Hard-won wisdom on winning, discipline, and teamwork from the greatest coaches in sports.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "figure.american.football",
+  "category": "Sports",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "coach-001",
+      "content": "Winning is a habit. Unfortunately, so is losing.",
+      "authorName": "Vince Lombardi",
+      "source": "Speech to the American Management Association (1961)",
+      "quoteDate": "1961",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Lombardi's documented 1961 address on building a winning habit."
+    },
+    {
+      "id": "coach-002",
+      "content": "Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work.",
+      "authorName": "Vince Lombardi",
+      "source": "Vince Lombardi, quoted on the official Lombardi family website",
+      "quoteDate": "c. 1967",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Lombardi's summary of teamwork, preserved by the official Lombardi estate."
+    },
+    {
+      "id": "coach-003",
+      "content": "Mental toughness is many things and rather difficult to explain. Its qualities are sacrifice and self-denial. Also, most importantly, it is combined with a perfectly disciplined will that refuses to give in. It's a state of mind—you could call it character in action.",
+      "authorName": "Vince Lombardi",
+      "source": "Vince Lombardi, quoted on the official Lombardi family website",
+      "quoteDate": "c. 1962",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Lombardi's definition of mental toughness, preserved by the official Lombardi estate."
+    },
+    {
+      "id": "coach-004",
+      "content": "It's not whether you get knocked down, it's whether you get up.",
+      "authorName": "Vince Lombardi",
+      "source": "Vince Lombardi, quoted on the official Lombardi family website",
+      "quoteDate": "c. 1965",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "A signature Lombardi line on resilience, preserved by the official Lombardi estate."
+    },
+    {
+      "id": "coach-005",
+      "content": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.",
+      "authorName": "Vince Lombardi",
+      "source": "What It Takes to Be #1: Vince Lombardi on Leadership (compiled speeches)",
+      "quoteDate": "c. 1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Drawn from Lombardi's speeches as compiled by his son in the estate-authorized volume."
+    },
+    {
+      "id": "coach-006",
+      "content": "Winning isn't everything, but wanting to win is.",
+      "authorName": "Vince Lombardi",
+      "source": "Esquire magazine profile of Lombardi (November 1962)",
+      "quoteDate": "1962",
+      "verificationStatus": "verified",
+      "sourceType": "magazine",
+      "notes": "Lombardi's own preferred phrasing; the more famous 'it's the only thing' version originated with coach Red Sanders and was one Lombardi said he regretted repeating."
+    },
+    {
+      "id": "coach-007",
+      "content": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+      "authorName": "Vince Lombardi",
+      "source": "Widely attributed to Lombardi",
+      "quoteDate": "c. 1960",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Iconic but sourcing axis fails: no primary speech transcript or dated recording anchors this line."
+    },
+    {
+      "id": "coach-008",
+      "content": "Success is peace of mind which is a direct result of self-satisfaction in knowing you made the effort to become the best you are capable of becoming.",
+      "authorName": "John Wooden",
+      "source": "Wooden: A Lifetime of Observations and Reflections On and Off the Court (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Wooden's own definition of success, the apex of his Pyramid of Success."
+    },
+    {
+      "id": "coach-009",
+      "content": "Be quick, but don't hurry.",
+      "authorName": "John Wooden",
+      "source": "John Wooden, quoted on the official coachwooden.com Pyramid of Success page",
+      "quoteDate": "c. 1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Wooden's core coaching maxim, later the title of Andrew Hill's book on Wooden."
+    },
+    {
+      "id": "coach-010",
+      "content": "Never mistake activity for achievement.",
+      "authorName": "John Wooden",
+      "source": "Wooden: A Lifetime of Observations and Reflections On and Off the Court (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A recurring 'Woodenism' from his book warning against busyness without progress."
+    },
+    {
+      "id": "coach-011",
+      "content": "It's what you learn after you know it all that counts.",
+      "authorName": "John Wooden",
+      "source": "John Wooden, quoted on the official coachwooden.com Pyramid of Success page",
+      "quoteDate": "c. 1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Wooden on the block of 'Skill' in his Pyramid of Success."
+    },
+    {
+      "id": "coach-012",
+      "content": "Control yourself so others won't have to do it for you.",
+      "authorName": "John Wooden",
+      "source": "John Wooden, quoted on the official coachwooden.com Pyramid of Success page",
+      "quoteDate": "c. 1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Wooden on the block of 'Self-Control' in his Pyramid of Success."
+    },
+    {
+      "id": "coach-013",
+      "content": "Great moments are born from great opportunity.",
+      "authorName": "Herb Brooks",
+      "source": "Pre-game locker room speech, U.S. vs. USSR, Lake Placid Olympics (February 22, 1980)",
+      "quoteDate": "1980-02-22",
+      "verificationStatus": "unverified",
+      "sourceType": "speech",
+      "notes": "Iconic but wording axis fails: no recording exists; the text survives via player recollection and the 2004 film Miracle, which Brooks consulted on."
+    },
+    {
+      "id": "coach-014",
+      "content": "My parents taught me a long time ago that you win in life with people.",
+      "authorName": "Pat Summitt",
+      "source": "Reach for the Summit: The Definite Dozen System for Succeeding at Whatever You Do (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Summitt's foundational principle from her leadership book."
+    },
+    {
+      "id": "coach-015",
+      "content": "Left foot, right foot, breathe.",
+      "authorName": "Pat Summitt",
+      "source": "Sum It Up: 1,098 Victories, a Couple of Irrelevant Losses, and a Life in Perspective (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The mantra Summitt used facing early-onset Alzheimer's, recounted in her memoir."
+    },
+    {
+      "id": "coach-016",
+      "content": "The culture precedes positive results.",
+      "authorName": "Bill Walsh",
+      "source": "The Score Takes Care of Itself: My Philosophy of Leadership (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Walsh's central thesis that standards must come before wins."
+    },
+    {
+      "id": "coach-017",
+      "content": "Champions behave like champions before they're champions; they have a winning standard of performance before they are winners.",
+      "authorName": "Bill Walsh",
+      "source": "The Score Takes Care of Itself: My Philosophy of Leadership (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Walsh describing his 'Standard of Performance' philosophy."
+    },
+    {
+      "id": "coach-018",
+      "content": "Almost always, your road to victory goes through a place called failure.",
+      "authorName": "Bill Walsh",
+      "source": "The Score Takes Care of Itself: My Philosophy of Leadership (2009)",
+      "quoteDate": "2009",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Walsh on the necessity of setbacks on the way to success."
+    },
+    {
+      "id": "coach-019",
+      "content": "The most we can hope for is to create the best possible conditions for success, then let go of the outcome.",
+      "authorName": "Phil Jackson",
+      "source": "Eleven Rings: The Soul of Success (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jackson on his Zen-influenced approach to coaching."
+    },
+    {
+      "id": "coach-020",
+      "content": "Basketball is a sport that involves the subtle interweaving of players at full speed to the point where they are thinking and moving as one.",
+      "authorName": "Phil Jackson",
+      "source": "Sacred Hoops: Spiritual Lessons of a Hardwood Warrior (1995)",
+      "quoteDate": "1995",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jackson on selfless team play in his first book."
+    },
+    {
+      "id": "coach-021",
+      "content": "The strength of the team is each individual member. The strength of each member is the team.",
+      "authorName": "Phil Jackson",
+      "source": "Widely attributed to Phil Jackson",
+      "quoteDate": "c. 1995",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Sourcing axis fails: appears only on quote aggregators, not traced to a specific Jackson book or interview."
+    },
+    {
+      "id": "coach-022",
+      "content": "A good leader gets people to follow him because they want to, not because he makes them.",
+      "authorName": "Tony Dungy",
+      "source": "Quiet Strength: The Principles, Practices, and Priorities of a Winning Life (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dungy on leadership by influence rather than force."
+    },
+    {
+      "id": "coach-023",
+      "content": "No excuses, no explanations.",
+      "authorName": "Tony Dungy",
+      "source": "Quiet Strength: The Principles, Practices, and Priorities of a Winning Life (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dungy's team creed on taking ownership."
+    },
+    {
+      "id": "coach-024",
+      "content": "Don't think about winning the championship. Think about what you need to do in this drill, on this play, in this moment.",
+      "authorName": "Nick Saban",
+      "source": "Attributed to Saban's 'The Process' philosophy",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Wording axis fails: a paraphrase distilled from many talks, not a single verbatim press-conference transcript."
+    },
+    {
+      "id": "coach-025",
+      "content": "If anything goes bad, I did it. If anything goes semi-good, we did it. If anything goes really good, you did it. That's all it takes to get people to win football games.",
+      "authorName": "Bear Bryant",
+      "source": "Widely attributed to Paul 'Bear' Bryant",
+      "quoteDate": "c. 1970",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Sourcing axis fails: consistent with Bryant's philosophy but traced only to later quote compilations, not a dated primary source."
+    },
+    {
+      "id": "coach-026",
+      "content": "Play hard. Play smart. Play together.",
+      "authorName": "Dean Smith",
+      "source": "The Carolina Way: Leadership Lessons from a Life in Coaching (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Smith's three-part mission statement for his North Carolina teams."
+    },
+    {
+      "id": "coach-027",
+      "content": "It's not what you tell your players that counts. It's what they hear.",
+      "authorName": "Red Auerbach",
+      "source": "Attributed to Red Auerbach's writings on coaching",
+      "quoteDate": "c. 1985",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Sourcing axis fails: attributed to Auerbach's books but the specific volume and wording could not be confirmed against a primary edition."
+    },
+    {
+      "id": "coach-028",
+      "content": "We're on to Cincinnati.",
+      "authorName": "Bill Belichick",
+      "source": "New England Patriots press conference (September 29, 2014)",
+      "quoteDate": "2014-09-29",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Belichick's repeated deflection after a lopsided loss became a team rallying cry en route to a Super Bowl title."
+    }
+  ]
+}

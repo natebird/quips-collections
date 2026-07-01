@@ -1,0 +1,312 @@
+{
+  "id": "self-compassion",
+  "name": "Self-Compassion & Kindness",
+  "description": "Gentle reminders to treat yourself, and everyone you meet, with the kindness you deserve.",
+  "author": "Quips Editorial",
+  "colorName": "magenta",
+  "iconName": "heart.circle.fill",
+  "category": "Wellness",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "sc-001",
+      "content": "With self-compassion, we give ourselves the same kindness and care we'd give to a good friend.",
+      "authorName": "Kristin Neff",
+      "source": "Self-Compassion: The Proven Power of Being Kind to Yourself (2011)",
+      "sourceType": "book",
+      "notes": "From the psychologist whose research established self-compassion as a field of study.",
+      "quoteDate": "2011",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-002",
+      "content": "Talk to yourself like you would to someone you love.",
+      "authorName": "Brené Brown",
+      "source": "The Gifts of Imperfection (2010)",
+      "sourceType": "book",
+      "notes": "From Brown's book on letting go of who we think we should be.",
+      "quoteDate": "2010",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-003",
+      "content": "Owning our story and loving ourselves through that process is the bravest thing that we'll ever do.",
+      "authorName": "Brené Brown",
+      "source": "The Gifts of Imperfection (2010)",
+      "sourceType": "book",
+      "notes": "A central idea from Brown's research on vulnerability and worthiness.",
+      "quoteDate": "2010",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-004",
+      "content": "Feeling compassion for ourselves in no way releases us from responsibility for our actions. Rather, it releases us from the self-hatred that prevents us from responding to our life with clarity and balance.",
+      "authorName": "Tara Brach",
+      "source": "Radical Acceptance (2003)",
+      "sourceType": "book",
+      "notes": "From the meditation teacher and psychologist's book on embracing life with an open heart.",
+      "quoteDate": "2003",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-005",
+      "content": "You have been criticizing yourself for years, and it hasn't worked. Try approving of yourself and see what happens.",
+      "authorName": "Louise Hay",
+      "source": "You Can Heal Your Life (1984)",
+      "sourceType": "book",
+      "notes": "From the self-help author's influential book on self-acceptance.",
+      "quoteDate": "1984",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-006",
+      "content": "The curious paradox is that when I accept myself just as I am, then I can change.",
+      "authorName": "Carl Rogers",
+      "source": "On Becoming a Person (1961)",
+      "sourceType": "book",
+      "notes": "From the humanistic psychologist's foundational work on personal growth.",
+      "quoteDate": "1961",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-007",
+      "content": "Compassion for others begins with kindness to ourselves.",
+      "authorName": "Pema Chödrön",
+      "source": "The Places That Scare You (2001)",
+      "sourceType": "book",
+      "notes": "From the American Buddhist nun's guide to fearlessness in difficult times.",
+      "quoteDate": "2001",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-008",
+      "content": "Loving-kindness is the ability to embrace all parts of ourselves, as well as all parts of the world.",
+      "authorName": "Sharon Salzberg",
+      "source": "Lovingkindness: The Revolutionary Art of Happiness (1995)",
+      "sourceType": "book",
+      "notes": "From the meditation teacher who helped bring metta practice to the West.",
+      "quoteDate": "1995",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-009",
+      "content": "As human beings, our job in life is to help people realize how rare and valuable each one of us really is.",
+      "authorName": "Fred Rogers",
+      "source": "The World According to Mister Rogers (2003)",
+      "sourceType": "book",
+      "notes": "From a collection of reflections by the beloved children's television host.",
+      "quoteDate": "2003",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-010",
+      "content": "If a person has good thoughts they will shine out of your face like sunbeams and you will always look lovely.",
+      "authorName": "Roald Dahl",
+      "source": "The Twits (1980)",
+      "sourceType": "book",
+      "notes": "From Dahl's children's book, on how inner kindness shapes outward beauty.",
+      "quoteDate": "1980",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-011",
+      "content": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "authorName": "Buddha",
+      "source": "Attributed (traditional Buddhist teaching)",
+      "sourceType": "unspecified",
+      "notes": "Widely attributed to the Buddha; the phrasing is a modern rendering rather than a canonical text.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-012",
+      "content": "Be kind whenever possible. It is always possible.",
+      "authorName": "Dalai Lama XIV",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Widely attributed to the 14th Dalai Lama in talks and interviews.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-013",
+      "content": "This is my simple religion. There is no need for temples; no need for complicated philosophy. Our own brain, our own heart is our temple; the philosophy is kindness.",
+      "authorName": "Dalai Lama XIV",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "A frequently cited expression of the Dalai Lama's emphasis on kindness.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-014",
+      "content": "No act of kindness, no matter how small, is ever wasted.",
+      "authorName": "Aesop",
+      "source": "Attributed (Aesop's Fables)",
+      "sourceType": "unspecified",
+      "notes": "A moral drawn from the fable of the lion and the mouse; wording varies by translation.",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-015",
+      "content": "Be kind, for everyone you meet is fighting a hard battle.",
+      "authorName": "Ian Maclaren",
+      "source": "Attributed (c. 1897)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the Scottish author and clergyman John Watson (pen name Ian Maclaren); often misattributed to Plato.",
+      "quoteDate": "c. 1897",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-016",
+      "content": "Three things in human life are important: the first is to be kind; the second is to be kind; and the third is to be kind.",
+      "authorName": "Henry James",
+      "source": "Attributed (recalled by his nephew)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the novelist by way of a family recollection.",
+      "quoteDate": "c. 1900s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-017",
+      "content": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+      "authorName": "Lao Tzu",
+      "source": "Attributed (c. 6th century BCE)",
+      "sourceType": "unspecified",
+      "notes": "Traditionally attributed to Lao Tzu; not securely traced to the Tao Te Ching.",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-018",
+      "content": "A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.",
+      "authorName": "Amelia Earhart",
+      "source": "Attributed (c. 1930s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the aviation pioneer.",
+      "quoteDate": "c. 1930s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-019",
+      "content": "You cannot do a kindness too soon, for you never know how soon it will be too late.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Attributed (c. 19th century)",
+      "sourceType": "unspecified",
+      "notes": "Widely attributed to Emerson; a definitive source in his essays is not established.",
+      "quoteDate": "c. 19th century",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-020",
+      "content": "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you.",
+      "authorName": "Princess Diana",
+      "source": "Attributed (c. 1990s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to Diana, Princess of Wales.",
+      "quoteDate": "c. 1990s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-021",
+      "content": "Kindness is the language which the deaf can hear and the blind can see.",
+      "authorName": "Mark Twain",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Popularly attributed to Twain, but no primary source in his writings has been found.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-022",
+      "content": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "authorName": "Maya Angelou",
+      "source": "Attributed (c. 1970s)",
+      "sourceType": "unspecified",
+      "notes": "Long associated with Angelou; the exact original source is contested.",
+      "quoteDate": "c. 1970s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-023",
+      "content": "You are the sky. Everything else—it's just the weather.",
+      "authorName": "Pema Chödrön",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Widely attributed to Chödrön; a fixed published source is uncertain.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-024",
+      "content": "If your compassion does not include yourself, it is incomplete.",
+      "authorName": "Jack Kornfield",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the meditation teacher and author, sometimes framed as a Buddhist teaching.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-025",
+      "content": "This is a moment of suffering. Suffering is a part of life. May I be kind to myself in this moment.",
+      "authorName": "Kristin Neff",
+      "source": "Self-Compassion: The Proven Power of Being Kind to Yourself (2011)",
+      "sourceType": "book",
+      "notes": "Neff's 'self-compassion break,' a three-part phrase for meeting hard moments.",
+      "quoteDate": "2011",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "sc-026",
+      "content": "When you judge another, you do not define them, you define yourself.",
+      "authorName": "Wayne Dyer",
+      "source": "Attributed (c. 2000s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the self-help author; echoes his teaching on non-judgment.",
+      "quoteDate": "c. 2000s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-027",
+      "content": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.",
+      "authorName": "Leo Buscaglia",
+      "source": "Attributed (c. 1980s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the author and lecturer known as 'Dr. Love.'",
+      "quoteDate": "c. 1980s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-028",
+      "content": "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.",
+      "authorName": "Kahlil Gibran",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the Lebanese-American poet and author of The Prophet.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-029",
+      "content": "Practice random kindness and senseless acts of beauty.",
+      "authorName": "Anne Herbert",
+      "source": "Attributed (c. 1982)",
+      "sourceType": "unspecified",
+      "notes": "Coined by writer Anne Herbert, reportedly on a placemat, and later popularized worldwide.",
+      "quoteDate": "c. 1982",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "sc-030",
+      "content": "Those who are happiest are those who do the most for others.",
+      "authorName": "Booker T. Washington",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the educator and author of Up from Slavery.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    }
+  ]
+}

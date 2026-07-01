@@ -1,0 +1,322 @@
+{
+  "id": "iconic-game-lines",
+  "name": "Iconic Game Lines",
+  "description": "The unforgettable lines that gamers quote, from the classics to modern blockbusters.",
+  "author": "Quips Editorial",
+  "colorName": "purple",
+  "iconName": "gamecontroller.fill",
+  "category": "Video Games",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "game-001",
+      "content": "War. War never changes.",
+      "authorName": "Narrator (Fallout)",
+      "source": "Fallout, Interplay (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The opening narration written by Tim Cain and voiced by Ron Perlman; it became the signature line of the entire Fallout series."
+    },
+    {
+      "id": "game-002",
+      "content": "It's dangerous to go alone! Take this.",
+      "authorName": "Old Man (The Legend of Zelda)",
+      "source": "The Legend of Zelda, Nintendo (1986)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Spoken by the cave Old Man who hands Link his first sword; a landmark of Nintendo's early English localization."
+    },
+    {
+      "id": "game-003",
+      "content": "Thank you Mario! But our princess is in another castle!",
+      "authorName": "Toad (Super Mario Bros.)",
+      "source": "Super Mario Bros., Nintendo (1985)",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "A Mushroom Retainer delivers this after each of the first seven castles until the real Bowser is defeated."
+    },
+    {
+      "id": "game-004",
+      "content": "The cake is a lie.",
+      "authorName": "Rattmann's graffiti (Portal)",
+      "source": "Portal, Valve (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Scrawled in hidden dens by the survivor Doug Rattmann as a warning about GLaDOS; it is graffiti, not a line GLaDOS speaks."
+    },
+    {
+      "id": "game-005",
+      "content": "A man chooses, a slave obeys.",
+      "authorName": "Andrew Ryan (BioShock)",
+      "source": "BioShock, Irrational Games (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Andrew Ryan's line during the climactic confrontation revealing the game's mind-control twist."
+    },
+    {
+      "id": "game-006",
+      "content": "Would you kindly?",
+      "authorName": "Andrew Ryan (BioShock)",
+      "source": "BioShock, Irrational Games (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The trigger phrase used to control the player throughout BioShock, exposed in Ryan's office scene."
+    },
+    {
+      "id": "game-007",
+      "content": "Do a barrel roll!",
+      "authorName": "Peppy Hare (Star Fox 64)",
+      "source": "Star Fox 64, Nintendo (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Peppy's advice during combat; the maneuver is technically an aileron roll, not a barrel roll."
+    },
+    {
+      "id": "game-008",
+      "content": "Stay awhile and listen.",
+      "authorName": "Deckard Cain (Diablo)",
+      "source": "Diablo, Blizzard Entertainment (1996)",
+      "quoteDate": "1996",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Deckard Cain's invitation in Tristram, part of his fuller greeting 'Hello, my friend. Stay awhile and listen.'"
+    },
+    {
+      "id": "game-009",
+      "content": "Hey! Listen!",
+      "authorName": "Navi (Ocarina of Time)",
+      "source": "The Legend of Zelda: Ocarina of Time, Nintendo (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The fairy companion Navi's repeated attention-grabbing call, famous (and infamous) among players."
+    },
+    {
+      "id": "game-010",
+      "content": "Nothing is true, everything is permitted.",
+      "authorName": "The Creed (Assassin's Creed)",
+      "source": "Assassin's Creed, Ubisoft (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The central maxim of the Assassin order, adapted from the historical Assassins of Alamut, and the franchise's namesake."
+    },
+    {
+      "id": "game-011",
+      "content": "Praise the Sun!",
+      "authorName": "Solaire of Astora (Dark Souls)",
+      "source": "Dark Souls, FromSoftware (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The name of Solaire's signature gesture, embraced by the community as the game's rallying cry."
+    },
+    {
+      "id": "game-012",
+      "content": "You have died of dysentery.",
+      "authorName": "Death screen (The Oregon Trail)",
+      "source": "The Oregon Trail, MECC (1985)",
+      "quoteDate": "1985",
+      "verificationStatus": "unverified",
+      "sourceType": "video",
+      "notes": "Exact-wording axis fails: the game named the traveler ('[Name] has died of dysentery'); lead designer Philip Bouchard confirms the second-person phrasing is a popular misremembering."
+    },
+    {
+      "id": "game-013",
+      "content": "All your base are belong to us.",
+      "authorName": "CATS (Zero Wing)",
+      "source": "Zero Wing, Toaplan (1991)",
+      "quoteDate": "1991",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The mistranslated villain line from the 1991 Sega Mega Drive port of Toaplan's arcade game; a foundational internet meme."
+    },
+    {
+      "id": "game-014",
+      "content": "The right man in the wrong place can make all the difference in the world.",
+      "authorName": "The G-Man (Half-Life 2)",
+      "source": "Half-Life 2, Valve (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The G-Man's opening monologue as he wakes Gordon Freeman from stasis."
+    },
+    {
+      "id": "game-015",
+      "content": "I used to be an adventurer like you. Then I took an arrow in the knee.",
+      "authorName": "Town guard (Skyrim)",
+      "source": "The Elder Scrolls V: Skyrim, Bethesda Game Studios (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "A procedurally spoken guard idle line written by Emil Pagliarulo that became 2011's breakout gaming meme."
+    },
+    {
+      "id": "game-016",
+      "content": "Get over here!",
+      "authorName": "Scorpion (Mortal Kombat)",
+      "source": "Mortal Kombat, Midway (1992)",
+      "quoteDate": "1992",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Scorpion's shout as he harpoons opponents with his rope spear; voiced by co-creator Ed Boon."
+    },
+    {
+      "id": "game-017",
+      "content": "Finish him!",
+      "authorName": "Announcer (Mortal Kombat)",
+      "source": "Mortal Kombat, Midway (1992)",
+      "quoteDate": "1992",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The announcer's cue prompting the player to perform a Fatality on a defeated opponent."
+    },
+    {
+      "id": "game-018",
+      "content": "You must construct additional pylons.",
+      "authorName": "Protoss adjutant (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Protoss warning when supply is capped; a long-running strategy-game meme."
+    },
+    {
+      "id": "game-019",
+      "content": "Snake? Snake? Snaaake!",
+      "authorName": "Colonel Campbell (Metal Gear Solid)",
+      "source": "Metal Gear Solid, Konami (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The escalating Game Over cry from Snake's codec allies, most memorably Colonel Campbell."
+    },
+    {
+      "id": "game-020",
+      "content": "Hail to the king, baby.",
+      "authorName": "Duke Nukem (Duke Nukem 3D)",
+      "source": "Duke Nukem 3D, 3D Realms (1996)",
+      "quoteDate": "1996",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Duke's signature catchphrase, voiced by Jon St. John (itself a nod to Army of Darkness)."
+    },
+    {
+      "id": "game-021",
+      "content": "You were almost a Jill sandwich!",
+      "authorName": "Barry Burton (Resident Evil)",
+      "source": "Resident Evil, Capcom (1996)",
+      "quoteDate": "1996",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Barry's line after Jill narrowly escapes a descending-ceiling trap; emblematic of the game's stilted voice acting."
+    },
+    {
+      "id": "game-022",
+      "content": "Kept you waiting, huh?",
+      "authorName": "Venom Snake (Metal Gear Solid V)",
+      "source": "Metal Gear Solid V: The Phantom Pain, Kojima Productions (2015)",
+      "quoteDate": "2015",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Snake's reveal line and the game's central tagline; the phrase first appeared in Metal Gear Solid 2 (2001)."
+    },
+    {
+      "id": "game-023",
+      "content": "I never asked for this.",
+      "authorName": "Adam Jensen (Deus Ex: Human Revolution)",
+      "source": "Deus Ex: Human Revolution, Eidos Montreal (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Adam Jensen's lament over his forced cybernetic augmentations, heavily featured in the game's marketing."
+    },
+    {
+      "id": "game-024",
+      "content": "You're gonna have a bad time.",
+      "authorName": "Sans (Undertale)",
+      "source": "Undertale, Toby Fox (2015)",
+      "quoteDate": "2015",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Sans's warning to a murderous player before the Snowdin confrontation on a genocide route."
+    },
+    {
+      "id": "game-025",
+      "content": "This was a triumph. I'm making a note here: huge success.",
+      "authorName": "GLaDOS (Portal)",
+      "source": "Portal, Valve (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The opening lines of GLaDOS's end-credits song 'Still Alive,' written by Jonathan Coulton and sung by Ellen McLain."
+    },
+    {
+      "id": "game-026",
+      "content": "When life gives you lemons, don't make lemonade. Make life take the lemons back!",
+      "authorName": "Cave Johnson (Portal 2)",
+      "source": "Portal 2, Valve (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The opening of Cave Johnson's 'combustible lemon' rant, one of Portal 2's most-quoted monologues."
+    },
+    {
+      "id": "game-027",
+      "content": "Wololo",
+      "authorName": "Priest (Age of Empires)",
+      "source": "Age of Empires, Ensemble Studios (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Priest's chant while converting enemy units, sampled from a world-music library and now a series in-joke."
+    },
+    {
+      "id": "game-028",
+      "content": "I need a weapon.",
+      "authorName": "Master Chief (Halo 2)",
+      "source": "Halo 2, Bungie (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Master Chief's terse reply aboard Cairo Station as the Covenant attack begins."
+    },
+    {
+      "id": "game-029",
+      "content": "It's super effective!",
+      "authorName": "Battle narration (Pokemon Red and Blue)",
+      "source": "Pokemon Red and Blue, Game Freak (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The combat message for a type-advantaged hit; this English phrasing debuted in the 1998 North American release."
+    },
+    {
+      "id": "game-030",
+      "content": "Zug zug.",
+      "authorName": "Orc Peon (Warcraft II)",
+      "source": "Warcraft II: Tides of Darkness, Blizzard Entertainment (1995)",
+      "quoteDate": "1995",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Orc Peon's acknowledgment when given an order, voiced by Bill Roper and reused across the Warcraft series."
+    },
+    {
+      "id": "game-031",
+      "content": "Ah, fresh meat!",
+      "authorName": "The Butcher (Diablo)",
+      "source": "Diablo, Blizzard Entertainment (1996)",
+      "quoteDate": "1996",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Butcher's greeting when the player enters his room, a jump-scare moment burned into players' memories."
+    }
+  ]
+}

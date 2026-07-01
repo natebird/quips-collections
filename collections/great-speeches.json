@@ -1,0 +1,322 @@
+{
+  "id": "great-speeches",
+  "name": "Great Speeches",
+  "description": "The lines that changed history, drawn from the world's most powerful addresses.",
+  "author": "Quips Editorial",
+  "colorName": "red",
+  "iconName": "megaphone.fill",
+  "category": "History & Speeches",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "speech-001",
+      "content": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.",
+      "authorName": "Abraham Lincoln",
+      "source": "Gettysburg Address, Gettysburg, Pennsylvania (1863)",
+      "quoteDate": "1863-11-19",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Opening line of the Bliss copy, the only version Lincoln signed, dedicating the Soldiers' National Cemetery."
+    },
+    {
+      "id": "speech-002",
+      "content": "That from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion.",
+      "authorName": "Abraham Lincoln",
+      "source": "Gettysburg Address, Gettysburg, Pennsylvania (1863)",
+      "quoteDate": "1863-11-19",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the Bliss copy; the phrase 'last full measure of devotion' honors the Union dead."
+    },
+    {
+      "id": "speech-003",
+      "content": "That this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth.",
+      "authorName": "Abraham Lincoln",
+      "source": "Gettysburg Address, Gettysburg, Pennsylvania (1863)",
+      "quoteDate": "1863-11-19",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Closing line of the Bliss copy; 'under God' appears in the delivered text but not Lincoln's earliest drafts."
+    },
+    {
+      "id": "speech-004",
+      "content": "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds.",
+      "authorName": "Abraham Lincoln",
+      "source": "Second Inaugural Address, Washington, D.C. (1865)",
+      "quoteDate": "1865-03-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Lincoln's plea for reconciliation delivered weeks before the Civil War's end and his assassination."
+    },
+    {
+      "id": "speech-005",
+      "content": "Both read the same Bible, and pray to the same God; and each invokes His aid against the other.",
+      "authorName": "Abraham Lincoln",
+      "source": "Second Inaugural Address, Washington, D.C. (1865)",
+      "quoteDate": "1865-03-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Lincoln reflecting on the shared faith of North and South during the Civil War."
+    },
+    {
+      "id": "speech-006",
+      "content": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"I Have a Dream,\" March on Washington, Lincoln Memorial (1963)",
+      "quoteDate": "1963-08-28",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The 'I have a dream' refrain was largely improvised; this line is the speech's most quoted passage."
+    },
+    {
+      "id": "speech-007",
+      "content": "I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"I Have a Dream,\" March on Washington, Lincoln Memorial (1963)",
+      "quoteDate": "1963-08-28",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "King ties the civil rights cause to the Declaration of Independence."
+    },
+    {
+      "id": "speech-008",
+      "content": "We have also come to this hallowed spot to remind America of the fierce urgency of now.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"I Have a Dream,\" March on Washington, Lincoln Memorial (1963)",
+      "quoteDate": "1963-08-28",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "King rejects gradualism and insists on immediate action on civil rights."
+    },
+    {
+      "id": "speech-009",
+      "content": "With this faith we will be able to hew out of the mountain of despair a stone of hope.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"I Have a Dream,\" March on Washington, Lincoln Memorial (1963)",
+      "quoteDate": "1963-08-28",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The line later inscribed on King's memorial on the National Mall."
+    },
+    {
+      "id": "speech-010",
+      "content": "Free at last! Free at last! Thank God Almighty, we are free at last!",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"I Have a Dream,\" March on Washington, Lincoln Memorial (1963)",
+      "quoteDate": "1963-08-28",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "King closes by quoting an old African American spiritual."
+    },
+    {
+      "id": "speech-011",
+      "content": "I have nothing to offer but blood, toil, tears and sweat.",
+      "authorName": "Winston Churchill",
+      "source": "First Address as Prime Minister, House of Commons, London (1940)",
+      "quoteDate": "1940-05-13",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Churchill's first speech as PM; often misremembered as 'blood, sweat and tears.'"
+    },
+    {
+      "id": "speech-012",
+      "content": "You ask, what is our aim? I can answer in one word: It is victory, victory at all costs, victory in spite of all terror, victory, however long and hard the road may be; for without victory, there is no survival.",
+      "authorName": "Winston Churchill",
+      "source": "First Address as Prime Minister, House of Commons, London (1940)",
+      "quoteDate": "1940-05-13",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the same 'Blood, Toil, Tears and Sweat' address to the Commons."
+    },
+    {
+      "id": "speech-013",
+      "content": "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.",
+      "authorName": "Winston Churchill",
+      "source": "\"We Shall Fight on the Beaches,\" House of Commons, London (1940)",
+      "quoteDate": "1940-06-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered after Dunkirk; Churchill said 'on the beaches,' not the common misquote 'on the beaches them.'"
+    },
+    {
+      "id": "speech-014",
+      "content": "Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say, This was their finest hour.",
+      "authorName": "Winston Churchill",
+      "source": "\"Their Finest Hour,\" House of Commons, London (1940)",
+      "quoteDate": "1940-06-18",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Spoken as the Battle of Britain began; the closing line gives the speech its name."
+    },
+    {
+      "id": "speech-015",
+      "content": "Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans.",
+      "authorName": "John F. Kennedy",
+      "source": "Inaugural Address, Washington, D.C. (1961)",
+      "quoteDate": "1961-01-20",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Kennedy signals a generational shift in American leadership."
+    },
+    {
+      "id": "speech-016",
+      "content": "We shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, to assure the survival and the success of liberty.",
+      "authorName": "John F. Kennedy",
+      "source": "Inaugural Address, Washington, D.C. (1961)",
+      "quoteDate": "1961-01-20",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "A Cold War pledge of American resolve to defend freedom worldwide."
+    },
+    {
+      "id": "speech-017",
+      "content": "Let us never negotiate out of fear. But let us never fear to negotiate.",
+      "authorName": "John F. Kennedy",
+      "source": "Inaugural Address, Washington, D.C. (1961)",
+      "quoteDate": "1961-01-20",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Kennedy balances firmness with an opening to diplomacy with the Soviet Union."
+    },
+    {
+      "id": "speech-018",
+      "content": "And so, my fellow Americans: ask not what your country can do for you--ask what you can do for your country.",
+      "authorName": "John F. Kennedy",
+      "source": "Inaugural Address, Washington, D.C. (1961)",
+      "quoteDate": "1961-01-20",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The most quoted line of any modern inaugural, crafted with speechwriter Ted Sorensen."
+    },
+    {
+      "id": "speech-019",
+      "content": "We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.",
+      "authorName": "John F. Kennedy",
+      "source": "Address at Rice University on the Nation's Space Effort, Houston (1962)",
+      "quoteDate": "1962-09-12",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Kennedy rallies public support for the Apollo program to reach the Moon."
+    },
+    {
+      "id": "speech-020",
+      "content": "The only thing we have to fear is fear itself--nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.",
+      "authorName": "Franklin D. Roosevelt",
+      "source": "First Inaugural Address, Washington, D.C. (1933)",
+      "quoteDate": "1933-03-04",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Roosevelt reassures a nation gripped by the Great Depression."
+    },
+    {
+      "id": "speech-021",
+      "content": "Yesterday, December 7, 1941--a date which will live in infamy--the United States of America was suddenly and deliberately attacked by naval and air forces of the Empire of Japan.",
+      "authorName": "Franklin D. Roosevelt",
+      "source": "\"Day of Infamy,\" Joint Address to Congress, Washington, D.C. (1941)",
+      "quoteDate": "1941-12-08",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "FDR changed his draft's 'a date which will live in world history' to 'infamy'; often misquoted as 'a day.'"
+    },
+    {
+      "id": "speech-022",
+      "content": "Nobody ever helps me into carriages, or over mud-puddles, or gives me any best place! And ain't I a woman?",
+      "authorName": "Sojourner Truth",
+      "source": "\"Ain't I a Woman?\", Women's Rights Convention, Akron, Ohio (1851)",
+      "quoteDate": "1851",
+      "verificationStatus": "unverified",
+      "sourceType": "speech",
+      "notes": "Wording axis fails: this famous refrain comes from Frances Gage's 1863 reconstruction, not the contemporaneous 1851 report by Marius Robinson, which lacks the phrase and the Southern dialect."
+    },
+    {
+      "id": "speech-023",
+      "content": "It was we, the people; not we, the white male citizens; nor yet we, the male citizens; but we, the whole people, who formed the Union.",
+      "authorName": "Susan B. Anthony",
+      "source": "\"Is It a Crime for a Citizen to Vote?\", New York (1873)",
+      "quoteDate": "1873",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Anthony's stump speech after her arrest for voting in the 1872 presidential election."
+    },
+    {
+      "id": "speech-024",
+      "content": "I know not what course others may take; but as for me, give me liberty, or give me death!",
+      "authorName": "Patrick Henry",
+      "source": "Speech to the Second Virginia Convention, St. John's Church, Richmond (1775)",
+      "quoteDate": "1775-03-23",
+      "verificationStatus": "unverified",
+      "sourceType": "speech",
+      "notes": "Wording axis fails: no contemporaneous transcript exists; the text was reconstructed from memory by biographer William Wirt in 1817, decades after delivery."
+    },
+    {
+      "id": "speech-025",
+      "content": "General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!",
+      "authorName": "Ronald Reagan",
+      "source": "Address at the Brandenburg Gate, West Berlin (1987)",
+      "quoteDate": "1987-06-12",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Reagan's challenge over the Berlin Wall, which several advisers had urged him to cut."
+    },
+    {
+      "id": "speech-026",
+      "content": "I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die.",
+      "authorName": "Nelson Mandela",
+      "source": "Statement from the Dock, Rivonia Trial, Pretoria (1964)",
+      "quoteDate": "1964-04-20",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Mandela's closing statement at the trial that sent him to prison for 27 years."
+    },
+    {
+      "id": "speech-027",
+      "content": "Never, never and never again shall it be that this beautiful land will again experience the oppression of one by another.",
+      "authorName": "Nelson Mandela",
+      "source": "Inaugural Address, Pretoria (1994)",
+      "quoteDate": "1994-05-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Mandela speaking as South Africa's first democratically elected, and first Black, president."
+    },
+    {
+      "id": "speech-028",
+      "content": "Let freedom reign. The sun shall never set on so glorious a human achievement!",
+      "authorName": "Nelson Mandela",
+      "source": "Inaugural Address, Pretoria (1994)",
+      "quoteDate": "1994-05-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The final lines of Mandela's inaugural address ending apartheid rule."
+    },
+    {
+      "id": "speech-029",
+      "content": "We won't do it ourselves, but we will put the enemy in the position where they will have to choose between giving us freedom or giving us death.",
+      "authorName": "Emmeline Pankhurst",
+      "source": "\"Freedom or Death,\" Parsons Theatre, Hartford, Connecticut (1913)",
+      "quoteDate": "1913-11-13",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The British suffragette leader defends militant tactics during a U.S. speaking tour."
+    },
+    {
+      "id": "speech-030",
+      "content": "We must always take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented.",
+      "authorName": "Elie Wiesel",
+      "source": "Nobel Peace Prize Acceptance Speech, Oslo (1986)",
+      "quoteDate": "1986-12-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the acceptance speech (delivered the day before his Nobel lecture) by the Holocaust survivor and author."
+    },
+    {
+      "id": "speech-031",
+      "content": "Wherever men or women are persecuted because of their race, religion, or political views, that place must -- at that moment -- become the center of the universe.",
+      "authorName": "Elie Wiesel",
+      "source": "Nobel Peace Prize Acceptance Speech, Oslo (1986)",
+      "quoteDate": "1986-12-10",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Wiesel's call to universal moral responsibility upon accepting the Nobel Peace Prize."
+    }
+  ]
+}

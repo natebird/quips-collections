@@ -1,0 +1,312 @@
+{
+  "id": "cosmos-space",
+  "name": "Cosmos & Space",
+  "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "moon.stars.fill",
+  "category": "Science",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "cosmos-001",
+      "content": "The Cosmos is all that is or ever was or ever will be.",
+      "authorName": "Carl Sagan",
+      "source": "Cosmos (1980)",
+      "quoteDate": "1980",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening words of both Sagan's book and the companion PBS television series."
+    },
+    {
+      "id": "cosmos-002",
+      "content": "The cosmos is within us. We are made of star-stuff. We are a way for the cosmos to know itself.",
+      "authorName": "Carl Sagan",
+      "source": "Cosmos (1980)",
+      "quoteDate": "1980",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sagan's reflection that the atoms in our bodies were forged inside stars."
+    },
+    {
+      "id": "cosmos-003",
+      "content": "Imagination will often carry us to worlds that never were. But without it we go nowhere.",
+      "authorName": "Carl Sagan",
+      "source": "Cosmos, Ch. 1 (1980)",
+      "quoteDate": "1980",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the opening chapter, on pairing imagination with skepticism."
+    },
+    {
+      "id": "cosmos-004",
+      "content": "Extraordinary claims require extraordinary evidence.",
+      "authorName": "Carl Sagan",
+      "source": "Cosmos, Episode 12 'Encyclopaedia Galactica' (1980)",
+      "quoteDate": "1980",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Popularized by Sagan as the 'Sagan standard' for evaluating extraordinary claims."
+    },
+    {
+      "id": "cosmos-005",
+      "content": "Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives.",
+      "authorName": "Carl Sagan",
+      "source": "Pale Blue Dot: A Vision of the Human Future in Space (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Inspired by Voyager 1's 1990 photograph of Earth as a mote of dust in a sunbeam."
+    },
+    {
+      "id": "cosmos-006",
+      "content": "There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.",
+      "authorName": "Carl Sagan",
+      "source": "Pale Blue Dot: A Vision of the Human Future in Space (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The closing of the Pale Blue Dot passage, urging stewardship of Earth."
+    },
+    {
+      "id": "cosmos-007",
+      "content": "For small creatures such as we the vastness is bearable only through love.",
+      "authorName": "Carl Sagan",
+      "source": "Contact (novel, 1985)",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A thematic line near the end of Sagan's only novel."
+    },
+    {
+      "id": "cosmos-008",
+      "content": "Somewhere, something incredible is waiting to be known.",
+      "authorName": "Carl Sagan",
+      "source": "Widely attributed; no primary source located",
+      "quoteDate": "unknown",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: popularly attributed to Sagan but not traced to any of his documented writings or broadcasts."
+    },
+    {
+      "id": "cosmos-009",
+      "content": "We are part of this universe; we are in this universe, but perhaps more important than both of those facts is that the universe is in us.",
+      "authorName": "Neil deGrasse Tyson",
+      "source": "TIME magazine interview, answering a reader's question (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Tyson's answer to 'the most astounding fact about the universe,' later made into a viral video."
+    },
+    {
+      "id": "cosmos-010",
+      "content": "The good thing about science is that it's true whether or not you believe in it.",
+      "authorName": "Neil deGrasse Tyson",
+      "source": "The Colbert Report (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Said in conversation with Stephen Colbert and later posted verbatim to Tyson's verified account."
+    },
+    {
+      "id": "cosmos-011",
+      "content": "If we find the answer to that, it would be the ultimate triumph of human reason—for then we would know the mind of God.",
+      "authorName": "Stephen Hawking",
+      "source": "A Brief History of Time (1988)",
+      "quoteDate": "1988",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The book's concluding sentence; Hawking later said he used 'God' figuratively."
+    },
+    {
+      "id": "cosmos-012",
+      "content": "Remember to look up at the stars and not down at your feet.",
+      "authorName": "Stephen Hawking",
+      "source": "ABC News interview with Diane Sawyer (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "The first of three pieces of advice Hawking said he gave his children."
+    },
+    {
+      "id": "cosmos-013",
+      "content": "However difficult life may seem, there is always something you can do and succeed at.",
+      "authorName": "Stephen Hawking",
+      "source": "70th birthday symposium address, University of Cambridge (2012)",
+      "quoteDate": "2012",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered by webcast when illness kept Hawking from attending the event in person."
+    },
+    {
+      "id": "cosmos-014",
+      "content": "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.",
+      "authorName": "Stephen Hawking",
+      "source": "Der Spiegel interview (17 October 1988)",
+      "quoteDate": "1988",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "On humanity's smallness in the cosmos balanced against our capacity to comprehend it."
+    },
+    {
+      "id": "cosmos-015",
+      "content": "That's one small step for man, one giant leap for mankind.",
+      "authorName": "Neil Armstrong",
+      "source": "Apollo 11, first words on the Moon (20 July 1969)",
+      "quoteDate": "1969-07-20",
+      "verificationStatus": "verified",
+      "sourceType": "radio",
+      "notes": "Armstrong maintained he said 'for a man'; recordings are inconclusive and NASA transcripts render the 'a' in parentheses."
+    },
+    {
+      "id": "cosmos-016",
+      "content": "Houston, Tranquility Base here. The Eagle has landed.",
+      "authorName": "Neil Armstrong",
+      "source": "Apollo 11 lunar landing (20 July 1969)",
+      "quoteDate": "1969-07-20",
+      "verificationStatus": "verified",
+      "sourceType": "radio",
+      "notes": "Armstrong's spontaneous call sign change confirmed the Lunar Module had touched down safely."
+    },
+    {
+      "id": "cosmos-017",
+      "content": "Magnificent desolation.",
+      "authorName": "Buzz Aldrin",
+      "source": "Apollo 11, on the lunar surface (20 July 1969)",
+      "quoteDate": "1969-07-20",
+      "verificationStatus": "verified",
+      "sourceType": "radio",
+      "notes": "Recorded in NASA's air-to-ground transcript; Aldrin chose opposing words to capture the Moon's stark beauty."
+    },
+    {
+      "id": "cosmos-018",
+      "content": "Let's go!",
+      "authorName": "Yuri Gagarin",
+      "source": "Vostok 1 launch (12 April 1961)",
+      "quoteDate": "1961-04-12",
+      "verificationStatus": "verified",
+      "sourceType": "radio",
+      "notes": "His exclamation at lift-off, 'Poyekhali!', became a motto of the Soviet space program."
+    },
+    {
+      "id": "cosmos-019",
+      "content": "The Earth is blue. How wonderful. It is amazing.",
+      "authorName": "Yuri Gagarin",
+      "source": "Attributed to the Vostok 1 flight (1961)",
+      "quoteDate": "1961",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Wording axis fails: historians dispute whether this was said in one breath or reassembled from separate transmissions and later recollections."
+    },
+    {
+      "id": "cosmos-020",
+      "content": "The view of Earth is spectacular.",
+      "authorName": "Sally Ride",
+      "source": "Scholastic online interview (20 November 1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ride was the first American woman in space, aboard STS-7 in 1983."
+    },
+    {
+      "id": "cosmos-021",
+      "content": "When you're getting ready to launch into space, you're sitting on a big explosion waiting to happen.",
+      "authorName": "Sally Ride",
+      "source": "Scholastic online interview (20 November 1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Ride describing the raw experience of a rocket launch."
+    },
+    {
+      "id": "cosmos-022",
+      "content": "I touch the future. I teach.",
+      "authorName": "Christa McAuliffe",
+      "source": "NASA Teacher in Space Project (1985)",
+      "quoteDate": "1985",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "The signature motto McAuliffe adopted during selection; she died aboard Challenger in 1986."
+    },
+    {
+      "id": "cosmos-023",
+      "content": "When you look at the stars and the galaxy, you feel that you are not just from any particular piece of land, but from the solar system.",
+      "authorName": "Kalpana Chawla",
+      "source": "Attributed to a 1998 interview",
+      "quoteDate": "1998",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis fails: repeated across quote sites but not confirmed against a primary transcript or recording of the interview."
+    },
+    {
+      "id": "cosmos-024",
+      "content": "Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
+      "authorName": "Edwin Hubble",
+      "source": "'The Exploration of Space,' Harper's Magazine (1929)",
+      "quoteDate": "1929",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Hubble later showed the universe is expanding, giving rise to the concept of the Big Bang."
+    },
+    {
+      "id": "cosmos-025",
+      "content": "Geometry is one and eternal shining in the mind of God.",
+      "authorName": "Johannes Kepler",
+      "source": "Harmonices Mundi, Book III (1619)",
+      "quoteDate": "1619",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Translated from the Latin; Kepler saw mathematical harmony as evidence of divine order in the heavens."
+    },
+    {
+      "id": "cosmos-026",
+      "content": "I used to measure the heavens, now I measure the shadows of Earth.",
+      "authorName": "Johannes Kepler",
+      "source": "Self-composed Latin epitaph (1630)",
+      "quoteDate": "1630",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "The astronomer's own epitaph, written shortly before his death and documented in his collected works."
+    },
+    {
+      "id": "cosmos-027",
+      "content": "The planet is the cradle of mind, but one cannot live in a cradle forever.",
+      "authorName": "Konstantin Tsiolkovsky",
+      "source": "Attributed to a 1911 letter",
+      "quoteDate": "1911",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Literal translation of the Russian; often paraphrased as 'Earth is the cradle of humanity.'"
+    },
+    {
+      "id": "cosmos-028",
+      "content": "Man will not always stay on Earth; the pursuit of light and space will lead him to penetrate the bounds of the atmosphere, timidly at first, but in the end to conquer the whole of solar space.",
+      "authorName": "Konstantin Tsiolkovsky",
+      "source": "'Aeronautics in Our Time,' Sovremennyi Mir (1912)",
+      "quoteDate": "1912",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "The passage inscribed on the obelisk marking the rocketry pioneer's grave."
+    },
+    {
+      "id": "cosmos-029",
+      "content": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed … anything that could be counted, I did.",
+      "authorName": "Katherine Johnson",
+      "source": "NASA biographical profile 'A Lifetime of STEM'",
+      "quoteDate": "c. 2018",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "The NASA mathematician whose orbital calculations were trusted by John Glenn for Friendship 7."
+    },
+    {
+      "id": "cosmos-030",
+      "content": "Some things will drop out of the public eye and will go away, but there will always be science, engineering, and technology. And there will always, always be mathematics.",
+      "authorName": "Katherine Johnson",
+      "source": "NASA biographical profile 'A Lifetime of STEM'",
+      "quoteDate": "c. 2018",
+      "verificationStatus": "verified",
+      "sourceType": "website",
+      "notes": "Johnson on the enduring importance of mathematics to human progress."
+    }
+  ]
+}

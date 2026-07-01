@@ -1,0 +1,312 @@
+{
+  "id": "money-investing",
+  "name": "Money & Investing",
+  "description": "Timeless sense about wealth, markets, and money from investors who built it.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "dollarsign.circle.fill",
+  "category": "Business & Leadership",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "invest-001",
+      "content": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.",
+      "authorName": "Warren Buffett",
+      "source": "Berkshire Hathaway shareholder letter (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Buffett crediting Munger for pushing him from cigar-butt bargains toward quality businesses."
+    },
+    {
+      "id": "invest-002",
+      "content": "Price is what you pay; value is what you get.",
+      "authorName": "Benjamin Graham",
+      "source": "Quoted by Warren Buffett, Berkshire Hathaway shareholder letter (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Buffett attributes this maxim to his teacher Ben Graham in the 2008 letter."
+    },
+    {
+      "id": "invest-003",
+      "content": "Confronted with a like challenge to distill the secret of sound investment into three words, we venture the motto, MARGIN OF SAFETY.",
+      "authorName": "Benjamin Graham",
+      "source": "The Intelligent Investor, Ch. 20 (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Graham's summation of his central investing principle in the book's final chapter."
+    },
+    {
+      "id": "invest-004",
+      "content": "The investor's chief problem—and even his worst enemy—is likely to be himself.",
+      "authorName": "Benjamin Graham",
+      "source": "The Intelligent Investor (1949)",
+      "quoteDate": "1949",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On temperament, not intellect, as the true test of the investor."
+    },
+    {
+      "id": "invest-005",
+      "content": "In the short run, the market is a voting machine but in the long run, it is a weighing machine.",
+      "authorName": "Benjamin Graham",
+      "source": "Commonly attributed to Benjamin Graham",
+      "quoteDate": "c. 1934",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: this tidy wording is not found verbatim in Security Analysis or The Intelligent Investor; Buffett recalls Graham saying it in class. Wording/source axis fails."
+    },
+    {
+      "id": "invest-006",
+      "content": "Be fearful when others are greedy, and be greedy when others are fearful.",
+      "authorName": "Warren Buffett",
+      "source": "\"Buy American. I Am.\", The New York Times op-ed (2008)",
+      "quoteDate": "2008-10-16",
+      "verificationStatus": "verified",
+      "sourceType": "newspaper",
+      "notes": "Buffett's contrarian rule, stated in his op-ed urging stock buying during the financial crisis."
+    },
+    {
+      "id": "invest-007",
+      "content": "You only find out who is swimming naked when the tide goes out.",
+      "authorName": "Warren Buffett",
+      "source": "Berkshire Hathaway shareholder letter (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "On hidden risks exposed when markets turn, written in the wake of insurance losses."
+    },
+    {
+      "id": "invest-008",
+      "content": "When we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever.",
+      "authorName": "Warren Buffett",
+      "source": "Berkshire Hathaway shareholder letter (1988)",
+      "quoteDate": "1988",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "The full sentence behind the often-truncated 'favorite holding period is forever.'"
+    },
+    {
+      "id": "invest-009",
+      "content": "Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down.",
+      "authorName": "Warren Buffett",
+      "source": "Berkshire Hathaway shareholder letter (2008)",
+      "quoteDate": "2008",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Written after the 2008 crash on treating market declines as sales."
+    },
+    {
+      "id": "invest-010",
+      "content": "Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1.",
+      "authorName": "Warren Buffett",
+      "source": "Widely attributed; popularized in The Tao of Warren Buffett (2006)",
+      "quoteDate": "c. 2006",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: no primary Buffett speech or letter carries this exact phrasing; it traces to a secondary compilation. Source axis fails."
+    },
+    {
+      "id": "invest-011",
+      "content": "Risk comes from not knowing what you're doing.",
+      "authorName": "Warren Buffett",
+      "source": "Talk at Columbia Business School, reported in the Omaha World-Herald (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "unverified",
+      "sourceType": "newspaper",
+      "notes": "Unverified: reported secondhand and, per Quote Investigator, compressed from non-adjacent phrases. Wording axis fails."
+    },
+    {
+      "id": "invest-012",
+      "content": "The big money is not in the buying and the selling, but in the waiting.",
+      "authorName": "Charlie Munger",
+      "source": "Poor Charlie's Almanack (2005)",
+      "quoteDate": "c. 2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Munger on patience as the real engine of compounding returns."
+    },
+    {
+      "id": "invest-013",
+      "content": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
+      "authorName": "Charlie Munger",
+      "source": "Letter to Wesco Financial shareholders (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Munger's inversion principle, later reprinted in Poor Charlie's Almanack."
+    },
+    {
+      "id": "invest-014",
+      "content": "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up.",
+      "authorName": "Charlie Munger",
+      "source": "USC Law School commencement address (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Munger on continuous learning as a compounding advantage over a long career."
+    },
+    {
+      "id": "invest-015",
+      "content": "Don't look for the needle in the haystack. Just buy the haystack!",
+      "authorName": "John C. Bogle",
+      "source": "The Little Book of Common Sense Investing (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Vanguard founder's case for owning the whole market via low-cost index funds."
+    },
+    {
+      "id": "invest-016",
+      "content": "Time is your friend; impulse is your enemy.",
+      "authorName": "John C. Bogle",
+      "source": "The Little Book of Common Sense Investing (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Bogle on patience and the cost of emotional trading."
+    },
+    {
+      "id": "invest-017",
+      "content": "Know what you own, and know why you own it.",
+      "authorName": "Peter Lynch",
+      "source": "Attributed to One Up on Wall Street (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified: universally attributed to Lynch's book but confirmed here only via quote aggregators, not primary text. Source axis fails."
+    },
+    {
+      "id": "invest-018",
+      "content": "Investing without research is like playing stud poker and never looking at the cards.",
+      "authorName": "Peter Lynch",
+      "source": "Attributed to One Up on Wall Street (1989)",
+      "quoteDate": "1989",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified: attributed to Lynch's book but confirmed here only via aggregators, not primary text. Source axis fails."
+    },
+    {
+      "id": "invest-019",
+      "content": "Pain plus reflection equals progress.",
+      "authorName": "Ray Dalio",
+      "source": "Principles: Life and Work (2017)",
+      "quoteDate": "2017",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Dalio's core formula, rendered in the book as 'Pain + Reflection = Progress.'"
+    },
+    {
+      "id": "invest-020",
+      "content": "He who lives by the crystal ball is destined to eat ground glass.",
+      "authorName": "Ray Dalio",
+      "source": "Principles: Life and Work (2017)",
+      "quoteDate": "2017",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A market adage Dalio says he learned young and cites in Principles; he credits it as an existing saying."
+    },
+    {
+      "id": "invest-021",
+      "content": "Doing well with money has a little to do with how smart you are and a lot to do with how you behave.",
+      "authorName": "Morgan Housel",
+      "source": "The Psychology of Money (2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The book's central thesis, from its introduction."
+    },
+    {
+      "id": "invest-022",
+      "content": "Wealth is what you don't see. Wealth is financial assets that haven't yet been converted into the stuff you see.",
+      "authorName": "Morgan Housel",
+      "source": "The Psychology of Money (2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Housel distinguishing spent income (things) from unspent wealth (options)."
+    },
+    {
+      "id": "invest-023",
+      "content": "Saving is the gap between your ego and your income.",
+      "authorName": "Morgan Housel",
+      "source": "The Psychology of Money (2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On restraint rather than income as the driver of savings."
+    },
+    {
+      "id": "invest-024",
+      "content": "A budget is people telling their money where to go instead of wondering where it went.",
+      "authorName": "Dave Ramsey",
+      "source": "Attributed to The Total Money Makeover (2003)",
+      "quoteDate": "2003",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Unverified: signature Ramsey line but confirmed here only via aggregators, not primary text; wording also circulates in variant forms. Source axis fails."
+    },
+    {
+      "id": "invest-025",
+      "content": "Beware of little expenses; a small leak will sink a great ship.",
+      "authorName": "Benjamin Franklin",
+      "source": "The Way to Wealth (1758)",
+      "quoteDate": "1758",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Franklin's Poor Richard essay compiling his thrift maxims."
+    },
+    {
+      "id": "invest-026",
+      "content": "Early to bed and early to rise, makes a man healthy, wealthy, and wise.",
+      "authorName": "Benjamin Franklin",
+      "source": "Poor Richard's Almanack (1735)",
+      "quoteDate": "1735",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A proverb Franklin popularized in the 1735 almanac; earlier versions predate him."
+    },
+    {
+      "id": "invest-027",
+      "content": "If you would know the value of money, go and try to borrow some; for he that goes a borrowing goes a sorrowing.",
+      "authorName": "Benjamin Franklin",
+      "source": "The Way to Wealth (1758)",
+      "quoteDate": "1758",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Franklin on the true cost of debt."
+    },
+    {
+      "id": "invest-028",
+      "content": "Lost time is never found again.",
+      "authorName": "Benjamin Franklin",
+      "source": "The Way to Wealth (1758)",
+      "quoteDate": "1758",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Franklin quoting Poor Richard on the irrecoverable cost of wasted time."
+    },
+    {
+      "id": "invest-029",
+      "content": "The first thing is character. Before money or anything else. Money cannot buy it.",
+      "authorName": "J. P. Morgan",
+      "source": "Testimony before the Pujo Committee, U.S. House of Representatives (1912)",
+      "quoteDate": "1912-12-19",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Morgan's sworn reply on what credit rests upon; from the Money Trust investigation transcript."
+    },
+    {
+      "id": "invest-030",
+      "content": "Gold is money. Everything else is credit.",
+      "authorName": "J. P. Morgan",
+      "source": "Attributed to 1912 Pujo Committee testimony",
+      "quoteDate": "c. 1912",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Unverified: the transcript reads 'The money is gold, and nothing else'; this tidy paraphrase is not the verbatim testimony. Wording axis fails."
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "id": "yogi-berra",
+  "name": "Yogi Berra",
+  "description": "The gloriously tangled wisdom of baseball's greatest philosopher, one Yogi-ism at a time.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "baseball.fill",
+  "category": "Sports",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "yogi-001",
+      "content": "It ain't over 'til it's over.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1973",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra confirms in The Yogi Book he said it as Mets manager in 1973, though the exact contemporary press record from that season is thin."
+    },
+    {
+      "id": "yogi-002",
+      "content": "It's deja vu all over again.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1961",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra dated it to watching Mantle and Maris hit back-to-back home runs; he confirmed the line as his own in The Yogi Book."
+    },
+    {
+      "id": "yogi-003",
+      "content": "When you come to a fork in the road, take it.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1960s",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra says it was directions to his Montclair home, reachable either way; a similar phrasing appears in print before him, but he claims this instance as his."
+    },
+    {
+      "id": "yogi-004",
+      "content": "Nobody goes there anymore. It's too crowded.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1959",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra's remark about Ruggeri's restaurant in St. Louis while talking with Stan Musial and Joe Garagiola, as recounted in The Yogi Book."
+    },
+    {
+      "id": "yogi-005",
+      "content": "You can observe a lot by watching.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1964",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra confirmed this line in The Yogi Book and later used it as the title of a 2008 memoir."
+    },
+    {
+      "id": "yogi-006",
+      "content": "The future ain't what it used to be.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra claimed it in The Yogi Book; the underlying sentiment traces to Paul Valery (1937), but he embraced the line as his own."
+    },
+    {
+      "id": "yogi-007",
+      "content": "It gets late early out there.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1961",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra's description of the autumn shadows creeping across left field at Yankee Stadium, documented in The Yogi Book."
+    },
+    {
+      "id": "yogi-008",
+      "content": "We made too many wrong mistakes.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1960",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra's explanation for a World Series loss, confirmed as his line in The Yogi Book."
+    },
+    {
+      "id": "yogi-009",
+      "content": "I want to thank you for making this day necessary.",
+      "authorName": "Yogi Berra",
+      "source": "Yogi Berra Night, Sportsman's Park, St. Louis (1947)",
+      "quoteDate": "1947",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Berra's opening line at the 1947 hometown ceremony honoring him, one of his earliest and best-documented Yogi-isms."
+    },
+    {
+      "id": "yogi-010",
+      "content": "Why buy good luggage? You only use it when you travel.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra's reply to teammates ribbing his worn bags, confirmed in The Yogi Book."
+    },
+    {
+      "id": "yogi-011",
+      "content": "If the people don't want to come out to the ballpark, nobody's going to stop them.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra's remark on ballpark attendance; a similar line was attributed to impresario Sol Hurok, but Berra claims this phrasing in The Yogi Book."
+    },
+    {
+      "id": "yogi-012",
+      "content": "We were overwhelming underdogs.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1969",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra's line about the Amazin' 1969 Mets, later recounted to pitcher Nolan Ryan and documented in The Yogi Book."
+    },
+    {
+      "id": "yogi-013",
+      "content": "Pair up in threes.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Berra's spring-training instruction to his players, confirmed in The Yogi Book."
+    },
+    {
+      "id": "yogi-014",
+      "content": "If the world were perfect, it wouldn't be.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A Yogi-ism he confirmed in The Yogi Book and revisited in his 2002 book When You Come to a Fork in the Road, Take It!"
+    },
+    {
+      "id": "yogi-015",
+      "content": "I usually take a two hour nap from one to four.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A Yogi-ism listed among his confirmed sayings by the Yogi Berra Museum and in The Yogi Book."
+    },
+    {
+      "id": "yogi-016",
+      "content": "Never answer an anonymous letter.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "One of the Yogi-isms Berra confirmed as his own in The Yogi Book."
+    },
+    {
+      "id": "yogi-017",
+      "content": "90% of the game is half mental.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "This exact wording appears in The Yogi Book; it is often paraphrased as 'Baseball is ninety percent mental and the other half is physical.'"
+    },
+    {
+      "id": "yogi-018",
+      "content": "You've got to be very careful if you don't know where you are going, because you might not get there.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A Yogi-ism Berra confirmed in The Yogi Book."
+    },
+    {
+      "id": "yogi-019",
+      "content": "If you don't know where you are going, you'll end up someplace else.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A Yogi-ism Berra confirmed as his own in The Yogi Book."
+    },
+    {
+      "id": "yogi-020",
+      "content": "I really didn't say everything I said.",
+      "authorName": "Yogi Berra",
+      "source": "Newsday interview (Feb. 1986); The Yogi Book (1998)",
+      "quoteDate": "1986",
+      "verificationStatus": "verified",
+      "sourceType": "newspaper",
+      "notes": "Documented in newspapers in February 1986 when Berra joined the Astros, and later adopted as the subtitle of The Yogi Book."
+    },
+    {
+      "id": "yogi-021",
+      "content": "Little League baseball is a very good thing because it keeps the parents off the streets.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A Yogi-ism Berra confirmed in The Yogi Book."
+    },
+    {
+      "id": "yogi-022",
+      "content": "Always go to other people's funerals, otherwise they won't come to yours.",
+      "authorName": "Yogi Berra",
+      "source": "The Yogi Book: I Really Didn't Say Everything I Said (1998)",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A Yogi-ism Berra confirmed as his own in The Yogi Book."
+    },
+    {
+      "id": "yogi-023",
+      "content": "It ain't over till the fat lady sings.",
+      "authorName": "Yogi Berra",
+      "source": "Popularly attributed; Berra denied it in 1998",
+      "quoteDate": "c. 1976",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution axis failed: Berra himself said he never said it, and the line traces to sportscaster Ralph Carpenter in 1976."
+    },
+    {
+      "id": "yogi-024",
+      "content": "You better cut the pizza in four pieces because I'm not hungry enough to eat six.",
+      "authorName": "Yogi Berra",
+      "source": "Popularly attributed",
+      "quoteDate": "c. 1965",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution and wording axes failed: the joke was in print (credited to Ken Thompson) by 1965, and The Yogi Book's own wording differs from this popular version."
+    },
+    {
+      "id": "yogi-025",
+      "content": "How can you think and hit at the same time?",
+      "authorName": "Yogi Berra",
+      "source": "Disputed; The Yogi Book (1998) vs. Yogi (1961)",
+      "quoteDate": "c. 1946",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution axis failed: Berra denied saying it in his 1961 autobiography, then claimed it in The Yogi Book, leaving his own record contradictory."
+    },
+    {
+      "id": "yogi-026",
+      "content": "A nickel ain't worth a dime anymore.",
+      "authorName": "Yogi Berra",
+      "source": "Popularly attributed",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis failed: widely repeated by aggregators with no documented interview or firm confirmation of when Berra said it."
+    },
+    {
+      "id": "yogi-027",
+      "content": "We're lost, but we're making good time.",
+      "authorName": "Yogi Berra",
+      "source": "Popularly attributed",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Source axis failed: no documented origin ties this line to a specific Berra utterance."
+    },
+    {
+      "id": "yogi-028",
+      "content": "No matter where you go, there you are.",
+      "authorName": "Yogi Berra",
+      "source": "Popularly attributed",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution axis failed: a common saying of uncertain origin routinely pinned on Berra without documentation."
+    },
+    {
+      "id": "yogi-029",
+      "content": "It ain't the heat, it's the humility.",
+      "authorName": "Yogi Berra",
+      "source": "Popularly attributed",
+      "quoteDate": "c. 1998",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Attribution axis failed: an older vaudeville-style pun on 'humidity' attached to Berra without a documented source."
+    }
+  ]
+}

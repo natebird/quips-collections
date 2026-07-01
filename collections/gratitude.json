@@ -1,0 +1,312 @@
+{
+  "id": "gratitude",
+  "name": "Gratitude & Thankfulness",
+  "description": "Quotes on appreciation, counting blessings, and the quiet power of a thankful heart.",
+  "author": "Quips Editorial",
+  "colorName": "orange",
+  "iconName": "hands.sparkles.fill",
+  "category": "Wellness",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "grat-001",
+      "content": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
+      "authorName": "Cicero",
+      "source": "Pro Plancio (54 BCE)",
+      "sourceType": "speech",
+      "notes": "A common English rendering of Cicero's line on gratia from his defense oration Pro Plancio; wording varies by translation.",
+      "quoteDate": "c. 54 BCE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-002",
+      "content": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+      "authorName": "Melody Beattie",
+      "source": "The Language of Letting Go (1990)",
+      "sourceType": "book",
+      "notes": "From Beattie's daily meditation book on codependency and recovery.",
+      "quoteDate": "1990",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "grat-003",
+      "content": "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
+      "authorName": "G. K. Chesterton",
+      "source": "A Short History of England (1917)",
+      "sourceType": "book",
+      "notes": "From Chapter 6 of Chesterton's history, on the medieval spirit of thankfulness.",
+      "quoteDate": "1917",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "grat-004",
+      "content": "O Lord that lends me life, lend me a heart replete with thankfulness!",
+      "authorName": "William Shakespeare",
+      "source": "Henry VI, Part 2, Act 1, Scene 1 (c. 1591)",
+      "sourceType": "play",
+      "notes": "Spoken by King Henry on being reunited with Queen Margaret.",
+      "quoteDate": "c. 1591",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "grat-005",
+      "content": "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
+      "authorName": "Thornton Wilder",
+      "source": "The Woman of Andros (1930)",
+      "sourceType": "book",
+      "notes": "From Wilder's novel reflecting on how gratitude for what we have gives life its meaning.",
+      "quoteDate": "1930",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "grat-006",
+      "content": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
+      "authorName": "Epicurus",
+      "source": "Quoted in Seneca, Letters to Lucilius, IX (c. 65 CE)",
+      "sourceType": "letter",
+      "notes": "Epicurus's counsel on contentment, preserved by Seneca in his ninth moral letter.",
+      "quoteDate": "c. 65 CE",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "grat-007",
+      "content": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+      "authorName": "John F. Kennedy",
+      "source": "Thanksgiving Day Proclamation (November 1963)",
+      "sourceType": "speech",
+      "notes": "From one of Kennedy's final proclamations, issued weeks before his assassination.",
+      "quoteDate": "1963-11",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "grat-008",
+      "content": "Feeling gratitude and not expressing it is like wrapping a present and not giving it.",
+      "authorName": "William Arthur Ward",
+      "source": "Attributed (c. 1960s-1970s)",
+      "sourceType": "unspecified",
+      "notes": "From the American inspirational writer known for his aphorisms on thankfulness.",
+      "quoteDate": "c. 1960s-1970s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-009",
+      "content": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+      "authorName": "Epictetus",
+      "source": "Attributed (fragments, c. 100 CE)",
+      "sourceType": "unspecified",
+      "notes": "A Stoic maxim traditionally attributed to Epictetus on being content with what one possesses.",
+      "quoteDate": "c. 100 CE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-010",
+      "content": "Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.",
+      "authorName": "Oprah Winfrey",
+      "source": "Attributed (c. 1990s-2000s)",
+      "sourceType": "unspecified",
+      "notes": "A frequently cited reflection from Winfrey on the abundance mindset of gratitude.",
+      "quoteDate": "c. 1990s-2000s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-011",
+      "content": "Gratitude is the fairest blossom which springs from the soul.",
+      "authorName": "Henry Ward Beecher",
+      "source": "Life Thoughts (1858)",
+      "sourceType": "book",
+      "notes": "From a collection of sayings gathered from Beecher's sermons at Plymouth Church.",
+      "quoteDate": "1858",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-012",
+      "content": "If the only prayer you ever say in your entire life is thank you, it will be enough.",
+      "authorName": "Meister Eckhart",
+      "source": "Attributed (c. 14th century)",
+      "sourceType": "unspecified",
+      "notes": "Widely attributed to the medieval mystic, though it does not appear verbatim in his surviving sermons.",
+      "quoteDate": "c. 14th century",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-013",
+      "content": "Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.",
+      "authorName": "Marcel Proust",
+      "source": "Attributed (c. early 1900s)",
+      "sourceType": "unspecified",
+      "notes": "Long attributed to Proust in translation; the exact French source is uncertain.",
+      "quoteDate": "c. 1900s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-014",
+      "content": "Reflect upon your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.",
+      "authorName": "Charles Dickens",
+      "source": "Sketches by Boz (1836)",
+      "sourceType": "book",
+      "notes": "From Dickens's early collection of sketches, in the piece 'A Christmas Dinner.'",
+      "quoteDate": "1836",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-015",
+      "content": "At times our own light goes out and is rekindled by a spark from another person. Each of us has cause to think with deep gratitude of those who have lighted the flame within us.",
+      "authorName": "Albert Schweitzer",
+      "source": "Memoirs of Childhood and Youth (1924)",
+      "sourceType": "book",
+      "notes": "From the physician and Nobel laureate's reflections on the people who shaped him.",
+      "quoteDate": "1924",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-016",
+      "content": "Let gratitude be the pillow upon which you kneel to say your nightly prayer.",
+      "authorName": "Maya Angelou",
+      "source": "Attributed (c. 1990s-2000s)",
+      "sourceType": "unspecified",
+      "notes": "Often cited from Angelou's talks and interviews on faith and thankfulness.",
+      "quoteDate": "c. 1990s-2000s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-017",
+      "content": "Gratitude is the healthiest of all human emotions. The more you express gratitude for what you have, the more likely you will have even more to express gratitude for.",
+      "authorName": "Zig Ziglar",
+      "source": "Attributed (c. 1980s-1990s)",
+      "sourceType": "unspecified",
+      "notes": "From the motivational speaker and author's talks on a positive mental attitude.",
+      "quoteDate": "c. 1980s-1990s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-018",
+      "content": "Gratitude turns what we have into enough.",
+      "authorName": "Unknown",
+      "source": "Common saying",
+      "sourceType": "unspecified",
+      "notes": "A widely circulated proverb of uncertain origin, sometimes expanded to 'and more.'",
+      "quoteDate": null,
+      "verificationStatus": "folk-wisdom"
+    },
+    {
+      "id": "grat-019",
+      "content": "Silent gratitude isn't much use to anyone.",
+      "authorName": "G. B. Stern",
+      "source": "Attributed (c. 20th century)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the English novelist Gladys Bronwyn Stern.",
+      "quoteDate": "c. 20th century",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-020",
+      "content": "Gratitude goes beyond the 'mine' and 'thine' and claims the truth that all of life is a pure gift.",
+      "authorName": "Henri Nouwen",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "From the Dutch priest and writer's reflections on the spiritual life of thankfulness.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-021",
+      "content": "When I started counting my blessings, my whole life turned around.",
+      "authorName": "Willie Nelson",
+      "source": "Attributed (c. 2000s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the musician, echoing the theme of his song 'Count Your Blessings.'",
+      "quoteDate": "c. 2000s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-022",
+      "content": "'Thank you' is the best prayer that anyone could say. I say that one a lot. Thank you expresses extreme gratitude, humility, understanding.",
+      "authorName": "Alice Walker",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the author of The Color Purple in interviews on gratitude.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-023",
+      "content": "For each new morning with its light, for rest and shelter of the night, for health and food, for love and friends, for everything Thy goodness sends.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "Attributed (poem, 'Gratitude')",
+      "sourceType": "poem",
+      "notes": "A verse of thanks widely attributed to Emerson; the attribution is traditional.",
+      "quoteDate": "c. 19th century",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-024",
+      "content": "We often take for granted the very things that most deserve our gratitude.",
+      "authorName": "Cynthia Ozick",
+      "source": "Attributed",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the American essayist and novelist.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-025",
+      "content": "When we focus on our gratitude, the tide of disappointment goes out and the tide of love rushes in.",
+      "authorName": "Kristin Armstrong",
+      "source": "Attributed (c. 2000s)",
+      "sourceType": "unspecified",
+      "notes": "Attributed to the writer and fitness columnist Kristin Armstrong.",
+      "quoteDate": "c. 2000s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-026",
+      "content": "Gratitude is the sign of noble souls.",
+      "authorName": "Aesop",
+      "source": "Attributed (Aesop's Fables)",
+      "sourceType": "unspecified",
+      "notes": "A moral traditionally drawn from Aesop's fables; wording varies by translation.",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-027",
+      "content": "Happiness cannot be traveled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace, and gratitude.",
+      "authorName": "Denis Waitley",
+      "source": "Attributed (c. 1980s-1990s)",
+      "sourceType": "unspecified",
+      "notes": "From the motivational author and speaker on the psychology of winning.",
+      "quoteDate": "c. 1980s-1990s",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-028",
+      "content": "Nothing is more honorable than a grateful heart.",
+      "authorName": "Seneca",
+      "source": "Attributed (from De Beneficiis, c. 60 CE)",
+      "sourceType": "unspecified",
+      "notes": "A maxim drawn from Seneca's treatise 'On Benefits,' his extended study of giving and gratitude.",
+      "quoteDate": "c. 60 CE",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-029",
+      "content": "Wear gratitude like a cloak, and it will feed every corner of your life.",
+      "authorName": "Rumi",
+      "source": "Attributed (13th century)",
+      "sourceType": "poem",
+      "notes": "Attributed to the Persian poet and Sufi mystic; a popular rendering rather than a fixed translation.",
+      "quoteDate": "c. 13th century",
+      "verificationStatus": "attributed"
+    },
+    {
+      "id": "grat-030",
+      "content": "Let us rise up and be thankful, for if we didn't learn a lot today, at least we learned a little, and if we didn't learn a little, at least we didn't get sick, and if we got sick, at least we didn't die; so, let us all be thankful.",
+      "authorName": "Buddha",
+      "source": "Attributed (traditional Buddhist teaching)",
+      "sourceType": "unspecified",
+      "notes": "Popularly attributed to the Buddha; the source is a modern paraphrase rather than a canonical text.",
+      "quoteDate": null,
+      "verificationStatus": "attributed"
+    }
+  ]
+}
