@@ -1,0 +1,312 @@
+{
+  "id": "grit-perseverance",
+  "name": "Grit & Perseverance",
+  "description": "Words for pushing through hardship, failing forward, and refusing to quit.",
+  "author": "Quips Editorial",
+  "colorName": "orange",
+  "iconName": "flame.fill",
+  "category": "Inspiration",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "grit-001",
+      "content": "Never give in, never give in, never, never, never, never—in nothing, great or small, large or petty—never give in except to convictions of honour and good sense.",
+      "authorName": "Winston Churchill",
+      "source": "Address at Harrow School, London, October 29, 1941",
+      "sourceType": "speech",
+      "quoteDate": "1941-10-29",
+      "verificationStatus": "verified",
+      "notes": "The exact wording from Churchill's wartime Harrow address; the popular 'never, never, never give up' is a later corruption."
+    },
+    {
+      "id": "grit-002",
+      "content": "If there is no struggle, there is no progress. Those who profess to favor freedom, and yet depreciate agitation, are men who want crops without plowing up the ground.",
+      "authorName": "Frederick Douglass",
+      "source": "West India Emancipation speech, Canandaigua, New York, August 3, 1857",
+      "sourceType": "speech",
+      "quoteDate": "1857-08-03",
+      "verificationStatus": "verified",
+      "notes": "From Douglass's 1857 address on the anniversary of West Indian emancipation, a documented primary text."
+    },
+    {
+      "id": "grit-003",
+      "content": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+      "authorName": "Samuel Beckett",
+      "source": "Worstward Ho (1983)",
+      "sourceType": "book",
+      "quoteDate": "1983-01-01",
+      "verificationStatus": "verified",
+      "notes": "Verbatim from Beckett's late prose piece; often quoted out of its bleaker original context."
+    },
+    {
+      "id": "grit-004",
+      "content": "I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.",
+      "authorName": "Booker T. Washington",
+      "source": "Up from Slavery (1901)",
+      "sourceType": "book",
+      "quoteDate": "1901-01-01",
+      "verificationStatus": "verified",
+      "notes": "From the opening chapter of Washington's autobiography, defining success by obstacles overcome."
+    },
+    {
+      "id": "grit-005",
+      "content": "What we obtain too cheap, we esteem too lightly: it is dearness only that gives every thing its value.",
+      "authorName": "Thomas Paine",
+      "source": "The American Crisis, No. 1 (1776)",
+      "sourceType": "book",
+      "quoteDate": "1776-12-19",
+      "verificationStatus": "verified",
+      "notes": "From the pamphlet Washington had read to his troops; the line follows Paine's famous 'times that try men's souls.'"
+    },
+    {
+      "id": "grit-006",
+      "content": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case, you fail by default.",
+      "authorName": "J.K. Rowling",
+      "source": "Harvard University Commencement Address, June 5, 2008",
+      "sourceType": "speech",
+      "quoteDate": "2008-06-05",
+      "verificationStatus": "verified",
+      "notes": "From Rowling's Harvard address on the benefits of failure, verbatim from the published transcript."
+    },
+    {
+      "id": "grit-007",
+      "content": "I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+      "authorName": "Michael Jordan",
+      "source": "Nike 'Failure' television commercial (1997)",
+      "sourceType": "video",
+      "quoteDate": "1997-01-01",
+      "verificationStatus": "verified",
+      "notes": "The full script of Jordan's Nike 'Failure' ad, usually quoted only in its final line."
+    },
+    {
+      "id": "grit-008",
+      "content": "I will take fate by the throat; it shall certainly not bend and crush me completely.",
+      "authorName": "Ludwig van Beethoven",
+      "source": "Letter to Franz Wegeler, November 16, 1801",
+      "sourceType": "letter",
+      "quoteDate": "1801-11-16",
+      "verificationStatus": "verified",
+      "notes": "Standard translation of Beethoven's letter written as his deafness advanced; German original 'Ich will dem Schicksal in den Rachen greifen.'"
+    },
+    {
+      "id": "grit-009",
+      "content": "Grit is passion and perseverance for very long-term goals.",
+      "authorName": "Angela Duckworth",
+      "source": "TED Talk, 'Grit: The Power of Passion and Perseverance' (2013)",
+      "sourceType": "lecture",
+      "quoteDate": "c. 2013",
+      "verificationStatus": "verified",
+      "notes": "Duckworth's working definition from her TED talk, later expanded in her 2016 book of the same name."
+    },
+    {
+      "id": "grit-010",
+      "content": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
+      "authorName": "Maya Angelou",
+      "source": "Letter to My Daughter (2008)",
+      "sourceType": "book",
+      "quoteDate": "2008-01-01",
+      "verificationStatus": "verified",
+      "notes": "From Angelou's essay collection; she voiced versions of this line across interviews, but the book gives a fixed wording."
+    },
+    {
+      "id": "grit-011",
+      "content": "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward; how much you can take and keep moving forward.",
+      "authorName": "Rocky Balboa (Sylvester Stallone)",
+      "source": "Rocky Balboa (2006)",
+      "sourceType": "movie",
+      "quoteDate": "2006-12-20",
+      "verificationStatus": "verified",
+      "notes": "Rocky's speech to his son in the sixth film; a verbatim, widely quoted screen line."
+    },
+    {
+      "id": "grit-012",
+      "content": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "authorName": "Thomas Edison",
+      "source": "Attributed spoken remark, reported c. 1901–1903",
+      "sourceType": "interview",
+      "quoteDate": "c. 1902",
+      "verificationStatus": "attributed",
+      "notes": "Genuinely Edison's, repeated by him for years, but exact wording and the original occasion vary across early reports (wording axis)."
+    },
+    {
+      "id": "grit-013",
+      "content": "I have not failed. I've just found 10,000 ways that won't work.",
+      "authorName": "Thomas Edison",
+      "source": "Attributed; paraphrased from accounts in Edison biographies",
+      "sourceType": "book",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Consistent with Edison's documented attitude toward failed experiments, but this is a compressed paraphrase whose exact wording is unverified (wording axis)."
+    },
+    {
+      "id": "grit-014",
+      "content": "Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.",
+      "authorName": "Calvin Coolidge",
+      "source": "Attributed 'Press On' statement, circulated after his death",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Firmly credited to Coolidge and printed on memorial cards, but the exact primary occasion is undocumented (attribution axis)."
+    },
+    {
+      "id": "grit-015",
+      "content": "It's not whether you get knocked down; it's whether you get up.",
+      "authorName": "Vince Lombardi",
+      "source": "Attributed to Lombardi's talks and writings",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Long associated with Lombardi's coaching philosophy, but no single primary source pins the exact wording (attribution axis)."
+    },
+    {
+      "id": "grit-016",
+      "content": "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'",
+      "authorName": "Muhammad Ali",
+      "source": "Attributed interview remark",
+      "sourceType": "interview",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Widely credited to Ali and in keeping with his training ethos, but the original interview is not cleanly documented (attribution axis)."
+    },
+    {
+      "id": "grit-017",
+      "content": "It's hard to beat a person who never gives up.",
+      "authorName": "Babe Ruth",
+      "source": "Attributed to Babe Ruth",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Commonly credited to Ruth without a traceable primary source (attribution axis)."
+    },
+    {
+      "id": "grit-018",
+      "content": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
+      "authorName": "Marie Curie",
+      "source": "Attributed; quoted in biographies of Curie",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Frequently cited to Curie and consistent with her recorded outlook, but the exact original context is unconfirmed (attribution axis)."
+    },
+    {
+      "id": "grit-019",
+      "content": "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
+      "authorName": "Nelson Mandela",
+      "source": "Attributed to Nelson Mandela",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Widely attributed to Mandela; consistent with his life but lacking a verified primary source (attribution axis)."
+    },
+    {
+      "id": "grit-020",
+      "content": "Winning is great, sure, but if you are really going to do something in life, the secret is learning how to lose. Nobody goes undefeated all the time. If you can pick up after a crushing defeat, and go on to win again, you are going to be a champion someday.",
+      "authorName": "Wilma Rudolph",
+      "source": "Attributed to Wilma Rudolph",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Credited to the Olympic sprinter and echoing her comeback from childhood polio, but the primary source is not firmly established (attribution axis)."
+    },
+    {
+      "id": "grit-021",
+      "content": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+      "authorName": "Amelia Earhart",
+      "source": "Attributed to Amelia Earhart",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Commonly credited to Earhart without a documented primary source (attribution axis)."
+    },
+    {
+      "id": "grit-022",
+      "content": "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance.",
+      "authorName": "Steve Jobs",
+      "source": "Attributed interview remark, c. 1995",
+      "sourceType": "interview",
+      "quoteDate": "c. 1995",
+      "verificationStatus": "attributed",
+      "notes": "Widely quoted from Jobs interviews on entrepreneurship; exact source and date vary across citations (attribution axis)."
+    },
+    {
+      "id": "grit-023",
+      "content": "When you get into a tight place and everything goes against you, till it seems as though you could not hold on a minute longer, never give up then, for that is just the place and time that the tide will turn.",
+      "authorName": "Harriet Beecher Stowe",
+      "source": "Attributed to Harriet Beecher Stowe",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Long credited to Stowe, but the specific work it comes from is not reliably confirmed (attribution axis)."
+    },
+    {
+      "id": "grit-024",
+      "content": "When you reach the end of your rope, tie a knot in it and hang on.",
+      "authorName": "Franklin D. Roosevelt",
+      "source": "Attributed to Franklin D. Roosevelt",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Popularly credited to FDR, though no documented speech or writing confirms it (attribution axis)."
+    },
+    {
+      "id": "grit-025",
+      "content": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+      "authorName": "Bruce Lee",
+      "source": "Attributed to Bruce Lee",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Widely circulated under Lee's name without a verified primary source (attribution axis)."
+    },
+    {
+      "id": "grit-026",
+      "content": "Perseverance is not a long race; it is many short races one after the other.",
+      "authorName": "Walter Elliot",
+      "source": "Attributed to Walter Elliot",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Commonly attributed to the Scottish politician Walter Elliot without a confirmed primary source (attribution axis)."
+    },
+    {
+      "id": "grit-027",
+      "content": "Success seems to be largely a matter of hanging on after others have let go.",
+      "authorName": "William Feather",
+      "source": "Attributed to William Feather",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Credited to the American publisher and aphorist; the exact original printing is not pinned down (attribution axis)."
+    },
+    {
+      "id": "grit-028",
+      "content": "Dripping water hollows out stone, not through force but through persistence.",
+      "authorName": "Ovid",
+      "source": "Epistulae ex Ponto (c. 13 CE), commonly quoted translation",
+      "sourceType": "poem",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "The sentiment traces to Ovid's Latin verse, but this smooth English wording is a loose translation that varies (wording axis)."
+    },
+    {
+      "id": "grit-029",
+      "content": "It does not matter how slowly you go as long as you do not stop.",
+      "authorName": "Confucius",
+      "source": "Attributed to Confucius",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "Popularly credited to Confucius but not found in the Analects or other genuine texts (attribution axis fails)."
+    },
+    {
+      "id": "grit-030",
+      "content": "It's not what happens to you, but how you react to it that matters.",
+      "authorName": "Epictetus",
+      "source": "Attributed to Epictetus",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "A modern Stoic-flavored paraphrase not found verbatim in the Enchiridion or Discourses (attribution axis fails)."
+    }
+  ]
+}

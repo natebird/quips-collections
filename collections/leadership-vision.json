@@ -1,0 +1,312 @@
+{
+  "id": "leadership-vision",
+  "name": "Leadership & Vision",
+  "description": "On leading people, casting vision, and rising to the moment.",
+  "author": "Quips Editorial",
+  "colorName": "navyBlue",
+  "iconName": "flag.fill",
+  "category": "Inspiration",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "lead-001",
+      "content": "A leader, he said, is like a shepherd. He stays behind the flock, letting the most nimble go out ahead, whereupon the others follow, not realizing that all along they are being directed from behind.",
+      "authorName": "Nelson Mandela",
+      "source": "Long Walk to Freedom (1994)",
+      "sourceType": "book",
+      "quoteDate": "1994-01-01",
+      "verificationStatus": "verified",
+      "notes": "Mandela recalls the axiom of the Thembu regent Jongintaba in his autobiography; the quoteDate reflects the book's publication year, not a precise day."
+    },
+    {
+      "id": "lead-002",
+      "content": "Plans are worthless, but planning is everything.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "Remarks at the National Defense Executive Reserve Conference, Washington, D.C. (November 14, 1957)",
+      "sourceType": "speech",
+      "quoteDate": "1957-11-14",
+      "verificationStatus": "verified",
+      "notes": "Eisenhower framed it as an old Army maxim he had heard, illustrating that the discipline of planning outlasts any single plan."
+    },
+    {
+      "id": "lead-003",
+      "content": "The price of greatness is responsibility.",
+      "authorName": "Winston Churchill",
+      "source": "Address at Harvard University (September 6, 1943)",
+      "sourceType": "speech",
+      "quoteDate": "1943-09-06",
+      "verificationStatus": "verified",
+      "notes": "From Churchill's wartime speech receiving an honorary degree at Harvard, urging Anglo-American shared duty."
+    },
+    {
+      "id": "lead-004",
+      "content": "Leadership and learning are indispensable to each other.",
+      "authorName": "John F. Kennedy",
+      "source": "Remarks prepared for delivery at the Trade Mart, Dallas (November 22, 1963)",
+      "sourceType": "speech",
+      "quoteDate": "1963-11-22",
+      "verificationStatus": "verified",
+      "notes": "From the address Kennedy was to give the day he was assassinated; the text was released though never spoken."
+    },
+    {
+      "id": "lead-005",
+      "content": "A shared vision is not an idea. It is not even an important idea such as freedom. It is, rather, a force in people's hearts, a force of impressive power.",
+      "authorName": "Peter Senge",
+      "source": "The Fifth Discipline: The Art and Practice of the Learning Organization (1990)",
+      "sourceType": "book",
+      "quoteDate": "1990-01-01",
+      "verificationStatus": "verified",
+      "notes": "Senge's definition of shared vision as a felt commitment rather than a slogan; quoteDate reflects publication year."
+    },
+    {
+      "id": "lead-006",
+      "content": "The first responsibility of a leader is to define reality. The last is to say thank you. In between, the leader is a servant.",
+      "authorName": "Max De Pree",
+      "source": "Leadership Is an Art (1989)",
+      "sourceType": "book",
+      "quoteDate": "1989-01-01",
+      "verificationStatus": "verified",
+      "notes": "The opening frame of the former Herman Miller chairman's book on leadership as stewardship; quoteDate reflects publication year."
+    },
+    {
+      "id": "lead-007",
+      "content": "The servant-leader is servant first. It begins with the natural feeling that one wants to serve, to serve first.",
+      "authorName": "Robert K. Greenleaf",
+      "source": "The Servant as Leader (1970 essay)",
+      "sourceType": "book",
+      "quoteDate": "1970-01-01",
+      "verificationStatus": "verified",
+      "notes": "The founding statement of the servant-leadership movement, from Greenleaf's original essay; quoteDate reflects publication year."
+    },
+    {
+      "id": "lead-008",
+      "content": "A leader is best when people barely know he exists. When his work is done, his aim fulfilled, they will say: we did it ourselves.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 17 (c. 4th century BC)",
+      "sourceType": "book",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "A widely used English rendering of Chapter 17; exact wording (the attribution axis is sound) varies substantially across translations."
+    },
+    {
+      "id": "lead-009",
+      "content": "Management is doing things right; leadership is doing the right things.",
+      "authorName": "Peter Drucker",
+      "source": "Widely quoted in management literature",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Commonly credited to Drucker and also to Warren Bennis; genuinely associated with both but not pinned to a single primary text."
+    },
+    {
+      "id": "lead-010",
+      "content": "Leadership is the art of getting someone else to do something you want done because he wants to do it.",
+      "authorName": "Dwight D. Eisenhower",
+      "source": "Attributed to Eisenhower in speeches and interviews",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Long and consistently credited to Eisenhower, matching his views, but the exact original occasion is not firmly documented."
+    },
+    {
+      "id": "lead-011",
+      "content": "The day soldiers stop bringing you their problems is the day you have stopped leading them.",
+      "authorName": "Colin Powell",
+      "source": "My American Journey (1995)",
+      "sourceType": "book",
+      "quoteDate": "1995-01-01",
+      "verificationStatus": "attributed",
+      "notes": "Drawn from Powell's memoir and later leadership talks; wording varies slightly across retellings, so marked attributed."
+    },
+    {
+      "id": "lead-012",
+      "content": "Leadership is the capacity to translate vision into reality.",
+      "authorName": "Warren Bennis",
+      "source": "Attributed to Warren Bennis, leadership scholar",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Consistently credited to Bennis and true to his body of work, but not tied here to a specific book or page."
+    },
+    {
+      "id": "lead-013",
+      "content": "A leader takes people where they want to go. A great leader takes people where they don't necessarily want to go, but ought to be.",
+      "authorName": "Rosalynn Carter",
+      "source": "Attributed to Rosalynn Carter",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Widely and specifically credited to the former First Lady; a precise original source is not established."
+    },
+    {
+      "id": "lead-014",
+      "content": "Before you are a leader, success is all about growing yourself. When you become a leader, success is all about growing others.",
+      "authorName": "Jack Welch",
+      "source": "Attributed to Jack Welch, former GE CEO",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Frequently credited to Welch and consistent with his writing on developing people, but not pinned to a specific text."
+    },
+    {
+      "id": "lead-015",
+      "content": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+      "authorName": "Simon Sinek",
+      "source": "Leaders Eat Last (2014) and related talks",
+      "sourceType": "book",
+      "quoteDate": "2014-01-01",
+      "verificationStatus": "attributed",
+      "notes": "A signature Sinek theme expressed across his book and talks; exact phrasing varies, so marked attributed."
+    },
+    {
+      "id": "lead-016",
+      "content": "The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint enough to keep from meddling with them while they do it.",
+      "authorName": "Theodore Roosevelt",
+      "source": "Attributed to Theodore Roosevelt",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Long associated with Roosevelt and matching his views on delegation; a firm primary citation is not established here."
+    },
+    {
+      "id": "lead-017",
+      "content": "A leader is one who knows the way, goes the way, and shows the way.",
+      "authorName": "John C. Maxwell",
+      "source": "Attributed to John C. Maxwell, leadership author",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "A frequently repeated Maxwell line from his talks and writing; not tied here to a single book or page."
+    },
+    {
+      "id": "lead-018",
+      "content": "You manage things; you lead people.",
+      "authorName": "Grace Hopper",
+      "source": "Attributed to Rear Admiral Grace Hopper",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Consistently credited to Hopper, who often distinguished managing things from leading people; exact original wording varies."
+    },
+    {
+      "id": "lead-019",
+      "content": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+      "authorName": "Ronald Reagan",
+      "source": "Attributed to Ronald Reagan",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Widely credited to Reagan and echoing a broader leadership adage; a precise original occasion is not documented."
+    },
+    {
+      "id": "lead-020",
+      "content": "The key to successful leadership today is influence, not authority.",
+      "authorName": "Ken Blanchard",
+      "source": "Attributed to Ken Blanchard, management author",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "A recurring Blanchard theme across his books and talks; not fixed here to one primary source."
+    },
+    {
+      "id": "lead-021",
+      "content": "It is amazing what you can accomplish if you do not care who gets the credit.",
+      "authorName": "Harry S. Truman",
+      "source": "Attributed to Harry S. Truman",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Popularly credited to Truman, who is said to have kept the sentiment on his desk, though the line predates him and is attributed to several people."
+    },
+    {
+      "id": "lead-022",
+      "content": "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
+      "authorName": "Antoine de Saint-Exupery",
+      "source": "Popularly attributed to Citadelle / The Wisdom of the Sands (1948)",
+      "sourceType": "book",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "The wording axis fails: this is a popular paraphrase that does not match any exact passage in Saint-Exupery's text, though the sentiment derives from Citadelle."
+    },
+    {
+      "id": "lead-023",
+      "content": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+      "authorName": "Abraham Lincoln",
+      "source": "Attributed to Abraham Lincoln",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "The attribution axis fails: no primary Lincoln source exists for this line and it is widely regarded as a misattribution."
+    },
+    {
+      "id": "lead-024",
+      "content": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+      "authorName": "John Quincy Adams",
+      "source": "Attributed to John Quincy Adams",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "The attribution axis fails: this line has no basis in Adams's writings and is a modern quotation without a documented primary source."
+    },
+    {
+      "id": "lead-025",
+      "content": "The function of leadership is to produce more leaders, not more followers.",
+      "authorName": "Ralph Nader",
+      "source": "Attributed to Ralph Nader",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Consistently credited to Nader and in line with his public statements, but not tied here to a specific speech or text."
+    },
+    {
+      "id": "lead-026",
+      "content": "As we look ahead into the next century, leaders will be those who empower others.",
+      "authorName": "Bill Gates",
+      "source": "Attributed to Bill Gates",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Widely credited to Gates and matching his stated views on organizations; a precise original source is not established."
+    },
+    {
+      "id": "lead-027",
+      "content": "A genuine leader is not a searcher for consensus but a molder of consensus.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "Attributed to Martin Luther King Jr.",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Genuinely credited to King and consistent with his speeches, but the exact original occasion is not firmly pinned here."
+    },
+    {
+      "id": "lead-028",
+      "content": "Leaders aren't born, they are made. And they are made just like anything else, through hard work.",
+      "authorName": "Vince Lombardi",
+      "source": "Attributed to Vince Lombardi",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Long associated with the Packers coach and true to his philosophy; not tied here to a single verified transcript."
+    },
+    {
+      "id": "lead-029",
+      "content": "Being powerful is like being a lady. If you have to tell people you are, you aren't.",
+      "authorName": "Margaret Thatcher",
+      "source": "Attributed to Margaret Thatcher",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Famously credited to Thatcher, who repeated it; she presented it as a borrowed line, so the exact origin is uncertain."
+    },
+    {
+      "id": "lead-030",
+      "content": "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
+      "authorName": "Indra Nooyi",
+      "source": "Attributed to Indra Nooyi, former PepsiCo CEO",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Credited to Nooyi from her interviews and talks on leadership; not fixed here to a single primary transcript."
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "id": "courage-conviction",
+  "name": "Courage & Conviction",
+  "description": "On facing fear, standing for what's right, and acting anyway.",
+  "author": "Quips Editorial",
+  "colorName": "red",
+  "iconName": "shield.fill",
+  "category": "Inspiration",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "courage-001",
+      "content": "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.",
+      "authorName": "Nelson Mandela",
+      "source": "Long Walk to Freedom (1994)",
+      "sourceType": "book",
+      "quoteDate": "c. 1994",
+      "verificationStatus": "verified",
+      "notes": "From Mandela's autobiography, reflecting on his years of resistance and imprisonment."
+    },
+    {
+      "id": "courage-002",
+      "content": "Courage is the price that life exacts for granting peace.",
+      "authorName": "Amelia Earhart",
+      "source": "\"Courage,\" a poem by Earhart (c. 1927)",
+      "sourceType": "poem",
+      "quoteDate": "c. 1927",
+      "verificationStatus": "verified",
+      "notes": "The opening line of Earhart's own poem \"Courage,\" written around the time of her first Atlantic crossing."
+    },
+    {
+      "id": "courage-003",
+      "content": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do.",
+      "authorName": "Eleanor Roosevelt",
+      "source": "You Learn by Living (1960)",
+      "sourceType": "book",
+      "quoteDate": "c. 1960",
+      "verificationStatus": "verified",
+      "notes": "From the chapter \"Fear — the Great Enemy\" in Roosevelt's book of collected life lessons."
+    },
+    {
+      "id": "courage-004",
+      "content": "Courage is resistance to fear, mastery of fear — not absence of fear.",
+      "authorName": "Mark Twain",
+      "source": "Following the Equator (1897), Pudd'nhead Wilson's New Calendar",
+      "sourceType": "book",
+      "quoteDate": "c. 1897",
+      "verificationStatus": "verified",
+      "notes": "One of the aphorisms Twain used as a chapter epigraph in his travel book."
+    },
+    {
+      "id": "courage-005",
+      "content": "The only thing we have to fear is fear itself — nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.",
+      "authorName": "Franklin D. Roosevelt",
+      "source": "First Inaugural Address, Washington, D.C., March 4, 1933",
+      "sourceType": "speech",
+      "quoteDate": "1933-03-04",
+      "verificationStatus": "verified",
+      "notes": "Delivered at the depth of the Great Depression; the full clause is usually shortened to its first six words."
+    },
+    {
+      "id": "courage-006",
+      "content": "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and you see it through no matter what.",
+      "authorName": "Harper Lee",
+      "source": "To Kill a Mockingbird (1960), spoken by Atticus Finch",
+      "sourceType": "book",
+      "quoteDate": "c. 1960",
+      "verificationStatus": "verified",
+      "notes": "Atticus explains courage to his children after the death of Mrs. Dubose."
+    },
+    {
+      "id": "courage-007",
+      "content": "It is not the critic who counts; not the man who points out how the strong man stumbles. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood.",
+      "authorName": "Theodore Roosevelt",
+      "source": "\"Citizenship in a Republic,\" the Sorbonne, Paris, April 23, 1910",
+      "sourceType": "speech",
+      "quoteDate": "1910-04-23",
+      "verificationStatus": "verified",
+      "notes": "The \"Man in the Arena\" passage, excerpted here from a much longer paragraph."
+    },
+    {
+      "id": "courage-008",
+      "content": "Never, ever be afraid to make some noise and get in good trouble, necessary trouble.",
+      "authorName": "John Lewis",
+      "source": "Post on X (Twitter), June 27, 2018",
+      "sourceType": "socialMedia",
+      "quoteDate": "2018-06-27",
+      "verificationStatus": "verified",
+      "notes": "Lewis returned to the phrase \"good trouble\" throughout his life; this exact wording is from his own posted message."
+    },
+    {
+      "id": "courage-009",
+      "content": "We must always take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented.",
+      "authorName": "Elie Wiesel",
+      "source": "Nobel Peace Prize acceptance speech, Oslo, December 10, 1986",
+      "sourceType": "speech",
+      "quoteDate": "1986-12-10",
+      "verificationStatus": "verified",
+      "notes": "From the address Wiesel gave on accepting the Nobel Peace Prize."
+    },
+    {
+      "id": "courage-010",
+      "content": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+      "authorName": "Audre Lorde",
+      "source": "The Cancer Journals (1980)",
+      "sourceType": "book",
+      "quoteDate": "c. 1980",
+      "verificationStatus": "verified",
+      "notes": "Lorde wrote this while confronting her own mortality after a breast cancer diagnosis."
+    },
+    {
+      "id": "courage-011",
+      "content": "I have learned over the years that when one's mind is made up, this diminishes fear; knowing what must be done does away with fear.",
+      "authorName": "Rosa Parks",
+      "source": "Rosa Parks: My Story (1992)",
+      "sourceType": "book",
+      "quoteDate": "c. 1992",
+      "verificationStatus": "verified",
+      "notes": "From Parks's autobiography, reflecting on the resolve behind her refusal to give up her bus seat."
+    },
+    {
+      "id": "courage-012",
+      "content": "Life shrinks or expands in proportion to one's courage.",
+      "authorName": "Anaïs Nin",
+      "source": "The Diary of Anaïs Nin, Volume Three (entry c. 1939)",
+      "sourceType": "book",
+      "quoteDate": "c. 1939",
+      "verificationStatus": "verified",
+      "notes": "From Nin's published diaries; the surrounding passage repeats the phrase for emphasis."
+    },
+    {
+      "id": "courage-013",
+      "content": "Power concedes nothing without a demand. It never did and it never will.",
+      "authorName": "Frederick Douglass",
+      "source": "\"West India Emancipation\" address, Canandaigua, New York, August 3, 1857",
+      "sourceType": "speech",
+      "quoteDate": "1857-08-03",
+      "verificationStatus": "verified",
+      "notes": "Douglass argued that freedom is won only by those willing to struggle for it."
+    },
+    {
+      "id": "courage-014",
+      "content": "I disapprove of what you say, but I will defend to the death your right to say it.",
+      "authorName": "Evelyn Beatrice Hall",
+      "source": "The Friends of Voltaire (1906), written under the pen name S. G. Tallentyre",
+      "sourceType": "book",
+      "quoteDate": "c. 1906",
+      "verificationStatus": "verified",
+      "notes": "Hall coined this as a summary of Voltaire's attitude to free speech; it is very commonly misattributed to Voltaire himself."
+    },
+    {
+      "id": "courage-015",
+      "content": "Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently.",
+      "authorName": "Maya Angelou",
+      "source": "Repeated by Angelou in interviews and public talks",
+      "sourceType": "interview",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Angelou said versions of this many times, but the wording varies across appearances and no single primary source is definitive."
+    },
+    {
+      "id": "courage-016",
+      "content": "Fight for the things that you care about, but do it in a way that will lead others to join you.",
+      "authorName": "Ruth Bader Ginsburg",
+      "source": "Remarks on receiving the Radcliffe Medal, Cambridge, Massachusetts, May 29, 2015",
+      "sourceType": "speech",
+      "quoteDate": "2015-05-29",
+      "verificationStatus": "attributed",
+      "notes": "Widely and reliably credited to Ginsburg at this event, though transcribed wording varies slightly between reports."
+    },
+    {
+      "id": "courage-017",
+      "content": "If you are neutral in situations of injustice, you have chosen the side of the oppressor.",
+      "authorName": "Desmond Tutu",
+      "source": "Attributed to Tutu in speeches and writings on apartheid",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Genuinely and consistently credited to Tutu, but a specific primary source and exact wording are hard to pin down; attribution axis is the uncertain one."
+    },
+    {
+      "id": "courage-018",
+      "content": "To see what is right and not to do it is want of courage.",
+      "authorName": "Confucius",
+      "source": "The Analects, Book II",
+      "sourceType": "book",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "The sentiment is from the Analects, but English wording depends entirely on the translator; the wording axis is uncertain."
+    },
+    {
+      "id": "courage-019",
+      "content": "The bravest are surely those who have the clearest vision of what is before them, glory and danger alike, and yet notwithstanding go out to meet it.",
+      "authorName": "Thucydides",
+      "source": "Pericles' Funeral Oration, History of the Peloponnesian War",
+      "sourceType": "book",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "As rendered from Thucydides' account of Pericles; the phrasing varies substantially by translation, so the wording axis is uncertain."
+    },
+    {
+      "id": "courage-020",
+      "content": "I've been absolutely terrified every moment of my life — and I've never let it keep me from doing a single thing I wanted to do.",
+      "authorName": "Georgia O'Keeffe",
+      "source": "Attributed to O'Keeffe in accounts of her life and work",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Long associated with O'Keeffe, but a firm primary source has not been located; attribution axis is uncertain."
+    },
+    {
+      "id": "courage-021",
+      "content": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
+      "authorName": "Ambrose Redmoon",
+      "source": "Attributed to the writer James Neil Hollingworth (pen name Ambrose Redmoon)",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Credited to Redmoon, reportedly from a 1991 magazine essay, but the original publication is difficult to confirm; wording axis is uncertain."
+    },
+    {
+      "id": "courage-022",
+      "content": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "authorName": "C. S. Lewis",
+      "source": "Attributed to Lewis; often quoted from The Screwtape Letters",
+      "sourceType": "book",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Reliably credited to Lewis, but the exact source passage is disputed, so the attribution/source axis is uncertain."
+    },
+    {
+      "id": "courage-023",
+      "content": "I raise up my voice — not so I can shout, but so that those without a voice can be heard.",
+      "authorName": "Malala Yousafzai",
+      "source": "Attributed to Yousafzai in speeches and interviews on girls' education",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Consistent with Malala's advocacy and widely credited to her, but a single primary source is hard to fix; attribution axis is uncertain."
+    },
+    {
+      "id": "courage-024",
+      "content": "Cautious, careful people, always casting about to preserve their reputation and social standing, never can bring about a reform.",
+      "authorName": "Susan B. Anthony",
+      "source": "Attributed to Anthony in her speeches and writings on suffrage",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Long credited to Anthony, but the exact original occasion is not firmly documented; attribution axis is uncertain."
+    },
+    {
+      "id": "courage-025",
+      "content": "I only regret that I have but one life to lose for my country.",
+      "authorName": "Nathan Hale",
+      "source": "Reportedly spoken before his execution by the British, September 22, 1776",
+      "sourceType": "inPerson",
+      "quoteDate": "1776-09-22",
+      "verificationStatus": "attributed",
+      "notes": "Handed down through witnesses rather than a document, and it echoes a line from Addison's play Cato; wording axis is uncertain."
+    },
+    {
+      "id": "courage-026",
+      "content": "Here I stand; I can do no other. God help me. Amen.",
+      "authorName": "Martin Luther",
+      "source": "Reply at the Diet of Worms, April 18, 1521",
+      "sourceType": "speech",
+      "quoteDate": "1521-04-18",
+      "verificationStatus": "attributed",
+      "notes": "The defiant \"Here I stand\" sentence may have been added by early printers and is not in the earliest transcripts; wording axis is uncertain."
+    },
+    {
+      "id": "courage-027",
+      "content": "If the first woman God ever made was strong enough to turn the world upside down all alone, these women together ought to be able to turn it back, and get it right side up again.",
+      "authorName": "Sojourner Truth",
+      "source": "Speech at the Women's Rights Convention, Akron, Ohio, 1851",
+      "sourceType": "speech",
+      "quoteDate": "c. 1851",
+      "verificationStatus": "attributed",
+      "notes": "Surviving transcripts of this speech differ greatly from one another, so the exact wording axis is uncertain."
+    },
+    {
+      "id": "courage-028",
+      "content": "Courage is the first of human qualities because it is the quality which guarantees all the others.",
+      "authorName": "Aristotle",
+      "source": "Commonly attributed to Aristotle, echoing the Nicomachean Ethics",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "A paraphrase in the spirit of Aristotle's ethics rather than a literal line from any text; wording axis is uncertain."
+    },
+    {
+      "id": "courage-029",
+      "content": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+      "authorName": "Winston Churchill",
+      "source": "Popularly attributed to Churchill",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "No primary source has ever been found in Churchill's speeches or writings; the attribution axis fails."
+    },
+    {
+      "id": "courage-030",
+      "content": "It takes courage to grow up and become who you really are.",
+      "authorName": "E. E. Cummings",
+      "source": "Popularly attributed to Cummings",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "Widely circulated online but absent from Cummings's published work; the attribution axis fails."
+    }
+  ]
+}

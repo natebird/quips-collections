@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-06-30T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -18,6 +18,74 @@
       "lastUpdated": "2026-06-20T12:00:00Z",
       "contentHash": "sha256-3BWgSFZaLAbagA+u4Hfa23FhrfTjPZMUClziJB8z90s=",
       "bytes": 14357
+    },
+    {
+      "id": "grit-perseverance",
+      "name": "Grit & Perseverance",
+      "description": "Words for pushing through hardship, failing forward, and refusing to quit.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+        "Grit is passion and perseverance for very long-term goals."
+      ],
+      "colorName": "orange",
+      "iconName": "flame.fill",
+      "category": "Inspiration",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-W9MPrbFiOhO37S9NBXk4CMnb0SyYnN1MIOISDep+RvU=",
+      "bytes": 15593
+    },
+    {
+      "id": "leadership-vision",
+      "name": "Leadership & Vision",
+      "description": "On leading people, casting vision, and rising to the moment.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Plans are worthless, but planning is everything.",
+        "The price of greatness is responsibility."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "flag.fill",
+      "category": "Inspiration",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-PTpLsJ0TWPriIJB+DrBYFH7arxzSgHJJyidgPR33rj8=",
+      "bytes": 15253
+    },
+    {
+      "id": "courage-conviction",
+      "name": "Courage & Conviction",
+      "description": "On facing fear, standing for what's right, and acting anyway.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Courage is resistance to fear, mastery of fear — not absence of fear.",
+        "Power concedes nothing without a demand. It never did and it never will."
+      ],
+      "colorName": "red",
+      "iconName": "shield.fill",
+      "category": "Inspiration",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-wglEqcmO8OcW/DrcNhe18S+8/TKYk4CUIlP3MlUZRK0=",
+      "bytes": 15551
+    },
+    {
+      "id": "dream-big",
+      "name": "Dream Big",
+      "description": "On ambition, chasing goals, and daring to imagine what's possible.",
+      "author": "Quips Editorial",
+      "quoteCount": 29,
+      "previewQuotes": [
+        "Stay hungry. Stay foolish.",
+        "Hitch your wagon to a star."
+      ],
+      "colorName": "purple",
+      "iconName": "moon.stars.fill",
+      "category": "Inspiration",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-esCb1f1xewO9rR+B8RYwR9FYhVh1qLPV6/t9ME6XwNc=",
+      "bytes": 14640
     },
     {
       "id": "stoic-wisdom",

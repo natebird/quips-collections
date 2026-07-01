@@ -1,0 +1,302 @@
+{
+  "id": "dream-big",
+  "name": "Dream Big",
+  "description": "On ambition, chasing goals, and daring to imagine what's possible.",
+  "author": "Quips Editorial",
+  "colorName": "purple",
+  "iconName": "moon.stars.fill",
+  "category": "Inspiration",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "dream-001",
+      "content": "Hold fast to dreams, for if dreams die life is a broken-winged bird that cannot fly.",
+      "authorName": "Langston Hughes",
+      "source": "\"Dreams,\" first published in World Tomorrow (1922); collected in The Dream Keeper (1932)",
+      "sourceType": "poem",
+      "quoteDate": "c. 1922",
+      "verificationStatus": "verified",
+      "notes": "The opening lines of Hughes's short poem urging that dreams be guarded as essential to life."
+    },
+    {
+      "id": "dream-002",
+      "content": "What happens to a dream deferred? Does it dry up like a raisin in the sun?",
+      "authorName": "Langston Hughes",
+      "source": "\"Harlem,\" from Montage of a Dream Deferred (1951)",
+      "sourceType": "poem",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "notes": "The famous opening of \"Harlem,\" whose imagery later gave Lorraine Hansberry the title A Raisin in the Sun."
+    },
+    {
+      "id": "dream-003",
+      "content": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+      "authorName": "Martin Luther King Jr.",
+      "source": "\"I Have a Dream\" speech, March on Washington, Washington, D.C. (August 28, 1963)",
+      "sourceType": "speech",
+      "quoteDate": "1963-08-28",
+      "verificationStatus": "verified",
+      "notes": "The best-known line of King's address at the Lincoln Memorial, envisioning a future of racial equality."
+    },
+    {
+      "id": "dream-004",
+      "content": "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "authorName": "Henry David Thoreau",
+      "source": "Walden, \"Conclusion\" (1854)",
+      "sourceType": "book",
+      "quoteDate": "1854",
+      "verificationStatus": "verified",
+      "notes": "From the closing chapter of Walden, one of Thoreau's most-quoted passages on pursuing an imagined life."
+    },
+    {
+      "id": "dream-005",
+      "content": "All men dream, but not equally. Those who dream by night in the dusty recesses of their minds wake in the day to find that it was vanity; but the dreamers of the day are dangerous men, for they may act their dream with open eyes, to make it possible.",
+      "authorName": "T. E. Lawrence",
+      "source": "Seven Pillars of Wisdom, introductory chapter (1926)",
+      "sourceType": "book",
+      "quoteDate": "1926",
+      "verificationStatus": "verified",
+      "notes": "Lawrence of Arabia's distinction between idle night-dreamers and the dangerous \"dreamers of the day\" who act."
+    },
+    {
+      "id": "dream-006",
+      "content": "I dwell in Possibility, a fairer House than Prose.",
+      "authorName": "Emily Dickinson",
+      "source": "Poem \"I dwell in Possibility\" (Franklin 466), c. 1862",
+      "sourceType": "poem",
+      "quoteDate": "c. 1862",
+      "verificationStatus": "verified",
+      "notes": "The opening of Dickinson's poem casting imaginative possibility as a wider dwelling than plain prose."
+    },
+    {
+      "id": "dream-007",
+      "content": "Hitch your wagon to a star.",
+      "authorName": "Ralph Waldo Emerson",
+      "source": "\"Civilization,\" from Society and Solitude (1870)",
+      "sourceType": "book",
+      "quoteDate": "1870",
+      "verificationStatus": "verified",
+      "notes": "Emerson's genuine phrase (from his essay \"Civilization\") urging readers to yoke their aims to something lofty."
+    },
+    {
+      "id": "dream-008",
+      "content": "Ah, but a man's reach should exceed his grasp, or what's a heaven for?",
+      "authorName": "Robert Browning",
+      "source": "\"Andrea del Sarto,\" from Men and Women (1855)",
+      "sourceType": "poem",
+      "quoteDate": "1855",
+      "verificationStatus": "verified",
+      "notes": "From Browning's dramatic monologue, an argument that ambition should always outstrip present ability."
+    },
+    {
+      "id": "dream-009",
+      "content": "We are all in the gutter, but some of us are looking at the stars.",
+      "authorName": "Oscar Wilde",
+      "source": "Lady Windermere's Fan, Act III (1892)",
+      "sourceType": "play",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Lord Darlington's line in Wilde's comedy, contrasting circumstance with aspiration."
+    },
+    {
+      "id": "dream-010",
+      "content": "You see things; and you say, 'Why?' But I dream things that never were; and I say, 'Why not?'",
+      "authorName": "George Bernard Shaw",
+      "source": "Back to Methuselah, Part I (1921)",
+      "sourceType": "play",
+      "quoteDate": "1921",
+      "verificationStatus": "verified",
+      "notes": "Spoken by the Serpent to Eve; Robert F. Kennedy popularized an adapted version in his 1968 campaign."
+    },
+    {
+      "id": "dream-011",
+      "content": "Imagination is not only the uniquely human capacity to envision that which is not, and therefore the fount of all invention and innovation.",
+      "authorName": "J. K. Rowling",
+      "source": "Harvard University commencement address, Cambridge, Massachusetts (June 5, 2008)",
+      "sourceType": "speech",
+      "quoteDate": "2008-06-05",
+      "verificationStatus": "verified",
+      "notes": "From Rowling's \"The Fringe Benefits of Failure\" address, praising imagination as the source of invention and empathy."
+    },
+    {
+      "id": "dream-012",
+      "content": "One child, one teacher, one book, and one pen can change the world.",
+      "authorName": "Malala Yousafzai",
+      "source": "Speech to the United Nations Youth Assembly, New York (July 12, 2013)",
+      "sourceType": "speech",
+      "quoteDate": "2013-07-12",
+      "verificationStatus": "verified",
+      "notes": "The closing sentiment of Malala's first UN address, on her birthday, championing education's power."
+    },
+    {
+      "id": "dream-013",
+      "content": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.",
+      "authorName": "Albert Einstein",
+      "source": "Interview with George Sylvester Viereck, \"What Life Means to Einstein,\" The Saturday Evening Post (1929)",
+      "sourceType": "interview",
+      "quoteDate": "1929",
+      "verificationStatus": "verified",
+      "notes": "Einstein's remark from a documented 1929 magazine interview, often quoted only in its first sentence."
+    },
+    {
+      "id": "dream-014",
+      "content": "Stay hungry. Stay foolish.",
+      "authorName": "Steve Jobs",
+      "source": "Stanford University commencement address, Stanford, California (June 12, 2005)",
+      "sourceType": "speech",
+      "quoteDate": "2005-06-12",
+      "verificationStatus": "verified",
+      "notes": "Jobs's closing charge to graduates; he credited the line to the final issue of the Whole Earth Catalog."
+    },
+    {
+      "id": "dream-015",
+      "content": "Earth is the cradle of humanity, but one cannot remain in the cradle forever.",
+      "authorName": "Konstantin Tsiolkovsky",
+      "source": "Letter attributed to Tsiolkovsky (1911)",
+      "sourceType": "letter",
+      "quoteDate": "1911",
+      "verificationStatus": "attributed",
+      "notes": "Widely credited to the spaceflight pioneer's 1911 correspondence, though the English wording (translated) varies from source to source."
+    },
+    {
+      "id": "dream-016",
+      "content": "Somewhere, something incredible is waiting to be known.",
+      "authorName": "Carl Sagan",
+      "source": "Attributed to Carl Sagan; frequently cited but primary source not established",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Commonly and consistently credited to Sagan, but the attribution axis is uncertain because no exact book, article, or broadcast source has been pinned down."
+    },
+    {
+      "id": "dream-017",
+      "content": "The future belongs to those who believe in the beauty of their dreams.",
+      "authorName": "Eleanor Roosevelt",
+      "source": "Attributed to Eleanor Roosevelt; no primary source located",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "A magnet quote widely tied to Roosevelt; the attribution axis is uncertain since no speech or writing of hers has been confirmed as the source."
+    },
+    {
+      "id": "dream-018",
+      "content": "Every great dream begins with a dreamer.",
+      "authorName": "Harriet Tubman",
+      "source": "Attributed to Harriet Tubman; no documentary source",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "The attribution axis fails: Tubman left few writings and this popular line has no documented origin in her recorded words."
+    },
+    {
+      "id": "dream-019",
+      "content": "If you can dream it, you can do it.",
+      "authorName": "Walt Disney",
+      "source": "Popularly attributed to Walt Disney; associated with EPCOT",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "The attribution axis fails: this phrase was coined by Disney Imagineer Tom Fitzgerald for the EPCOT ride Horizons, not spoken or written by Walt Disney himself."
+    },
+    {
+      "id": "dream-020",
+      "content": "It always seems impossible until it's done.",
+      "authorName": "Nelson Mandela",
+      "source": "Attributed to Nelson Mandela",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Genuinely and widely credited to Mandela and consistent with his rhetoric, but an exact primary speech or text has not been pinned down."
+    },
+    {
+      "id": "dream-021",
+      "content": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+      "authorName": "Les Brown",
+      "source": "Attributed to Les Brown; also credited to Norman Vincent Peale",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Both the wording and attribution vary; the line is credited to motivational speaker Les Brown and, elsewhere, to Norman Vincent Peale, with no settled primary source."
+    },
+    {
+      "id": "dream-022",
+      "content": "You miss 100 percent of the shots you don't take.",
+      "authorName": "Wayne Gretzky",
+      "source": "Attributed to Wayne Gretzky, quoted in the hockey press (early 1980s)",
+      "sourceType": "interview",
+      "quoteDate": "c. 1983",
+      "verificationStatus": "attributed",
+      "notes": "Genuinely credited to Gretzky from interviews of his playing years, though the exact original citation is hard to fix and the wording is sometimes varied."
+    },
+    {
+      "id": "dream-023",
+      "content": "The man who has no imagination has no wings.",
+      "authorName": "Muhammad Ali",
+      "source": "The Greatest: My Own Story (1975)",
+      "sourceType": "book",
+      "quoteDate": "1975",
+      "verificationStatus": "attributed",
+      "notes": "Credited to Ali and appearing in his ghostwritten autobiography; marked attributed because the exact wording in the primary text is not independently confirmed here."
+    },
+    {
+      "id": "dream-024",
+      "content": "I never dreamed about success. I worked for it.",
+      "authorName": "Estée Lauder",
+      "source": "Estée: A Success Story (1985)",
+      "sourceType": "book",
+      "quoteDate": "1985",
+      "verificationStatus": "attributed",
+      "notes": "A pointed counterpoint on ambition credited to Lauder's memoir; marked attributed because the exact page and wording are not verified here."
+    },
+    {
+      "id": "dream-025",
+      "content": "The biggest adventure you can ever take is to live the life of your dreams.",
+      "authorName": "Oprah Winfrey",
+      "source": "Attributed to Oprah Winfrey (speeches and O, The Oprah Magazine)",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Widely and consistently credited to Winfrey, but not tied here to a single dated speech or column, so the exact source is unconfirmed."
+    },
+    {
+      "id": "dream-026",
+      "content": "When something is important enough, you do it even if the odds are not in your favor.",
+      "authorName": "Elon Musk",
+      "source": "Interview remarks on SpaceX (2013)",
+      "sourceType": "interview",
+      "quoteDate": "2013",
+      "verificationStatus": "attributed",
+      "notes": "Credited to Musk from press interviews about persisting with SpaceX; marked attributed because the precise original wording and outlet vary across citations."
+    },
+    {
+      "id": "dream-027",
+      "content": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.",
+      "authorName": "Toni Morrison",
+      "source": "Address to the Ohio Arts Council (1981)",
+      "sourceType": "speech",
+      "quoteDate": "1981",
+      "verificationStatus": "attributed",
+      "notes": "Genuinely credited to Morrison from a 1981 talk on writing what does not yet exist; marked attributed because the exact transcript wording is not confirmed here."
+    },
+    {
+      "id": "dream-028",
+      "content": "You are never too old to set another goal or to dream a new dream.",
+      "authorName": "C. S. Lewis",
+      "source": "Popularly attributed to C. S. Lewis",
+      "sourceType": "unspecified",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "The attribution axis fails: this line does not appear in Lewis's published works and is regarded by scholars as a misattribution."
+    },
+    {
+      "id": "dream-029",
+      "content": "Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal.",
+      "authorName": "Pamela Vaull Starr",
+      "source": "Poem \"Reach\" (mid-20th century)",
+      "sourceType": "poem",
+      "quoteDate": null,
+      "verificationStatus": "attributed",
+      "notes": "Genuinely credited to poet Pamela Vaull Starr, though a precise first-publication date and text are difficult to confirm."
+    }
+  ]
+}
