@@ -1,0 +1,212 @@
+{
+  "id": "warcraft",
+  "name": "Warcraft",
+  "description": "Zug zug — the peon barks, war cries, and villain lines that carried Warcraft from Azeroth's battlefields into gaming legend.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "flame.fill",
+  "category": "Video Games",
+  "lastUpdated": "2026-07-01T12:00:00Z",
+  "quotes": [
+    {
+      "id": "wcraft-001",
+      "content": "Work, work.",
+      "authorName": "Peon (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Orc Peon's weary reply when ordered to gather resources."
+    },
+    {
+      "id": "wcraft-002",
+      "content": "Zug zug.",
+      "authorName": "Peon (Warcraft II)",
+      "source": "Warcraft II: Tides of Darkness, Blizzard Entertainment (1995)",
+      "quoteDate": "1995",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Orcish for rough agreement — the Peon's acknowledgment, a series-long catchphrase."
+    },
+    {
+      "id": "wcraft-003",
+      "content": "Job's done.",
+      "authorName": "Peasant (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Human Peasant's line on finishing a task."
+    },
+    {
+      "id": "wcraft-004",
+      "content": "Ready to work!",
+      "authorName": "Peasant (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Human Peasant's selection response."
+    },
+    {
+      "id": "wcraft-005",
+      "content": "Something need doing?",
+      "authorName": "Peon (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Orc Peon's selection line."
+    },
+    {
+      "id": "wcraft-006",
+      "content": "Me not that kind of orc!",
+      "authorName": "Peon (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "One of the Peon's joking repeated-click lines."
+    },
+    {
+      "id": "wcraft-007",
+      "content": "Dabu.",
+      "authorName": "Grunt (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Orcish for 'I obey' — the Grunt's order acknowledgment."
+    },
+    {
+      "id": "wcraft-008",
+      "content": "Stop poking me!",
+      "authorName": "Peasant (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Human Peasant's exasperated reply after too many clicks."
+    },
+    {
+      "id": "wcraft-009",
+      "content": "Lok'tar ogar!",
+      "authorName": "Orcish Horde (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Orcish war cry meaning 'Victory or death,' the rallying motto of the Horde."
+    },
+    {
+      "id": "wcraft-010",
+      "content": "For the Horde!",
+      "authorName": "Orcish Horde (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Horde's defining battle cry across the Warcraft series."
+    },
+    {
+      "id": "wcraft-011",
+      "content": "For Lordaeron!",
+      "authorName": "Footman (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Human Footman's charge, naming the kingdom of Lordaeron."
+    },
+    {
+      "id": "wcraft-012",
+      "content": "Yes, milord?",
+      "authorName": "Footman (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Human Footman's selection response."
+    },
+    {
+      "id": "wcraft-013",
+      "content": "You are not prepared!",
+      "authorName": "Illidan Stormrage (Warcraft III: The Frozen Throne)",
+      "source": "Warcraft III: The Frozen Throne, Blizzard Entertainment (2003)",
+      "quoteDate": "2003",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Illidan's warning, later immortalized in the World of Warcraft: The Burning Crusade trailer."
+    },
+    {
+      "id": "wcraft-014",
+      "content": "Frostmourne hungers.",
+      "authorName": "Arthas Menethil (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Death Knight Arthas speaking of the cursed runeblade Frostmourne."
+    },
+    {
+      "id": "wcraft-015",
+      "content": "Time is money, friend.",
+      "authorName": "Goblin (World of Warcraft)",
+      "source": "World of Warcraft, Blizzard Entertainment (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Goblin greeting that sums up their profit-driven outlook."
+    },
+    {
+      "id": "wcraft-016",
+      "content": "You no take candle!",
+      "authorName": "Kobold (World of Warcraft)",
+      "source": "World of Warcraft, Blizzard Entertainment (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The candle-headed Kobold's frantic protest, a beloved early-game meme."
+    },
+    {
+      "id": "wcraft-017",
+      "content": "Mrglglglgl!",
+      "authorName": "Murloc (World of Warcraft)",
+      "source": "World of Warcraft, Blizzard Entertainment (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The gurgling battle cry of the Murlocs, an instantly recognizable Warcraft sound."
+    },
+    {
+      "id": "wcraft-018",
+      "content": "You are not my king yet, boy! Nor would I obey that command even if you were!",
+      "authorName": "Uther the Lightbringer (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Uther refusing Prince Arthas's order to purge Stratholme."
+    },
+    {
+      "id": "wcraft-019",
+      "content": "This kingdom shall fall, and from the ashes shall arise a new order that will shake the very foundations of the world.",
+      "authorName": "Arthas Menethil (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "Arthas, corrupted by Frostmourne, returning to Lordaeron to kill his father."
+    },
+    {
+      "id": "wcraft-020",
+      "content": "Your journey has just begun, young prince. Gather your forces and meet me in Northrend.",
+      "authorName": "Mal'Ganis (Warcraft III)",
+      "source": "Warcraft III: Reign of Chaos, Blizzard Entertainment (2002)",
+      "quoteDate": "2002",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The dreadlord Mal'Ganis luring Arthas toward his doom in the frozen north."
+    }
+  ]
+}

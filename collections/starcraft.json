@@ -1,0 +1,212 @@
+{
+  "id": "starcraft",
+  "name": "StarCraft",
+  "description": "Battle cries and unit barks from the Koprulu Sector — the Terran, Protoss, and Zerg lines burned into every RTS player's memory.",
+  "author": "Quips Editorial",
+  "colorName": "cyan",
+  "iconName": "bolt.fill",
+  "category": "Video Games",
+  "lastUpdated": "2026-07-01T12:00:00Z",
+  "quotes": [
+    {
+      "id": "scraft-001",
+      "content": "You must construct additional pylons.",
+      "authorName": "Adjutant (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Protoss supply warning that became one of gaming's most-quoted catchphrases."
+    },
+    {
+      "id": "scraft-002",
+      "content": "Nuclear launch detected.",
+      "authorName": "Adjutant (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The dreaded Terran alert that a Ghost has armed a nuclear strike somewhere on the map."
+    },
+    {
+      "id": "scraft-003",
+      "content": "Insufficient vespene gas.",
+      "authorName": "Adjutant (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The resource warning heard by every player who over-extended their build order."
+    },
+    {
+      "id": "scraft-004",
+      "content": "Additional supply depots required.",
+      "authorName": "Adjutant (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Terran counterpart to the Protoss pylon warning."
+    },
+    {
+      "id": "scraft-005",
+      "content": "My life for Aiur!",
+      "authorName": "Zealot (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Protoss Zealot's battle cry, invoking their homeworld of Aiur."
+    },
+    {
+      "id": "scraft-006",
+      "content": "Battlecruiser operational.",
+      "authorName": "Battlecruiser (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The selection response of the Terran capital ship."
+    },
+    {
+      "id": "scraft-007",
+      "content": "You wanna piece of me, boy?",
+      "authorName": "Marine (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Terran Marine's cocky selection line."
+    },
+    {
+      "id": "scraft-008",
+      "content": "Rock and roll!",
+      "authorName": "Marine (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Marine's order-acknowledgment when sent into battle."
+    },
+    {
+      "id": "scraft-009",
+      "content": "Ready to work.",
+      "authorName": "SCV (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Terran SCV's selection response."
+    },
+    {
+      "id": "scraft-010",
+      "content": "I'm a little busy right now.",
+      "authorName": "SCV (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "One of the SCV's repeated-click lines."
+    },
+    {
+      "id": "scraft-011",
+      "content": "Somebody call for an exterminator?",
+      "authorName": "Ghost (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Terran Ghost's selection line, alluding to their covert kill role."
+    },
+    {
+      "id": "scraft-012",
+      "content": "Need a light?",
+      "authorName": "Firebat (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The flamethrower-wielding Firebat's selection quip."
+    },
+    {
+      "id": "scraft-013",
+      "content": "Where does it hurt?",
+      "authorName": "Medic (StarCraft: Brood War)",
+      "source": "StarCraft: Brood War, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Terran Medic, added in the Brood War expansion, on selection."
+    },
+    {
+      "id": "scraft-014",
+      "content": "Let's ride!",
+      "authorName": "Vulture (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The hover-bike Vulture rider's order response."
+    },
+    {
+      "id": "scraft-015",
+      "content": "En Taro Adun!",
+      "authorName": "Dragoon (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "A Protoss battle cry invoking Adun, a revered figure of their history."
+    },
+    {
+      "id": "scraft-016",
+      "content": "I have returned!",
+      "authorName": "Fenix (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Protoss hero Fenix's line after being resurrected as a Dragoon."
+    },
+    {
+      "id": "scraft-017",
+      "content": "For Adun!",
+      "authorName": "Zealot (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "A Protoss war cry given when ordered into battle."
+    },
+    {
+      "id": "scraft-018",
+      "content": "Ready to roll out!",
+      "authorName": "Siege Tank (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Terran Siege Tank's selection response."
+    },
+    {
+      "id": "scraft-019",
+      "content": "I will rule this sector or see it burnt to ashes around me.",
+      "authorName": "Arcturus Mengsk (StarCraft)",
+      "source": "StarCraft, Blizzard Entertainment (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The Terran Dominion's founder revealing the depth of his ambition."
+    },
+    {
+      "id": "scraft-020",
+      "content": "Hell, it's about time.",
+      "authorName": "Tychus Findlay (StarCraft II: Wings of Liberty)",
+      "source": "StarCraft II: Wings of Liberty, Blizzard Entertainment (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "video",
+      "notes": "The opening cinematic line as Tychus is sealed into his marine armor."
+    }
+  ]
+}
