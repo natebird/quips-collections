@@ -11,6 +11,14 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.4.1] - 2026-07-01
+### Changed
+Added a dedicated `game` `sourceType` (mirroring the new `QuoteSourceType.game`
+case in the app) and migrated the five Video Games collections off the
+`video` stand-in they'd been using:
+- `iconic-game-lines`, `legend-of-zelda`, `rpg-wisdom`, `starcraft`, `warcraft`
+  — 117 quotes moved from `sourceType: "video"` to `sourceType: "game"`.
+
 ## [1.2.1] - 2026-06-30
 ### Changed
 Reviewed every collection's `previewQuotes` for duplication and fixed the overlaps:
