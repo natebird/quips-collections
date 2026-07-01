@@ -6,7 +6,7 @@
   "colorName": "navyBlue",
   "iconName": "shield.lefthalf.filled",
   "category": "Video Games",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-01T12:00:00Z",
   "quotes": [
     {
       "id": "rpg-001",
@@ -15,7 +15,7 @@
       "source": "Mass Effect 3, BioWare (2012)",
       "quoteDate": "2012",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Mordin's parting words as he sacrifices himself to cure the krogan genophage he helped design."
     },
     {
@@ -25,7 +25,7 @@
       "source": "Mass Effect 2, BioWare (2010)",
       "quoteDate": "2010",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Garrus's recurring brush-off aboard the Normandy that became the trilogy's most beloved running gag."
     },
     {
@@ -35,7 +35,7 @@
       "source": "Mass Effect 3, BioWare (2012)",
       "quoteDate": "2012",
       "verificationStatus": "unverified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "From the Citadel sniping scene; unverified on exact wording (sources vary on 'now' placement and favorite/favourite spelling)."
     },
     {
@@ -45,7 +45,7 @@
       "source": "Mass Effect 2, BioWare (2010)",
       "quoteDate": "2010",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Opening line of Mordin's Gilbert-and-Sullivan parody, sung to the tune of 'The Major-General's Song.'"
     },
     {
@@ -55,7 +55,7 @@
       "source": "Mass Effect 3, BioWare (2012)",
       "quoteDate": "2012",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The question a single geth once asked its quarian creators, echoed by Legion as it gains true consciousness."
     },
     {
@@ -65,7 +65,7 @@
       "source": "The Elder Scrolls V: Skyrim, Bethesda Game Studios (2011)",
       "quoteDate": "2011",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "A throwaway guard barb, written by Emil Pagliarulo, that became one of gaming's most enduring memes."
     },
     {
@@ -75,7 +75,7 @@
       "source": "The Elder Scrolls V: Skyrim, Bethesda Game Studios (2011)",
       "quoteDate": "2011",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The ancient dragon reflects on his own reformed nature atop the Throat of the World."
     },
     {
@@ -85,7 +85,7 @@
       "source": "The Elder Scrolls V: Skyrim, Bethesda Game Studios (2011)",
       "quoteDate": "2011",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The Greybeard master explains the origin of the Thu'um to the Dragonborn at High Hrothgar."
     },
     {
@@ -95,7 +95,7 @@
       "source": "The Witcher 3: Wild Hunt, CD Projekt Red (2015)",
       "quoteDate": "2015",
       "verificationStatus": "unverified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Widely attributed to the game, but the line originates in Sapkowski's novel 'The Last Wish' and the 'Killing Monsters' cinematic trailer; unverified as spoken in-game Wild Hunt dialogue."
     },
     {
@@ -105,7 +105,7 @@
       "source": "Undertale, Toby Fox (2015)",
       "quoteDate": "2015",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The message on the mirror in Asgore's home, a quiet reassurance to the player near the end of a pacifist run."
     },
     {
@@ -115,7 +115,7 @@
       "source": "Undertale, Toby Fox (2015)",
       "quoteDate": "2015",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Flowey's opening philosophy, delivered with a smile before the game dismantles it."
     },
     {
@@ -125,7 +125,7 @@
       "source": "Undertale, Toby Fox (2015)",
       "quoteDate": "2015",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Sans's warning to a player heading down the genocide route; rendered in lowercase in-game."
     },
     {
@@ -135,7 +135,7 @@
       "source": "Undertale, Toby Fox (2015)",
       "quoteDate": "2015",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Sans's chilling greeting before the hardest boss fight in the game, on the genocide route."
     },
     {
@@ -145,7 +145,7 @@
       "source": "Final Fantasy X, Square (2001)",
       "quoteDate": "2001",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Auron sets Tidus on his journey at the ruins of Zanarkand."
     },
     {
@@ -155,7 +155,7 @@
       "source": "Final Fantasy X, Square (2001)",
       "quoteDate": "2001",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Tidus's opening narration that frames the entire game as a story being told."
     },
     {
@@ -165,7 +165,7 @@
       "source": "Final Fantasy X, Square (2001)",
       "quoteDate": "2001",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Tidus's answer to Yuna atop Mt. Gagazet, promising to stay by her side."
     },
     {
@@ -175,7 +175,7 @@
       "source": "Final Fantasy X, Square (2001)",
       "quoteDate": "2001",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Yuna's plea to Tidus as her pilgrimage nears its close."
     },
     {
@@ -185,7 +185,7 @@
       "source": "Final Fantasy VI, Square (1994)",
       "quoteDate": "1994",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The nihilist god-clown Kefka's declaration during the final battle."
     },
     {
@@ -195,7 +195,7 @@
       "source": "Dark Souls, FromSoftware (2011)",
       "quoteDate": "2011",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The sun-worshipping knight's earnest praise that inspired the 'Praise the Sun' phenomenon."
     },
     {
@@ -205,7 +205,7 @@
       "source": "Dark Souls, FromSoftware (2011)",
       "quoteDate": "2011",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The opening line of the game's mythic prologue narration."
     },
     {
@@ -215,7 +215,7 @@
       "source": "Baldur's Gate II: Shadows of Amn, BioWare (2000)",
       "quoteDate": "2000",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The berserker Minsc's battle cry, shouted to his miniature giant space hamster; recurs across the series."
     },
     {
@@ -225,7 +225,7 @@
       "source": "Disco Elysium, ZA/UM (2019)",
       "quoteDate": "2019",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The game reminds the detective that some possibilities will forever stay closed to who he is."
     },
     {
@@ -235,7 +235,7 @@
       "source": "Disco Elysium, ZA/UM (2019)",
       "quoteDate": "2019",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Lieutenant Kitsuragi on his weary, unwavering affection for Revachol."
     },
     {
@@ -245,7 +245,7 @@
       "source": "Disco Elysium, ZA/UM (2019)",
       "quoteDate": "2019",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "A recurring line of narration marking fragile, fleeting optimism amid the ruin of Revachol."
     },
     {
@@ -255,7 +255,7 @@
       "source": "Dragon Age II, BioWare (2011)",
       "quoteDate": "2011",
       "verificationStatus": "verified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "The Witch of the Wilds' cryptic counsel to Hawke."
     },
     {
@@ -265,7 +265,7 @@
       "source": "Dragon Age: Origins, BioWare (2009)",
       "quoteDate": "2009",
       "verificationStatus": "unverified",
-      "sourceType": "video",
+      "sourceType": "game",
       "notes": "Attributed to the Qunari warrior Sten; unverified on exact wording as sources reproduce it inconsistently."
     }
   ]

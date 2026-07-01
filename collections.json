@@ -1274,8 +1274,8 @@
       "iconName": "gamecontroller.fill",
       "category": "Video Games",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-VZvS/bovGg+2uRiE4ZmyItz8S3x/DXunx02YAhMfncU=",
-      "bytes": 13006
+      "contentHash": "sha256-v2vTj9h2Fgbf29ltytPCqmSnpYxf2+6K8+O5C1lM584=",
+      "bytes": 12975
     },
     {
       "id": "legend-of-zelda",
@@ -1291,8 +1291,8 @@
       "iconName": "triangle.fill",
       "category": "Video Games",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-SHs7kz3muHTEaF+/VMoNI0O4MUkY+QfJ3Hye8SF1+FU=",
-      "bytes": 9369
+      "contentHash": "sha256-JCWTM+FfkR+/glsc/HArCsygx2cfJGxfJmlMRPL71pM=",
+      "bytes": 9349
     },
     {
       "id": "rpg-wisdom",
@@ -1308,8 +1308,8 @@
       "iconName": "shield.lefthalf.filled",
       "category": "Video Games",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-b8WR8bLX0Jv1Dnbj8QyxDiOqHEtycCvuY8boaX/ioK4=",
-      "bytes": 11938
+      "contentHash": "sha256-pp0aOpsDyjsPVB74Uy9j/9JIA7KBBF3aFXDMRkz2Iow=",
+      "bytes": 11912
     },
     {
       "id": "starcraft",
@@ -1325,8 +1325,8 @@
       "iconName": "bolt.fill",
       "category": "Video Games",
       "lastUpdated": "2026-07-01T12:00:00Z",
-      "contentHash": "sha256-YJnHKLm94CKWUxZSOA3WdTw5cv7YoWoJkAmQIKTiigw=",
-      "bytes": 7621
+      "contentHash": "sha256-ky5763EGh4U5MhFv6ySBlZMq/E9JdF0Of2MA0Y8K94A=",
+      "bytes": 7601
     },
     {
       "id": "warcraft",
@@ -1342,8 +1342,8 @@
       "iconName": "flame.fill",
       "category": "Video Games",
       "lastUpdated": "2026-07-01T12:00:00Z",
-      "contentHash": "sha256-s4pxEYYGTFDvnPXabtZVEc1F/2rgoE3PTDUwqnDYi8M=",
-      "bytes": 8161
+      "contentHash": "sha256-gc9purdksmh+RXvzpKyeARJzyif3yZkFJ6S83he2xig=",
+      "bytes": 8141
     }
   ]
 }
