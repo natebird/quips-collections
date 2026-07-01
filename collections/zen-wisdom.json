@@ -1,0 +1,322 @@
+{
+  "id": "zen-wisdom",
+  "name": "Zen & the Dalai Lama",
+  "description": "Modern Buddhist wisdom on mindfulness, compassion, and peace.",
+  "author": "Quips Editorial",
+  "colorName": "purple",
+  "iconName": "leaf.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "zen-001",
+      "content": "The purpose of our lives is to be happy.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "The Art of Happiness (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening premise of the Dalai Lama's dialogues with psychiatrist Howard Cutler."
+    },
+    {
+      "id": "zen-002",
+      "content": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "The Art of Happiness (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A recurring teaching on compassion as the root of one's own wellbeing."
+    },
+    {
+      "id": "zen-003",
+      "content": "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "The Art of Happiness (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Dalai Lama frames compassion as essential to human survival, not a spiritual extra."
+    },
+    {
+      "id": "zen-004",
+      "content": "If you can, help others; if you cannot do that, at least do not harm them.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "The Art of Happiness (1998)",
+      "quoteDate": "1998",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Dalai Lama's minimal ethic drawn from Buddhist non-harming."
+    },
+    {
+      "id": "zen-005",
+      "content": "The very purpose of religion is to control yourself, not to criticize others.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "Ethics for the New Millennium (1999)",
+      "quoteDate": "1999",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the Dalai Lama's argument for a secular, self-directed ethics."
+    },
+    {
+      "id": "zen-006",
+      "content": "It is not enough to be compassionate. You must act.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "Ethics for the New Millennium (1999)",
+      "quoteDate": "1999",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Dalai Lama insists that compassion be expressed in conduct, not sentiment alone."
+    },
+    {
+      "id": "zen-007",
+      "content": "The more you are motivated by love, the more fearless and free your action will be.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "The Book of Joy (2016)",
+      "quoteDate": "2016",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the Dalai Lama's week of dialogues with Archbishop Desmond Tutu."
+    },
+    {
+      "id": "zen-008",
+      "content": "The ultimate source of happiness is within us.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "The Book of Joy (2016)",
+      "quoteDate": "2016",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Dalai Lama locates lasting joy in the mind rather than in circumstances."
+    },
+    {
+      "id": "zen-009",
+      "content": "A lack of transparency results in distrust and a deep sense of insecurity.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "The Book of Joy (2016)",
+      "quoteDate": "2016",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Dalai Lama on honesty as the ground of trust and ease."
+    },
+    {
+      "id": "zen-010",
+      "content": "Feel free to become a beacon of compassion, wherever you are.",
+      "authorName": "Tenzin Gyatso (14th Dalai Lama)",
+      "source": "How to Be Compassionate (2011)",
+      "quoteDate": "2011",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Dalai Lama's practical handbook on cultivating compassion in daily life."
+    },
+    {
+      "id": "zen-011",
+      "content": "Drink your tea slowly and reverently, as if it is the axis on which the world earth revolves.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "The Miracle of Mindfulness (1975)",
+      "quoteDate": "1975",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh's illustration of doing ordinary tasks with full attention."
+    },
+    {
+      "id": "zen-012",
+      "content": "While washing the dishes one should only be washing the dishes.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "The Miracle of Mindfulness (1975)",
+      "quoteDate": "1975",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The famous dishwashing example of staying present in the current moment."
+    },
+    {
+      "id": "zen-013",
+      "content": "The best way to take care of the future is to take care of the present moment.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "The Miracle of Mindfulness (1975)",
+      "quoteDate": "1975",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh on how presence, not planning, secures what comes next."
+    },
+    {
+      "id": "zen-014",
+      "content": "Peace is present right here and now, in ourselves and in everything we do and see.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "Peace Is Every Step (1991)",
+      "quoteDate": "1991",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The keynote of Thich Nhat Hanh's most widely read book on everyday mindfulness."
+    },
+    {
+      "id": "zen-015",
+      "content": "Walk as if you are kissing the Earth with your feet.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "Peace Is Every Step (1991)",
+      "quoteDate": "1991",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh's instruction for walking meditation."
+    },
+    {
+      "id": "zen-016",
+      "content": "Because you are alive, everything is possible.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "Peace Is Every Step (1991)",
+      "quoteDate": "1991",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh on gratitude for the fact of being alive."
+    },
+    {
+      "id": "zen-017",
+      "content": "The most precious gift we can offer others is our presence.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "The Art of Power (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh on attention as the deepest form of love."
+    },
+    {
+      "id": "zen-018",
+      "content": "Life is available only in the present moment.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "The Art of Power (2007)",
+      "quoteDate": "2007",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A distilled statement of Thich Nhat Hanh's core teaching on presence."
+    },
+    {
+      "id": "zen-019",
+      "content": "To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "Being Peace (1987)",
+      "quoteDate": "1987",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh on self-acceptance as the source of true beauty."
+    },
+    {
+      "id": "zen-020",
+      "content": "If we are peaceful, if we are happy, we can smile, and everyone in our family, our entire society, will benefit from our peace.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "Being Peace (1987)",
+      "quoteDate": "1987",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The title teaching of Being Peace, on inner peace radiating outward."
+    },
+    {
+      "id": "zen-021",
+      "content": "No mud, no lotus.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "No Mud, No Lotus (2014)",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh's image for suffering as the ground of happiness."
+    },
+    {
+      "id": "zen-022",
+      "content": "The art of happiness is also the art of suffering well.",
+      "authorName": "Thich Nhat Hanh",
+      "source": "No Mud, No Lotus (2014)",
+      "quoteDate": "2014",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Thich Nhat Hanh on learning to handle pain skillfully rather than avoid it."
+    },
+    {
+      "id": "zen-023",
+      "content": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
+      "authorName": "Shunryu Suzuki",
+      "source": "Zen Mind, Beginner's Mind (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The book's most quoted line, defining shoshin, or beginner's mind."
+    },
+    {
+      "id": "zen-024",
+      "content": "Each of you is perfect the way you are, and you can use a little improvement.",
+      "authorName": "Shunryu Suzuki",
+      "source": "Zen Mind, Beginner's Mind (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Suzuki Roshi's paradoxical encouragement to his students."
+    },
+    {
+      "id": "zen-025",
+      "content": "The most important point is to accept yourself and stand on your two feet.",
+      "authorName": "Shunryu Suzuki",
+      "source": "Zen Mind, Beginner's Mind (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Suzuki on self-reliance in Zen practice."
+    },
+    {
+      "id": "zen-026",
+      "content": "When you do something, you should burn yourself completely, like a good bonfire, leaving no trace of yourself.",
+      "authorName": "Shunryu Suzuki",
+      "source": "Zen Mind, Beginner's Mind (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Suzuki on wholehearted, complete engagement in each activity."
+    },
+    {
+      "id": "zen-027",
+      "content": "To give your sheep or cow a large, spacious meadow is the way to control him.",
+      "authorName": "Shunryu Suzuki",
+      "source": "Zen Mind, Beginner's Mind (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Suzuki's metaphor for guiding the mind through spaciousness rather than force."
+    },
+    {
+      "id": "zen-028",
+      "content": "In the beginner's mind there is no thought, 'I have attained something.'",
+      "authorName": "Shunryu Suzuki",
+      "source": "Zen Mind, Beginner's Mind (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Suzuki on the egolessness of true practice."
+    },
+    {
+      "id": "zen-029",
+      "content": "Zen is not some kind of excitement, but concentration on our usual everyday routine.",
+      "authorName": "Shunryu Suzuki",
+      "source": "Zen Mind, Beginner's Mind (1970)",
+      "quoteDate": "1970",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Suzuki grounds Zen in ordinary life rather than dramatic experience."
+    },
+    {
+      "id": "zen-030",
+      "content": "Zen has no other special doctrine than to think, or to be in the state you are.",
+      "authorName": "D.T. Suzuki",
+      "source": "An Introduction to Zen Buddhism (1934)",
+      "quoteDate": "1934",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The scholar who introduced Zen to the West, on its plainness."
+    },
+    {
+      "id": "zen-031",
+      "content": "The ego-shell in which we live is the hardest thing to outgrow.",
+      "authorName": "D.T. Suzuki",
+      "source": "An Introduction to Zen Buddhism (1934)",
+      "quoteDate": "1934",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "D.T. Suzuki on the self as the central obstacle in Zen."
+    }
+  ]
+}

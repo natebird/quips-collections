@@ -1,0 +1,322 @@
+{
+  "id": "christian-saints",
+  "name": "Saints & Church Fathers",
+  "description": "Wisdom on faith, love, and the soul from the great saints and fathers of the Church.",
+  "author": "Quips Editorial",
+  "colorName": "brown",
+  "iconName": "cross.circle.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "saint-001",
+      "content": "You have made us for yourself, O Lord, and our heart is restless until it rests in you.",
+      "authorName": "St. Augustine of Hippo",
+      "source": "Confessions, Book 1, Chapter 1 (c. 400)",
+      "quoteDate": "c. 400 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening prayer of the Confessions; Henry Chadwick translation of the Latin 'fecisti nos ad te et inquietum est cor nostrum.'"
+    },
+    {
+      "id": "saint-002",
+      "content": "Late have I loved you, beauty so old and so new: late have I loved you.",
+      "authorName": "St. Augustine of Hippo",
+      "source": "Confessions, Book 10, Chapter 27 (c. 400)",
+      "quoteDate": "c. 400 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Augustine's lament over his slowness to turn to God; Henry Chadwick translation of 'Sero te amavi, pulchritudo tam antiqua et tam nova.'"
+    },
+    {
+      "id": "saint-003",
+      "content": "Grant me chastity and continence, but not yet.",
+      "authorName": "St. Augustine of Hippo",
+      "source": "Confessions, Book 8, Chapter 7 (c. 400)",
+      "quoteDate": "c. 400 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Augustine recalls his younger self's half-hearted prayer; translation of 'da mihi castitatem et continentiam, sed noli modo.'"
+    },
+    {
+      "id": "saint-004",
+      "content": "Love, and do what you will.",
+      "authorName": "St. Augustine of Hippo",
+      "source": "Homilies on the First Epistle of John, Homily 7, Section 8 (c. 407)",
+      "quoteDate": "c. 407 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Augustine's tractate on 1 John; translation of 'Dilige, et quod vis fac,' meaning right love roots right action."
+    },
+    {
+      "id": "saint-005",
+      "content": "Two cities have been formed by two loves: the earthly by the love of self, even to the contempt of God; the heavenly by the love of God, even to the contempt of self.",
+      "authorName": "St. Augustine of Hippo",
+      "source": "The City of God, Book 14, Chapter 28 (c. 420)",
+      "quoteDate": "c. 420 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Augustine's defining contrast of the earthly and heavenly cities; Marcus Dods translation."
+    },
+    {
+      "id": "saint-006",
+      "content": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "authorName": "St. Augustine of Hippo",
+      "source": "Sermon 43, Section 1 (c. 400)",
+      "quoteDate": "c. 400 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Augustine's sermon on Isaiah 7:9; standard English rendering of 'Fides est credere quod non vides.'"
+    },
+    {
+      "id": "saint-007",
+      "content": "Grace does not destroy nature but perfects it.",
+      "authorName": "St. Thomas Aquinas",
+      "source": "Summa Theologica, Part I, Question 1, Article 8 (c. 1270)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Aquinas's reply on sacred doctrine; translation of 'gratia non tollit naturam, sed perficit,' rendered by the Dominican Fathers edition."
+    },
+    {
+      "id": "saint-008",
+      "content": "Man proposes, but God disposes.",
+      "authorName": "Thomas a Kempis",
+      "source": "The Imitation of Christ, Book 1, Chapter 19 (c. 1420)",
+      "quoteDate": "c. 1420",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Traditional English translation of 'Homo proponit, sed Deus disponit'; a Kempis popularized the maxim through the Imitation."
+    },
+    {
+      "id": "saint-009",
+      "content": "At the Day of Judgment we shall not be asked what we have read, but what we have done.",
+      "authorName": "Thomas a Kempis",
+      "source": "The Imitation of Christ, Book 1, Chapter 3 (c. 1420)",
+      "quoteDate": "c. 1420",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the knowledge of truth; traditional English translation."
+    },
+    {
+      "id": "saint-010",
+      "content": "Love feels no burden, thinks nothing of trouble, attempts what is above its strength.",
+      "authorName": "Thomas a Kempis",
+      "source": "The Imitation of Christ, Book 3, Chapter 5 (c. 1420)",
+      "quoteDate": "c. 1420",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the wonderful effect of divine love; traditional English translation."
+    },
+    {
+      "id": "saint-011",
+      "content": "Vanity of vanities, all is vanity, except to love God and to serve Him alone.",
+      "authorName": "Thomas a Kempis",
+      "source": "The Imitation of Christ, Book 1, Chapter 1 (c. 1420)",
+      "quoteDate": "c. 1420",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the opening chapter on imitating Christ; traditional English translation echoing Ecclesiastes."
+    },
+    {
+      "id": "saint-012",
+      "content": "Let nothing disturb you, let nothing frighten you. All things are passing; God never changes. God alone suffices.",
+      "authorName": "St. Teresa of Avila",
+      "source": "Poesias ('Nada te turbe'), bookmark verses (c. 1580)",
+      "quoteDate": "c. 1580",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The 'Nada te turbe' verses found in Teresa's breviary after her death; standard English translation of the Spanish original."
+    },
+    {
+      "id": "saint-013",
+      "content": "The soul of the just is nothing else but a paradise, in which God takes His delight.",
+      "authorName": "St. Teresa of Avila",
+      "source": "The Interior Castle, First Mansions, Chapter 1 (1577)",
+      "quoteDate": "1577",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening image of the Interior Castle; E. Allison Peers translation of the Spanish 'Las Moradas.'"
+    },
+    {
+      "id": "saint-014",
+      "content": "In the evening of life, we will be judged on love alone.",
+      "authorName": "St. John of the Cross",
+      "source": "Sayings of Light and Love, No. 59 (c. 1585)",
+      "quoteDate": "c. 1585",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Dichos de Luz y Amor'; Kavanaugh and Rodriguez translation of 'a la tarde te examinaran en el amor.'"
+    },
+    {
+      "id": "saint-015",
+      "content": "If you are what you should be, you will set the whole world ablaze.",
+      "authorName": "St. Catherine of Siena",
+      "source": "Letter to Stefano Maconi (c. 1376)",
+      "quoteDate": "c. 1376",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Catherine's letters urging fervor of love; the popular English rendering of her exhortation to become fully oneself in God."
+    },
+    {
+      "id": "saint-016",
+      "content": "Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will, all that I have and possess.",
+      "authorName": "St. Ignatius of Loyola",
+      "source": "The Spiritual Exercises, Contemplation to Attain Love, No. 234 (c. 1548)",
+      "quoteDate": "c. 1548",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The 'Suscipe' prayer that closes the Spiritual Exercises; Louis Puhl translation of the Latin original."
+    },
+    {
+      "id": "saint-017",
+      "content": "All shall be well, and all shall be well, and all manner of thing shall be well.",
+      "authorName": "Julian of Norwich",
+      "source": "Revelations of Divine Love, Chapter 27 (c. 1395)",
+      "quoteDate": "c. 1395",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The words Julian receives from Christ in her showings; Grace Warrack's Middle English edition."
+    },
+    {
+      "id": "saint-018",
+      "content": "He said not: Thou shalt not be tempested, thou shalt not be travailed, thou shalt not be afflicted; but He said: Thou shalt not be overcome.",
+      "authorName": "Julian of Norwich",
+      "source": "Revelations of Divine Love, Chapter 68 (c. 1395)",
+      "quoteDate": "c. 1395",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Julian's consolation from her sixteenth showing; Grace Warrack's Middle English edition."
+    },
+    {
+      "id": "saint-019",
+      "content": "He became man that we might become divine.",
+      "authorName": "St. Athanasius of Alexandria",
+      "source": "On the Incarnation, Section 54 (c. 318)",
+      "quoteDate": "c. 318 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Athanasius's classic statement of deification; translation of 'autos gar enenthropesen, hina hemeis theopoiethomen.'"
+    },
+    {
+      "id": "saint-020",
+      "content": "The bread in your cupboard belongs to the hungry; the coat unused in your closet belongs to the one who needs it.",
+      "authorName": "St. Basil the Great",
+      "source": "Homily 'I Will Tear Down My Barns' (c. 368)",
+      "quoteDate": "c. 368 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Basil's homily on Luke 12:18 against hoarding wealth; standard English translation of the Greek homily."
+    },
+    {
+      "id": "saint-021",
+      "content": "Do you wish to honor the body of Christ? Do not ignore him when he is naked. Do not honor him here in the church with silk, only to neglect him outside where he is cold and naked.",
+      "authorName": "St. John Chrysostom",
+      "source": "Homilies on the Gospel of Matthew, Homily 50 (c. 390)",
+      "quoteDate": "c. 390 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Chrysostom links the Eucharist to care for the poor; translation from the Nicene and Post-Nicene Fathers edition."
+    },
+    {
+      "id": "saint-022",
+      "content": "Not all of us can do great things. But we can do small things with great love.",
+      "authorName": "St. Teresa of Calcutta",
+      "source": "A Simple Path (1995)",
+      "quoteDate": "c. 1995",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A documented saying of Mother Teresa published in the collected spiritual counsels 'A Simple Path.'"
+    },
+    {
+      "id": "saint-023",
+      "content": "The reason for loving God is God himself; the measure, to love him without measure.",
+      "authorName": "St. Bernard of Clairvaux",
+      "source": "On Loving God, Chapter 1 (c. 1128)",
+      "quoteDate": "c. 1128",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Bernard's treatise 'De Diligendo Deo'; translation of 'Causa diligendi Deum, Deus est; modus, sine modo diligere.'"
+    },
+    {
+      "id": "saint-024",
+      "content": "The glory of God is a living man, and the life of man consists in beholding God.",
+      "authorName": "St. Irenaeus of Lyons",
+      "source": "Against Heresies, Book 4, Chapter 20, Section 7 (c. 180)",
+      "quoteDate": "c. 180 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The often-shortened 'glory of God is man fully alive' comes from this passage; Ante-Nicene Fathers translation."
+    },
+    {
+      "id": "saint-025",
+      "content": "The blood of the martyrs is the seed of the Church.",
+      "authorName": "Tertullian",
+      "source": "Apologeticus, Chapter 50 (c. 197)",
+      "quoteDate": "c. 197 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Standard English rendering of 'semen est sanguis Christianorum,' Tertullian's reply to Roman persecution."
+    },
+    {
+      "id": "saint-026",
+      "content": "He can no longer have God for his Father who has not the Church for his mother.",
+      "authorName": "St. Cyprian of Carthage",
+      "source": "On the Unity of the Catholic Church, Chapter 6 (c. 251)",
+      "quoteDate": "c. 251 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Cyprian's statement on ecclesial unity; Ante-Nicene Fathers translation of 'De Unitate Ecclesiae.'"
+    },
+    {
+      "id": "saint-027",
+      "content": "Ignorance of the Scriptures is ignorance of Christ.",
+      "authorName": "St. Jerome",
+      "source": "Commentary on Isaiah, Prologue (c. 408)",
+      "quoteDate": "c. 408 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the prologue to Jerome's commentary on Isaiah; translation of 'Ignoratio scripturarum, ignoratio Christi est.'"
+    },
+    {
+      "id": "saint-028",
+      "content": "I saw the snares that the enemy spreads out over the world and I said groaning, 'What can get through from such snares?' Then I heard a voice saying to me, 'Humility.'",
+      "authorName": "St. Anthony the Great",
+      "source": "The Sayings of the Desert Fathers, Anthony, Saying 7 (c. 350)",
+      "quoteDate": "c. 350 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Apophthegmata Patrum'; Benedicta Ward translation of the Greek alphabetical collection."
+    },
+    {
+      "id": "saint-029",
+      "content": "Idleness is the enemy of the soul.",
+      "authorName": "St. Benedict of Nursia",
+      "source": "The Rule of St. Benedict, Chapter 48 (c. 530)",
+      "quoteDate": "c. 530 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on daily manual labor; translation of 'Otiositas inimica est animae.'"
+    },
+    {
+      "id": "saint-030",
+      "content": "Listen carefully, my child, and attend with the ear of your heart.",
+      "authorName": "St. Benedict of Nursia",
+      "source": "The Rule of St. Benedict, Prologue (c. 530)",
+      "quoteDate": "c. 530 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening words of the Rule; translation of 'Ausculta, o fili, et inclina aurem cordis tui.'"
+    },
+    {
+      "id": "saint-031",
+      "content": "I will spend my heaven doing good on earth.",
+      "authorName": "St. Therese of Lisieux",
+      "source": "Story of a Soul, recorded last conversations (1897)",
+      "quoteDate": "1897",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A deathbed saying recorded in her final conversations and published with 'Story of a Soul'; standard English translation."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "rumi",
+  "name": "Rumi",
+  "description": "Verses of love and the longing for the divine from the Sufi poet Jalal al-Din Rumi.",
+  "author": "Quips Editorial",
+  "colorName": "magenta",
+  "iconName": "heart.circle.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "rumi-001",
+      "content": "Listen to this reed how it complains, telling a tale of separations—",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 1 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The opening line of the Masnavi's 'Song of the Reed,' in Reynold A. Nicholson's scholarly prose translation (1925-1940)."
+    },
+    {
+      "id": "rumi-002",
+      "content": "Ever since I was parted from the reed-bed, man and woman have moaned in (unison with) my lament.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 2 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The reed's cry of separation from its source; Nicholson's translation of the Masnavi's proem."
+    },
+    {
+      "id": "rumi-003",
+      "content": "I want a bosom torn by severance, that I may unfold (to such a one) the pain of love-desire.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 3 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "From the 'Song of the Reed' proem; Nicholson's translation, with his parenthetical clarifications preserved."
+    },
+    {
+      "id": "rumi-004",
+      "content": "Every one who is left far from his source wishes back the time when he was united with it.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 4 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "A core statement of the Masnavi's theme of separation and reunion; Nicholson's translation."
+    },
+    {
+      "id": "rumi-005",
+      "content": "This noise of the reed is fire, it is not wind: whoso hath not this fire, may he be naught!",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 9 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The reed's sound as the fire of love; Nicholson's translation of the Masnavi's proem."
+    },
+    {
+      "id": "rumi-006",
+      "content": "'Tis the fire of Love that is in the reed, 'tis the fervour of Love that is in the wine.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 10 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "From the 'Song of the Reed'; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-007",
+      "content": "The reed is the comrade of every one who has been parted from a friend: its strains pierced our hearts.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 11 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The reed as companion to all who have been separated; Nicholson's translation."
+    },
+    {
+      "id": "rumi-008",
+      "content": "None that is raw understands the state of the ripe: therefore my words must be brief. Farewell!",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 18 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Closing line of the 'Song of the Reed' proem; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-009",
+      "content": "O son, burst thy chains and be free! How long wilt thou be a bondsman to silver and gold?",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 19 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "An exhortation to spiritual freedom following the reed's song; Nicholson's translation."
+    },
+    {
+      "id": "rumi-010",
+      "content": "If thou pour the sea into a pitcher, how much will it hold? One day's store.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 20 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On the limits of worldly desire and vessels; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-011",
+      "content": "He (alone) whose garment is rent by a (mighty) love is purged entirely of covetousness and defect.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 22 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On love's purifying power; Nicholson's translation, with his editorial parentheticals kept."
+    },
+    {
+      "id": "rumi-012",
+      "content": "Hail, our sweet-thoughted Love—thou that art the physician of all our ills, the remedy of our pride and vainglory, our Plato and our Galen!",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, lines 23-24 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "A salutation to Love as healer; Nicholson's translation of the Masnavi's proem."
+    },
+    {
+      "id": "rumi-013",
+      "content": "Through Love the earthly body soared to the skies: the mountain began to dance and became nimble.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 25 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On love's transforming, elevating force; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-014",
+      "content": "Love inspired Mount Sinai, O lover, (so that) Sinai (was made) drunken and Moses fell in a swoon.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 26 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Alluding to the Quranic theophany at Sinai; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-015",
+      "content": "Being in love is made manifest by soreness of heart: there is no sickness like heartsickness.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 109 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On the ache that marks the true lover; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-016",
+      "content": "The lover's ailment is separate from all other ailments: love is the astrolabe of the mysteries of God.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 110 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The famous image of love as an astrolabe reading the divine; Nicholson's translation."
+    },
+    {
+      "id": "rumi-017",
+      "content": "Whatsoever I say in exposition and explanation of Love, when I come to Love (itself) I am ashamed of that (explanation).",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, lines 112-113 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On the inadequacy of words before love; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-018",
+      "content": "Although the commentary of the tongue makes (all) clear, yet tongueless love is clearer.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book I, line 114 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "That silent love speaks more plainly than speech; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-019",
+      "content": "The elephant was in a dark house: some Hindus had brought it for exhibition.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book III, line 1259 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Opening of the parable of the elephant in the dark; Nicholson's translation of the Masnavi."
+    },
+    {
+      "id": "rumi-020",
+      "content": "The eye of sense-perception is only like the palm of the hand: the palm hath not power to reach the whole of him.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book III, line 1269 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "The moral of the elephant parable on the limits of perception; Nicholson's translation."
+    },
+    {
+      "id": "rumi-021",
+      "content": "The eye of the Sea is one thing, and the foam another: leave the foam and look with the eye of the Sea.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book III, line 1270 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Following the elephant parable, on seeing past appearances; Nicholson's translation."
+    },
+    {
+      "id": "rumi-022",
+      "content": "I died to the inorganic state and became endowed with growth, and (then) I died to (vegetable) growth and attained to the animal.",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book III, line 3901 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Nicholson's exact prose of the celebrated 'evolution of the soul' passage, distinct from the loose popular 'I died as a mineral' verse rendering."
+    },
+    {
+      "id": "rumi-023",
+      "content": "I died from animality and became Adam (man): why, then, should I fear? When have I become less by dying?",
+      "authorName": "Jalal al-Din Rumi",
+      "source": "Masnavi, Book III, line 3902 (Nicholson translation)",
+      "quoteDate": "c. 1270",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "On death as ascent rather than loss; Nicholson's translation of the Masnavi."
+    }
+  ]
+}

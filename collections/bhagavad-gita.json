@@ -1,0 +1,312 @@
+{
+  "id": "bhagavad-gita",
+  "name": "Bhagavad Gita",
+  "description": "Krishna's counsel to Arjuna on duty, devotion, and the eternal soul.",
+  "author": "Quips Editorial",
+  "colorName": "orange",
+  "iconName": "sun.max.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "gita-001",
+      "content": "Thou grievest where no grief should be! thou speak'st words lacking wisdom! for the wise in heart mourn not for those that live, nor those that die.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:11 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna opens his teaching to Arjuna on the battlefield; Arnold's 1885 verse rendering of Gita 2:11, the first line of the Lord's counsel."
+    },
+    {
+      "id": "gita-002",
+      "content": "That which is can never cease to be; that which is not will not exist.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:16 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the reality of the eternal and unreality of the transient; Arnold's rendering of Gita 2:16."
+    },
+    {
+      "id": "gita-003",
+      "content": "Life cannot slay. Life is not slain!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:19 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The soul neither kills nor is killed; Arnold's rendering of Gita 2:19."
+    },
+    {
+      "id": "gita-004",
+      "content": "Never the spirit was born; the spirit shall cease to be never; never was time it was not; End and Beginning are dreams! Birthless and deathless and changeless remaineth the spirit for ever; death hath not touched it at all, dead though the house of it seems!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:20 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna's teaching that the soul is never born and never dies; Arnold's celebrated quatrain rendering of Gita 2:20."
+    },
+    {
+      "id": "gita-005",
+      "content": "Nay, but as when one layeth his worn-out robes away, and taking new ones, sayeth, \"These will I wear to-day!\" so putteth by the spirit lightly its garb of flesh, and passeth to inherit a residence afresh.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:22 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The soul discards worn bodies as a man casts off old garments; Arnold's rendering of Gita 2:22."
+    },
+    {
+      "id": "gita-006",
+      "content": "Let right deeds be thy motive, not the fruit which comes from them.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:47 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The core teaching of karma-yoga, the right to action but not to its fruits; Arnold's rendering of Gita 2:47."
+    },
+    {
+      "id": "gita-007",
+      "content": "He who shall draw, as the wise tortoise draws its four feet safe under its shield, his five frail senses back under the spirit's buckler from the world which else assails them, such an one, my Prince, hath wisdom's mark!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:58 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The steady sage withdraws the senses as a tortoise draws in its limbs; Arnold's rendering of Gita 2:58."
+    },
+    {
+      "id": "gita-008",
+      "content": "If one ponders on objects of the sense, there springs attraction; from attraction grows desire, desire flames to fierce passion, passion breeds recklessness; then the memory—all betrayed—lets noble purpose go, and saps the mind, till purpose, mind, and man are all undone.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:62-63 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The chain by which attachment leads through desire and passion to ruin; Arnold's rendering of Gita 2:62-63."
+    },
+    {
+      "id": "gita-009",
+      "content": "And like the ocean, day by day receiving floods from all lands, which never overflows its boundary-line not leaping, and not leaving, fed by the rivers, but unswelled by those;—so is the perfect one!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 2:70 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The peaceful soul is like the ocean, unmoved though all rivers pour into it; Arnold's rendering of Gita 2:70."
+    },
+    {
+      "id": "gita-010",
+      "content": "Do thine allotted task! Work is more excellent than idleness; the body's life proceeds not, lacking work.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 3:8 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna urges action over inaction; Arnold's rendering of Gita 3:8."
+    },
+    {
+      "id": "gita-011",
+      "content": "Therefore, thy task prescribed with spirit unattached gladly perform, since in performance of plain duty man mounts to his highest bliss.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 3:19 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Perform duty without attachment to reach the Supreme; Arnold's rendering of Gita 3:19."
+    },
+    {
+      "id": "gita-012",
+      "content": "What the wise choose the unwise people take; what best men do the multitude will follow.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 3:21 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the example the great set for others; Arnold's rendering of Gita 3:21."
+    },
+    {
+      "id": "gita-013",
+      "content": "Finally, this is better, that one do his own task as he may, even though he fail, than take tasks not his own, though they seem good. To die performing duty is no ill; but who seeks other roads shall wander still.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 3:35 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Better one's own duty imperfectly than another's well; Arnold's rendering of Gita 3:35."
+    },
+    {
+      "id": "gita-014",
+      "content": "When Righteousness declines, O Bharata! when Wickedness is strong, I rise, from age to age, and take visible shape, and move a man with men, succouring the good, thrusting the evil back, and setting Virtue on her seat again.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 4:7-8 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna's promise to incarnate whenever righteousness declines; Arnold's rendering of Gita 4:7-8."
+    },
+    {
+      "id": "gita-015",
+      "content": "He who sees how action may be rest, rest action—he is wisest 'mid his kind; he hath the truth!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 4:18 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Seeing inaction in action and action in inaction; Arnold's rendering of Gita 4:18."
+    },
+    {
+      "id": "gita-016",
+      "content": "As the kindled flame feeds on the fuel till it sinks to ash, so unto ash, Arjuna! unto nought the flame of Knowledge wastes works' dross away!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 4:37 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The fire of knowledge reduces all actions to ashes; Arnold's rendering of Gita 4:37."
+    },
+    {
+      "id": "gita-017",
+      "content": "Let each man raise the Self by Soul, not trample down his Self, since Soul that is Self's friend may grow Self's foe.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 6:5 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lift yourself by yourself; the self is both friend and foe; Arnold's rendering of Gita 6:5."
+    },
+    {
+      "id": "gita-018",
+      "content": "Steadfast a lamp burns sheltered from the wind; such is the likeness of the Yogi's mind shut from sense-storms and burning bright to Heaven.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 6:19 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The controlled mind is like a lamp in a windless place; Arnold's rendering of Gita 6:19."
+    },
+    {
+      "id": "gita-019",
+      "content": "Beyond denial, hard man's heart is to restrain, and wavering; yet may it grow restrained by habit, Prince! by wont of self-command.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 6:35 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The restless mind is subdued by practice and dispassion; Arnold's rendering of Gita 6:35."
+    },
+    {
+      "id": "gita-020",
+      "content": "He who will be master of himself shall win it, if he stoutly strive thereto.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 6:36 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Yoga is won by the self-controlled who strive; Arnold's rendering of Gita 6:36."
+    },
+    {
+      "id": "gita-021",
+      "content": "No heart that holds one right desire treadeth the road of loss!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 6:40 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "No one who does good ever comes to grief; Arnold's rendering of Gita 6:40."
+    },
+    {
+      "id": "gita-022",
+      "content": "But to those blessed ones who worship Me, turning not otherwhere, with minds set fast, I bring assurance of full bliss beyond.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 9:22 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna secures the welfare of those wholly devoted to him; Arnold's rendering of Gita 9:22."
+    },
+    {
+      "id": "gita-023",
+      "content": "Whoso shall offer Me in faith and love a leaf, a flower, a fruit, water poured forth, that offering I accept, lovingly made with pious will.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 9:26 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "God accepts the humblest offering given with devotion; Arnold's rendering of Gita 9:26."
+    },
+    {
+      "id": "gita-024",
+      "content": "I am alike for all! I know not hate, I know not favour! What is made is Mine! But them that worship Me with love, I love; they are in Me, and I in them!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 9:29 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "God is impartial to all yet dwells in those who love him; Arnold's rendering of Gita 9:29."
+    },
+    {
+      "id": "gita-025",
+      "content": "If one of evil life turn in his thought straightly to Me, count him amidst the good; he hath the high way chosen; he shall grow righteous ere long.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 9:30 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Even the worst who turns to God with whole devotion is counted righteous; Arnold's rendering of Gita 9:30."
+    },
+    {
+      "id": "gita-026",
+      "content": "Be certain none can perish, trusting Me!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 9:31 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna's assurance that his devotee never perishes; Arnold's rendering of Gita 9:31."
+    },
+    {
+      "id": "gita-027",
+      "content": "Who hateth nought of all which lives, living himself benign, compassionate, from arrogance exempt, exempt from love of self, unchangeable by good or ill; patient, contented, firm in faith, mastering himself, true to his word, seeking Me, heart and soul; vowed unto Me—that man I love!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 12:13-14 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna describes the devotee who is dear to him; Arnold's rendering of Gita 12:13-14."
+    },
+    {
+      "id": "gita-028",
+      "content": "Who troubleth not his kind, and is not troubled by them; clear of wrath, living too high for gladness, grief, or fear—that man I love!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 12:15 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The devotee who neither agitates the world nor is agitated by it; Arnold's rendering of Gita 12:15."
+    },
+    {
+      "id": "gita-029",
+      "content": "And let go those—rites and writ duties! Fly to Me alone! Make Me thy single refuge! I will free thy soul from all its sins! Be of good cheer!",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 18:66 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Krishna's final counsel of total surrender, the charama-shloka; Arnold's rendering of Gita 18:66."
+    },
+    {
+      "id": "gita-030",
+      "content": "Surely there shall not fail blessing, and victory, and power, for Thy most mighty sake, where this song comes of Arjun, and how with God he spake.",
+      "authorName": "The Bhagavad Gita",
+      "source": "Bhagavad Gita 18:78 (Edwin Arnold, The Song Celestial)",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sanjaya's closing benediction ending the dialogue; Arnold's rendering of Gita 18:78."
+    }
+  ]
+}

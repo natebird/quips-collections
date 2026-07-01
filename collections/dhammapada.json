@@ -1,0 +1,312 @@
+{
+  "id": "dhammapada",
+  "name": "The Buddha",
+  "description": "Teachings on the mind, suffering, and compassion from the Dhammapada.",
+  "author": "Quips Editorial",
+  "colorName": "lemon",
+  "iconName": "leaf.circle.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "dhamma-001",
+      "content": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 1 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening verse of the Twin-Verses chapter, teaching that action springs from mind; the popular paraphrase 'What you think you become' derives from this."
+    },
+    {
+      "id": "dhamma-002",
+      "content": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 2 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The companion to verse 1, contrasting the reward of a pure mind with the pain of an evil one."
+    },
+    {
+      "id": "dhamma-003",
+      "content": "\"He abused me, he beat me, he defeated me, he robbed me,\"—in those who harbour such thoughts hatred will never cease.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 3 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On how nursing grievances perpetuates hatred, from the Twin-Verses chapter."
+    },
+    {
+      "id": "dhamma-004",
+      "content": "\"He abused me, he beat me, he defeated me, he robbed me,\"—in those who do not harbour such thoughts hatred will cease.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 4 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The counterpart to verse 3: releasing resentment ends hatred."
+    },
+    {
+      "id": "dhamma-005",
+      "content": "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 5 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "One of the most quoted lines of the Dhammapada, often rendered as 'hatred is never appeased by hatred.'"
+    },
+    {
+      "id": "dhamma-006",
+      "content": "The world does not know that we must all come to an end here; but those who know it, their quarrels cease at once.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 6 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On how awareness of mortality dissolves disputes."
+    },
+    {
+      "id": "dhamma-007",
+      "content": "As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 33 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Mind, likening mental discipline to an arrow-maker's craft."
+    },
+    {
+      "id": "dhamma-008",
+      "content": "It is good to tame the mind, which is difficult to hold in and flighty, rushing wherever it listeth; a tamed mind brings happiness.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 35 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Mind, on the reward of self-mastery."
+    },
+    {
+      "id": "dhamma-009",
+      "content": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly-directed mind will do us greater mischief.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 42 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On how a misdirected mind harms more than any external enemy."
+    },
+    {
+      "id": "dhamma-010",
+      "content": "Not a mother, not a father will do so much, nor any other relatives; a well-directed mind will do us greater service.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 43 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The counterpart to verse 42: a rightly-directed mind is the greatest benefactor."
+    },
+    {
+      "id": "dhamma-011",
+      "content": "Well-makers lead the water wherever they like; fletchers bend the arrow; carpenters bend a log of wood; wise people fashion themselves.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 80 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On self-cultivation, from the chapter on the Wise; the same image recurs at verse 145."
+    },
+    {
+      "id": "dhamma-012",
+      "content": "The gods even envy him whose senses, like horses well broken in by the driver, have been subdued, who is free from pride, and free from appetites.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 94 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Venerable, praising mastery of the senses."
+    },
+    {
+      "id": "dhamma-013",
+      "content": "His thought is quiet, quiet are his word and deed, when he has obtained freedom by true knowledge, when he has thus become a quiet man.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 96 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the tranquility of one liberated by wisdom."
+    },
+    {
+      "id": "dhamma-014",
+      "content": "Even though a speech be a thousand of words, but made up of senseless words, one word of sense is better, which if a man hears, he becomes quiet.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 100 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Thousands, valuing meaning over quantity of words."
+    },
+    {
+      "id": "dhamma-015",
+      "content": "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 103 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Thousands, exalting self-conquest over military victory."
+    },
+    {
+      "id": "dhamma-016",
+      "content": "Let no man think lightly of evil, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the fool becomes full of evil, even if he gather it little by little.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 121 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The origin of the 'drops of water fill a pitcher' image, warning that small evils accumulate."
+    },
+    {
+      "id": "dhamma-017",
+      "content": "Let no man think lightly of good, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the wise man becomes full of good, even if he gather it little by little.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 122 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The counterpart to verse 121: small goods likewise accumulate into greatness."
+    },
+    {
+      "id": "dhamma-018",
+      "content": "Not in the sky, not in the midst of the sea, not if we enter into the clefts of the mountains, is there known a spot in the whole world where a man might be freed from an evil deed.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 127 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Evil, on the inescapability of one's own deeds."
+    },
+    {
+      "id": "dhamma-019",
+      "content": "He who seeking his own happiness punishes or kills beings who also long for happiness, will not find happiness after death.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 131 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Punishment, on non-harming and the wish of all beings for happiness."
+    },
+    {
+      "id": "dhamma-020",
+      "content": "By oneself the evil is done, by oneself one suffers; by oneself evil is left undone, by oneself one is purified. Purity and impurity belong to oneself, no one can purify another.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 165 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Self, on personal responsibility for one's own purity."
+    },
+    {
+      "id": "dhamma-021",
+      "content": "Not to commit any sin, to do good, and to purify one's mind, that is the teaching of all the Awakened.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 183 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A famous summary of the Buddha's teaching: avoid evil, do good, purify the mind."
+    },
+    {
+      "id": "dhamma-022",
+      "content": "Let us live happily then, not hating those who hate us! Among men who hate us let us dwell free from hatred!",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 197 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening of the chapter on Happiness, on dwelling without hatred."
+    },
+    {
+      "id": "dhamma-023",
+      "content": "Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 201 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Happiness, on the peace found beyond winning and losing."
+    },
+    {
+      "id": "dhamma-024",
+      "content": "Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 204 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Happiness, ranking health, contentment, and trust among life's true goods."
+    },
+    {
+      "id": "dhamma-025",
+      "content": "Let a man overcome anger by love, let him overcome evil by good; let him overcome the greedy by liberality, the liar by truth.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 223 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Anger, prescribing generous responses to hostility."
+    },
+    {
+      "id": "dhamma-026",
+      "content": "Let a wise man blow off the impurities of himself, as a smith blows off the impurities of silver, one by one, little by little, and from time to time.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 239 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Impurity, comparing self-purification to a silversmith's refining."
+    },
+    {
+      "id": "dhamma-027",
+      "content": "The fault of others is easily perceived, but that of oneself is difficult to perceive; a man winnows his neighbour's faults like chaff, but his own fault he hides, as a cheat hides the bad die from the gambler.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 252 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Impurity, on our readiness to see others' faults over our own."
+    },
+    {
+      "id": "dhamma-028",
+      "content": "You yourself must make an effort. The Awakened are only preachers. The thoughtful who enter the way are freed from the bondage of Mara.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 276 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Way; often paraphrased as 'Buddhas only point the way.' Muller renders 'the Awakened' for Tathagatas."
+    },
+    {
+      "id": "dhamma-029",
+      "content": "\"All created things perish,\" he who knows and sees this becomes passive in pain; this is the way to purity.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 277 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Way, on impermanence as the path to release from suffering."
+    },
+    {
+      "id": "dhamma-030",
+      "content": "There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.",
+      "authorName": "The Buddha",
+      "source": "Dhammapada, verse 90 (Max Muller translation)",
+      "quoteDate": "c. 3rd century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on the Venerable, describing the peace of one wholly liberated."
+    }
+  ]
+}

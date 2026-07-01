@@ -511,6 +511,227 @@
       "lastUpdated": "2026-06-27T12:00:00Z",
       "contentHash": "sha256-mBdqcXdb9MrX0VfKZYtuQEWU70/CchmUune/edOh7sk=",
       "bytes": 11968
+    },
+    {
+      "id": "bible-wisdom",
+      "name": "Bible Wisdom",
+      "description": "Timeless verses of faith, hope, and love from the pages of Scripture.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "The LORD is my shepherd; I shall not want.",
+        "Be still, and know that I am God."
+      ],
+      "colorName": "navyBlue",
+      "iconName": "book.closed.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-eJKZfDI7WEAn/KCHntac12hZfH/X2cHDS8DVmgJVrzw=",
+      "bytes": 13610
+    },
+    {
+      "id": "words-of-jesus",
+      "name": "Words of Jesus",
+      "description": "The red-letter sayings of Jesus of Nazareth, from the Sermon on the Mount to the parables.",
+      "author": "Quips Editorial",
+      "quoteCount": 34,
+      "previewQuotes": [
+        "Blessed are the peacemakers: for they shall be called the children of God.",
+        "Judge not, that ye be not judged."
+      ],
+      "colorName": "gold",
+      "iconName": "cross.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-J5GVLaWslqApYwaL6PRuYvHD8SPM5Ei5VPvbpKv6h7g=",
+      "bytes": 14097
+    },
+    {
+      "id": "christian-saints",
+      "name": "Saints & Church Fathers",
+      "description": "Wisdom on faith, love, and the soul from the great saints and fathers of the Church.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "Man proposes, but God disposes.",
+        "Ignorance of the Scriptures is ignorance of Christ."
+      ],
+      "colorName": "brown",
+      "iconName": "cross.circle.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-S/h5Y8otqZ9dYykA0gHPOLzJh0nScHYq5i3K7T1MKzk=",
+      "bytes": 15110
+    },
+    {
+      "id": "cs-lewis",
+      "name": "C. S. Lewis",
+      "description": "Reflections on faith, reason, and longing from the author of Mere Christianity and Narnia.",
+      "author": "Quips Editorial",
+      "quoteCount": 32,
+      "previewQuotes": [
+        "Courage, dear heart.",
+        "No one ever told me that grief felt so like fear."
+      ],
+      "colorName": "forestGreen",
+      "iconName": "text.book.closed.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-wDv17I4TNYqdhGvXcJtKrHIaj5TMkz57out/e6TnMxc=",
+      "bytes": 14841
+    },
+    {
+      "id": "quran",
+      "name": "The Qur'an",
+      "description": "Verses of mercy, patience, and guidance from the Holy Qur'an.",
+      "author": "Quips Editorial",
+      "quoteCount": 32,
+      "previewQuotes": [
+        "But lo! with hardship goeth ease,",
+        "Is the reward of goodness aught save goodness?"
+      ],
+      "colorName": "forestGreen",
+      "iconName": "moon.stars.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-MG0Rkjr2HqqMgNYUbp6rLWy9GJ8Y1qaOMlBDTE8u0ZE=",
+      "bytes": 16042
+    },
+    {
+      "id": "rumi",
+      "name": "Rumi",
+      "description": "Verses of love and the longing for the divine from the Sufi poet Jalal al-Din Rumi.",
+      "author": "Quips Editorial",
+      "quoteCount": 23,
+      "previewQuotes": [
+        "Listen to this reed how it complains, telling a tale of separations—",
+        "The lover's ailment is separate from all other ailments: love is the astrolabe of the mysteries of God."
+      ],
+      "colorName": "magenta",
+      "iconName": "heart.circle.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-sKRz5dj3o0lziLBXdeiiJmhZG1IVhGLL7NnHl1hyniM=",
+      "bytes": 11150
+    },
+    {
+      "id": "hadith",
+      "name": "Prophetic Wisdom",
+      "description": "Sayings of the Prophet Muhammad on character, kindness, and faith.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "None of you truly believes until he loves for his brother what he loves for himself.",
+        "Do not think little of any good deed, even meeting your brother with a cheerful face."
+      ],
+      "colorName": "mint",
+      "iconName": "moon.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-2w85cG2Ipd1iSSGGWcoSk+BaKqQ449lJiDfZJrq+CD8=",
+      "bytes": 13957
+    },
+    {
+      "id": "bhagavad-gita",
+      "name": "Bhagavad Gita",
+      "description": "Krishna's counsel to Arjuna on duty, devotion, and the eternal soul.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "Life cannot slay. Life is not slain!",
+        "Let right deeds be thy motive, not the fruit which comes from them."
+      ],
+      "colorName": "orange",
+      "iconName": "sun.max.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-LQmzQb4XsB/pEiSspWuQnm7FWDUjCtKG8oAn4jIIiMQ=",
+      "bytes": 16143
+    },
+    {
+      "id": "dhammapada",
+      "name": "The Buddha",
+      "description": "Teachings on the mind, suffering, and compassion from the Dhammapada.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
+        "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors."
+      ],
+      "colorName": "lemon",
+      "iconName": "leaf.circle.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-AHDS5tEsZ17SjIN+CqAdNLQ4Yg+qFOMBtbfArtS5dWE=",
+      "bytes": 15684
+    },
+    {
+      "id": "tao-te-ching",
+      "name": "Tao Te Ching",
+      "description": "Lao Tzu on the Way, simplicity, and the art of effortless action.",
+      "author": "Quips Editorial",
+      "quoteCount": 30,
+      "previewQuotes": [
+        "The highest excellence is like (that of) water.",
+        "He who knows other men is discerning; he who knows himself is intelligent."
+      ],
+      "colorName": "cyan",
+      "iconName": "circle.lefthalf.filled",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-OAY5219oPYXxqxuDFJsW1+uAnYZu+ZkBNIxZAQI1B0A=",
+      "bytes": 14628
+    },
+    {
+      "id": "zen-wisdom",
+      "name": "Zen & the Dalai Lama",
+      "description": "Modern Buddhist wisdom on mindfulness, compassion, and peace.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "The purpose of our lives is to be happy.",
+        "No mud, no lotus."
+      ],
+      "colorName": "purple",
+      "iconName": "leaf.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-oZVutDDe4Z9l6SadZSqOrrRCNjlGkl8cktScSgshe5s=",
+      "bytes": 12738
+    },
+    {
+      "id": "jewish-wisdom",
+      "name": "Jewish Wisdom",
+      "description": "Teachings on justice, learning, and repair of the world from Torah, Talmud, and the sages.",
+      "author": "Quips Editorial",
+      "quoteCount": 33,
+      "previewQuotes": [
+        "Who is rich? One who is happy with his portion.",
+        "Judge every person favorably."
+      ],
+      "colorName": "primaryBlue",
+      "iconName": "scroll.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-6HkWxPxAOK0gij9jxM2oz/y29VTh+5QSWnt/Yydlk1U=",
+      "bytes": 15125
+    },
+    {
+      "id": "sikh-wisdom",
+      "name": "Sikh Wisdom",
+      "description": "Teachings of the Gurus on devotion, equality, and honest living from the Guru Granth Sahib.",
+      "author": "Quips Editorial",
+      "quoteCount": 18,
+      "previewQuotes": [
+        "Truth is higher than everything; but higher still is truthful living.",
+        "So why call her bad? From her, kings are born."
+      ],
+      "colorName": "gold",
+      "iconName": "book.closed.fill",
+      "category": "Faith",
+      "lastUpdated": "2026-06-30T12:00:00Z",
+      "contentHash": "sha256-ukcE89gJxmNbtdAeni7M/UADZtXhv3S0bgDL1yOeGr0=",
+      "bytes": 10218
     }
   ]
 }

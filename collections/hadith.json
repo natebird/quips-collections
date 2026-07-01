@@ -1,0 +1,322 @@
+{
+  "id": "hadith",
+  "name": "Prophetic Wisdom",
+  "description": "Sayings of the Prophet Muhammad on character, kindness, and faith.",
+  "author": "Quips Editorial",
+  "colorName": "mint",
+  "iconName": "moon.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "hadith-001",
+      "content": "Actions are judged by intentions, and each person will have only what he intended.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 1 (An-Nawawi's Forty Hadith, No. 1)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening hadith of Bukhari, narrated by Umar ibn al-Khattab; graded sahih (authentic) and among the most foundational sayings in Islam."
+    },
+    {
+      "id": "hadith-002",
+      "content": "None of you truly believes until he loves for his brother what he loves for himself.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 13 (An-Nawawi's Forty Hadith, No. 13)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 45."
+    },
+    {
+      "id": "hadith-003",
+      "content": "The strong man is not the one who overpowers others, but the one who controls himself when he is angry.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6114",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2609."
+    },
+    {
+      "id": "hadith-004",
+      "content": "Whoever believes in God and the Last Day, let him speak good or keep silent.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6018 (An-Nawawi's Forty Hadith, No. 15)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 47."
+    },
+    {
+      "id": "hadith-005",
+      "content": "Whoever believes in God and the Last Day, let him be generous to his guest.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6019",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra on hospitality; graded sahih and also recorded in Sahih Muslim 48."
+    },
+    {
+      "id": "hadith-006",
+      "content": "Make things easy and do not make them difficult; give cheer and do not drive people away.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 69",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 1734."
+    },
+    {
+      "id": "hadith-007",
+      "content": "Whoever relieves a believer of a hardship, God will relieve him of a hardship on the Day of Resurrection.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 2699 (An-Nawawi's Forty Hadith, No. 36)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih and part of the well-known hadith on aiding others."
+    },
+    {
+      "id": "hadith-008",
+      "content": "Fear God wherever you are, follow a bad deed with a good one to wipe it out, and treat people with good character.",
+      "authorName": "Prophet Muhammad",
+      "source": "An-Nawawi's Forty Hadith, No. 18 (Jami' at-Tirmidhi 1987)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Dharr and Mu'adh ibn Jabal; graded hasan by at-Tirmidhi and included in An-Nawawi's collection."
+    },
+    {
+      "id": "hadith-009",
+      "content": "Part of a person's excellence in faith is leaving alone what does not concern him.",
+      "authorName": "Prophet Muhammad",
+      "source": "An-Nawawi's Forty Hadith, No. 12 (Jami' at-Tirmidhi 2317)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded hasan by at-Tirmidhi and included in An-Nawawi's collection."
+    },
+    {
+      "id": "hadith-010",
+      "content": "The religion is sincerity and goodwill.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 55 (An-Nawawi's Forty Hadith, No. 7)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Tamim ad-Dari; graded sahih, rendering the Arabic 'naseehah' as sincere goodwill toward God and people."
+    },
+    {
+      "id": "hadith-011",
+      "content": "Do not become angry.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6116 (An-Nawawi's Forty Hadith, No. 16)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; the Prophet repeated this counsel each time a man asked for advice. Graded sahih."
+    },
+    {
+      "id": "hadith-012",
+      "content": "Charity never decreases wealth; God raises in honor the one who forgives, and elevates the one who humbles himself.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 2588",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners."
+    },
+    {
+      "id": "hadith-013",
+      "content": "Cleanliness and purity are half of faith.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 223",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Malik al-Ash'ari; graded sahih, from Muslim's Book of Purification."
+    },
+    {
+      "id": "hadith-014",
+      "content": "The deeds most beloved to God are those done regularly, even if they are few.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6464",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Aisha; graded sahih and also recorded in Sahih Muslim 2818."
+    },
+    {
+      "id": "hadith-015",
+      "content": "Whoever shows no mercy to people will be shown no mercy by God.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 5997",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2318."
+    },
+    {
+      "id": "hadith-016",
+      "content": "The true Muslim is one from whose tongue and hand other people are safe.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 10",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abdullah ibn Amr; graded sahih and also recorded in Sahih Muslim 40."
+    },
+    {
+      "id": "hadith-017",
+      "content": "The upper hand is better than the lower hand; the giving hand is better than the receiving one.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 1429",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abdullah ibn Umar; graded sahih and also recorded in Sahih Muslim 1033."
+    },
+    {
+      "id": "hadith-018",
+      "content": "Whoever guides someone to a good deed will have a reward like the one who does it.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 1893",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Mas'ud al-Ansari; graded sahih, from Muslim's Book of Government."
+    },
+    {
+      "id": "hadith-019",
+      "content": "Feed the hungry, visit the sick, and set the captive free.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 5649",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Musa al-Ash'ari; graded sahih, from Bukhari's Book of the Sick."
+    },
+    {
+      "id": "hadith-020",
+      "content": "God does not look at your outward forms or your wealth, but He looks at your hearts and your deeds.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 2564",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners."
+    },
+    {
+      "id": "hadith-021",
+      "content": "Gentleness never enters into anything without adorning it, nor is it withdrawn from anything without disgracing it.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 2594",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Aisha; graded sahih, from Muslim's Book of Virtue and Good Manners."
+    },
+    {
+      "id": "hadith-022",
+      "content": "Modesty brings nothing but good.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6117",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Imran ibn Husayn; graded sahih and also recorded in Sahih Muslim 37."
+    },
+    {
+      "id": "hadith-023",
+      "content": "The believers, in their mutual love and compassion, are like one body: when one part suffers, the whole body responds.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6011",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by an-Nu'man ibn Bashir; graded sahih and also recorded in Sahih Muslim 2586."
+    },
+    {
+      "id": "hadith-024",
+      "content": "Do not think little of any good deed, even meeting your brother with a cheerful face.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 2626",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Dharr; graded sahih, from Muslim's Book of Virtue and Good Manners."
+    },
+    {
+      "id": "hadith-025",
+      "content": "The most complete of believers in faith are those with the best character, and the best of you are those best to their families.",
+      "authorName": "Prophet Muhammad",
+      "source": "Riyad as-Salihin 278 (Jami' at-Tirmidhi 1162)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded hasan sahih by at-Tirmidhi and included by an-Nawawi in Riyad as-Salihin."
+    },
+    {
+      "id": "hadith-026",
+      "content": "Whoever sees a wrong, let him change it with his hand; if he cannot, then with his tongue; and if he cannot, then with his heart.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 49 (An-Nawawi's Forty Hadith, No. 34)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Sa'id al-Khudri; graded sahih and included in An-Nawawi's collection."
+    },
+    {
+      "id": "hadith-027",
+      "content": "Every act of kindness is charity, and a good word is charity.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 2989 (An-Nawawi's Forty Hadith, No. 26)",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1009."
+    },
+    {
+      "id": "hadith-028",
+      "content": "Faith has many branches; the least of them is removing something harmful from the road, and modesty is a branch of faith.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih Muslim 35",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih al-Bukhari 9."
+    },
+    {
+      "id": "hadith-029",
+      "content": "Whoever does not thank people has not thanked God.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sunan Abi Dawud 4811",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih (al-Albani) and also recorded in Jami' at-Tirmidhi 1954."
+    },
+    {
+      "id": "hadith-030",
+      "content": "Richness is not in having many possessions; true richness is the richness of the soul.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 6446",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1051."
+    },
+    {
+      "id": "hadith-031",
+      "content": "The one who keeps kinship is not the one who repays good with good, but the one who restores the bond when it is broken.",
+      "authorName": "Prophet Muhammad",
+      "source": "Sahih al-Bukhari 5991",
+      "quoteDate": "c. 620 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narrated by Abdullah ibn Amr; graded sahih, from Bukhari's Book of Manners."
+    }
+  ]
+}

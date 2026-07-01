@@ -1,0 +1,342 @@
+{
+  "id": "jewish-wisdom",
+  "name": "Jewish Wisdom",
+  "description": "Teachings on justice, learning, and repair of the world from Torah, Talmud, and the sages.",
+  "author": "Quips Editorial",
+  "colorName": "primaryBlue",
+  "iconName": "scroll.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "jewish-001",
+      "content": "If I am not for myself, who will be for me? And being for my own self, what am I? And if not now, when?",
+      "authorName": "Hillel the Elder",
+      "source": "Pirkei Avot 1:14",
+      "quoteDate": "c. 30 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Hillel's threefold call to self-responsibility, concern for others, and urgent action, from the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-002",
+      "content": "That which is hateful to you, do not do to your fellow. That is the whole Torah; the rest is commentary. Go and learn it.",
+      "authorName": "Hillel the Elder",
+      "source": "Talmud, Shabbat 31a",
+      "quoteDate": "c. 30 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Hillel's reply to a would-be convert who asked to be taught the whole Torah while standing on one foot; the Golden Rule in its negative form."
+    },
+    {
+      "id": "jewish-003",
+      "content": "Whoever saves a single life is considered by Scripture to have saved an entire world.",
+      "authorName": "Mishnah, Sanhedrin",
+      "source": "Talmud, Sanhedrin 37a",
+      "quoteDate": "c. 200 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the Mishnah's teaching on the infinite worth of a single human being; rendered from the standard text of the Babylonian Talmud."
+    },
+    {
+      "id": "jewish-004",
+      "content": "You are not obligated to complete the work, but neither are you free to desist from it.",
+      "authorName": "Rabbi Tarfon",
+      "source": "Pirkei Avot 2:16",
+      "quoteDate": "c. 100 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Rabbi Tarfon on perseverance in the endless labor of Torah and good deeds, from the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-005",
+      "content": "The world stands on three things: on the Torah, on the service of God, and on acts of loving-kindness.",
+      "authorName": "Shimon the Righteous",
+      "source": "Pirkei Avot 1:2",
+      "quoteDate": "c. 200 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A foundational teaching of Shimon the Righteous, one of the last of the Great Assembly, on the pillars that sustain the world."
+    },
+    {
+      "id": "jewish-006",
+      "content": "Be of the disciples of Aaron, loving peace and pursuing peace, loving your fellow creatures, and drawing them near to the Torah.",
+      "authorName": "Hillel the Elder",
+      "source": "Pirkei Avot 1:12",
+      "quoteDate": "c. 30 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Hillel holds up Aaron the High Priest as the model peacemaker in the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-007",
+      "content": "Say little and do much, and receive every person with a cheerful countenance.",
+      "authorName": "Shammai",
+      "source": "Pirkei Avot 1:15",
+      "quoteDate": "c. 30 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Shammai, Hillel's great contemporary, on humility of speech and warmth toward others."
+    },
+    {
+      "id": "jewish-008",
+      "content": "Who is wise? One who learns from every person.",
+      "authorName": "Ben Zoma",
+      "source": "Pirkei Avot 4:1",
+      "quoteDate": "c. 100 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The first of Ben Zoma's four questions in the Ethics of the Fathers, redefining wisdom as openness to learning."
+    },
+    {
+      "id": "jewish-009",
+      "content": "Who is rich? One who is happy with his portion.",
+      "authorName": "Ben Zoma",
+      "source": "Pirkei Avot 4:1",
+      "quoteDate": "c. 100 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Ben Zoma redefines wealth as contentment rather than possession, in the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-010",
+      "content": "Who is mighty? One who conquers his own impulse.",
+      "authorName": "Ben Zoma",
+      "source": "Pirkei Avot 4:1",
+      "quoteDate": "c. 100 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Ben Zoma locates true strength in self-mastery over one's inclinations, in the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-011",
+      "content": "Who is honored? One who honors others.",
+      "authorName": "Ben Zoma",
+      "source": "Pirkei Avot 4:1",
+      "quoteDate": "c. 100 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The last of Ben Zoma's four questions, teaching that honor is earned by giving it, in the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-012",
+      "content": "Judge every person favorably.",
+      "authorName": "Yehoshua ben Perachiah",
+      "source": "Pirkei Avot 1:6",
+      "quoteDate": "c. 100 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Yehoshua ben Perachiah on giving others the benefit of the doubt, from the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-013",
+      "content": "Do not separate yourself from the community, and do not judge your fellow until you have reached his place.",
+      "authorName": "Hillel the Elder",
+      "source": "Pirkei Avot 2:4",
+      "quoteDate": "c. 30 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Hillel on solidarity and empathy, from the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-014",
+      "content": "Turn it over, and turn it over, for everything is in it.",
+      "authorName": "Ben Bag Bag",
+      "source": "Pirkei Avot 5:22",
+      "quoteDate": "c. 1st century",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Ben Bag Bag's praise of endless study of the Torah, which he says contains everything, from the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-015",
+      "content": "Reflect on three things and you will not come to sin: know from where you came, where you are going, and before Whom you are destined to give account.",
+      "authorName": "Akavya ben Mahalalel",
+      "source": "Pirkei Avot 3:1",
+      "quoteDate": "c. 1st century",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Akavya ben Mahalalel's meditation on origin, destiny, and accountability, from the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-016",
+      "content": "Run to perform even a minor mitzvah, for one mitzvah leads to another.",
+      "authorName": "Ben Azzai",
+      "source": "Pirkei Avot 4:2",
+      "quoteDate": "c. 110 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Ben Azzai on how good deeds beget good deeds, from the Ethics of the Fathers."
+    },
+    {
+      "id": "jewish-017",
+      "content": "Much have I learned from my teachers, more from my colleagues, but from my students most of all.",
+      "authorName": "Rabbi Chanina",
+      "source": "Talmud, Ta'anit 7a",
+      "quoteDate": "c. 200 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A Talmudic teaching on how teaching deepens the teacher's own understanding."
+    },
+    {
+      "id": "jewish-018",
+      "content": "The Second Temple was destroyed because of baseless hatred.",
+      "authorName": "Babylonian Talmud",
+      "source": "Talmud, Yoma 9b",
+      "quoteDate": "c. 500 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Talmud's diagnosis that sinat chinam, hatred without cause, brought down the Second Temple; rendered from the standard text."
+    },
+    {
+      "id": "jewish-019",
+      "content": "It hath been told thee, O man, what is good, and what the LORD doth require of thee: only to do justly, and to love mercy, and to walk humbly with thy God.",
+      "authorName": "The Prophet Micah",
+      "source": "Micah 6:8 (JPS 1917)",
+      "quoteDate": "c. 700 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Micah's celebrated summary of what God asks of humanity, quoted verbatim from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-020",
+      "content": "Thou shalt love thy neighbour as thyself: I am the LORD.",
+      "authorName": "The Torah",
+      "source": "Leviticus 19:18 (JPS 1917)",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The commandment Rabbi Akiva called a great principle of the Torah, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-021",
+      "content": "And thou shalt love the LORD thy God with all thy heart, and with all thy soul, and with all thy might.",
+      "authorName": "The Torah",
+      "source": "Deuteronomy 6:5 (JPS 1917)",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The core verse of the Shema, recited daily in Jewish prayer, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-022",
+      "content": "Justice, justice shalt thou follow, that thou mayest live.",
+      "authorName": "The Torah",
+      "source": "Deuteronomy 16:20 (JPS 1917)",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The doubled call for justice, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-023",
+      "content": "I have set before thee life and death, the blessing and the curse; therefore choose life.",
+      "authorName": "The Torah",
+      "source": "Deuteronomy 30:19 (JPS 1917)",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Moses' charge to Israel to choose life, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-024",
+      "content": "And God created man in His own image, in the image of God created He him.",
+      "authorName": "The Torah",
+      "source": "Genesis 1:27 (JPS 1917)",
+      "quoteDate": "c. 6th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The verse grounding human dignity in the divine image, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-025",
+      "content": "To every thing there is a season, and a time to every purpose under the heaven.",
+      "authorName": "Kohelet (Ecclesiastes)",
+      "source": "Ecclesiastes 3:1 (JPS 1917)",
+      "quoteDate": "c. 300 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening of the famous meditation on time in Ecclesiastes, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-026",
+      "content": "They shall beat their swords into plowshares, and their spears into pruninghooks; nation shall not lift up sword against nation, neither shall they learn war any more.",
+      "authorName": "The Prophet Isaiah",
+      "source": "Isaiah 2:4 (JPS 1917)",
+      "quoteDate": "c. 700 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Isaiah's vision of universal peace, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-027",
+      "content": "Her ways are ways of pleasantness, and all her paths are peace.",
+      "authorName": "The Book of Proverbs",
+      "source": "Proverbs 3:17 (JPS 1917)",
+      "quoteDate": "c. 500 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A verse in praise of wisdom and Torah, recited when the Torah scroll is returned to the ark; quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-028",
+      "content": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+      "authorName": "The Book of Psalms",
+      "source": "Psalms 133:1 (JPS 1917)",
+      "quoteDate": "c. 500 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A short psalm celebrating harmony, quoted from the 1917 Jewish Publication Society translation."
+    },
+    {
+      "id": "jewish-029",
+      "content": "The greatest level of charity is to strengthen the hand of the poor by giving a gift, a loan, or work, so that he need never depend on others again.",
+      "authorName": "Maimonides (Rambam)",
+      "source": "Mishneh Torah, Hilchot Matnot Aniyim 10:7",
+      "quoteDate": "c. 1180",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Maimonides' highest of eight levels of tzedakah, condensed from his code of law the Mishneh Torah, Laws of Gifts to the Poor."
+    },
+    {
+      "id": "jewish-030",
+      "content": "Judaism is a religion of time aiming at the sanctification of time.",
+      "authorName": "Abraham Joshua Heschel",
+      "source": "The Sabbath (1951)",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Heschel's central thesis in The Sabbath, that Judaism builds cathedrals in time rather than space."
+    },
+    {
+      "id": "jewish-031",
+      "content": "The Sabbaths are our great cathedrals.",
+      "authorName": "Abraham Joshua Heschel",
+      "source": "The Sabbath (1951)",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Heschel's image of the Sabbath as sacred architecture built in time, from The Sabbath."
+    },
+    {
+      "id": "jewish-032",
+      "content": "Just to be is a blessing. Just to live is holy.",
+      "authorName": "Abraham Joshua Heschel",
+      "source": "God in Search of Man (1955)",
+      "quoteDate": "1955",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Heschel on radical amazement and the sanctity of existence, from God in Search of Man."
+    },
+    {
+      "id": "jewish-033",
+      "content": "I felt my legs were praying.",
+      "authorName": "Abraham Joshua Heschel",
+      "source": "Reflecting on the Selma to Montgomery march (1965)",
+      "quoteDate": "1965",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Heschel's much-quoted description of marching for civil rights alongside Dr. Martin Luther King Jr. in Selma, Alabama."
+    }
+  ]
+}

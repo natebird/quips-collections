@@ -1,0 +1,332 @@
+{
+  "id": "cs-lewis",
+  "name": "C. S. Lewis",
+  "description": "Reflections on faith, reason, and longing from the author of Mere Christianity and Narnia.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "text.book.closed.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "cslewis-001",
+      "content": "If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.",
+      "authorName": "C. S. Lewis",
+      "source": "Mere Christianity, Book 3, Ch. 10 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lewis's 'argument from desire' for the soul's longing beyond earthly satisfaction."
+    },
+    {
+      "id": "cslewis-002",
+      "content": "A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic—on a level with the man who says he is a poached egg—or else he would be the Devil of Hell.",
+      "authorName": "C. S. Lewis",
+      "source": "Mere Christianity, Book 2, Ch. 3 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The core of Lewis's famous 'Liar, Lunatic, or Lord' trilemma."
+    },
+    {
+      "id": "cslewis-003",
+      "content": "Pride gets no pleasure out of having something, only out of having more of it than the next man.",
+      "authorName": "C. S. Lewis",
+      "source": "Mere Christianity, Book 3, Ch. 8 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter 'The Great Sin,' where Lewis calls pride the essential vice."
+    },
+    {
+      "id": "cslewis-004",
+      "content": "No man knows how bad he is till he has tried very hard to be good.",
+      "authorName": "C. S. Lewis",
+      "source": "Mere Christianity, Book 3, Ch. 11 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On how the attempt at virtue reveals the depth of one's failings."
+    },
+    {
+      "id": "cslewis-005",
+      "content": "A proud man is always looking down on things and people; and, of course, as long as you are looking down, you cannot see something that is above you.",
+      "authorName": "C. S. Lewis",
+      "source": "Mere Christianity, Book 3, Ch. 8 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From 'The Great Sin,' on how pride blinds one to God."
+    },
+    {
+      "id": "cslewis-006",
+      "content": "Aim at Heaven and you will get earth thrown in: aim at earth and you will get neither.",
+      "authorName": "C. S. Lewis",
+      "source": "Mere Christianity, Book 3, Ch. 10 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter 'Hope,' on the priority of eternal things."
+    },
+    {
+      "id": "cslewis-007",
+      "content": "If you look for truth, you may find comfort in the end; if you look for comfort you will not get either comfort or truth.",
+      "authorName": "C. S. Lewis",
+      "source": "Mere Christianity, Book 1, Ch. 5 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From 'We Have Cause to Be Uneasy,' warning against wishful thinking."
+    },
+    {
+      "id": "cslewis-008",
+      "content": "We are half-hearted creatures, fooling about with drink and sex and ambition when infinite joy is offered us, like an ignorant child who wants to go on making mud pies in a slum because he cannot imagine what is meant by the offer of a holiday at the sea. We are far too easily pleased.",
+      "authorName": "C. S. Lewis",
+      "source": "The Weight of Glory (sermon, 1941)",
+      "quoteDate": "1941",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the sermon preached at Oxford's University Church, on desire being too weak rather than too strong."
+    },
+    {
+      "id": "cslewis-009",
+      "content": "There are no ordinary people. You have never talked to a mere mortal.",
+      "authorName": "C. S. Lewis",
+      "source": "The Weight of Glory (sermon, 1941)",
+      "quoteDate": "1941",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the eternal weight and destiny of every human being."
+    },
+    {
+      "id": "cslewis-010",
+      "content": "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.",
+      "authorName": "C. S. Lewis",
+      "source": "\"Is Theology Poetry?\" (essay, 1944), in The Weight of Glory",
+      "quoteDate": "1944",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Closing line of an address to the Oxford Socratic Club."
+    },
+    {
+      "id": "cslewis-011",
+      "content": "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains: it is His megaphone to rouse a deaf world.",
+      "authorName": "C. S. Lewis",
+      "source": "The Problem of Pain, Ch. 6 (1940)",
+      "quoteDate": "1940",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter 'Human Pain,' on suffering as a summons to God."
+    },
+    {
+      "id": "cslewis-012",
+      "content": "Pain insists upon being attended to.",
+      "authorName": "C. S. Lewis",
+      "source": "The Problem of Pain, Ch. 6 (1940)",
+      "quoteDate": "1940",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On pain's power to break through complacency, unlike pleasure."
+    },
+    {
+      "id": "cslewis-013",
+      "content": "To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken.",
+      "authorName": "C. S. Lewis",
+      "source": "The Four Loves, Ch. 6 (1960)",
+      "quoteDate": "1960",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Charity, on the risk inherent in all love."
+    },
+    {
+      "id": "cslewis-014",
+      "content": "Friendship is born at that moment when one man says to another, 'What! You too? I thought that no one but myself...'",
+      "authorName": "C. S. Lewis",
+      "source": "The Four Loves, Ch. 4 (1960)",
+      "quoteDate": "1960",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on Friendship, on the shared insight that begins it."
+    },
+    {
+      "id": "cslewis-015",
+      "content": "The safest road to Hell is the gradual one—the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.",
+      "authorName": "C. S. Lewis",
+      "source": "The Screwtape Letters, Letter XII (1942)",
+      "quoteDate": "1942",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Screwtape, the senior devil, advising his nephew on quiet corruption."
+    },
+    {
+      "id": "cslewis-016",
+      "content": "There are two equal and opposite errors into which our race can fall about the devils. One is to disbelieve in their existence. The other is to believe, and to feel an excessive and unhealthy interest in them.",
+      "authorName": "C. S. Lewis",
+      "source": "The Screwtape Letters, Preface (1942)",
+      "quoteDate": "1942",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lewis's own preface, guarding against both skepticism and obsession."
+    },
+    {
+      "id": "cslewis-017",
+      "content": "No one ever told me that grief felt so like fear.",
+      "authorName": "C. S. Lewis",
+      "source": "A Grief Observed, Ch. 1 (1961)",
+      "quoteDate": "1961",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening line of his journal after the death of his wife, Joy Davidman."
+    },
+    {
+      "id": "cslewis-018",
+      "content": "There are only two kinds of people in the end: those who say to God, 'Thy will be done,' and those to whom God says, in the end, 'Thy will be done.'",
+      "authorName": "C. S. Lewis",
+      "source": "The Great Divorce, Ch. 9 (1946)",
+      "quoteDate": "1946",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Spoken by the character George MacDonald in Lewis's dream-vision of heaven and hell."
+    },
+    {
+      "id": "cslewis-019",
+      "content": "No soul that seriously and constantly desires joy will ever miss it. Those who seek find. To those who knock it is opened.",
+      "authorName": "C. S. Lewis",
+      "source": "The Great Divorce, Ch. 9 (1946)",
+      "quoteDate": "1946",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "MacDonald's assurance to the narrator about the reachability of heaven."
+    },
+    {
+      "id": "cslewis-020",
+      "content": "We make men without chests and expect of them virtue and enterprise. We laugh at honour and are shocked to find traitors in our midst.",
+      "authorName": "C. S. Lewis",
+      "source": "The Abolition of Man, Ch. 1 (1943)",
+      "quoteDate": "1943",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From 'Men Without Chests,' on education that severs the trained sentiments from reason."
+    },
+    {
+      "id": "cslewis-021",
+      "content": "We delight to praise what we enjoy because the praise not merely expresses but completes the enjoyment; it is its appointed consummation.",
+      "authorName": "C. S. Lewis",
+      "source": "Reflections on the Psalms, Ch. 9 (1958)",
+      "quoteDate": "1958",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter 'A Word About Praising,' on why worship completes joy."
+    },
+    {
+      "id": "cslewis-022",
+      "content": "In the Trinity Term of 1929 I gave in, and admitted that God was God, and knelt and prayed: perhaps, that night, the most dejected and reluctant convert in all England.",
+      "authorName": "C. S. Lewis",
+      "source": "Surprised by Joy, Ch. 14 (1955)",
+      "quoteDate": "1955",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Lewis's account of his conversion to theism in his spiritual autobiography."
+    },
+    {
+      "id": "cslewis-023",
+      "content": "Some day you will be old enough to start reading fairy tales again.",
+      "authorName": "C. S. Lewis",
+      "source": "The Lion, the Witch and the Wardrobe, Dedication (1950)",
+      "quoteDate": "1950",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Lewis's dedication of the book to his goddaughter Lucy Barfield."
+    },
+    {
+      "id": "cslewis-024",
+      "content": "'Course he isn't safe. But he's good. He's the King, I tell you.",
+      "authorName": "C. S. Lewis",
+      "source": "The Lion, the Witch and the Wardrobe, Ch. 8 (1950)",
+      "quoteDate": "1950",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Mr. Beaver describing Aslan the lion to the Pevensie children."
+    },
+    {
+      "id": "cslewis-025",
+      "content": "Courage, dear heart.",
+      "authorName": "C. S. Lewis",
+      "source": "The Voyage of the Dawn Treader, Ch. 12 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Aslan's whispered comfort to Lucy in the darkness surrounding the Dark Island."
+    },
+    {
+      "id": "cslewis-026",
+      "content": "There I have another name. You must learn to know me by that name. This was the very reason why you were brought to Narnia.",
+      "authorName": "C. S. Lewis",
+      "source": "The Voyage of the Dawn Treader, Ch. 16 (1952)",
+      "quoteDate": "1952",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Aslan tells the children he exists in their world under another name."
+    },
+    {
+      "id": "cslewis-027",
+      "content": "I'm on Aslan's side even if there isn't any Aslan to lead it. I'm going to live as like a Narnian as I can even if there isn't any Narnia.",
+      "authorName": "C. S. Lewis",
+      "source": "The Silver Chair, Ch. 12 (1953)",
+      "quoteDate": "1953",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Puddleglum the Marsh-wiggle defying the Green Witch's enchantment."
+    },
+    {
+      "id": "cslewis-028",
+      "content": "Things never happen the same way twice.",
+      "authorName": "C. S. Lewis",
+      "source": "Prince Caspian, Ch. 10 (1951)",
+      "quoteDate": "1951",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Aslan to Lucy, on why she should not expect a repeat of past rescues."
+    },
+    {
+      "id": "cslewis-029",
+      "content": "Further up and further in!",
+      "authorName": "C. S. Lewis",
+      "source": "The Last Battle, Ch. 15 (1956)",
+      "quoteDate": "1956",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The rallying cry as the characters ascend into the true, deeper Narnia."
+    },
+    {
+      "id": "cslewis-030",
+      "content": "The term is over: the holidays have begun. The dream is ended: this is the morning.",
+      "authorName": "C. S. Lewis",
+      "source": "The Last Battle, Ch. 16 (1956)",
+      "quoteDate": "1956",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The closing image of the Narnia series, on death as an awakening."
+    },
+    {
+      "id": "cslewis-031",
+      "content": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "authorName": "C. S. Lewis",
+      "source": "The Magician's Nephew, Ch. 12 (1955)",
+      "quoteDate": "1955",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Narration on how perception is shaped by one's own character."
+    },
+    {
+      "id": "cslewis-032",
+      "content": "The greatest evil is not done in those sordid dens of crime that Dickens loved to paint. It is conceived and ordered in clean, carpeted, warmed and well-lighted offices, by quiet men with white collars.",
+      "authorName": "C. S. Lewis",
+      "source": "The Screwtape Letters, Preface (1961 revised ed.)",
+      "quoteDate": "1961",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the preface added to the 1961 edition, on the bureaucratic face of evil."
+    }
+  ]
+}

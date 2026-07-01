@@ -1,0 +1,332 @@
+{
+  "id": "quran",
+  "name": "The Qur'an",
+  "description": "Verses of mercy, patience, and guidance from the Holy Qur'an.",
+  "author": "Quips Editorial",
+  "colorName": "forestGreen",
+  "iconName": "moon.stars.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "quran-001",
+      "content": "Allah tasketh not a soul beyond its scope.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Baqarah 2:286 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening clause of 2:286; verified verbatim against the Marmaduke Pickthall (1930) translation via al-quran.info."
+    },
+    {
+      "id": "quran-002",
+      "content": "But lo! with hardship goeth ease,",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ash-Sharh 94:5 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The famous 'with hardship comes ease' assurance; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-003",
+      "content": "Lo! with hardship goeth ease;",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ash-Sharh 94:6 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The repeated assurance that follows 94:5; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-004",
+      "content": "Who have believed and whose hearts have rest in the remembrance of Allah. Verily in the remembrance of Allah do hearts find rest!",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ar-Ra'd 13:28 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On hearts finding rest in remembrance of God; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-005",
+      "content": "O My slaves who have been prodigal to their own hurt! Despair not of the mercy of Allah, Who forgiveth all sins. Lo! He is the Forgiving, the Merciful.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Az-Zumar 39:53 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Excerpt of 39:53 (omitting the opening 'Say:'); verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-006",
+      "content": "O mankind! Lo! We have created you male and female, and have made you nations and tribes that ye may know one another.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Hujurat 49:13 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On human diversity and mutual understanding; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-007",
+      "content": "Thy Lord hath decreed, that ye worship none save Him, and (that ye show) kindness to parents.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Isra 17:23 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening excerpt of 17:23 on kindness to parents; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-008",
+      "content": "And lower unto them the wing of submission through mercy, and say: My Lord! Have mercy on them both as they did care for me when I was little.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Isra 17:24 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A prayer of mercy for one's parents; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-009",
+      "content": "Therefore remember Me, I will remember you. Give thanks to Me, and reject not Me.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Baqarah 2:152 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On remembrance and gratitude; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-010",
+      "content": "And when your Lord proclaimed: If ye give thanks, I will give you more; but if ye are thankless, lo! My punishment is dire.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ibrahim 14:7 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On gratitude bringing increase; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-011",
+      "content": "And whosoever putteth his trust in Allah, He will suffice him. Lo! Allah bringeth His command to pass. Allah hath set a measure for all things.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah At-Talaq 65:3 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Excerpt of 65:3 on reliance upon God; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-012",
+      "content": "Faint not nor grieve, for ye will overcome them if ye are (indeed) believers.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-i-'Imran 3:139 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "An exhortation against despair; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-013",
+      "content": "O ye who believe! Seek help in steadfastness and prayer. Lo! Allah is with the steadfast.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Baqarah 2:153 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On patience (sabr) and prayer; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-014",
+      "content": "And when My servants question thee concerning Me, then surely I am nigh. I answer the prayer of the suppliant when he crieth unto Me.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Baqarah 2:186 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On God's nearness to those who call on Him; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-015",
+      "content": "And call on Him in fear and hope. Lo! the mercy of Allah is nigh unto the good.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-A'raf 7:56 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Closing excerpt of 7:56 on mercy; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-016",
+      "content": "Thy Lord hath not forsaken thee nor doth He hate thee,",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ad-Duha 93:3 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A verse of reassurance in the morning; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-017",
+      "content": "And verily the latter portion will be better for thee than the former,",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ad-Duha 93:4 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The promise that what is to come is better; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-018",
+      "content": "Is the reward of goodness aught save goodness?",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ar-Rahman 55:60 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On goodness returned for goodness; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-019",
+      "content": "Lo! Allah enjoineth justice and kindness, and giving to kinsfolk, and forbiddeth lewdness and abomination and wickedness.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah An-Nahl 16:90 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Excerpt of 16:90 on justice and kindness; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-020",
+      "content": "The good deed and the evil deed are not alike. Repel the evil deed with one which is better, then lo! he, between whom and thee there was enmity (will become) as though he was a bosom friend.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Fussilat 41:34 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On answering evil with good; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-021",
+      "content": "O ye who believe! Endure, outdo all others in endurance, be ready, and observe your duty to Allah, in order that ye may succeed.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-i-'Imran 3:200 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On endurance and steadfastness; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-022",
+      "content": "As for those who strive in Us, We surely guide them to Our paths, and lo! Allah is with the good.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-'Ankabut 29:69 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On divine guidance for those who strive; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-023",
+      "content": "The (faithful) slaves of the Beneficent are they who walk upon the earth modestly, and when the foolish ones address them answer: Peace;",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Furqan 25:63 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On humility and answering with peace; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-024",
+      "content": "No calamity befalleth save by Allah's leave. And whosoever believeth in Allah, He guideth his heart. And Allah is Knower of all things.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah At-Taghabun 64:11 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On God guiding the heart through trial; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-025",
+      "content": "And verily whoso is patient and forgiveth - lo! that, verily, is (of) the steadfast heart of things.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ash-Shura 42:43 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On patience and forgiveness; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-026",
+      "content": "O mankind! There hath come unto you an exhortation from your Lord, a balm for that which is in the breasts, a guidance and a mercy for believers.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Yunus 10:57 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the Qur'an as a balm and mercy; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-027",
+      "content": "Seek help in patience and prayer; and truly it is hard save for the humble-minded,",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Baqarah 2:45 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On patience, prayer, and humility; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-028",
+      "content": "And your Lord hath said: Pray unto Me and I will hear your prayer.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Ghafir 40:60 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening excerpt of 40:60 on God answering prayer; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-029",
+      "content": "Allah! There is no deity save Him, the Alive, the Eternal. Neither slumber nor sleep overtaketh Him.",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Baqarah 2:255 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening excerpt of the Throne Verse (Ayat al-Kursi); verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-030",
+      "content": "So pardon them and ask forgiveness for them and consult with them upon the conduct of affairs. And when thou art resolved, then put thy trust in Allah. Lo! Allah loveth those who put their trust (in Him).",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-i-'Imran 3:159 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Excerpt of 3:159 on pardon, counsel, and trust; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-031",
+      "content": "Your Lord hath prescribed for Himself mercy,",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-An'am 6:54 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Excerpt of 6:54 on God's self-appointed mercy; verified verbatim against the Pickthall translation."
+    },
+    {
+      "id": "quran-032",
+      "content": "And surely We shall try you with something of fear and hunger, and loss of wealth and lives and crops; but give glad tidings to the steadfast,",
+      "authorName": "The Qur'an (Pickthall translation)",
+      "source": "Qur'an, Surah Al-Baqarah 2:155 (Pickthall)",
+      "quoteDate": "c. 632 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On glad tidings for the patient amid trial; verified verbatim against the Pickthall translation."
+    }
+  ]
+}

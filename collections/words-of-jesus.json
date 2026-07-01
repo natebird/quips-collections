@@ -1,0 +1,352 @@
+{
+  "id": "words-of-jesus",
+  "name": "Words of Jesus",
+  "description": "The red-letter sayings of Jesus of Nazareth, from the Sermon on the Mount to the parables.",
+  "author": "Quips Editorial",
+  "colorName": "gold",
+  "iconName": "cross.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "jesus-001",
+      "content": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:3 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The first of the Beatitudes, opening the Sermon on the Mount."
+    },
+    {
+      "id": "jesus-002",
+      "content": "Blessed are they that mourn: for they shall be comforted.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:4 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Second Beatitude from the Sermon on the Mount."
+    },
+    {
+      "id": "jesus-003",
+      "content": "Blessed are the meek: for they shall inherit the earth.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:5 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Third Beatitude, echoing Psalm 37:11."
+    },
+    {
+      "id": "jesus-004",
+      "content": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:6 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Fourth Beatitude from the Sermon on the Mount."
+    },
+    {
+      "id": "jesus-005",
+      "content": "Blessed are the merciful: for they shall obtain mercy.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:7 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Fifth Beatitude from the Sermon on the Mount."
+    },
+    {
+      "id": "jesus-006",
+      "content": "Blessed are the pure in heart: for they shall see God.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:8 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sixth Beatitude from the Sermon on the Mount."
+    },
+    {
+      "id": "jesus-007",
+      "content": "Blessed are the peacemakers: for they shall be called the children of God.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:9 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Seventh Beatitude from the Sermon on the Mount."
+    },
+    {
+      "id": "jesus-008",
+      "content": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:14 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the Sermon on the Mount, addressed to Jesus's followers."
+    },
+    {
+      "id": "jesus-009",
+      "content": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:16 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sermon on the Mount, continuing the metaphor of light."
+    },
+    {
+      "id": "jesus-010",
+      "content": "Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 5:44 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sermon on the Mount teaching on nonretaliation; final semicolon rendered as a period."
+    },
+    {
+      "id": "jesus-011",
+      "content": "For where your treasure is, there will your heart be also.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 6:21 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sermon on the Mount, on laying up treasures in heaven."
+    },
+    {
+      "id": "jesus-012",
+      "content": "Ye cannot serve God and mammon.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 6:24 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sermon on the Mount; the concluding clause of the saying that no man can serve two masters."
+    },
+    {
+      "id": "jesus-013",
+      "content": "Judge not, that ye be not judged.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 7:1 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sermon on the Mount, opening the teaching on judging others."
+    },
+    {
+      "id": "jesus-014",
+      "content": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 7:7 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Sermon on the Mount, on persistent prayer; final colon rendered as a period."
+    },
+    {
+      "id": "jesus-015",
+      "content": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 7:12 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Golden Rule, from the Sermon on the Mount."
+    },
+    {
+      "id": "jesus-016",
+      "content": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 11:28 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus's invitation to the weary."
+    },
+    {
+      "id": "jesus-017",
+      "content": "For what is a man profited, if he shall gain the whole world, and lose his own soul?",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 16:26 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Spoken to the disciples on the cost of discipleship."
+    },
+    {
+      "id": "jesus-018",
+      "content": "Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 19:14 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus welcoming children brought to him despite the disciples' objections."
+    },
+    {
+      "id": "jesus-019",
+      "content": "Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 22:21 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus's reply to the Pharisees' question about paying tribute."
+    },
+    {
+      "id": "jesus-020",
+      "content": "Thou shalt love thy neighbour as thyself.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 22:39 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The second great commandment, named by Jesus when asked which is greatest."
+    },
+    {
+      "id": "jesus-021",
+      "content": "Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 4:4 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus's reply to the tempter in the wilderness, quoting Deuteronomy 8:3."
+    },
+    {
+      "id": "jesus-022",
+      "content": "For all they that take the sword shall perish with the sword.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 26:52 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Said to the disciple who drew a sword at Jesus's arrest in Gethsemane."
+    },
+    {
+      "id": "jesus-023",
+      "content": "For where two or three are gathered together in my name, there am I in the midst of them.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Matthew 18:20 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Jesus's teaching to the disciples on gathering and forgiveness."
+    },
+    {
+      "id": "jesus-024",
+      "content": "What therefore God hath joined together, let not man put asunder.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Mark 10:9 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus's teaching on marriage in response to the Pharisees."
+    },
+    {
+      "id": "jesus-025",
+      "content": "The kingdom of God is within you.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Luke 17:21 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus's reply to the Pharisees on when the kingdom of God should come."
+    },
+    {
+      "id": "jesus-026",
+      "content": "Father, forgive them; for they know not what they do.",
+      "authorName": "Jesus of Nazareth",
+      "source": "Luke 23:34 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Spoken from the cross at the crucifixion."
+    },
+    {
+      "id": "jesus-027",
+      "content": "He that is without sin among you, let him first cast a stone at her.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 8:7 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Said to the accusers of the woman taken in adultery."
+    },
+    {
+      "id": "jesus-028",
+      "content": "I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 8:12 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "One of the 'I am' declarations in John's Gospel."
+    },
+    {
+      "id": "jesus-029",
+      "content": "And ye shall know the truth, and the truth shall make you free.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 8:32 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Spoken to the Jews who believed on him, on abiding in his word."
+    },
+    {
+      "id": "jesus-030",
+      "content": "I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 11:25 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Said to Martha before the raising of Lazarus; closing colon rendered as a period."
+    },
+    {
+      "id": "jesus-031",
+      "content": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 13:34 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Given to the disciples at the Last Supper."
+    },
+    {
+      "id": "jesus-032",
+      "content": "I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 14:6 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Jesus's answer to Thomas in the upper room discourse."
+    },
+    {
+      "id": "jesus-033",
+      "content": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 15:13 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Jesus's farewell discourse on the vine and the branches."
+    },
+    {
+      "id": "jesus-034",
+      "content": "In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+      "authorName": "Jesus of Nazareth",
+      "source": "John 16:33 (King James Version)",
+      "quoteDate": "c. 30 CE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Closing words of Jesus's farewell discourse to the disciples."
+    }
+  ]
+}

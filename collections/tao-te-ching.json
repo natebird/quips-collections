@@ -1,0 +1,312 @@
+{
+  "id": "tao-te-ching",
+  "name": "Tao Te Ching",
+  "description": "Lao Tzu on the Way, simplicity, and the art of effortless action.",
+  "author": "Quips Editorial",
+  "colorName": "cyan",
+  "iconName": "circle.lefthalf.filled",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "tao-001",
+      "content": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 1 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening lines: the ultimate Way and its true name lie beyond words and fixed definition."
+    },
+    {
+      "id": "tao-002",
+      "content": "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 2 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "An early statement of wu wei, action without forced effort, and teaching by example rather than words."
+    },
+    {
+      "id": "tao-003",
+      "content": "Heaven is long-enduring and earth continues long.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 7 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Heaven and earth endure because they do not live for themselves; the sage follows their selfless example."
+    },
+    {
+      "id": "tao-004",
+      "content": "The highest excellence is like (that of) water.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 8 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The famous water simile: the greatest good yields and flows rather than contends. Parentheses are Legge's own."
+    },
+    {
+      "id": "tao-005",
+      "content": "The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 8 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Water models the Way by nourishing everything and settling into the lowly places others avoid."
+    },
+    {
+      "id": "tao-006",
+      "content": "It is better to leave a vessel unfilled, than to attempt to carry it when it is full.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 9 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A caution against excess and overreaching; knowing when to stop preserves what one has."
+    },
+    {
+      "id": "tao-007",
+      "content": "When gold and jade fill the hall, their possessor cannot keep them safe.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 9 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Hoarded riches breed anxiety and cannot be secured; the chapter counsels withdrawal once the work is done."
+    },
+    {
+      "id": "tao-008",
+      "content": "In the highest antiquity, (the people) did not know that there were (their rulers). In the next age they loved them and praised them.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 17 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The best rulers govern so lightly that subjects barely notice them; lesser ones are merely loved, feared, or despised."
+    },
+    {
+      "id": "tao-009",
+      "content": "We are as we are, of ourselves!",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 17 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "When the ideal ruler's work succeeds, the people say this, feeling they did it themselves; a model of effortless leadership."
+    },
+    {
+      "id": "tao-010",
+      "content": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 22 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The paradox of yielding: bending and emptiness are the conditions for wholeness and renewal."
+    },
+    {
+      "id": "tao-011",
+      "content": "He who displays himself does not shine; he who asserts his own views is not distinguished.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 24 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Self-promotion defeats itself; the Taoist ideal is quiet self-effacement rather than striving for recognition."
+    },
+    {
+      "id": "tao-012",
+      "content": "He who knows other men is discerning; he who knows himself is intelligent.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 33 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Knowing others is cleverness, but true insight is self-knowledge; often paraphrased as knowing yourself is enlightenment."
+    },
+    {
+      "id": "tao-013",
+      "content": "He who overcomes others is strong; he who overcomes himself is mighty.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 33 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Mastery of oneself is a greater power than dominance over others."
+    },
+    {
+      "id": "tao-014",
+      "content": "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 37 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The core paradox of wu wei: the Way accomplishes everything precisely by not forcing anything. Parentheses are Legge's."
+    },
+    {
+      "id": "tao-015",
+      "content": "The softest thing in the world dashes against and overcomes the hardest.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 43 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Like water wearing away stone, gentleness and yielding prevail over rigid force."
+    },
+    {
+      "id": "tao-016",
+      "content": "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 44 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Legge renders this chapter as verse; contentment and knowing when to stop are the safeguards against loss. Slashes mark his line breaks."
+    },
+    {
+      "id": "tao-017",
+      "content": "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 46 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Discontent and unchecked desire are named the root of misfortune; the chapter closes praising the contentment of enough."
+    },
+    {
+      "id": "tao-018",
+      "content": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge).",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 48 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Contrasts accumulating learning with the pursuit of the Tao, which instead subtracts until one reaches non-action. Parentheses are Legge's."
+    },
+    {
+      "id": "tao-019",
+      "content": "Having arrived at this point of non-action, there is nothing which he does not do.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 48 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The fruit of wu wei: by reducing effort to non-action, everything is accomplished."
+    },
+    {
+      "id": "tao-020",
+      "content": "He who knows (the Tao) does not (care to) speak (about it).",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 56 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Those who truly understand the Way say little; those who talk most understand least. Parentheses are Legge's."
+    },
+    {
+      "id": "tao-021",
+      "content": "All difficult things in the world are sure to arise from a previous state in which they were easy.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 63 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Great difficulties grow from small easy beginnings, so the wise act early while matters are still manageable."
+    },
+    {
+      "id": "tao-022",
+      "content": "Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 63 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "By respecting small tasks before they grow hard, the sage avoids being overwhelmed."
+    },
+    {
+      "id": "tao-023",
+      "content": "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 64 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Legge's exact wording of the famous 'thousand-mile journey' passage; great things grow from small beginnings. Parentheses are Legge's."
+    },
+    {
+      "id": "tao-024",
+      "content": "He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 64 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Grasping and scheming defeat their own ends; the sage acts without forcing and so loses nothing. Parentheses are Legge's."
+    },
+    {
+      "id": "tao-025",
+      "content": "Because he does not strive, no one finds it possible to strive with him.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 66 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Like rivers and seas that lead by lying low, the sage rises above others by not contending."
+    },
+    {
+      "id": "tao-026",
+      "content": "Man at his birth is supple and weak; at his death, firm and strong.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 76 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Suppleness belongs to the living and rigidity to the dead; softness and flexibility are aligned with life."
+    },
+    {
+      "id": "tao-027",
+      "content": "There is nothing in the world more soft and weak than water.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 78 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Yet nothing surpasses water for wearing down the hard and strong, the chapter's emblem of yielding power."
+    },
+    {
+      "id": "tao-028",
+      "content": "Every one in the world knows that the soft overcomes the hard, and the weak the strong.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 78 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A truth all recognize yet few can practice; the weak and yielding ultimately prevail."
+    },
+    {
+      "id": "tao-029",
+      "content": "Sincere words are not fine; fine words are not sincere.",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 81 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The closing chapter contrasts plain truth with ornamented speech; honesty needs no embellishment."
+    },
+    {
+      "id": "tao-030",
+      "content": "The sage does not accumulate (for himself).",
+      "authorName": "Lao Tzu",
+      "source": "Tao Te Ching, Chapter 81 (James Legge translation)",
+      "quoteDate": "c. 4th century BCE",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The book ends on generosity: the more the sage gives to others, the more he himself has. Parentheses are Legge's."
+    }
+  ]
+}

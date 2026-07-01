@@ -1,0 +1,192 @@
+{
+  "id": "sikh-wisdom",
+  "name": "Sikh Wisdom",
+  "description": "Teachings of the Gurus on devotion, equality, and honest living from the Guru Granth Sahib.",
+  "author": "Quips Editorial",
+  "colorName": "gold",
+  "iconName": "book.closed.fill",
+  "category": "Faith",
+  "lastUpdated": "2026-06-30T12:00:00Z",
+  "quotes": [
+    {
+      "id": "sikh-001",
+      "content": "One Universal Creator God. The Name Is Truth. Creative Being Personified. No Fear. No Hatred. Image Of The Undying, Beyond Birth, Self-Existent. By Guru's Grace.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib (Mool Mantar), Guru Granth Sahib, Ang 1 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The Mool Mantar, the opening statement of Sikh belief that begins the Guru Granth Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-002",
+      "content": "True In The Primal Beginning. True Throughout The Ages. True Here And Now. O Nanak, Forever And Ever True.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib, Guru Granth Sahib, Ang 1 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The opening pauri of Japji Sahib affirming the eternal truth of God; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-003",
+      "content": "The hunger of the hungry is not appeased, even by piling up loads of worldly goods.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib, Guru Granth Sahib, Ang 1 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Japji Sahib, on the emptiness of accumulating material wealth; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-004",
+      "content": "So how can you become truthful? And how can the veil of illusion be torn away?",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib, Guru Granth Sahib, Ang 1 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The question that opens Japji Sahib, answered by living in harmony with God's Will; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-005",
+      "content": "O Nanak, it is written that you shall obey the Hukam of His Command, and walk in the Way of His Will.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib, Guru Granth Sahib, Ang 1 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Nanak's answer to how one becomes truthful: by accepting the Hukam (divine order); verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-006",
+      "content": "Air is the Guru, Water is the Father, and Earth is the Great Mother of all.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib (closing Salok), Guru Granth Sahib, Ang 8 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the closing Salok of Japji Sahib, honoring the natural elements as our teachers and parents; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-007",
+      "content": "Day and night are the two nurses, in whose lap all the world is at play.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib (closing Salok), Guru Granth Sahib, Ang 8 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the closing Salok of Japji Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-008",
+      "content": "Those who have meditated on the Naam, the Name of the Lord, and departed after having worked by the sweat of their brows, their faces are radiant in the Court of the Lord, and many are saved along with them.",
+      "authorName": "Guru Nanak",
+      "source": "Japji Sahib (closing Salok), Guru Granth Sahib, Ang 8 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1500",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The final lines of Japji Sahib, praising those who earn honestly and remember God; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-009",
+      "content": "So why call her bad? From her, kings are born.",
+      "authorName": "Guru Nanak",
+      "source": "Asa Ki Var, Guru Granth Sahib, Ang 473 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1520",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Nanak's defense of women in Asa Ki Var, challenging the prejudices of his era; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-010",
+      "content": "From woman, man is born; within woman, man is conceived; to woman he is engaged and married.",
+      "authorName": "Guru Nanak",
+      "source": "Asa Ki Var, Guru Granth Sahib, Ang 473 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1520",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From Guru Nanak's verse on the dignity of women in Asa Ki Var; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-011",
+      "content": "One who works for what he eats, and gives some of what he has, O Nanak, he knows the Path.",
+      "authorName": "Guru Nanak",
+      "source": "Salok, Var of Sarang, Guru Granth Sahib, Ang 1245 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1520",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A foundational teaching on honest labor (kirat karni) and sharing (vand chakna); verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-012",
+      "content": "Truth is higher than everything; but higher still is truthful living.",
+      "authorName": "Guru Nanak",
+      "source": "Siri Raag, Guru Granth Sahib, Ang 62 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1520",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Nanak teaching that conduct matters more than knowledge of truth; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-013",
+      "content": "If you desire to play this game of love with Me, then step onto My Path with your head in your palm.",
+      "authorName": "Guru Nanak",
+      "source": "Salok Varan Te Vadheek, Guru Granth Sahib, Ang 1412 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1530",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Nanak on the total surrender that the path of divine love demands; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-014",
+      "content": "One who calls himself a Sikh of the Guru, the True Guru, shall rise in the early morning hours and meditate on the Lord's Name.",
+      "authorName": "Guru Ram Das",
+      "source": "Gauri Ki Var, Guru Granth Sahib, Ang 305 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1575",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Ram Das (Fourth Mehl) describing the daily discipline of a Sikh; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-015",
+      "content": "Of all religions, the best religion is to chant the Name of the Lord and maintain pure conduct.",
+      "authorName": "Guru Arjan",
+      "source": "Sukhmani Sahib, Guru Granth Sahib, Ang 266 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1600",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Arjan (Fifth Mehl) in Sukhmani Sahib, on remembrance of God paired with pure living; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-016",
+      "content": "One who does not frighten anyone, and who is not afraid of anyone else; says Nanak, listen, mind: call him spiritually wise.",
+      "authorName": "Guru Tegh Bahadur",
+      "source": "Saloks, Guru Granth Sahib, Ang 1427 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1670",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Tegh Bahadur (Ninth Mehl) on the fearless, harmless soul; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-017",
+      "content": "One who is beyond praise and slander, who looks upon gold and iron alike; says Nanak, listen, mind: know that such a person is liberated.",
+      "authorName": "Guru Tegh Bahadur",
+      "source": "Saloks, Guru Granth Sahib, Ang 1427 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1670",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Guru Tegh Bahadur (Ninth Mehl) on equanimity and detachment as the mark of the liberated; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    },
+    {
+      "id": "sikh-018",
+      "content": "Do not utter even a single harsh word; your True Lord and Master abides in all.",
+      "authorName": "Sheikh Farid",
+      "source": "Salok Farid, Guru Granth Sahib, Ang 1384 (Sant Singh Khalsa translation)",
+      "quoteDate": "c. 1250",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A salok of the Sufi saint Sheikh Farid, whose verses are enshrined in the Guru Granth Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation."
+    }
+  ]
+}
