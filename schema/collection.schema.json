@@ -40,8 +40,8 @@
           "enum": [
             "unspecified", "inPerson", "book", "article", "newspaper", "magazine",
             "comic", "movie", "television", "podcast", "radio", "song", "speech",
-            "interview", "website", "socialMedia", "video", "letter", "poem", "play",
-            "lecture", "documentary"
+            "interview", "website", "socialMedia", "video", "game", "letter", "poem",
+            "play", "lecture", "documentary"
           ]
         },
         "quoteDate": { "type": "string" }
