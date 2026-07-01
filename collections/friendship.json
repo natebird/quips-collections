@@ -13,7 +13,7 @@
       "content": "For without friends no one would choose to live, though he had all other goods.",
       "authorName": "Aristotle",
       "source": "Nicomachean Ethics, Book VIII, Ch. 1 (c. 340 BC)",
-      "quoteDate": "c. 340 BC",
+      "quoteDate": "c. 340 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "W. D. Ross translation; the opening claim of Aristotle's account of philia."
@@ -23,7 +23,7 @@
       "content": "Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves.",
       "authorName": "Aristotle",
       "source": "Nicomachean Ethics, Book VIII, Ch. 3 (c. 340 BC)",
-      "quoteDate": "c. 340 BC",
+      "quoteDate": "c. 340 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "W. D. Ross translation; Aristotle's highest of the three kinds of friendship."
@@ -33,7 +33,7 @@
       "content": "For though the wish for friendship comes quickly, friendship does not.",
       "authorName": "Aristotle",
       "source": "Nicomachean Ethics, Book VIII, Ch. 3 (c. 340 BC)",
-      "quoteDate": "c. 340 BC",
+      "quoteDate": "c. 340 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "W. D. Ross translation; true friendship requires time and shared salt."
@@ -43,7 +43,7 @@
       "content": "For his friend is another self.",
       "authorName": "Aristotle",
       "source": "Nicomachean Ethics, Book IX, Ch. 4 (c. 340 BC)",
-      "quoteDate": "c. 340 BC",
+      "quoteDate": "c. 340 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "W. D. Ross translation; the good man relates to his friend as to himself."
@@ -53,7 +53,7 @@
       "content": "Friendship is nothing else than an accord in all things, human and divine, conjoined with mutual goodwill and affection.",
       "authorName": "Marcus Tullius Cicero",
       "source": "Laelius de Amicitia, VI.20 (44 BC)",
-      "quoteDate": "44 BC",
+      "quoteDate": "c. 44 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Falconer translation, Loeb Classical Library 1923; Cicero's formal definition of friendship."
@@ -63,7 +63,7 @@
       "content": "For friendship adds a brighter radiance to prosperity and lessens the burden of adversity by dividing and sharing it.",
       "authorName": "Marcus Tullius Cicero",
       "source": "Laelius de Amicitia, VI.22 (44 BC)",
-      "quoteDate": "44 BC",
+      "quoteDate": "c. 44 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Falconer translation, Loeb Classical Library 1923; friendship doubles joy and halves grief."
@@ -73,7 +73,7 @@
       "content": "Wherefore friends, though absent, are at hand; though in need, yet abound; though weak, are strong; and—harder saying still—though dead, are yet alive.",
       "authorName": "Marcus Tullius Cicero",
       "source": "Laelius de Amicitia, VII.23 (44 BC)",
-      "quoteDate": "44 BC",
+      "quoteDate": "c. 44 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Falconer translation, Loeb Classical Library 1923; friendship's power to hold the absent present."
@@ -253,7 +253,7 @@
       "content": "Friendship is a single soul dwelling in two bodies.",
       "authorName": "Aristotle",
       "source": "Attributed via Diogenes Laërtius, Lives of the Eminent Philosophers",
-      "quoteDate": "c. 340 BC",
+      "quoteDate": "c. 340 BCE",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: not found in the Nicomachean Ethics; attributed to Aristotle only by Diogenes Laërtius (3rd c. AD), wording varies by translation."
@@ -263,7 +263,7 @@
       "content": "Walking with a friend in the dark is better than walking alone in the light.",
       "authorName": "Helen Keller",
       "source": "Attributed; no located primary work",
-      "quoteDate": "unspecified",
+      "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: widely attributed to Keller across aggregators but no book, essay, or letter has been located."
@@ -273,7 +273,7 @@
       "content": "Friendship is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.",
       "authorName": "Muhammad Ali",
       "source": "Attributed; no located primary work",
-      "quoteDate": "unspecified",
+      "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: circulates only on quote aggregators with no cited speech, interview, or book."

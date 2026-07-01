@@ -293,7 +293,7 @@
       "content": "Dissent is the highest form of patriotism.",
       "authorName": "Thomas Jefferson",
       "source": "Commonly misattributed; not found in Jefferson's papers",
-      "quoteDate": "unknown",
+      "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: the Monticello staff classify this as spurious. It appears nowhere in Jefferson's writings and likely entered circulation during the Vietnam era."
@@ -303,7 +303,7 @@
       "content": "A government big enough to give you everything you want is a government big enough to take away everything that you have.",
       "authorName": "Thomas Jefferson",
       "source": "Commonly misattributed; not found in Jefferson's papers",
-      "quoteDate": "unknown",
+      "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford."

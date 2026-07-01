@@ -934,8 +934,8 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-v0yo49I4ViYtMpNSWVODCHGPGQGg/1A1f96fXKXB5fw=",
-      "bytes": 16228
+      "contentHash": "sha256-nEyUIUXy6hE2J7roINvEHmzQWQ0rdWVMjUTgEPMnInY=",
+      "bytes": 16218
     },
     {
       "id": "civil-rights-voices",
@@ -951,8 +951,8 @@
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-vBHH6r5xDh2QRKp++a51cg+H4S0jAw3vVsgEg/xVZZQ=",
-      "bytes": 14975
+      "contentHash": "sha256-mJEo3+K+dC81taqzct0RM6m0pnsMzlhsS4qdeB1Yy40=",
+      "bytes": 14970
     },
     {
       "id": "cosmos-space",
@@ -968,8 +968,8 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-KT8m4thUg+vFE5QhqX7BTIYhzKCLKGtbLZM6lXGZq3w=",
-      "bytes": 14023
+      "contentHash": "sha256-zBZEwYmFKB9snFQP+IIP3y+QyahuGg+hndkPHhDZwBo=",
+      "bytes": 14018
     },
     {
       "id": "great-scientists",
@@ -985,8 +985,8 @@
       "iconName": "atom",
       "category": "Science",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-ckr5qxBdiL+Up31jrK43uiCZMZ7+bs45ThtNXeiCo/o=",
-      "bytes": 15666
+      "contentHash": "sha256-eu/AGbPx0JtgnOhausLdTiO++xGWK1JjyNY6fzSTEGw=",
+      "bytes": 15641
     },
     {
       "id": "curiosity-discovery",
@@ -1002,8 +1002,8 @@
       "iconName": "sparkle.magnifyingglass",
       "category": "Science",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-/JIZQ+sGUEm7/Xrpm8PUP7XcvYBzgUcg6CzFW0CEv7k=",
-      "bytes": 14678
+      "contentHash": "sha256-YrC+57ncZSHX5ULF+OEmdN+rGsDQLfl5n2IP5P5JpNI=",
+      "bytes": 14683
     },
     {
       "id": "bob-dylan",
@@ -1053,8 +1053,8 @@
       "iconName": "guitars",
       "category": "Music",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-xrRM84VvlyBGHTI9CBPqzB6XgNATGwshzVW5BbsDls8=",
-      "bytes": 12212
+      "contentHash": "sha256-sekrqCZdpftFzni+p3JFoGKnE5O1m8R7pSaaNR1ZI3c=",
+      "bytes": 12158
     },
     {
       "id": "one-liners",
@@ -1138,8 +1138,8 @@
       "iconName": "person.2.fill",
       "category": "Love & Relationships",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Fy7GK9c2vZS9W6jbHEU5pisx3mGFbBMkg+Ps+m7tnJI=",
-      "bytes": 13285
+      "contentHash": "sha256-33U6c1fmFKfa0wp9aFhQ9OURWuj1sbGe0QhNroXIfsQ=",
+      "bytes": 13284
     },
     {
       "id": "marriage-and-weddings",
@@ -1155,8 +1155,8 @@
       "iconName": "heart.text.square.fill",
       "category": "Love & Relationships",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-B4hKqu1a6ZnZ+HuXHJJYZeLYK454piZsId2U7gUqpEo=",
-      "bytes": 12498
+      "contentHash": "sha256-4xMlRduVGNsKtUj8GgLPD/4C9IEG9mq30JihV8Z8EKI=",
+      "bytes": 12499
     },
     {
       "id": "john-muir",
@@ -1172,8 +1172,8 @@
       "iconName": "mountain.2.fill",
       "category": "Nature",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-4bUN53UIZ7zhVJWGdw/JiC6QaQKHbZ2sZxRwQXix/hk=",
-      "bytes": 16397
+      "contentHash": "sha256-66i9X+yHHBpzu3m3dnI+o0Q8vTjZahHM8q/2y7Flc4I=",
+      "bytes": 16388
     },
     {
       "id": "thoreau-walden",
