@@ -6,7 +6,7 @@
   "colorName": "cyan",
   "iconName": "sparkles",
   "category": "Movies",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-04T12:00:00Z",
   "quotes": [
     {
       "id": "scifi-001",
@@ -417,6 +417,66 @@
       "quoteDate": "1973-04-06",
       "verificationStatus": "verified",
       "notes": "Thorn's horrified revelation closing the film; one of cinema's most famous dystopian twists and a lasting shorthand for corporate dehumanization."
+    },
+    {
+      "id": "scifi-042",
+      "content": "Never send a human to do a machine's job.",
+      "authorName": "Agent Smith (Hugo Weaving)",
+      "source": "The Matrix (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Smith's dismissive line just before ordering sentinels deployed instead of relying on human agents to hunt Morpheus's crew."
+    },
+    {
+      "id": "scifi-043",
+      "content": "Everything begins with choice.",
+      "authorName": "Morpheus (Laurence Fishburne)",
+      "source": "The Matrix Reloaded (2003)",
+      "sourceType": "movie",
+      "quoteDate": "2003-05-15",
+      "verificationStatus": "verified",
+      "notes": "Morpheus's rebuttal to the Merovingian during their philosophical clash over free will."
+    },
+    {
+      "id": "scifi-044",
+      "content": "Choice is an illusion, created between those with power, and those without.",
+      "authorName": "The Merovingian (Lambert Wilson)",
+      "source": "The Matrix Reloaded (2003)",
+      "sourceType": "movie",
+      "quoteDate": "2003-05-15",
+      "verificationStatus": "verified",
+      "notes": "The Merovingian's determinist counter-argument to Morpheus at Le Vrai restaurant."
+    },
+    {
+      "id": "scifi-045",
+      "content": "Everything that has a beginning has an end, Neo.",
+      "authorName": "Agent Smith (Hugo Weaving)",
+      "source": "The Matrix Revolutions (2003)",
+      "sourceType": "movie",
+      "quoteDate": "2003-11-05",
+      "verificationStatus": "verified",
+      "notes": "Smith recalling the Oracle's words during the climactic rain-soaked duel with Neo."
+    },
+    {
+      "id": "scifi-046",
+      "content": "Where better to bury truth than inside something as ordinary as a video game?",
+      "authorName": "Bugs (Jessica Henwick)",
+      "source": "The Matrix Resurrections (2021)",
+      "sourceType": "movie",
+      "quoteDate": "2021-12-22",
+      "verificationStatus": "verified",
+      "notes": "Bugs explaining how the Matrix weaponizes and trivializes important ideas by burying them in fiction."
+    },
+    {
+      "id": "scifi-047",
+      "content": "How do you know if you want something yourself or if your upbringing programmed you to want it?",
+      "authorName": "Trinity (Carrie-Anne Moss)",
+      "source": "The Matrix Resurrections (2021)",
+      "sourceType": "movie",
+      "quoteDate": "2021-12-22",
+      "verificationStatus": "verified",
+      "notes": "Trinity (as 'Tiffany') mulling free will vs. conditioning during a coffee-shop conversation with Thomas Anderson."
     }
   ]
 }

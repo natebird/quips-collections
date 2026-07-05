@@ -6,7 +6,7 @@
   "colorName": "magenta",
   "iconName": "wand.and.stars",
   "category": "Movies",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-04T12:00:00Z",
   "quotes": [
     {
       "id": "disney-001",
@@ -407,6 +407,126 @@
       "quoteDate": "1967-10-18",
       "verificationStatus": "verified",
       "notes": "From 'The Bare Necessities.' Phil Harris voiced Baloo in the original film."
+    },
+    {
+      "id": "disney-041",
+      "content": "I was the world's nicest guy, and they ruined my life for no reason.",
+      "authorName": "Kuzco (David Spade)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Kuzco's self-pitying opening narration, right after introducing himself as the llama on screen."
+    },
+    {
+      "id": "disney-042",
+      "content": "You threw off my groove!",
+      "authorName": "Kuzco (David Spade)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Said after an old man bumps into Kuzco during his imperial strut, kicking off the film's running gag."
+    },
+    {
+      "id": "disney-043",
+      "content": "This is Yzma, the emperor's advisor — living proof that dinosaurs once roamed the Earth.",
+      "authorName": "Kuzco (David Spade)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Kuzco's narrated introduction of Yzma early in the film."
+    },
+    {
+      "id": "disney-044",
+      "content": "Whoa! No touchy! No touchy. No touch.",
+      "authorName": "Kuzco (David Spade)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Kuzco recoiling when Kronk suggests testing whether Yzma is a robot."
+    },
+    {
+      "id": "disney-045",
+      "content": "Pull the lever, Kronk!",
+      "authorName": "Yzma (Eartha Kitt)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Yzma's command en route to her secret lab — Kronk pulls the wrong one and she falls into the alligator pit."
+    },
+    {
+      "id": "disney-046",
+      "content": "Why do we even have that lever?",
+      "authorName": "Yzma (Eartha Kitt)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Yzma's exasperated complaint immediately after the wrong-lever fall."
+    },
+    {
+      "id": "disney-047",
+      "content": "This isn't poison. This is extract of llama!",
+      "authorName": "Yzma (Eartha Kitt)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Yzma realizing the assassination attempt on Kuzco used the wrong potion."
+    },
+    {
+      "id": "disney-048",
+      "content": "Oh, yeah. I thought we'd start off with soup and a light salad, and then see how we feel after that.",
+      "authorName": "Kronk (Patrick Warburton)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Kronk's oblivious answer when Yzma asks if the poison is ready for dinner."
+    },
+    {
+      "id": "disney-049",
+      "content": "You know, in my defense, your poisons all look alike. You might think about relabeling some of them.",
+      "authorName": "Kronk (Patrick Warburton)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Kronk's deadpan excuse after the poison mix-up turns Kuzco into a llama instead of killing him."
+    },
+    {
+      "id": "disney-050",
+      "content": "Yeah, weird.",
+      "authorName": "Kronk (Patrick Warburton)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Kronk's flat response to Yzma's shock that Kuzco is now a talking llama instead of dead."
+    },
+    {
+      "id": "disney-051",
+      "content": "Yeah. My family has lived on that hilltop for the last 6 generations.",
+      "authorName": "Pacha (John Goodman)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Pacha describing his home right before Kuzco reveals he plans to demolish it for his pool resort."
+    },
+    {
+      "id": "disney-052",
+      "content": "I can't let you go back unless you change your mind and build your summer home somewhere else.",
+      "authorName": "Pacha (John Goodman)",
+      "source": "The Emperor's New Groove (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-12-15",
+      "verificationStatus": "verified",
+      "notes": "Pacha's leverage line while guiding llama-Kuzco through the jungle, refusing to help him home unless he spares the village."
     }
   ]
 }

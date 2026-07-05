@@ -1,0 +1,282 @@
+{
+  "id": "lego-movies",
+  "name": "Lego Movies",
+  "description": "Brick-built wisdom and one-liners from the Lego movie universe, with a heavy dose of Ninjago.",
+  "author": "Quips Editorial",
+  "colorName": "red",
+  "iconName": "cube.fill",
+  "category": "Movies",
+  "lastUpdated": "2026-07-04T12:00:00Z",
+  "quotes": [
+    {
+      "id": "lego-001",
+      "content": "Citizens of Ninjago! Get ready to welcome your new overlord... who goes by the name of... Garmadon!",
+      "authorName": "Lord Garmadon (Justin Theroux)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Garmadon's opening conquest announcement."
+    },
+    {
+      "id": "lego-002",
+      "content": "Students, true ninja knows when to fight, and when to become one with the elements.",
+      "authorName": "Master Wu (Jackie Chan)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Wu training the ninja team."
+    },
+    {
+      "id": "lego-003",
+      "content": "I wish you weren't my father.",
+      "authorName": "Lloyd Garmadon (Dave Franco)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Lloyd's line after unmasking to his father."
+    },
+    {
+      "id": "lego-004",
+      "content": "I believe in each of you!",
+      "authorName": "Lloyd Garmadon (Dave Franco)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Lloyd rallying the ninja team."
+    },
+    {
+      "id": "lego-005",
+      "content": "How could I ruin your life? I wasn't even there.",
+      "authorName": "Lord Garmadon (Justin Theroux)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Garmadon's oblivious response to Lloyd."
+    },
+    {
+      "id": "lego-006",
+      "content": "Dude, give me a hug, man. Give me a birthday hug!",
+      "authorName": "Kai (Michael Peña)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Comic beat during Lloyd's birthday."
+    },
+    {
+      "id": "lego-007",
+      "content": "I mean, my mom is weird, and collects seashells. Your dad levels cities and attacks innocent people.",
+      "authorName": "Jay (Kumail Nanjiani)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Jay trying to comfort Lloyd about his supervillain dad."
+    },
+    {
+      "id": "lego-008",
+      "content": "Let's rock!",
+      "authorName": "Cole (Fred Armisen)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Cole's battle catchphrase."
+    },
+    {
+      "id": "lego-009",
+      "content": "Hello, fellow teenager.",
+      "authorName": "Zane (Zach Woods)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Zane's deadpan robot-teen greeting."
+    },
+    {
+      "id": "lego-010",
+      "content": "Oh, I'd say it's about a seven... point... arm ripped off.",
+      "authorName": "Lord Garmadon (Justin Theroux)",
+      "source": "The Lego Ninjago Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-09-22",
+      "verificationStatus": "verified",
+      "notes": "Garmadon assessing Lloyd's injury."
+    },
+    {
+      "id": "lego-011",
+      "content": "Long before time had a name, the First Spinjitzu Master created Ninjago using four elemental weapons.",
+      "authorName": "Sensei Wu (Paul Dobson)",
+      "source": "Ninjago: Masters of Spinjitzu, Season 1 (opening narration) (c. 2011)",
+      "sourceType": "television",
+      "quoteDate": "c. 2011",
+      "verificationStatus": "verified",
+      "notes": "The show's recurring mythos-establishing opening narration."
+    },
+    {
+      "id": "lego-012",
+      "content": "This roof isn't big enough for the four of us.",
+      "authorName": "Kai (Vincent Tong)",
+      "source": "Ninjago: Masters of Spinjitzu, S1 'Home' (2011)",
+      "sourceType": "television",
+      "quoteDate": "c. 2011",
+      "verificationStatus": "verified",
+      "notes": "Kai's comic complaint about Zane's odd behavior."
+    },
+    {
+      "id": "lego-013",
+      "content": "Peace is boring. There's no one to save. There's nothing to do.",
+      "authorName": "Jay (Michael Adamthwaite)",
+      "source": "Ninjago: Masters of Spinjitzu, S1E1 'Rise of the Snakes' (2011)",
+      "sourceType": "television",
+      "quoteDate": "2011-12-02",
+      "verificationStatus": "verified",
+      "notes": "Jay complaining about the quiet after Garmadon's escape."
+    },
+    {
+      "id": "lego-014",
+      "content": "Evil doesn't sleep and neither should you!",
+      "authorName": "Sensei Wu (Paul Dobson)",
+      "source": "Ninjago: Masters of Spinjitzu, S1 'Snakebit' (2011)",
+      "sourceType": "television",
+      "quoteDate": "c. 2011",
+      "verificationStatus": "verified",
+      "notes": "Wu's training-montage wake-up call."
+    },
+    {
+      "id": "lego-015",
+      "content": "A ninja never admits defeat. A ninja always picks himself up when he's down.",
+      "authorName": "Kai (Vincent Tong)",
+      "source": "Ninjago: Masters of Spinjitzu, S1 'All of Nothing' (2011)",
+      "sourceType": "television",
+      "quoteDate": "c. 2011",
+      "verificationStatus": "verified",
+      "notes": "Kai's mantra-style pep talk."
+    },
+    {
+      "id": "lego-016",
+      "content": "One day, a talented lass or fellow, a special one with face of yellow, will make the Piece of Resistance found, from its hiding refuge underground, and with a noble army at the helm, this Master Builder will thwart the Kragle and save the realm, and be the greatest, most interesting, most important person of all times.",
+      "authorName": "Vitruvius (Morgan Freeman)",
+      "source": "The Lego Movie (2014)",
+      "sourceType": "movie",
+      "quoteDate": "2014-02-07",
+      "verificationStatus": "verified",
+      "notes": "The film's central prophecy of the Special."
+    },
+    {
+      "id": "lego-017",
+      "content": "The only thing anyone needs to be special is to believe that you can be. I know that sounds like a cat poster, but it's true.",
+      "authorName": "Vitruvius (Morgan Freeman)",
+      "source": "The Lego Movie (2014)",
+      "sourceType": "movie",
+      "quoteDate": "2014-02-07",
+      "verificationStatus": "verified",
+      "notes": "Vitruvius revealing the prophecy was invented."
+    },
+    {
+      "id": "lego-018",
+      "content": "I hate this place.",
+      "authorName": "Batman (Will Arnett)",
+      "source": "The Lego Movie (2014)",
+      "sourceType": "movie",
+      "quoteDate": "2014-02-07",
+      "verificationStatus": "verified",
+      "notes": "Batman on Cloud Cuckoo Land."
+    },
+    {
+      "id": "lego-019",
+      "content": "I will text you.",
+      "authorName": "Batman (Will Arnett)",
+      "source": "The Lego Movie (2014)",
+      "sourceType": "movie",
+      "quoteDate": "2014-02-07",
+      "verificationStatus": "verified",
+      "notes": "Batman's non-committal breakup line to Wyldstyle."
+    },
+    {
+      "id": "lego-020",
+      "content": "Yes I can. 'Cause I'm Batman.",
+      "authorName": "Batman/Bruce Wayne (Will Arnett)",
+      "source": "The Lego Batman Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-02-10",
+      "verificationStatus": "verified",
+      "notes": "Batman's response to Alfred about living alone forever."
+    },
+    {
+      "id": "lego-021",
+      "content": "Because last I checked I only had one butt.",
+      "authorName": "Batman (Will Arnett)",
+      "source": "The Lego Batman Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-02-10",
+      "verificationStatus": "verified",
+      "notes": "Batman explaining his single-seat vehicles."
+    },
+    {
+      "id": "lego-022",
+      "content": "Iron Man sucks!",
+      "authorName": "Batman/Bruce Wayne (Will Arnett)",
+      "source": "The Lego Batman Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-02-10",
+      "verificationStatus": "verified",
+      "notes": "One of Batman's many self-aggrandizing one-liners."
+    },
+    {
+      "id": "lego-023",
+      "content": "You're a fish! You're a frog! You're a fish-frog!",
+      "authorName": "Lord Voldemort (Eddie Izzard)",
+      "source": "The Lego Batman Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-02-10",
+      "verificationStatus": "verified",
+      "notes": "Cameo gag during the villain-team-up sequence."
+    },
+    {
+      "id": "lego-024",
+      "content": "Wait, does Batman live in Bruce Wayne's basement?",
+      "authorName": "Dick Grayson/Robin (Michael Cera)",
+      "source": "The Lego Batman Movie (2017)",
+      "sourceType": "movie",
+      "quoteDate": "2017-02-10",
+      "verificationStatus": "verified",
+      "notes": "Robin's naive early misunderstanding of Batman's identity."
+    },
+    {
+      "id": "lego-025",
+      "content": "I'm you. From the future. All grown up.",
+      "authorName": "Rex Dangervest (Chris Pratt)",
+      "source": "The Lego Movie 2: The Second Part (2019)",
+      "sourceType": "movie",
+      "quoteDate": "2019-02-08",
+      "verificationStatus": "verified",
+      "notes": "Rex's reveal to Emmet."
+    },
+    {
+      "id": "lego-026",
+      "content": "I'll never grow up to be like you... We're not alone in this world.",
+      "authorName": "Emmet Brickowski (Chris Pratt)",
+      "source": "The Lego Movie 2: The Second Part (2019)",
+      "sourceType": "movie",
+      "quoteDate": "2019-02-08",
+      "verificationStatus": "verified",
+      "notes": "Emmet rejecting Rex's cynicism."
+    },
+    {
+      "id": "lego-027",
+      "content": "It's over, Rex. Emmet's never gonna be you. But you can be like him.",
+      "authorName": "Lucy/Wyldstyle (Elizabeth Banks)",
+      "source": "The Lego Movie 2: The Second Part (2019)",
+      "sourceType": "movie",
+      "quoteDate": "2019-02-08",
+      "verificationStatus": "verified",
+      "notes": "Lucy's closing rebuke to Rex."
+    }
+  ]
+}
