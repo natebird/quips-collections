@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-01T12:00:00Z",
+  "lastUpdated": "2026-07-04T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -449,7 +449,7 @@
       "name": "Disney Animated",
       "description": "Magical quotes from Disney's animated classics, from the golden age to modern masterpieces.",
       "author": "Quips Editorial",
-      "quoteCount": 40,
+      "quoteCount": 52,
       "previewQuotes": [
         "Hakuna Matata! It means no worries for the rest of your days.",
         "To infinity and beyond!"
@@ -457,9 +457,9 @@
       "colorName": "magenta",
       "iconName": "wand.and.stars",
       "category": "Movies",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-935Dksf2CKWHsi/nGZa5WK/CTbNo9DdAouL55OQBIA8=",
-      "bytes": 15663
+      "lastUpdated": "2026-07-04T12:00:00Z",
+      "contentHash": "sha256-MoL3bp2U0L0KO5XDWP4U8VypFEuFjpjf+pNhZ8yiHvw=",
+      "bytes": 20705
     },
     {
       "id": "seinfeld",
@@ -534,7 +534,7 @@
       "name": "Sci-Fi Screen",
       "description": "Memorable quotes from science fiction movies and television that shaped our imagination.",
       "author": "Quips Editorial",
-      "quoteCount": 41,
+      "quoteCount": 47,
       "previewQuotes": [
         "May the Force be with you.",
         "Live long and prosper."
@@ -542,9 +542,9 @@
       "colorName": "cyan",
       "iconName": "sparkles",
       "category": "Movies",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-bwQGMnOEPYtb47eoUZdbVbRvVtA6mCtdIlkK4COGeXY=",
-      "bytes": 16111
+      "lastUpdated": "2026-07-04T12:00:00Z",
+      "contentHash": "sha256-A3gMnqLyIJnR/gYi/Y1JQ2r/+ltzagjvAgVT6oibPkc=",
+      "bytes": 18723
     },
     {
       "id": "star-wars",
@@ -562,6 +562,40 @@
       "lastUpdated": "2026-06-27T12:00:00Z",
       "contentHash": "sha256-pYk00P7X22EO5jhW+FGTBb3qnfxAvY/kNRHcjWZ8mZY=",
       "bytes": 24399
+    },
+    {
+      "id": "lego-movies",
+      "name": "Lego Movies",
+      "description": "Brick-built wisdom and one-liners from the Lego movie universe, with a heavy dose of Ninjago.",
+      "author": "Quips Editorial",
+      "quoteCount": 27,
+      "previewQuotes": [
+        "Hello, fellow teenager.",
+        "I hate this place."
+      ],
+      "colorName": "red",
+      "iconName": "cube.fill",
+      "category": "Movies",
+      "lastUpdated": "2026-07-04T12:00:00Z",
+      "contentHash": "sha256-wBPHIPZNrkaL41yD7FC0Ra4XK0uLlImTs6R+xivHPH0=",
+      "bytes": 10718
+    },
+    {
+      "id": "teen-movies",
+      "name": "Teen Movie Classics",
+      "description": "Sharp comebacks and coming-of-age wisdom from the high school movies that defined a generation.",
+      "author": "Quips Editorial",
+      "quoteCount": 31,
+      "previewQuotes": [
+        "Get in, loser. We're going shopping.",
+        "That was way harsh, Tai."
+      ],
+      "colorName": "magenta",
+      "iconName": "graduationcap.fill",
+      "category": "Movies",
+      "lastUpdated": "2026-07-04T12:00:00Z",
+      "contentHash": "sha256-aekdBwjAL4B+TH9Jlr7IqS9ItBFAyy+sHR/F2AoUmhs=",
+      "bytes": 12595
     },
     {
       "id": "battlestar-galactica",

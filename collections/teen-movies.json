@@ -1,0 +1,322 @@
+{
+  "id": "teen-movies",
+  "name": "Teen Movie Classics",
+  "description": "Sharp comebacks and coming-of-age wisdom from the high school movies that defined a generation.",
+  "author": "Quips Editorial",
+  "colorName": "magenta",
+  "iconName": "graduationcap.fill",
+  "category": "Movies",
+  "lastUpdated": "2026-07-04T12:00:00Z",
+  "quotes": [
+    {
+      "id": "teen-001",
+      "content": "I hate the way you talk to me, and the way you cut your hair. I hate the way you drive my car. I hate it when you stare. I hate your big dumb combat boots, and the way you read my mind. I hate you so much it makes me sick, it even makes me rhyme. I hate the way you're always right. I hate it when you lie. I hate it when you make me laugh, even worse when you make me cry. I hate it when you're not around, and the fact that you didn't call. But mostly I hate the way I don't hate you, not even close, not even a little bit, not even at all.",
+      "authorName": "Kat Stratford (Julia Stiles)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Kat's poem, read aloud in class near the film's climax."
+    },
+    {
+      "id": "teen-002",
+      "content": "I know you can be overwhelmed, and you can be underwhelmed, but can you ever just be whelmed?",
+      "authorName": "Chastity (Gabrielle Union)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Often misattributed to Kat Stratford, but it's Chastity's line."
+    },
+    {
+      "id": "teen-003",
+      "content": "I think you can in Europe.",
+      "authorName": "Bianca Stratford (Larisa Oleynik)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Bianca's deadpan reply to Chastity's 'whelmed' line."
+    },
+    {
+      "id": "teen-004",
+      "content": "Yeah, but I screwed up. I, um, I fell for her.",
+      "authorName": "Patrick Verona (Heath Ledger)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Patrick confessing his real feelings to Cameron."
+    },
+    {
+      "id": "teen-005",
+      "content": "I don't like to do what people expect. Why should I live up to other people's expectations instead of my own?",
+      "authorName": "Kat Stratford (Julia Stiles)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Establishes Kat's core defiance."
+    },
+    {
+      "id": "teen-006",
+      "content": "You burn, you pine, you perish?",
+      "authorName": "Michael Eckman (David Krumholtz)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Michael sizing up Cameron's crush on Bianca."
+    },
+    {
+      "id": "teen-007",
+      "content": "Remove head from sphincter, then drive!",
+      "authorName": "Kat Stratford (Julia Stiles)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Yelled at a moped rider who cuts off Kat's car."
+    },
+    {
+      "id": "teen-008",
+      "content": "This morning, I delivered a set of twins to a fifteen-year-old girl. Do you know what she said to me? She said, 'I should have listened to my father.'",
+      "authorName": "Walter Stratford (Larry Miller)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "The gynecologist dad's running joke about teen pregnancy scare tactics."
+    },
+    {
+      "id": "teen-009",
+      "content": "Looks like you'll just have to miss out on the witty repartee of Joey 'Eat Me' Donner.",
+      "authorName": "Kat Stratford (Julia Stiles)",
+      "source": "10 Things I Hate About You (1999)",
+      "sourceType": "movie",
+      "quoteDate": "1999-03-31",
+      "verificationStatus": "verified",
+      "notes": "Kat mocking Bianca's crush."
+    },
+    {
+      "id": "teen-010",
+      "content": "Get in, loser. We're going shopping.",
+      "authorName": "Regina George (Rachel McAdams)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Regina recruiting Cady into the Plastics."
+    },
+    {
+      "id": "teen-011",
+      "content": "On Wednesdays, we wear pink.",
+      "authorName": "Regina George (Rachel McAdams)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "The Plastics' rigid dress code, one of the film's most-quoted lines."
+    },
+    {
+      "id": "teen-012",
+      "content": "Stop trying to make 'fetch' happen. It's not going to happen.",
+      "authorName": "Regina George (Rachel McAdams)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Regina shutting down Gretchen's slang."
+    },
+    {
+      "id": "teen-013",
+      "content": "That's so fetch.",
+      "authorName": "Gretchen Wieners (Lacey Chabert)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "The slang Regina refuses to let catch on."
+    },
+    {
+      "id": "teen-014",
+      "content": "Four for you, Glen Coco! You go, Glen Coco!",
+      "authorName": "Damian Leigh (Daniel Franzese)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Damian handing out candy canes at the Christmas pageant; the character's name is often misspelled 'Glenn Coco.'"
+    },
+    {
+      "id": "teen-015",
+      "content": "She doesn't even go here!",
+      "authorName": "Damian Leigh (Daniel Franzese)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Damian's outburst during the cafeteria brawl."
+    },
+    {
+      "id": "teen-016",
+      "content": "I'm not like a regular mom, I'm a cool mom.",
+      "authorName": "Mrs. George (Amy Poehler)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Regina's mom trying to bond with the girls."
+    },
+    {
+      "id": "teen-017",
+      "content": "Grool... I meant to say cool, and then I started to say great.",
+      "authorName": "Cady Heron (Lindsay Lohan)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Cady's accidental word-blend in front of Aaron Samuels."
+    },
+    {
+      "id": "teen-018",
+      "content": "I'm sorry that people are so jealous of me... but I can't help it that I'm so popular.",
+      "authorName": "Gretchen Wieners (Lacey Chabert)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Gretchen's non-apology during the gym-class apology scene, often misattributed to Regina."
+    },
+    {
+      "id": "teen-019",
+      "content": "Is butter a carb?",
+      "authorName": "Regina George (Rachel McAdams)",
+      "source": "Mean Girls (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-04-30",
+      "verificationStatus": "verified",
+      "notes": "Regina's diet-obsessed non-sequitur."
+    },
+    {
+      "id": "teen-020",
+      "content": "That was way harsh, Tai.",
+      "authorName": "Cher Horowitz (Alicia Silverstone)",
+      "source": "Clueless (1995)",
+      "sourceType": "movie",
+      "quoteDate": "1995-07-19",
+      "verificationStatus": "verified",
+      "notes": "Cher scolding Tai after a cutting remark."
+    },
+    {
+      "id": "teen-021",
+      "content": "Ugh, as if!",
+      "authorName": "Cher Horowitz (Alicia Silverstone)",
+      "source": "Clueless (1995)",
+      "sourceType": "movie",
+      "quoteDate": "1995-07-19",
+      "verificationStatus": "verified",
+      "notes": "Cher's catchphrase dismissal."
+    },
+    {
+      "id": "teen-022",
+      "content": "What, like it's hard?",
+      "authorName": "Elle Woods (Reese Witherspoon)",
+      "source": "Legally Blonde (2001)",
+      "sourceType": "movie",
+      "quoteDate": "2001-07-13",
+      "verificationStatus": "verified",
+      "notes": "Elle's retort to Warner in the Harvard hallway."
+    },
+    {
+      "id": "teen-023",
+      "content": "Oh my God, the bend and snap — works every time!",
+      "authorName": "Paulette Bonafonté (Jennifer Coolidge)",
+      "source": "Legally Blonde (2001)",
+      "sourceType": "movie",
+      "quoteDate": "2001-07-13",
+      "verificationStatus": "verified",
+      "notes": "Paulette's excitement after trying Elle's flirting technique."
+    },
+    {
+      "id": "teen-024",
+      "content": "Screws fall out all the time. The world is an imperfect place.",
+      "authorName": "John Bender (Judd Nelson)",
+      "source": "The Breakfast Club (1985)",
+      "sourceType": "movie",
+      "quoteDate": "1985-02-15",
+      "verificationStatus": "verified",
+      "notes": "Bender's dry philosophy during detention."
+    },
+    {
+      "id": "teen-025",
+      "content": "...what we found out is that each one of us is a brain, an athlete, a basket case, a princess, and a criminal.",
+      "authorName": "Brian Johnson (Anthony Michael Hall)",
+      "source": "The Breakfast Club (1985)",
+      "sourceType": "movie",
+      "quoteDate": "1985-02-15",
+      "verificationStatus": "verified",
+      "notes": "From Brian's closing essay to Mr. Vernon."
+    },
+    {
+      "id": "teen-026",
+      "content": "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
+      "authorName": "Ferris Bueller (Matthew Broderick)",
+      "source": "Ferris Bueller's Day Off (1986)",
+      "sourceType": "movie",
+      "quoteDate": "1986-06-11",
+      "verificationStatus": "verified",
+      "notes": "Ferris's direct-to-camera thesis statement."
+    },
+    {
+      "id": "teen-027",
+      "content": "Bueller? ... Bueller? ... Bueller?",
+      "authorName": "Economics Teacher (Ben Stein)",
+      "source": "Ferris Bueller's Day Off (1986)",
+      "sourceType": "movie",
+      "quoteDate": "1986-06-11",
+      "verificationStatus": "verified",
+      "notes": "The deadpan roll-call gag that became the film's signature bit."
+    },
+    {
+      "id": "teen-028",
+      "content": "Girls only want boyfriends who have great skills.",
+      "authorName": "Napoleon Dynamite (Jon Heder)",
+      "source": "Napoleon Dynamite (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-06-11",
+      "verificationStatus": "verified",
+      "notes": "Napoleon's list of qualifications for dating."
+    },
+    {
+      "id": "teen-029",
+      "content": "I caught you a delicious bass.",
+      "authorName": "Napoleon Dynamite (Jon Heder)",
+      "source": "Napoleon Dynamite (2004)",
+      "sourceType": "movie",
+      "quoteDate": "2004-06-11",
+      "verificationStatus": "verified",
+      "notes": "Napoleon presenting a fish to Deb as a gift."
+    },
+    {
+      "id": "teen-030",
+      "content": "Courtney, this isn't a democracy, it's a cheer-ocracy.",
+      "authorName": "Torrance Shipman (Kirsten Dunst)",
+      "source": "Bring It On (2000)",
+      "sourceType": "movie",
+      "quoteDate": "2000-08-25",
+      "verificationStatus": "verified",
+      "notes": "Torrance asserting captain authority over the squad."
+    },
+    {
+      "id": "teen-031",
+      "content": "The rumors of my promiscuity have been greatly exaggerated.",
+      "authorName": "Olive Penderghast (Emma Stone)",
+      "source": "Easy A (2010)",
+      "sourceType": "movie",
+      "quoteDate": "2010-09-17",
+      "verificationStatus": "verified",
+      "notes": "Olive addressing her school-wide reputation."
+    }
+  ]
+}
