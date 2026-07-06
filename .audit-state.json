@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "description": "Tracks progress of the recurring quote-sourcing audit so each run covers the next unaudited batch instead of re-checking randomly. Order is the alphabetically sorted list of collections/*.json filenames (without extension); within a file, quotes are walked in their existing array order.",
+  "order": [
+    "battlestar-galactica", "bhagavad-gita", "bible-wisdom", "bob-dylan",
+    "champions-mindset", "childrens-literature", "christian-saints",
+    "civil-rights-voices", "cosmos-space", "courage-conviction",
+    "creative-minds", "cs-lewis", "curiosity-discovery", "dc-comics",
+    "dhammapada", "disney-animated", "dream-big", "dystopian-fiction",
+    "earth-and-the-wild", "edgar-allan-poe", "entrepreneurs",
+    "fantasy-worlds", "first-lines", "founding-fathers", "friendship",
+    "gratitude", "great-poems", "great-scientists", "great-speeches",
+    "grit-perseverance", "hadith", "how-i-met-your-mother",
+    "iconic-game-lines", "inspiration-daily", "jane-austen",
+    "jewish-wisdom", "john-muir", "johnny-cash", "lds-general-conference",
+    "leadership-vision", "legend-of-zelda", "legendary-coaches",
+    "lego-movies", "literary-classics", "love-and-romance",
+    "mark-twain-wit", "marriage-and-weddings", "marvel-movies",
+    "mindfulness", "money-investing", "naruto", "on-leadership",
+    "one-liners", "one-piece", "oscar-wilde", "quran", "resilience",
+    "rest-balance", "rpg-wisdom", "rumi", "scifi-screen", "seinfeld",
+    "self-compassion", "shakespeare", "sherlock-holmes", "sikh-wisdom",
+    "standup-legends", "star-wars", "starcraft", "stoic-wisdom",
+    "studio-ghibli", "tao-te-ching", "tech-visionaries", "teen-movies",
+    "the-beatles", "thoreau-walden", "warcraft", "western-movies",
+    "words-of-jesus", "yogi-berra", "zen-wisdom"
+  ],
+  "cursor": {
+    "fileIndex": 0,
+    "file": "battlestar-galactica",
+    "quoteIndex": 10,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at battlestar-galactica quotes[10] (bsg-011)."
+  },
+  "totalQuotes": 2588,
+  "totalQuotesAudited": 10,
+  "passNumber": 1,
+  "passStartedAt": "2026-07-06T00:00:00Z",
+  "runs": [
+    {
+      "runDate": "2026-07-06",
+      "file": "battlestar-galactica",
+      "quoteRange": "bsg-001..bsg-010",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": ["bsg-004"],
+      "issue": "misquote (incomplete opening narration text)",
+      "resolution": "fixed in this run's PR; content corrected to full Season 1 title-card text",
+      "reportedIn": "see GitHub issue created this run"
+    }
+  ]
+}
