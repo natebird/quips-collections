@@ -6,7 +6,7 @@
   "colorName": "forestGreen",
   "iconName": "dollarsign.circle.fill",
   "category": "Business & Leadership",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-06T12:00:00Z",
   "quotes": [
     {
       "id": "invest-001",
@@ -307,6 +307,36 @@
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
       "notes": "Unverified: the transcript reads 'The money is gold, and nothing else'; this tidy paraphrase is not the verbatim testimony. Wording axis fails."
+    },
+    {
+      "id": "invest-031",
+      "content": "Experience is what you got when you didn't get what you wanted.",
+      "authorName": "Howard Marks",
+      "source": "The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor (2013)",
+      "quoteDate": "2013",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Marks's maxim from the book's chapters on risk, on why hard markets teach the lessons easy ones cannot."
+    },
+    {
+      "id": "invest-032",
+      "content": "The three most harmful addictions are heroin, carbohydrates, and a monthly salary.",
+      "authorName": "Nassim Nicholas Taleb",
+      "source": "The Bed of Procrustes: Philosophical and Practical Aphorisms (2010)",
+      "quoteDate": "2010",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Often misattributed to Taleb's later Skin in the Game; the aphorism originates in this 2010 collection."
+    },
+    {
+      "id": "invest-033",
+      "content": "Value investing is at its core the marriage of a contrarian streak and a calculator.",
+      "authorName": "Seth Klarman",
+      "source": "Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor (1991)",
+      "quoteDate": "1991",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Klarman's summary of the temperament value investing demands; the long-out-of-print book now sells for thousands of dollars used."
     }
   ]
 }

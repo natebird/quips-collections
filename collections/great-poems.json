@@ -6,7 +6,7 @@
   "colorName": "forestGreen",
   "iconName": "scroll.fill",
   "category": "Literature",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-07-06T12:00:00Z",
   "quotes": [
     {
       "id": "poem-001",
@@ -337,6 +337,16 @@
       "quoteDate": "1920",
       "verificationStatus": "verified",
       "notes": "The opening of Millay's brief, brilliant ode to living fast and burning bright."
+    },
+    {
+      "id": "poem-034",
+      "content": "I'm Nobody! Who are you?\nAre you – Nobody – too?",
+      "authorName": "Emily Dickinson",
+      "source": "I'm Nobody! Who are you? (c. 1861)",
+      "sourceType": "poem",
+      "quoteDate": "c. 1861",
+      "verificationStatus": "verified",
+      "notes": "The poem's famous opening couplet; only these two lines are quoted since a later line has a disputed manuscript-vs-published wording."
     }
   ]
 }
