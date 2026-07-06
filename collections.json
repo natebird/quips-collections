@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-04T12:00:00Z",
+  "lastUpdated": "2026-07-06T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -245,7 +245,7 @@
       "name": "Great Poems",
       "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
       "author": "Quips Editorial",
-      "quoteCount": 33,
+      "quoteCount": 34,
       "previewQuotes": [
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
@@ -253,9 +253,9 @@
       "colorName": "forestGreen",
       "iconName": "scroll.fill",
       "category": "Literature",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-yWsPD2maV+v3bLKe72n/HfhjyGjmW9Gb+cRM0NT6WNw=",
-      "bytes": 14066
+      "lastUpdated": "2026-07-06T12:00:00Z",
+      "contentHash": "sha256-bdW6GIphhUIpUCwpQqSKhyGu+VqOJJY3oe7sRbdO4oM=",
+      "bytes": 14519
     },
     {
       "id": "dystopian-fiction",
@@ -925,7 +925,7 @@
       "name": "Money & Investing",
       "description": "Timeless sense about wealth, markets, and money from investors who built it.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 33,
       "previewQuotes": [
         "Lost time is never found again.",
         "Pain plus reflection equals progress."
@@ -933,9 +933,9 @@
       "colorName": "forestGreen",
       "iconName": "dollarsign.circle.fill",
       "category": "Business & Leadership",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-hacvsnkoOZMsMagzSzN37dS7DMmR+12kfcMqcxm7sT4=",
-      "bytes": 13722
+      "lastUpdated": "2026-07-06T12:00:00Z",
+      "contentHash": "sha256-tewcyHcmmXClB3yXHBcY2BZP6NJJvXCo2AusknhCMYM=",
+      "bytes": 15227
     },
     {
       "id": "great-speeches",
