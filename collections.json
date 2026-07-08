@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-06T12:00:00Z",
+  "lastUpdated": "2026-07-07T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1378,6 +1378,23 @@
       "lastUpdated": "2026-07-01T12:00:00Z",
       "contentHash": "sha256-gc9purdksmh+RXvzpKyeARJzyif3yZkFJ6S83he2xig=",
       "bytes": 8141
+    },
+    {
+      "id": "michael-jordan",
+      "name": "Michael Jordan",
+      "description": "Words on winning, work, and fearlessness from the greatest to ever play the game.",
+      "author": "Quips Editorial",
+      "quoteCount": 52,
+      "previewQuotes": [
+        "Talent wins games, but teamwork and intelligence win championships.",
+        "I can accept failure. Everyone fails at something. But I can't accept not trying."
+      ],
+      "colorName": "red",
+      "iconName": "basketball.fill",
+      "category": "Sports",
+      "lastUpdated": "2026-07-07T12:00:00Z",
+      "contentHash": "sha256-PYNvB5yebEdbBAkHv0b/B/VjMsKohGm7nCkTYPPfbXk=",
+      "bytes": 25424
     }
   ]
 }
