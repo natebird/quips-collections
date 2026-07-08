@@ -11,6 +11,15 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.6.0] - 2026-07-07
+### Added
+New Sports collection:
+- `michael-jordan` (52 quotes) — drawn entirely from primary sources: his books
+  *I Can't Accept Not Trying* (1994) and *Driven from Within* (2005), the 1997
+  Nike "Failure" commercial, his 2009 Basketball Hall of Fame induction speech,
+  *The Last Dance* (2020), and the 2013 ESPN feature "Michael Jordan Has Not Left
+  The Building."
+
 ## [1.5.0] - 2026-07-06
 ### Added
 Two new Movies collections:

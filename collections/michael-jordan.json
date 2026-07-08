@@ -1,0 +1,532 @@
+{
+  "id": "michael-jordan",
+  "name": "Michael Jordan",
+  "description": "Words on winning, work, and fearlessness from the greatest to ever play the game.",
+  "author": "Quips Editorial",
+  "colorName": "red",
+  "iconName": "basketball.fill",
+  "category": "Sports",
+  "lastUpdated": "2026-07-07T12:00:00Z",
+  "quotes": [
+    {
+      "id": "mj-001",
+      "content": "I can accept failure. Everyone fails at something. But I can't accept not trying.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "The line the book's title derives from, from its chapter on fear."
+    },
+    {
+      "id": "mj-002",
+      "content": "Step by step. I can't see any other way of accomplishing anything. I always had the ultimate goal of being the best, but I approached everything step by step.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Opening of the book's chapter on goals, on building success incrementally."
+    },
+    {
+      "id": "mj-003",
+      "content": "I know fear is an obstacle for some people, but it's an illusion to me. Once I'm in there, I'm not thinking about anything except what I'm trying to accomplish. Any fear is an illusion.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on fears; the source of the paraphrased 'fear is an illusion' line."
+    },
+    {
+      "id": "mj-004",
+      "content": "Failure always made me try harder the next time. That's why my advice has always been to \"think positive\" and find fuel in any failure. Sometimes failure actually just gets you closer to where you want to be.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On turning failure into motivation, from the chapter on fears."
+    },
+    {
+      "id": "mj-005",
+      "content": "I've always believed that if you put in the work, the results will come. I don't do things halfheartedly. Because I know if I do, then I can expect halfhearted results.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on commitment, on refusing to give less than full effort."
+    },
+    {
+      "id": "mj-006",
+      "content": "If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on commitment, on working through obstacles."
+    },
+    {
+      "id": "mj-007",
+      "content": "Talent wins games, but teamwork and intelligence win championships.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on teamwork; often misquoted as 'wins championships.'"
+    },
+    {
+      "id": "mj-008",
+      "content": "Fundamentals were the most crucial part of my game in the NBA. Everything I did, everything I achieved, can be traced back to the way I approached the fundamentals.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on fundamentals, crediting basics for his success."
+    },
+    {
+      "id": "mj-009",
+      "content": "You can practice shooting eight hours a day, but if your technique is wrong, then all you become is very good at shooting the wrong way. Get the fundamentals down and the level of everything you do will rise.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on fundamentals, on practicing the right way."
+    },
+    {
+      "id": "mj-010",
+      "content": "You forget about the outcome. You know you are doing the right things. So you relax and perform. After that you can't control anything anyway.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on fears, on playing free of the fear of failure."
+    },
+    {
+      "id": "mj-011",
+      "content": "Whether it's golf, basketball, business, family life, or even baseball, I set goals—realistic goals—and I focus on them. I ask questions, I read, I listen.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on goals, on applying the same approach everywhere."
+    },
+    {
+      "id": "mj-012",
+      "content": "A lot of people try to pull you down to their level because they can't achieve certain things. But very few people get anywhere by taking shortcuts.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on commitment, on resisting others' limits."
+    },
+    {
+      "id": "mj-013",
+      "content": "As I look back, each one of those steps or successes led to the next one. When I got cut from the varsity team as a sophomore in high school, I learned something. I knew I never wanted to feel that bad again.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on goals, recalling being cut from his high school varsity team."
+    },
+    {
+      "id": "mj-014",
+      "content": "It doesn't matter if you win as long as you give everything in your heart and work at it 110 percent.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on commitment, on effort over outcome."
+    },
+    {
+      "id": "mj-015",
+      "content": "They sound like they're committed to being the best they can be. They say all the right things, make all the proper appearances. But when it comes right down to it, they're looking for reasons instead of answers.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on commitment, on why most people fall short of their goals."
+    },
+    {
+      "id": "mj-016",
+      "content": "I was trying to live up to everyone else's expectations for me instead of following my own road.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On a lesson he learned during his junior year at North Carolina."
+    },
+    {
+      "id": "mj-017",
+      "content": "The minute you get away from fundamentals—whether it's proper technique, work ethic, or mental preparation—the bottom can fall out.",
+      "authorName": "Michael Jordan",
+      "source": "I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence (1994)",
+      "quoteDate": "1994",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the chapter on fundamentals, on the cost of neglecting the basics."
+    },
+    {
+      "id": "mj-018",
+      "content": "Players who practice hard when no one is paying attention generally play well when everyone is watching.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Earned' chapter, on the payoff of unseen work."
+    },
+    {
+      "id": "mj-019",
+      "content": "Nothing of value comes without being earned. That's why great leaders are those who lead by example first. You can't demand respect because of a title or a position and expect people to follow. That might work for a little while, but in the long run people respond to what they see.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Earned' chapter, on leadership by example."
+    },
+    {
+      "id": "mj-020",
+      "content": "I don't believe in following. I believe in leading.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A pull-quote from the book's introduction on leading with action, not words."
+    },
+    {
+      "id": "mj-021",
+      "content": "My standards have always been mine alone. I have never tried to be like somebody else, or live up to the expectations of others.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the introduction, on setting his own bar."
+    },
+    {
+      "id": "mj-022",
+      "content": "I had no doubts or fears because I never had expectations that were out of context with my skill level.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Earned' chapter, on grounded confidence."
+    },
+    {
+      "id": "mj-023",
+      "content": "There are no shortcuts. There is no way around working hard.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A pull-quote on the necessity of hard work."
+    },
+    {
+      "id": "mj-024",
+      "content": "I had dreams. They were my dreams, and I had no fear of them.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Aspirational' chapter, on owning his ambitions."
+    },
+    {
+      "id": "mj-025",
+      "content": "Put all the work in, and then let the future emerge.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Aspirational' chapter, on how dreams unfold from effort."
+    },
+    {
+      "id": "mj-026",
+      "content": "Success to me has nothing to do with how much money you have or what kind of car you drive.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A pull-quote redefining success beyond material terms."
+    },
+    {
+      "id": "mj-027",
+      "content": "I've never allowed anyone's opinion to define me. I'm comfortable with who I am. I trust myself.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Authentic' chapter, on self-trust."
+    },
+    {
+      "id": "mj-028",
+      "content": "There was never any fear for me, no fear of failure. If I miss a shot, so what?",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Authentic' chapter, on playing without fear."
+    },
+    {
+      "id": "mj-029",
+      "content": "I will never do anything that isn't authentic.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A pull-quote on staying true to himself."
+    },
+    {
+      "id": "mj-030",
+      "content": "Play to win. Why else would you play?",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On his competitive approach, applied to business as well as basketball."
+    },
+    {
+      "id": "mj-031",
+      "content": "It was the idea somebody might be sitting there who had never seen Michael Jordan play. I thought about that person who had never experienced the excitement or entertainment I could provide. That would be the thought that drove me to play that game.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On manufacturing motivation even for meaningless games."
+    },
+    {
+      "id": "mj-032",
+      "content": "I'm a poker player. I like to see the other guy's cards first.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On reading opponents early in a game before attacking."
+    },
+    {
+      "id": "mj-033",
+      "content": "I never lost the desire to work hard, set goals and achieve. That never went away for me.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "A late-career reflection on his enduring drive."
+    },
+    {
+      "id": "mj-034",
+      "content": "Coach Herring was the first one to see in me what I saw in myself.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Earned' chapter, crediting his high school coach Clifton Herring."
+    },
+    {
+      "id": "mj-035",
+      "content": "I couldn't be a vocal leader at the beginning. I was afraid to speak to veteran guys, most of whom weren't making as much money as I was.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Earned' chapter, on having to earn the standing to lead."
+    },
+    {
+      "id": "mj-036",
+      "content": "I knew what he expected, but I expected even more. The expectations I had for myself were beyond my father's expectations.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "On the internal standard he set beyond what his father James asked of him."
+    },
+    {
+      "id": "mj-037",
+      "content": "I wanted to prove what I could do. When my play started providing me with rewards, then I wanted to prove I deserved them.",
+      "authorName": "Michael Jordan",
+      "source": "Driven from Within, with Mark Vancil (2005)",
+      "quoteDate": "2005",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "From the 'Earned' chapter, on his escalating motivation."
+    },
+    {
+      "id": "mj-038",
+      "content": "I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+      "authorName": "Michael Jordan",
+      "source": "Nike \"Failure\" commercial (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Jordan's voice-over for the famous Nike 'Failure' ad, filmed in a Chicago arena."
+    },
+    {
+      "id": "mj-039",
+      "content": "Because limits, like fears, are often just an illusion.",
+      "authorName": "Michael Jordan",
+      "source": "Basketball Hall of Fame induction speech, Springfield, MA, September 11, 2009",
+      "quoteDate": "2009-09-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "One of the most-quoted closing lines of his enshrinement address."
+    },
+    {
+      "id": "mj-040",
+      "content": "One day you might look up and see me playing the game at 50. Oh, don't laugh. Don't do that. Never say never.",
+      "authorName": "Michael Jordan",
+      "source": "Basketball Hall of Fame induction speech, Springfield, MA, September 11, 2009",
+      "quoteDate": "2009-09-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Said near the end of the speech, just before the 'limits, like fears' line."
+    },
+    {
+      "id": "mj-041",
+      "content": "The game of basketball has been everything to me. My refuge, the place I've always gone when I needed to find comfort and peace.",
+      "authorName": "Michael Jordan",
+      "source": "Basketball Hall of Fame induction speech, Springfield, MA, September 11, 2009",
+      "quoteDate": "2009-09-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From the reflective close of the speech on what basketball meant to him."
+    },
+    {
+      "id": "mj-042",
+      "content": "I don't look at this moment as a defining end to my relationship with the game of basketball. It's simply a continuation of something that I started a long time ago.",
+      "authorName": "Michael Jordan",
+      "source": "Basketball Hall of Fame induction speech, Springfield, MA, September 11, 2009",
+      "quoteDate": "2009-09-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Framing his induction as a beginning rather than an end."
+    },
+    {
+      "id": "mj-043",
+      "content": "There's not an \"i\" in team, but there's an \"i\" in win.",
+      "authorName": "Michael Jordan",
+      "source": "Basketball Hall of Fame induction speech, Springfield, MA, September 11, 2009",
+      "quoteDate": "2009-09-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Recounting an on-court exchange with assistant coach Tex Winter."
+    },
+    {
+      "id": "mj-044",
+      "content": "When he made the team and I didn't, I wanted to prove not just to Leroy Smith, not just to myself, but to the coach who actually picked Leroy over me. I wanted to make sure you understood, you made a mistake, dude.",
+      "authorName": "Michael Jordan",
+      "source": "Basketball Hall of Fame induction speech, Springfield, MA, September 11, 2009",
+      "quoteDate": "2009-09-11",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "On being cut from varsity in favor of Leroy Smith, whom he flew in for the ceremony."
+    },
+    {
+      "id": "mj-045",
+      "content": "Winning has a price. And leadership has a price. So I pulled people along when they didn't want to be pulled.",
+      "authorName": "Michael Jordan",
+      "source": "The Last Dance (ESPN/Netflix documentary, 2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "From his Episode 7 monologue defending his demanding leadership style."
+    },
+    {
+      "id": "mj-046",
+      "content": "When people see this, they're gonna say, \"Well, he wasn't really a nice guy. He may have been a tyrant.\" Well, that's you, because you never won anything. I wanted to win, but I wanted them to win and be a part of that as well.",
+      "authorName": "Michael Jordan",
+      "source": "The Last Dance (ESPN/Netflix documentary, 2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "Continuation of the Episode 7 monologue on how he pushed teammates."
+    },
+    {
+      "id": "mj-047",
+      "content": "My mentality was to go out and win at any cost. If you don't want to live that regimented mentality, then you don't need to be alongside of me because I'm going to ridicule you until you get on the same level with me.",
+      "authorName": "Michael Jordan",
+      "source": "The Last Dance (ESPN/Netflix documentary, 2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "An Episode 7 reflection on the standard he held teammates to."
+    },
+    {
+      "id": "mj-048",
+      "content": "It became personal with me.",
+      "authorName": "Michael Jordan",
+      "source": "The Last Dance (ESPN/Netflix documentary, 2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "His actual recurring line about turning slights into motivation—the real basis of the 'and I took that personally' meme."
+    },
+    {
+      "id": "mj-049",
+      "content": "No, because I can stop gambling. I have a competition problem, a competitive problem.",
+      "authorName": "Michael Jordan",
+      "source": "The Last Dance (ESPN/Netflix documentary, 2020)",
+      "quoteDate": "2020",
+      "verificationStatus": "verified",
+      "sourceType": "documentary",
+      "notes": "Responding on camera in Episode 6 to allegations of a gambling problem."
+    },
+    {
+      "id": "mj-050",
+      "content": "Man, I wish I was playing right now. I would give up everything now to go back and play the game of basketball.",
+      "authorName": "Michael Jordan",
+      "source": "Wright Thompson, \"Michael Jordan Has Not Left The Building,\" ESPN The Magazine (2013)",
+      "quoteDate": "2013-02-15",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "Reflecting near his 50th birthday on how much he still missed playing."
+    },
+    {
+      "id": "mj-051",
+      "content": "I'm my own worst enemy. I drove myself so much that I'm still living with some of those drives.",
+      "authorName": "Michael Jordan",
+      "source": "Wright Thompson, \"Michael Jordan Has Not Left The Building,\" ESPN The Magazine (2013)",
+      "quoteDate": "2013-02-15",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "On the lasting cost of his relentless competitiveness."
+    },
+    {
+      "id": "mj-052",
+      "content": "How can I enjoy the next 20 years without so much of this consuming me? How can I find peace away from the game of basketball?",
+      "authorName": "Michael Jordan",
+      "source": "Wright Thompson, \"Michael Jordan Has Not Left The Building,\" ESPN The Magazine (2013)",
+      "quoteDate": "2013-02-15",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "On wrestling with life and identity after competition."
+    }
+  ]
+}
