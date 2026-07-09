@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-07T12:00:00Z",
+  "lastUpdated": "2026-07-09T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -245,7 +245,7 @@
       "name": "Great Poems",
       "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
@@ -253,9 +253,9 @@
       "colorName": "forestGreen",
       "iconName": "scroll.fill",
       "category": "Literature",
-      "lastUpdated": "2026-07-06T12:00:00Z",
-      "contentHash": "sha256-bdW6GIphhUIpUCwpQqSKhyGu+VqOJJY3oe7sRbdO4oM=",
-      "bytes": 14519
+      "lastUpdated": "2026-07-09T12:00:00Z",
+      "contentHash": "sha256-jF4V6LNIbfnM8lpFWpFzk718L1pqgWncsmBx6UcPxQc=",
+      "bytes": 15018
     },
     {
       "id": "dystopian-fiction",
@@ -993,7 +993,7 @@
       "name": "Cosmos & Space",
       "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 32,
       "previewQuotes": [
         "Magnificent desolation.",
         "I touch the future. I teach."
@@ -1001,16 +1001,16 @@
       "colorName": "navyBlue",
       "iconName": "moon.stars.fill",
       "category": "Science",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-zBZEwYmFKB9snFQP+IIP3y+QyahuGg+hndkPHhDZwBo=",
-      "bytes": 14018
+      "lastUpdated": "2026-07-09T12:00:00Z",
+      "contentHash": "sha256-6Z8OZacDJd8t1bD8sAQsY8jxx8DLP4O4cZnRjcD+lYQ=",
+      "bytes": 15233
     },
     {
       "id": "great-scientists",
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1018,9 +1018,9 @@
       "colorName": "cyan",
       "iconName": "atom",
       "category": "Science",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-eu/AGbPx0JtgnOhausLdTiO++xGWK1JjyNY6fzSTEGw=",
-      "bytes": 15641
+      "lastUpdated": "2026-07-09T12:00:00Z",
+      "contentHash": "sha256-q2u8H0F5D499y/SGyvL7gTpEP+2OytB6U+17WX1INqc=",
+      "bytes": 16228
     },
     {
       "id": "curiosity-discovery",

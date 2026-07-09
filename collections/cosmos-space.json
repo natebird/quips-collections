@@ -6,7 +6,7 @@
   "colorName": "navyBlue",
   "iconName": "moon.stars.fill",
   "category": "Science",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-09T12:00:00Z",
   "quotes": [
     {
       "id": "cosmos-001",
@@ -307,6 +307,26 @@
       "verificationStatus": "verified",
       "sourceType": "website",
       "notes": "Johnson on the enduring importance of mathematics to human progress."
+    },
+    {
+      "id": "cosmos-031",
+      "content": "I am alone now, truly alone, and absolutely isolated from any known life. I am it. If a count were taken, the score would be three billion plus two over on the other side of the moon, and one plus God knows what on this side.",
+      "authorName": "Michael Collins",
+      "source": "Carrying the Fire: An Astronaut's Journey (1974)",
+      "quoteDate": "1974",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Collins's reflection on his roughly 48 minutes of solitude aboard the Apollo 11 command module, alone on the far side of the Moon during Armstrong and Aldrin's descent."
+    },
+    {
+      "id": "cosmos-032",
+      "content": "As we leave the Moon at Taurus-Littrow, we leave as we came and, God willing, as we shall return, with peace and hope for all mankind.",
+      "authorName": "Eugene Cernan",
+      "source": "Apollo 17, final words on the lunar surface (14 December 1972)",
+      "quoteDate": "1972-12-14",
+      "verificationStatus": "verified",
+      "sourceType": "radio",
+      "notes": "Cernan's closing remarks as the last person to walk on the Moon, recorded in NASA's air-to-ground transcript."
     }
   ]
 }

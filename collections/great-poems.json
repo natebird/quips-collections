@@ -6,7 +6,7 @@
   "colorName": "forestGreen",
   "iconName": "scroll.fill",
   "category": "Literature",
-  "lastUpdated": "2026-07-06T12:00:00Z",
+  "lastUpdated": "2026-07-09T12:00:00Z",
   "quotes": [
     {
       "id": "poem-001",
@@ -347,6 +347,16 @@
       "quoteDate": "c. 1861",
       "verificationStatus": "verified",
       "notes": "The poem's famous opening couplet; only these two lines are quoted since a later line has a disputed manuscript-vs-published wording."
+    },
+    {
+      "id": "poem-035",
+      "content": "The old Lie: Dulce et decorum est\nPro patria mori.",
+      "authorName": "Wilfred Owen",
+      "source": "Dulce et Decorum Est (written 1917, published in Poems, 1920)",
+      "sourceType": "poem",
+      "quoteDate": "1917",
+      "verificationStatus": "verified",
+      "notes": "The closing indictment of Horace's maxim ('it is sweet and fitting to die for one's country'), drafted at Craiglockhart War Hospital and published posthumously."
     }
   ]
 }
