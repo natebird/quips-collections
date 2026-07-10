@@ -4,6 +4,8 @@
   "description": "Wit and wisdom from John, Paul, George, and Ringo — the Fab Four off the record.",
   "author": "Quips Editorial",
   "colorName": "magenta",
+  "colorLightHex": "#D72D97",
+  "colorDarkHex": "#F762B7",
   "iconName": "music.note",
   "category": "Music",
   "lastUpdated": "2026-06-30T12:00:00Z",

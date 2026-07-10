@@ -4,6 +4,8 @@
   "description": "Words for pushing through hardship, failing forward, and refusing to quit.",
   "author": "Quips Editorial",
   "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
   "iconName": "flame.fill",
   "category": "Inspiration",
   "lastUpdated": "2026-06-30T12:00:00Z",

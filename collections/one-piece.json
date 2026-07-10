@@ -4,6 +4,8 @@
   "description": "Dreams, freedom, and the bonds of a crew — unforgettable lines from One Piece.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "sailboat.fill",
   "category": "Anime & Manga",
   "lastUpdated": "2026-06-30T12:00:00Z",

@@ -4,6 +4,8 @@
   "description": "Sharp comebacks and coming-of-age wisdom from the high school movies that defined a generation.",
   "author": "Quips Editorial",
   "colorName": "magenta",
+  "colorLightHex": "#D72D97",
+  "colorDarkHex": "#F762B7",
   "iconName": "graduationcap.fill",
   "category": "Movies",
   "lastUpdated": "2026-07-04T12:00:00Z",

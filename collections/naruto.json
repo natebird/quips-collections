@@ -4,6 +4,8 @@
   "description": "Ninja resolve, pain, and never giving up — iconic lines from the world of Naruto.",
   "author": "Quips Editorial",
   "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
   "iconName": "figure.martial.arts",
   "category": "Anime & Manga",
   "lastUpdated": "2026-06-30T12:00:00Z",

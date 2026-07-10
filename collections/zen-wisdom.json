@@ -4,6 +4,8 @@
   "description": "Modern Buddhist wisdom on mindfulness, compassion, and peace.",
   "author": "Quips Editorial",
   "colorName": "purple",
+  "colorLightHex": "#B632CA",
+  "colorDarkHex": "#DE56F3",
   "iconName": "leaf.fill",
   "category": "Faith",
   "lastUpdated": "2026-06-30T12:00:00Z",

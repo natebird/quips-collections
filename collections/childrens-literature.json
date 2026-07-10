@@ -4,6 +4,8 @@
   "description": "Warm, wise lines from beloved children's books that comfort and delight readers of every age.",
   "author": "Quips Editorial",
   "colorName": "cyan",
+  "colorLightHex": "#29ACB2",
+  "colorDarkHex": "#2DD3DA",
   "iconName": "teddybear.fill",
   "category": "Literature",
   "lastUpdated": "2026-06-27T12:00:00Z",

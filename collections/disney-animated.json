@@ -4,6 +4,8 @@
   "description": "Magical quotes from Disney's animated classics, from the golden age to modern masterpieces.",
   "author": "Quips Editorial",
   "colorName": "magenta",
+  "colorLightHex": "#D72D97",
+  "colorDarkHex": "#F762B7",
   "iconName": "wand.and.stars",
   "category": "Movies",
   "lastUpdated": "2026-07-04T12:00:00Z",

@@ -4,6 +4,8 @@
   "description": "Quotes on appreciation, counting blessings, and the quiet power of a thankful heart.",
   "author": "Quips Editorial",
   "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
   "iconName": "hands.sparkles.fill",
   "category": "Wellness",
   "lastUpdated": "2026-06-30T12:00:00Z",

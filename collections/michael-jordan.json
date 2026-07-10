@@ -4,6 +4,8 @@
   "description": "Words on winning, work, and fearlessness from the greatest to ever play the game.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "basketball.fill",
   "category": "Sports",
   "lastUpdated": "2026-07-07T12:00:00Z",

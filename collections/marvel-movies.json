@@ -4,6 +4,8 @@
   "description": "Iconic lines from Marvel superhero films spanning the MCU, X-Men, Spider-Man, and more.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "bolt.fill",
   "category": "Movies",
   "lastUpdated": "2026-06-20T12:00:00Z",

@@ -4,6 +4,8 @@
   "description": "The restless spirit of invention and inquiry that pushes the boundary of the known.",
   "author": "Quips Editorial",
   "colorName": "purple",
+  "colorLightHex": "#B632CA",
+  "colorDarkHex": "#DE56F3",
   "iconName": "sparkle.magnifyingglass",
   "category": "Science",
   "lastUpdated": "2026-06-30T12:00:00Z",

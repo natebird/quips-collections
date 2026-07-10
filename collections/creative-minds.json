@@ -4,6 +4,8 @@
   "description": "Insights on creativity and innovation from artists, writers, and inventors.",
   "author": "Quips Editorial",
   "colorName": "purple",
+  "colorLightHex": "#B632CA",
+  "colorDarkHex": "#DE56F3",
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "lastUpdated": "2026-06-20T12:00:00Z",

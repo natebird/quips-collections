@@ -4,6 +4,8 @@
   "description": "On facing fear, standing for what's right, and acting anyway.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "shield.fill",
   "category": "Inspiration",
   "lastUpdated": "2026-06-30T12:00:00Z",

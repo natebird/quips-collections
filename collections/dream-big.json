@@ -4,6 +4,8 @@
   "description": "On ambition, chasing goals, and daring to imagine what's possible.",
   "author": "Quips Editorial",
   "colorName": "purple",
+  "colorLightHex": "#B632CA",
+  "colorDarkHex": "#DE56F3",
   "iconName": "moon.stars.fill",
   "category": "Inspiration",
   "lastUpdated": "2026-06-30T12:00:00Z",

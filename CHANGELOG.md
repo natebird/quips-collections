@@ -11,6 +11,23 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.7.0] - 2026-07-10
+### Changed
+Migrated every collection's color to Quips Palette 2.0 (the app's regenerated
+16-token OKLCH palette). For each of the 82 collections — in both `collections.json`
+and its `collections/<id>.json` — `colorName` was remapped to a new token and two
+fields were added next to it: `colorLightHex` and `colorDarkHex` (light/dark
+appearance hex). Cross-platform clients use the hex pair; iOS prefers `colorName`
+when present, so the change is forward-compatible and old clients keep working.
+
+Token remaps applied: `gold`/`brown` → `amber`, `lemon` → `yellow`,
+`mint` → `teal`, `forestGreen`/`mediumGreen` → `green`, `navyBlue`/`primaryBlue`
+→ `blue`. `orange`, `purple`, `magenta`, `red`, `cyan` carried over unchanged.
+
+The `colorLightHex`/`colorDarkHex` fields were added to `schema/collection.schema.json`
+and `schema/index.schema.json`, and the one-shot remap is scripted in
+`scripts/migrate_colors.py` (idempotent; re-running is a no-op).
+
 ## [1.6.0] - 2026-07-07
 ### Added
 New Sports collection:

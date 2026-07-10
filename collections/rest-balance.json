@@ -4,6 +4,8 @@
   "description": "Permission to slow down — quotes on the quiet art of rest, sleep, and a life in balance.",
   "author": "Quips Editorial",
   "colorName": "purple",
+  "colorLightHex": "#B632CA",
+  "colorDarkHex": "#DE56F3",
   "iconName": "moon.stars.fill",
   "category": "Wellness",
   "lastUpdated": "2026-06-30T12:00:00Z",

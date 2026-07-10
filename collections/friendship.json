@@ -4,6 +4,8 @@
   "description": "On loyalty, kindred spirits, and the friends who shape a life.",
   "author": "Quips Editorial",
   "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
   "iconName": "person.2.fill",
   "category": "Love & Relationships",
   "lastUpdated": "2026-06-30T12:00:00Z",

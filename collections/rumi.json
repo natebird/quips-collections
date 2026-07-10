@@ -4,6 +4,8 @@
   "description": "Verses of love and the longing for the divine from the Sufi poet Jalal al-Din Rumi.",
   "author": "Quips Editorial",
   "colorName": "magenta",
+  "colorLightHex": "#D72D97",
+  "colorDarkHex": "#F762B7",
   "iconName": "heart.circle.fill",
   "category": "Faith",
   "lastUpdated": "2026-06-30T12:00:00Z",

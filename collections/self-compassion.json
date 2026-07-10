@@ -4,6 +4,8 @@
   "description": "Gentle reminders to treat yourself, and everyone you meet, with the kindness you deserve.",
   "author": "Quips Editorial",
   "colorName": "magenta",
+  "colorLightHex": "#D72D97",
+  "colorDarkHex": "#F762B7",
   "iconName": "heart.circle.fill",
   "category": "Wellness",
   "lastUpdated": "2026-06-30T12:00:00Z",

@@ -4,6 +4,8 @@
   "description": "Reverence for the living world, from the great voices of nature and conservation.",
   "author": "Quips Editorial",
   "colorName": "cyan",
+  "colorLightHex": "#29ACB2",
+  "colorDarkHex": "#2DD3DA",
   "iconName": "globe.americas.fill",
   "category": "Nature",
   "lastUpdated": "2026-06-30T12:00:00Z",

@@ -4,6 +4,8 @@
   "description": "Deadpan, absurd, and observational — clean classics from the masters of stand-up.",
   "author": "Quips Editorial",
   "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
   "iconName": "mic.fill",
   "category": "Comedy",
   "lastUpdated": "2026-06-30T12:00:00Z",
