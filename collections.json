@@ -273,7 +273,7 @@
       "name": "Great Poems",
       "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
@@ -283,9 +283,9 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "scroll.fill",
       "category": "Literature",
-      "lastUpdated": "2026-07-06T12:00:00Z",
-      "contentHash": "sha256-jzln0YfMYEM3/8CKQgo4ps0vTDJzVWv9fXOEcx7+3+g=",
-      "bytes": 14572
+      "lastUpdated": "2026-07-09T12:00:00Z",
+      "contentHash": "sha256-xRhiTexSCVzQFyKmj3cqhkWqZh5hu1ASJK632kN82DM=",
+      "bytes": 15071
     },
     {
       "id": "dystopian-fiction",
@@ -1109,7 +1109,7 @@
       "name": "Cosmos & Space",
       "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 32,
       "previewQuotes": [
         "Magnificent desolation.",
         "I touch the future. I teach."
@@ -1119,16 +1119,16 @@
       "colorDarkHex": "#4790FB",
       "iconName": "moon.stars.fill",
       "category": "Science",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-pHgJ+S9inYJlWj2ZpQZUoERrNZS5O9e1zM+cDa0pNpw=",
-      "bytes": 14073
+      "lastUpdated": "2026-07-09T12:00:00Z",
+      "contentHash": "sha256-XJcZEMI8mKKcvHmD3hRAsopmK/oewZ+t18SFSb7unIQ=",
+      "bytes": 15288
     },
     {
       "id": "great-scientists",
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1138,9 +1138,9 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "atom",
       "category": "Science",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-iGv1XNHhxQ1srPel4ajXddsEPXQNQABsWfnVDSPQQS8=",
-      "bytes": 15700
+      "lastUpdated": "2026-07-09T12:00:00Z",
+      "contentHash": "sha256-cpgSILARxY1AcP+uqsy5lsJf6+0ddSfbHJXJ6Lmg27U=",
+      "bytes": 16287
     },
     {
       "id": "curiosity-discovery",

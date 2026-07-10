@@ -8,7 +8,7 @@
   "colorDarkHex": "#2DD3DA",
   "iconName": "atom",
   "category": "Science",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-09T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -299,6 +299,16 @@
       "verificationStatus": "unverified",
       "sourceType": "book",
       "notes": "Fails the wording axis: a genuine Goodall theme, but phrasing varies across sources ('can we care' vs 'will we care') with no single confirmed primary text."
+    },
+    {
+      "id": "sci-030",
+      "content": "What I cannot create, I do not understand.",
+      "authorName": "Richard Feynman",
+      "source": "Blackboard in his Caltech office at the time of his death, February 1988; Caltech Archives and Special Collections",
+      "quoteDate": "1988-02",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Photographed on Feynman's blackboard after his death, alongside the line 'Know how to solve every problem that has been solved'; documented by Caltech Archives and cited by science historians."
     }
   ]
 }
