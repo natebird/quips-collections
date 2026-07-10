@@ -4,6 +4,8 @@
   "description": "Lao Tzu on the Way, simplicity, and the art of effortless action.",
   "author": "Quips Editorial",
   "colorName": "cyan",
+  "colorLightHex": "#29ACB2",
+  "colorDarkHex": "#2DD3DA",
   "iconName": "circle.lefthalf.filled",
   "category": "Faith",
   "lastUpdated": "2026-06-30T12:00:00Z",

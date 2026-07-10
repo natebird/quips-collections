@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-09T12:00:00Z",
+  "lastUpdated": "2026-07-10T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -12,12 +12,14 @@
         "The only way to do great work is to love what you do.",
         "You miss 100% of the shots you don't take."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "sunrise.fill",
       "category": "Inspiration",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-3BWgSFZaLAbagA+u4Hfa23FhrfTjPZMUClziJB8z90s=",
-      "bytes": 14357
+      "contentHash": "sha256-83GeUKmIBz72oW6q4alFVKMj0PGPP3f3O5Xp9FLP1Hc=",
+      "bytes": 14417
     },
     {
       "id": "grit-perseverance",
@@ -30,11 +32,13 @@
         "Grit is passion and perseverance for very long-term goals."
       ],
       "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "flame.fill",
       "category": "Inspiration",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-W9MPrbFiOhO37S9NBXk4CMnb0SyYnN1MIOISDep+RvU=",
-      "bytes": 15593
+      "contentHash": "sha256-zUcXvANqpAiO82V/CC/g9MMIOvhbNxKI+dBEZoPdVFQ=",
+      "bytes": 15652
     },
     {
       "id": "leadership-vision",
@@ -46,12 +50,14 @@
         "Plans are worthless, but planning is everything.",
         "The price of greatness is responsibility."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "flag.fill",
       "category": "Inspiration",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-PTpLsJ0TWPriIJB+DrBYFH7arxzSgHJJyidgPR33rj8=",
-      "bytes": 15253
+      "contentHash": "sha256-drEm3WIf8k/3Pu/5qS5GRpJ+Dd/sNq/99yDQx57iFzw=",
+      "bytes": 15308
     },
     {
       "id": "courage-conviction",
@@ -64,11 +70,13 @@
         "Power concedes nothing without a demand. It never did and it never will."
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "shield.fill",
       "category": "Inspiration",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-wglEqcmO8OcW/DrcNhe18S+8/TKYk4CUIlP3MlUZRK0=",
-      "bytes": 15551
+      "contentHash": "sha256-iWoJ18FnbH9YF6R+YKTDRNeaxX9fQJmy+7rrctouk6Q=",
+      "bytes": 15610
     },
     {
       "id": "dream-big",
@@ -81,11 +89,13 @@
         "Hitch your wagon to a star."
       ],
       "colorName": "purple",
+      "colorLightHex": "#B632CA",
+      "colorDarkHex": "#DE56F3",
       "iconName": "moon.stars.fill",
       "category": "Inspiration",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-esCb1f1xewO9rR+B8RYwR9FYhVh1qLPV6/t9ME6XwNc=",
-      "bytes": 14640
+      "contentHash": "sha256-RekGKaWi7naHQ+Tew+5Wl4UqjE7JDCZIeiSXNscGaSs=",
+      "bytes": 14699
     },
     {
       "id": "stoic-wisdom",
@@ -97,12 +107,14 @@
         "You have power over your mind - not outside events. Realize this, and you will find strength.",
         "We suffer more often in imagination than in reality."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "building.columns.fill",
       "category": "Philosophy",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-tSgsLhhpAoqsmrWxgP+0GUioqcY1Sra1wza2r+VxdjA=",
-      "bytes": 14307
+      "contentHash": "sha256-rwZ0OgWGHOigYVy6d5dx1gVFhFZg96Tt/0uzReLpJcc=",
+      "bytes": 14362
     },
     {
       "id": "creative-minds",
@@ -115,11 +127,13 @@
         "Every child is an artist. The problem is how to remain an artist once we grow up."
       ],
       "colorName": "purple",
+      "colorLightHex": "#B632CA",
+      "colorDarkHex": "#DE56F3",
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-fi0FkbsN/+bAO9rq9oZlKNcEQiO+GZ4H5lEDZstlqDI=",
-      "bytes": 13521
+      "contentHash": "sha256-tjwm1whNqjBYj+BL60pgXso3k4ShBRTWvhnr8Fasp3o=",
+      "bytes": 13580
     },
     {
       "id": "tech-visionaries",
@@ -131,12 +145,14 @@
         "The best way to predict the future is to invent it.",
         "The people who are crazy enough to think they can change the world are the ones who do."
       ],
-      "colorName": "primaryBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "cpu.fill",
       "category": "Technology",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-uzyzNV62gNk+RuhOsdFkzGnacGYajiKLN1Lw3kVtgCg=",
-      "bytes": 13995
+      "contentHash": "sha256-+T4A1a6eOeF8bDLGL6JPzQ4WpcOyEYUZjNXN4q83xAw=",
+      "bytes": 14047
     },
     {
       "id": "literary-classics",
@@ -148,12 +164,14 @@
         "It was the best of times, it was the worst of times.",
         "All happy families are alike; each unhappy family is unhappy in its own way."
       ],
-      "colorName": "brown",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "book.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-jAQmAs4WyFnnvOige1Bl1R+MjEybNN0M7LVZt22yuEY=",
-      "bytes": 13617
+      "contentHash": "sha256-s46V28PXKTwaeeGrmDYxSVlh2HcDMuohOQBnHSlVAtA=",
+      "bytes": 13676
     },
     {
       "id": "shakespeare",
@@ -165,12 +183,14 @@
         "To be, or not to be, that is the question.",
         "All the world's a stage, and all the men and women merely players."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "theatermasks.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-/6lf5ayL/uBBZtv/PipirlFcgWQSOIWYv8ffeEsheiY=",
-      "bytes": 22024
+      "contentHash": "sha256-K7KVxrv14YvVNeZ61Sy4EfnvXYeE/IVg/V6reVhdd6s=",
+      "bytes": 22084
     },
     {
       "id": "oscar-wilde",
@@ -183,11 +203,13 @@
         "I can resist everything except temptation."
       ],
       "colorName": "magenta",
+      "colorLightHex": "#D72D97",
+      "colorDarkHex": "#F762B7",
       "iconName": "quote.bubble.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-G7L99OQdN69myh4nDC180kFl9yMN5EeHB4Tb7A9Br34=",
-      "bytes": 19003
+      "contentHash": "sha256-DjBPsbTm2RY5FeAPVjhUnr2qE9U29c79naT5rM5u5t4=",
+      "bytes": 19062
     },
     {
       "id": "sherlock-holmes",
@@ -199,12 +221,14 @@
         "You see, but you do not observe. The distinction is clear.",
         "Come, Watson, come! The game is afoot."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "magnifyingglass",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-jTlX6B9EBPW5DhWhoOsBwVzjrEs9XKQ3urRiJxBcYY8=",
-      "bytes": 18431
+      "contentHash": "sha256-C8P5+93dLTRX30RVlmdGKVNg35LoGrsKZw5Rumc8eng=",
+      "bytes": 18486
     },
     {
       "id": "edgar-allan-poe",
@@ -217,11 +241,13 @@
         "All that we see or seem Is but a dream within a dream."
       ],
       "colorName": "purple",
+      "colorLightHex": "#B632CA",
+      "colorDarkHex": "#DE56F3",
       "iconName": "bird.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-sWuzN3LHV/IuPHH0FHZx4jWJiwcvHkYMf59LjT0JULE=",
-      "bytes": 12836
+      "contentHash": "sha256-/en3GFDuU5agUjtLVPLlsCBegOOnw6fgpA/Rh4SP4cc=",
+      "bytes": 12895
     },
     {
       "id": "jane-austen",
@@ -233,12 +259,14 @@
         "You pierce my soul. I am half agony, half hope.",
         "If I loved you less, I might be able to talk about it more."
       ],
-      "colorName": "lemon",
+      "colorName": "yellow",
+      "colorLightHex": "#F7E120",
+      "colorDarkHex": "#DAC720",
       "iconName": "heart.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-Em+nfmaidBBp0gPw0ZxmOtkhEgAnFi8idHko3TQGgAA=",
-      "bytes": 14677
+      "contentHash": "sha256-L+m9QbC/O5pYu1amR75oQ5Ogz6o/Ncfd4xQcKARrPXA=",
+      "bytes": 14737
     },
     {
       "id": "great-poems",
@@ -250,12 +278,14 @@
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "scroll.fill",
       "category": "Literature",
       "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-jF4V6LNIbfnM8lpFWpFzk718L1pqgWncsmBx6UcPxQc=",
-      "bytes": 15018
+      "contentHash": "sha256-xRhiTexSCVzQFyKmj3cqhkWqZh5hu1ASJK632kN82DM=",
+      "bytes": 15071
     },
     {
       "id": "dystopian-fiction",
@@ -268,11 +298,13 @@
         "It was a pleasure to burn."
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "eye.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-sxidX/6wNofS7A4stWj2ZPXu0wV1l3nrpP/Ua6SXbCo=",
-      "bytes": 12147
+      "contentHash": "sha256-OOwMPFuURFeQDwOFmQUQ6YuFnkFmjXc/LKBifvHgi9c=",
+      "bytes": 12206
     },
     {
       "id": "childrens-literature",
@@ -285,11 +317,13 @@
         "And the tree was happy."
       ],
       "colorName": "cyan",
+      "colorLightHex": "#29ACB2",
+      "colorDarkHex": "#2DD3DA",
       "iconName": "teddybear.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-o56YaFamgGfolSaVAyLpf1zItxDLzviR9PvPHvB7pXg=",
-      "bytes": 12840
+      "contentHash": "sha256-SATys9shoxScuDXNX22gaakd8Xw0k+58fObo5kBpVIM=",
+      "bytes": 12899
     },
     {
       "id": "first-lines",
@@ -301,12 +335,14 @@
         "Call me Ishmael.",
         "Mother died today."
       ],
-      "colorName": "brown",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "book.pages.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-V7EqQzHXZJcbhR21AGhzkB5SNHjOr0YP/ra9V9wt9C0=",
-      "bytes": 17320
+      "contentHash": "sha256-xLCx9Kj9A1HZnX1soMtHFAgD39GhBG8aVdjIS2o9QtE=",
+      "bytes": 17379
     },
     {
       "id": "mindfulness",
@@ -318,12 +354,14 @@
         "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
         "Peace comes from within. Do not seek it without."
       ],
-      "colorName": "mint",
+      "colorName": "teal",
+      "colorLightHex": "#27A98A",
+      "colorDarkHex": "#2BD1AA",
       "iconName": "leaf.fill",
       "category": "Wellness",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-IcCw+l/joUhYyOQFJq2BZVP/EOjgPUf8GY+Oldmeiq0=",
-      "bytes": 13409
+      "contentHash": "sha256-xP3FUTQpr60DcsjKcKg7BFcRvVXvXCE0XvVWWn744yQ=",
+      "bytes": 13468
     },
     {
       "id": "gratitude",
@@ -336,11 +374,13 @@
         "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."
       ],
       "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "hands.sparkles.fill",
       "category": "Wellness",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Fhdy5+8smMx67C3jLQKSZac2E5gx3JYg7R90C4YCET4=",
-      "bytes": 13814
+      "contentHash": "sha256-jIE//ulgEwhu562KX00M23h586fa1qliRnRHl1VUvlI=",
+      "bytes": 13873
     },
     {
       "id": "resilience",
@@ -352,12 +392,14 @@
         "What does not kill me makes me stronger.",
         "Fall seven times, stand up eight."
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Q3uOXBA2AwFwoh3qhL/temuMEjhfrho5LdEawvK9xKQ=",
-      "bytes": 12494
+      "contentHash": "sha256-l7fG3geU0NfZgGpK8agfq/Ug8xP5sPnxBdVHOCszfjM=",
+      "bytes": 12547
     },
     {
       "id": "self-compassion",
@@ -370,11 +412,13 @@
         "Be kind whenever possible. It is always possible."
       ],
       "colorName": "magenta",
+      "colorLightHex": "#D72D97",
+      "colorDarkHex": "#F762B7",
       "iconName": "heart.circle.fill",
       "category": "Wellness",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-S0mYxhsFlaOH3qyHv5DSgO8ssM4oeYDuIJvzgEM/XAo=",
-      "bytes": 13233
+      "contentHash": "sha256-ZEgisXMwv7PutcarMT9wUz93waVvRyy2oR/VOG4WOqY=",
+      "bytes": 13292
     },
     {
       "id": "rest-balance",
@@ -387,11 +431,13 @@
         "Sleep is the best meditation."
       ],
       "colorName": "purple",
+      "colorLightHex": "#B632CA",
+      "colorDarkHex": "#DE56F3",
       "iconName": "moon.stars.fill",
       "category": "Wellness",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-7gThHC8YCzPhmcIgdi+t4FSb73lqMLgAALFzD51pZdE=",
-      "bytes": 11897
+      "contentHash": "sha256-KzbXnZzEEKjuLi2aRHPTZvsq/AvRSf6nBAfiF6JDbbo=",
+      "bytes": 11956
     },
     {
       "id": "marvel-movies",
@@ -404,11 +450,13 @@
         "With great power comes great responsibility."
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "bolt.fill",
       "category": "Movies",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-CUykigs6aUxJAQHL+HJJMft7PQ8GejrMUCE78v6UrNI=",
-      "bytes": 16598
+      "contentHash": "sha256-/Z8dUOM3Bgi0x0Bm/KTSpKFtGiFr8MZx/Kd2gYCL2Vg=",
+      "bytes": 16657
     },
     {
       "id": "dc-comics",
@@ -420,12 +468,14 @@
         "Why so serious?",
         "I'm Batman."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "shield.fill",
       "category": "Movies",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-cbkxoLz3qux8smsVbR1MHddyuyQO+foWH/NLrpF/FA0=",
-      "bytes": 14910
+      "contentHash": "sha256-Tor5CfylO2NEvD3LtsjpKStfQYarvHOeIxxiJnEvVm8=",
+      "bytes": 14965
     },
     {
       "id": "lds-general-conference",
@@ -437,12 +487,14 @@
         "Because of Jesus Christ, our failures do not have to define us. They can refine us.",
         "Worthiness is not flawlessness. Worthiness is being honest and trying."
       ],
-      "colorName": "primaryBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "mic.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-wsS0DUvT7nZLGJKs2Zky5dmE6JusKhlappH9D9uq7hs=",
-      "bytes": 30697
+      "contentHash": "sha256-nG3Amn+Iq6Ry+DSsqbZ7jkavxPjlrDC3OOuhCNzLhOQ=",
+      "bytes": 30749
     },
     {
       "id": "disney-animated",
@@ -455,11 +507,13 @@
         "To infinity and beyond!"
       ],
       "colorName": "magenta",
+      "colorLightHex": "#D72D97",
+      "colorDarkHex": "#F762B7",
       "iconName": "wand.and.stars",
       "category": "Movies",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-MoL3bp2U0L0KO5XDWP4U8VypFEuFjpjf+pNhZ8yiHvw=",
-      "bytes": 20705
+      "contentHash": "sha256-ZWbgZxGIlzIkZ0cHBjr+LFR/qJadNioKNFJ1SSR7EDA=",
+      "bytes": 20764
     },
     {
       "id": "seinfeld",
@@ -472,11 +526,13 @@
         "Serenity now!"
       ],
       "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "tv.fill",
       "category": "Television",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-bRH+hViqUqKG1bShMpvDxqdZsZJAKNjd6N4zh9VirKY=",
-      "bytes": 11023
+      "contentHash": "sha256-rsV2t8qIke/0ZXjw8g9sN6KzJa6SgpIb2EBEeNaeJXU=",
+      "bytes": 11082
     },
     {
       "id": "how-i-met-your-mother",
@@ -488,12 +544,14 @@
         "Lawyered!",
         "Have you met Ted?"
       ],
-      "colorName": "lemon",
+      "colorName": "yellow",
+      "colorLightHex": "#F7E120",
+      "colorDarkHex": "#DAC720",
       "iconName": "umbrella.fill",
       "category": "Television",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-1wbeXlVJPgKvNF3lMB/SYNxZQlwphhExzJAgw2sUgo8=",
-      "bytes": 48586
+      "contentHash": "sha256-NtSLAddtQUtP68AqpudpTLQA/jGic5T5xQ7JXtYaqD4=",
+      "bytes": 48646
     },
     {
       "id": "fantasy-worlds",
@@ -505,12 +563,14 @@
         "Not all those who wander are lost.",
         "Winter is coming."
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "flame.fill",
       "category": "Literature",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-Nk+QkayEklJq2OvvhLvj9hLMLuoZveJKJuVBAAXVScg=",
-      "bytes": 15337
+      "contentHash": "sha256-ABDwhvJKPGnj916uEAZoyiPwohii9I1E3zWTbiqI+Es=",
+      "bytes": 15390
     },
     {
       "id": "western-movies",
@@ -522,12 +582,14 @@
         "Go ahead, make my day.",
         "I'm your huckleberry."
       ],
-      "colorName": "brown",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "sun.dust.fill",
       "category": "Movies",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-iaZ+iiMdh2WCMA36B2g6o4mjYOD5rKi7fSHGMCwlzGI=",
-      "bytes": 12549
+      "contentHash": "sha256-f1ffOL5XhMb0+IauQ/AOlrg24uNfTu1i5B1oqt1kkXg=",
+      "bytes": 12608
     },
     {
       "id": "scifi-screen",
@@ -540,11 +602,13 @@
         "Live long and prosper."
       ],
       "colorName": "cyan",
+      "colorLightHex": "#29ACB2",
+      "colorDarkHex": "#2DD3DA",
       "iconName": "sparkles",
       "category": "Movies",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-A3gMnqLyIJnR/gYi/Y1JQ2r/+ltzagjvAgVT6oibPkc=",
-      "bytes": 18723
+      "contentHash": "sha256-QDJSJcre3kfC/hgyfcK4RBOuQd7ENQJPdZWyPwMiIPQ=",
+      "bytes": 18782
     },
     {
       "id": "star-wars",
@@ -556,12 +620,14 @@
         "Do. Or do not. There is no try.",
         "I find your lack of faith disturbing."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "star.fill",
       "category": "Movies",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-pYk00P7X22EO5jhW+FGTBb3qnfxAvY/kNRHcjWZ8mZY=",
-      "bytes": 24399
+      "contentHash": "sha256-OhD7/mre2SNslH2LDzAJM1S5MblnCn1Wqg5CcvR1v0Y=",
+      "bytes": 24459
     },
     {
       "id": "lego-movies",
@@ -574,11 +640,13 @@
         "I hate this place."
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "cube.fill",
       "category": "Movies",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-wBPHIPZNrkaL41yD7FC0Ra4XK0uLlImTs6R+xivHPH0=",
-      "bytes": 10718
+      "contentHash": "sha256-PXYsRX5+6mCONNcrQ+pVvVc6xVr7tuPeClAgeVLPD0M=",
+      "bytes": 10777
     },
     {
       "id": "teen-movies",
@@ -591,11 +659,13 @@
         "That was way harsh, Tai."
       ],
       "colorName": "magenta",
+      "colorLightHex": "#D72D97",
+      "colorDarkHex": "#F762B7",
       "iconName": "graduationcap.fill",
       "category": "Movies",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-aekdBwjAL4B+TH9Jlr7IqS9ItBFAyy+sHR/F2AoUmhs=",
-      "bytes": 12595
+      "contentHash": "sha256-0hiSMWyWYuUD6NNgZn6r36tesyMJnRm9ijIaDMy+vng=",
+      "bytes": 12654
     },
     {
       "id": "battlestar-galactica",
@@ -607,12 +677,14 @@
         "So say we all.",
         "All of this has happened before, and all of this will happen again."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "tv.fill",
       "category": "Television",
       "lastUpdated": "2026-07-06T12:00:00Z",
-      "contentHash": "sha256-wdNWMjQNcRPnb3pUbnnmtYfWmfXsPlL6GNYrWQmCzWQ=",
-      "bytes": 12067
+      "contentHash": "sha256-fMAK8tyvo57r1n094ZlZNppY/q8bSmUANERrNmgz0dc=",
+      "bytes": 12122
     },
     {
       "id": "bible-wisdom",
@@ -624,12 +696,14 @@
         "The LORD is my shepherd; I shall not want.",
         "Be still, and know that I am God."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "book.closed.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-eJKZfDI7WEAn/KCHntac12hZfH/X2cHDS8DVmgJVrzw=",
-      "bytes": 13610
+      "contentHash": "sha256-x/ITyUzwqbRkxA8Fx9fOpPb0SHOyuH/7C2W8MEiqgvA=",
+      "bytes": 13665
     },
     {
       "id": "words-of-jesus",
@@ -641,12 +715,14 @@
         "Blessed are the peacemakers: for they shall be called the children of God.",
         "Judge not, that ye be not judged."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "cross.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-J5GVLaWslqApYwaL6PRuYvHD8SPM5Ei5VPvbpKv6h7g=",
-      "bytes": 14097
+      "contentHash": "sha256-ixNFUPmxl0jEAEQl90WjGPtMaEhhnwW+CkFR6Mhvvt4=",
+      "bytes": 14157
     },
     {
       "id": "christian-saints",
@@ -658,12 +734,14 @@
         "Man proposes, but God disposes.",
         "Ignorance of the Scriptures is ignorance of Christ."
       ],
-      "colorName": "brown",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "cross.circle.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-S/h5Y8otqZ9dYykA0gHPOLzJh0nScHYq5i3K7T1MKzk=",
-      "bytes": 15110
+      "contentHash": "sha256-fDybcGjy4qyxnJvptDizM0GNIRvR1GcXYo/zCPKEdik=",
+      "bytes": 15169
     },
     {
       "id": "cs-lewis",
@@ -675,12 +753,14 @@
         "Courage, dear heart.",
         "No one ever told me that grief felt so like fear."
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "text.book.closed.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-wDv17I4TNYqdhGvXcJtKrHIaj5TMkz57out/e6TnMxc=",
-      "bytes": 14841
+      "contentHash": "sha256-5IF+eiBTfDEgI7WWOn6UL8zV6fgm1GVrjcwKQM/f41E=",
+      "bytes": 14894
     },
     {
       "id": "quran",
@@ -692,12 +772,14 @@
         "But lo! with hardship goeth ease,",
         "Is the reward of goodness aught save goodness?"
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "moon.stars.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-MG0Rkjr2HqqMgNYUbp6rLWy9GJ8Y1qaOMlBDTE8u0ZE=",
-      "bytes": 16042
+      "contentHash": "sha256-06Rc13VW0AMfHhmvvLb+UEs3GlxLf0DlF0z+NXsKHVc=",
+      "bytes": 16095
     },
     {
       "id": "rumi",
@@ -710,11 +792,13 @@
         "The lover's ailment is separate from all other ailments: love is the astrolabe of the mysteries of God."
       ],
       "colorName": "magenta",
+      "colorLightHex": "#D72D97",
+      "colorDarkHex": "#F762B7",
       "iconName": "heart.circle.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-sKRz5dj3o0lziLBXdeiiJmhZG1IVhGLL7NnHl1hyniM=",
-      "bytes": 11150
+      "contentHash": "sha256-NBn6JP8f+ogRglQ2njIu0RUAl+ouGsHiEMp+qrzZaCQ=",
+      "bytes": 11209
     },
     {
       "id": "hadith",
@@ -726,12 +810,14 @@
         "None of you truly believes until he loves for his brother what he loves for himself.",
         "Do not think little of any good deed, even meeting your brother with a cheerful face."
       ],
-      "colorName": "mint",
+      "colorName": "teal",
+      "colorLightHex": "#27A98A",
+      "colorDarkHex": "#2BD1AA",
       "iconName": "moon.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-2w85cG2Ipd1iSSGGWcoSk+BaKqQ449lJiDfZJrq+CD8=",
-      "bytes": 13957
+      "contentHash": "sha256-7IsYA2tHUrZc5sWb0fJZs804bwftIS7hEow1kFnNCNo=",
+      "bytes": 14016
     },
     {
       "id": "bhagavad-gita",
@@ -744,11 +830,13 @@
         "Let right deeds be thy motive, not the fruit which comes from them."
       ],
       "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "sun.max.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-LQmzQb4XsB/pEiSspWuQnm7FWDUjCtKG8oAn4jIIiMQ=",
-      "bytes": 16143
+      "contentHash": "sha256-6rZUNvTFu3LL+XrZmESVuRTS3glo/BFeouuVeudZl+U=",
+      "bytes": 16202
     },
     {
       "id": "dhammapada",
@@ -760,12 +848,14 @@
         "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
         "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors."
       ],
-      "colorName": "lemon",
+      "colorName": "yellow",
+      "colorLightHex": "#F7E120",
+      "colorDarkHex": "#DAC720",
       "iconName": "leaf.circle.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-AHDS5tEsZ17SjIN+CqAdNLQ4Yg+qFOMBtbfArtS5dWE=",
-      "bytes": 15684
+      "contentHash": "sha256-x5vARQef2wuBbmyGL07f5+m0m+wEE5NEQdLkC7GgW6U=",
+      "bytes": 15744
     },
     {
       "id": "tao-te-ching",
@@ -778,11 +868,13 @@
         "He who knows other men is discerning; he who knows himself is intelligent."
       ],
       "colorName": "cyan",
+      "colorLightHex": "#29ACB2",
+      "colorDarkHex": "#2DD3DA",
       "iconName": "circle.lefthalf.filled",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-OAY5219oPYXxqxuDFJsW1+uAnYZu+ZkBNIxZAQI1B0A=",
-      "bytes": 14628
+      "contentHash": "sha256-L7SYWVjZ0Vs4KuLGsqm9jBF3kL48ooKLcc8ZB1aDqFk=",
+      "bytes": 14687
     },
     {
       "id": "zen-wisdom",
@@ -795,11 +887,13 @@
         "No mud, no lotus."
       ],
       "colorName": "purple",
+      "colorLightHex": "#B632CA",
+      "colorDarkHex": "#DE56F3",
       "iconName": "leaf.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-oZVutDDe4Z9l6SadZSqOrrRCNjlGkl8cktScSgshe5s=",
-      "bytes": 12738
+      "contentHash": "sha256-ex/gj1bgNK78BL+blFt9FvVn+KmJo5GN5Oh3erakg44=",
+      "bytes": 12797
     },
     {
       "id": "jewish-wisdom",
@@ -811,12 +905,14 @@
         "Who is rich? One who is happy with his portion.",
         "Judge every person favorably."
       ],
-      "colorName": "primaryBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "scroll.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-6HkWxPxAOK0gij9jxM2oz/y29VTh+5QSWnt/Yydlk1U=",
-      "bytes": 15125
+      "contentHash": "sha256-41yYfOs3tSwvzCYTPoQZ++kj92QNMIjzPk6xGEm2p+E=",
+      "bytes": 15177
     },
     {
       "id": "sikh-wisdom",
@@ -828,12 +924,14 @@
         "Truth is higher than everything; but higher still is truthful living.",
         "So why call her bad? From her, kings are born."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "book.closed.fill",
       "category": "Faith",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-ukcE89gJxmNbtdAeni7M/UADZtXhv3S0bgDL1yOeGr0=",
-      "bytes": 10218
+      "contentHash": "sha256-hXxKlRY8OzoMU9SVxrAJWkxSnG/EiLRSGOqXcqIEtvI=",
+      "bytes": 10278
     },
     {
       "id": "legendary-coaches",
@@ -845,12 +943,14 @@
         "We're on to Cincinnati.",
         "Be quick, but don't hurry."
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "figure.american.football",
       "category": "Sports",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-GDMvf8mI298jJADQrnzPi9wEAUPeDmvFeBUZLba+IuQ=",
-      "bytes": 13346
+      "contentHash": "sha256-JZMusPJQSBn/twn6zF+EGJXwou9Jr2F+tH/ezYFVvfA=",
+      "bytes": 13399
     },
     {
       "id": "champions-mindset",
@@ -862,12 +962,14 @@
         "Pressure is a privilege.",
         "There you go. I'm the greatest."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "trophy.fill",
       "category": "Sports",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-YCgkauxz5sxA9YinEMCFwxsmFeHpjajm9hCCKg3ro9U=",
-      "bytes": 15864
+      "contentHash": "sha256-0nR800QNZlDcEsrBaCcljSttkCG6VEVLriBQ+WHZtXg=",
+      "bytes": 15924
     },
     {
       "id": "yogi-berra",
@@ -879,12 +981,14 @@
         "Pair up in threes.",
         "It's deja vu all over again."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "baseball.fill",
       "category": "Sports",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-h6GmJPavH20sMA5iCgiYfCZF1CdTbsq3xs4ABjXLfLE=",
-      "bytes": 12921
+      "contentHash": "sha256-uqGf3Sd+DMpQ1EiLRRinYCTQsWMzqCljz9wOaaxiFfw=",
+      "bytes": 12976
     },
     {
       "id": "entrepreneurs",
@@ -896,12 +1000,14 @@
         "Screw it, let's do it.",
         "Competition is for losers."
       ],
-      "colorName": "primaryBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-qMSnx46fT1bSDIKnGvD8MjCH/oGLXvrKb8V8bvJQNUY=",
-      "bytes": 14816
+      "contentHash": "sha256-uXnUZp7smYT32X4F9mrR6peD1u45355wE7UevzsM8gA=",
+      "bytes": 14869
     },
     {
       "id": "on-leadership",
@@ -913,12 +1019,14 @@
         "Leadership belongs to those who take it.",
         "Perpetual optimism is a force multiplier."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "person.3.fill",
       "category": "Business & Leadership",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Uak+6snLmRhybFz7jBEvtwn9RnflmCURj3Gr8DGGdyA=",
-      "bytes": 14397
+      "contentHash": "sha256-OHrAp9alTdsnkbVBQ0Q73ptmX2IrXsGWR8HOEyZ4a9Q=",
+      "bytes": 14452
     },
     {
       "id": "money-investing",
@@ -930,12 +1038,14 @@
         "Lost time is never found again.",
         "Pain plus reflection equals progress."
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "dollarsign.circle.fill",
       "category": "Business & Leadership",
       "lastUpdated": "2026-07-06T12:00:00Z",
-      "contentHash": "sha256-tewcyHcmmXClB3yXHBcY2BZP6NJJvXCo2AusknhCMYM=",
-      "bytes": 15227
+      "contentHash": "sha256-w2DM7WvKSr5+CqvZ/GrZPzgaxAODSJ2G3TWvNfVmzu4=",
+      "bytes": 15280
     },
     {
       "id": "great-speeches",
@@ -948,11 +1058,13 @@
         "Free at last! Free at last! Thank God Almighty, we are free at last!"
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-4303qdchfm4sVrD8PXGJ3HwJLYSVJnL3c9LWMPutJX4=",
-      "bytes": 16581
+      "contentHash": "sha256-mexhuI+bziKYt/Wwa0rF8AU/lKjeOFl+c0NEyEmVVO8=",
+      "bytes": 16640
     },
     {
       "id": "founding-fathers",
@@ -964,12 +1076,14 @@
         "Well done is better than well said.",
         "My country is the world, and my religion is to do good."
       ],
-      "colorName": "brown",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-nEyUIUXy6hE2J7roINvEHmzQWQ0rdWVMjUTgEPMnInY=",
-      "bytes": 16218
+      "contentHash": "sha256-aLwYam105F3xiSpu+EugZKzW+/YTU4bYHGMcTPIO0j0=",
+      "bytes": 16277
     },
     {
       "id": "civil-rights-voices",
@@ -981,12 +1095,14 @@
         "Nobody's free until everybody's free.",
         "I am sick and tired of being sick and tired."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-mJEo3+K+dC81taqzct0RM6m0pnsMzlhsS4qdeB1Yy40=",
-      "bytes": 14970
+      "contentHash": "sha256-dr3WP/aA3Pq7I1U5KusQPxYokWLMs9/XfceUE/vImh8=",
+      "bytes": 15030
     },
     {
       "id": "cosmos-space",
@@ -998,12 +1114,14 @@
         "Magnificent desolation.",
         "I touch the future. I teach."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "moon.stars.fill",
       "category": "Science",
       "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-6Z8OZacDJd8t1bD8sAQsY8jxx8DLP4O4cZnRjcD+lYQ=",
-      "bytes": 15233
+      "contentHash": "sha256-XJcZEMI8mKKcvHmD3hRAsopmK/oewZ+t18SFSb7unIQ=",
+      "bytes": 15288
     },
     {
       "id": "great-scientists",
@@ -1016,11 +1134,13 @@
         "I think I can safely say that nobody understands quantum mechanics."
       ],
       "colorName": "cyan",
+      "colorLightHex": "#29ACB2",
+      "colorDarkHex": "#2DD3DA",
       "iconName": "atom",
       "category": "Science",
       "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-q2u8H0F5D499y/SGyvL7gTpEP+2OytB6U+17WX1INqc=",
-      "bytes": 16228
+      "contentHash": "sha256-cpgSILARxY1AcP+uqsy5lsJf6+0ddSfbHJXJ6Lmg27U=",
+      "bytes": 16287
     },
     {
       "id": "curiosity-discovery",
@@ -1033,11 +1153,13 @@
         "Machines take me by surprise with great frequency."
       ],
       "colorName": "purple",
+      "colorLightHex": "#B632CA",
+      "colorDarkHex": "#DE56F3",
       "iconName": "sparkle.magnifyingglass",
       "category": "Science",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-YrC+57ncZSHX5ULF+OEmdN+rGsDQLfl5n2IP5P5JpNI=",
-      "bytes": 14683
+      "contentHash": "sha256-E4zSfsfpJ7WOzGbbvLW8429+MYUHbqdhjpYPgi5caoU=",
+      "bytes": 14742
     },
     {
       "id": "bob-dylan",
@@ -1049,12 +1171,14 @@
         "I want to needle them.",
         "I welcome them—with open arms."
       ],
-      "colorName": "brown",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "guitars.fill",
       "category": "Music",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-rmpgk5qzBrV5DFLCJ8xEAchqgxuK6sUZYgTn0s8YG7E=",
-      "bytes": 11463
+      "contentHash": "sha256-RP3r3yo10FFdtNQeFrz8TJhPp9KvetbYi++jLP3I5uk=",
+      "bytes": 11522
     },
     {
       "id": "the-beatles",
@@ -1067,11 +1191,13 @@
         "I had one yesterday."
       ],
       "colorName": "magenta",
+      "colorLightHex": "#D72D97",
+      "colorDarkHex": "#F762B7",
       "iconName": "music.note",
       "category": "Music",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-9YS7IcWo8+wqxTy2DIk6ZTunWa5mrPg2pIBQKXK5fnY=",
-      "bytes": 12842
+      "contentHash": "sha256-Y2XlN6vgKvjmu3SHxkHKXbMo9xL7RV7Lb+8xnTy2kYc=",
+      "bytes": 12901
     },
     {
       "id": "johnny-cash",
@@ -1083,12 +1209,14 @@
         "Any talent is a gift of God.",
         "Give God's temple back to Him. The alternative is death."
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "guitars",
       "category": "Music",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-sekrqCZdpftFzni+p3JFoGKnE5O1m8R7pSaaNR1ZI3c=",
-      "bytes": 12158
+      "contentHash": "sha256-7j6Y2mCvbPW4xS0CK0Yq6P7hqyj4BI7aeqOCJUwlCUs=",
+      "bytes": 12213
     },
     {
       "id": "one-liners",
@@ -1100,12 +1228,14 @@
         "Take my wife... please.",
         "What fresh hell can this be?"
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "text.bubble.fill",
       "category": "Comedy",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-kMZ5RKJRZUnBtodN9mHTuxkOTRTvI2ZwZ7znz7c3ZEc=",
-      "bytes": 11874
+      "contentHash": "sha256-qRe05Bnj6BJOkVM6j3GxeI6Rm4adrlP81AvGZEHM8n8=",
+      "bytes": 11934
     },
     {
       "id": "mark-twain-wit",
@@ -1117,12 +1247,14 @@
         "When in doubt, tell the truth.",
         "All right, then, I'll go to hell."
       ],
-      "colorName": "brown",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "quote.bubble.fill",
       "category": "Comedy",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-M7rL09gU7KFw2QiDb8DEcd5a08NyM7n2Ib+S8OBSsXY=",
-      "bytes": 15116
+      "contentHash": "sha256-F9mH1JY8/5TPvSEhbiSRFUXNQM/sLd6X58XWgbumTuk=",
+      "bytes": 15175
     },
     {
       "id": "standup-legends",
@@ -1135,11 +1267,13 @@
         "Procrastinate now, don't put it off."
       ],
       "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "mic.fill",
       "category": "Comedy",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-SYY8Q6Zsa6bsg9kZpmNi2IkNK/NxDj/unlzbHbL5PEw=",
-      "bytes": 11368
+      "contentHash": "sha256-84vRLbHxcnAutraEOKv3Ho+2SZ5z6OHf40zE7ob6DQg=",
+      "bytes": 11427
     },
     {
       "id": "love-and-romance",
@@ -1152,11 +1286,13 @@
         "You pierce my soul. I am half agony, half hope."
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "heart.circle.fill",
       "category": "Love & Relationships",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-22S7OvEZ5i0KxGDZ3aYS7X52+LAD1za9YEGAgWmGH3I=",
-      "bytes": 12977
+      "contentHash": "sha256-/Nc3h1obzs6FwMcQuK+YAPu001GmzE5rwFIGPpZFR+Q=",
+      "bytes": 13036
     },
     {
       "id": "friendship",
@@ -1169,11 +1305,13 @@
         "A friend may well be reckoned the masterpiece of nature."
       ],
       "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "person.2.fill",
       "category": "Love & Relationships",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-33U6c1fmFKfa0wp9aFhQ9OURWuj1sbGe0QhNroXIfsQ=",
-      "bytes": 13284
+      "contentHash": "sha256-XF8G9687SUJXUWai2CQ/d5pLph2Trdtn8w7JkuKfx+8=",
+      "bytes": 13343
     },
     {
       "id": "marriage-and-weddings",
@@ -1186,11 +1324,13 @@
         "You must allow me to tell you how ardently I admire and love you."
       ],
       "colorName": "magenta",
+      "colorLightHex": "#D72D97",
+      "colorDarkHex": "#F762B7",
       "iconName": "heart.text.square.fill",
       "category": "Love & Relationships",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-4xMlRduVGNsKtUj8GgLPD/4C9IEG9mq30JihV8Z8EKI=",
-      "bytes": 12499
+      "contentHash": "sha256-el/3ADTqh2CsGhgk5Xhknv3Dp/HFC5SrQlgIiKNQKJg=",
+      "bytes": 12558
     },
     {
       "id": "john-muir",
@@ -1202,12 +1342,14 @@
         "The snow is melting into music.",
         "In every walk with Nature one receives far more than he seeks."
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "mountain.2.fill",
       "category": "Nature",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-66i9X+yHHBpzu3m3dnI+o0Q8vTjZahHM8q/2y7Flc4I=",
-      "bytes": 16388
+      "contentHash": "sha256-4ZJsKz4DhWxlfJJXsQC395cCy3sqhwe+RhKLXoGFxWA=",
+      "bytes": 16441
     },
     {
       "id": "thoreau-walden",
@@ -1219,12 +1361,14 @@
         "We need the tonic of wildness.",
         "Things do not change; we change."
       ],
-      "colorName": "mint",
+      "colorName": "teal",
+      "colorLightHex": "#27A98A",
+      "colorDarkHex": "#2BD1AA",
       "iconName": "tree.fill",
       "category": "Nature",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-7QeOXGBtskjFyLRTIs0XAPJ+Y//UErwY6i6gKUUWd0k=",
-      "bytes": 13649
+      "contentHash": "sha256-qfv1S8wpI/M9J2GmpLC5n5wu9id0pQZ7I0+fMP/3Is8=",
+      "bytes": 13708
     },
     {
       "id": "earth-and-the-wild",
@@ -1237,11 +1381,13 @@
         "In nature nothing exists alone."
       ],
       "colorName": "cyan",
+      "colorLightHex": "#29ACB2",
+      "colorDarkHex": "#2DD3DA",
       "iconName": "globe.americas.fill",
       "category": "Nature",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-shUJVrcByopdvXSgHamQ4KyqatyWDw96l3uj66/6xFQ=",
-      "bytes": 14235
+      "contentHash": "sha256-V4W5jbkfwcZzLXII/IBh5t/wp1m+d5vmgXeixiuqxJg=",
+      "bytes": 14294
     },
     {
       "id": "studio-ghibli",
@@ -1254,11 +1400,13 @@
         "May all your bacon burn!"
       ],
       "colorName": "cyan",
+      "colorLightHex": "#29ACB2",
+      "colorDarkHex": "#2DD3DA",
       "iconName": "wind",
       "category": "Anime & Manga",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-gw1LJsDf4HYclSbIEFnTvl6jEtLlxNhKjCTSQ0boFbE=",
-      "bytes": 12345
+      "contentHash": "sha256-oXrybx93Ba5pufX50El1XoIVx7/ptB7esjTATS5zHGs=",
+      "bytes": 12404
     },
     {
       "id": "naruto",
@@ -1271,11 +1419,13 @@
         "Sorry I'm late. I got lost on the path of life."
       ],
       "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "figure.martial.arts",
       "category": "Anime & Manga",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-6KNFcS40BjRjglaDScy5+A/57x/9hQuCxVBhgd2sAgA=",
-      "bytes": 13571
+      "contentHash": "sha256-t7stf4ytaM4tNGfhoMGHXHSemkBW9gjyvZbyjDTL8XI=",
+      "bytes": 13630
     },
     {
       "id": "one-piece",
@@ -1288,11 +1438,13 @@
         "Luffy… help me."
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "sailboat.fill",
       "category": "Anime & Manga",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-pLLtmedfj+1m67+kyp/9oAFKLKrglZIbvKZtn1zi0qk=",
-      "bytes": 13516
+      "contentHash": "sha256-uK0Bzc11h84c7d+Fw4bKbHP49KKBcqcWWGlg0jgcczQ=",
+      "bytes": 13575
     },
     {
       "id": "iconic-game-lines",
@@ -1305,11 +1457,13 @@
         "Ah, fresh meat!"
       ],
       "colorName": "purple",
+      "colorLightHex": "#B632CA",
+      "colorDarkHex": "#DE56F3",
       "iconName": "gamecontroller.fill",
       "category": "Video Games",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-v2vTj9h2Fgbf29ltytPCqmSnpYxf2+6K8+O5C1lM584=",
-      "bytes": 12975
+      "contentHash": "sha256-d9Yp3iUplmY5BAswnl9Fn1iUh24kuVhkNaWGGoVDhR4=",
+      "bytes": 13034
     },
     {
       "id": "legend-of-zelda",
@@ -1321,12 +1475,14 @@
         "Open your eyes.",
         "Thank you, Master Link."
       ],
-      "colorName": "gold",
+      "colorName": "amber",
+      "colorLightHex": "#E2A520",
+      "colorDarkHex": "#FBB620",
       "iconName": "triangle.fill",
       "category": "Video Games",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-JCWTM+FfkR+/glsc/HArCsygx2cfJGxfJmlMRPL71pM=",
-      "bytes": 9349
+      "contentHash": "sha256-ymvXKIXOVmXa+RD05wYE+9oTq4BkeE8hGY7b4s9J0Xc=",
+      "bytes": 9409
     },
     {
       "id": "rpg-wisdom",
@@ -1338,12 +1494,14 @@
         "Not until the end. Always.",
         "Does this unit have a soul?"
       ],
-      "colorName": "navyBlue",
+      "colorName": "blue",
+      "colorLightHex": "#116BDF",
+      "colorDarkHex": "#4790FB",
       "iconName": "shield.lefthalf.filled",
       "category": "Video Games",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-pp0aOpsDyjsPVB74Uy9j/9JIA7KBBF3aFXDMRkz2Iow=",
-      "bytes": 11912
+      "contentHash": "sha256-lUJG0kF69eh9oaVVO9MI3UT1TXD1ykEu9KSSXWgt9ik=",
+      "bytes": 11967
     },
     {
       "id": "starcraft",
@@ -1356,11 +1514,13 @@
         "Nuclear launch detected."
       ],
       "colorName": "cyan",
+      "colorLightHex": "#29ACB2",
+      "colorDarkHex": "#2DD3DA",
       "iconName": "bolt.fill",
       "category": "Video Games",
       "lastUpdated": "2026-07-01T12:00:00Z",
-      "contentHash": "sha256-ky5763EGh4U5MhFv6ySBlZMq/E9JdF0Of2MA0Y8K94A=",
-      "bytes": 7601
+      "contentHash": "sha256-l8gvaAlNS74PL76KObKXpteODavAaw09ThgZPFhlsLc=",
+      "bytes": 7660
     },
     {
       "id": "warcraft",
@@ -1372,12 +1532,14 @@
         "Work, work.",
         "You are not prepared!"
       ],
-      "colorName": "forestGreen",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "flame.fill",
       "category": "Video Games",
       "lastUpdated": "2026-07-01T12:00:00Z",
-      "contentHash": "sha256-gc9purdksmh+RXvzpKyeARJzyif3yZkFJ6S83he2xig=",
-      "bytes": 8141
+      "contentHash": "sha256-MdiC3izZNxv6+Z4g7x64lZeq3m0VXxUlAp5iRuwaZJ0=",
+      "bytes": 8194
     },
     {
       "id": "michael-jordan",
@@ -1390,11 +1552,13 @@
         "I can accept failure. Everyone fails at something. But I can't accept not trying."
       ],
       "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
       "iconName": "basketball.fill",
       "category": "Sports",
       "lastUpdated": "2026-07-07T12:00:00Z",
-      "contentHash": "sha256-PYNvB5yebEdbBAkHv0b/B/VjMsKohGm7nCkTYPPfbXk=",
-      "bytes": 25424
+      "contentHash": "sha256-36EpIJxiK9CNx7febAaLXaHCB993BcSBL883/5R/7uI=",
+      "bytes": 25483
     }
   ]
 }

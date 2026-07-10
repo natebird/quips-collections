@@ -4,6 +4,8 @@
   "description": "The unforgettable lines that gamers quote, from the classics to modern blockbusters.",
   "author": "Quips Editorial",
   "colorName": "purple",
+  "colorLightHex": "#B632CA",
+  "colorDarkHex": "#DE56F3",
   "iconName": "gamecontroller.fill",
   "category": "Video Games",
   "lastUpdated": "2026-07-01T12:00:00Z",

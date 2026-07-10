@@ -4,6 +4,8 @@
   "description": "Krishna's counsel to Arjuna on duty, devotion, and the eternal soul.",
   "author": "Quips Editorial",
   "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
   "iconName": "sun.max.fill",
   "category": "Faith",
   "lastUpdated": "2026-06-30T12:00:00Z",

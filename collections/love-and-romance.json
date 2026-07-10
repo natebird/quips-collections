@@ -4,6 +4,8 @@
   "description": "The timeless language of the heart, from the greatest poets and writers of love.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "heart.circle.fill",
   "category": "Love & Relationships",
   "lastUpdated": "2026-06-30T12:00:00Z",

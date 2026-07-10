@@ -4,6 +4,8 @@
   "description": "Brick-built wisdom and one-liners from the Lego movie universe, with a heavy dose of Ninjago.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "cube.fill",
   "category": "Movies",
   "lastUpdated": "2026-07-04T12:00:00Z",

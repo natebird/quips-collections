@@ -4,6 +4,8 @@
   "description": "Haunting lines from the gothic tales and shadow-haunted poems of Edgar Allan Poe, master of mystery and the macabre.",
   "author": "Quips Editorial",
   "colorName": "purple",
+  "colorLightHex": "#B632CA",
+  "colorDarkHex": "#DE56F3",
   "iconName": "bird.fill",
   "category": "Literature",
   "lastUpdated": "2026-06-27T12:00:00Z",

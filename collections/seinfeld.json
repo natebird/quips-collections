@@ -4,6 +4,8 @@
   "description": "Iconic quotes and catchphrases from the show about nothing that became everything.",
   "author": "Quips Editorial",
   "colorName": "orange",
+  "colorLightHex": "#E1791C",
+  "colorDarkHex": "#FDA260",
   "iconName": "tv.fill",
   "category": "Television",
   "lastUpdated": "2026-06-20T12:00:00Z",

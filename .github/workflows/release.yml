@@ -30,6 +30,20 @@ jobs:
         run: |
           set -euo pipefail
           VER="${TAG#v}"
+          # Stamp the release version (from the tag — the single source of truth)
+          # into the index. Done in the working copy *before* the copy/zip/manifest
+          # steps so the published dist/collections.json, the zip, and the manifest's
+          # indexHash (build_manifest.py hashes ./collections.json) all agree. The
+          # workflow checkout is ephemeral, so this is not committed back.
+          python3 - "$VER" <<'PY'
+          import json, sys
+          with open("collections.json", encoding="utf-8") as f:
+              index = json.load(f)
+          index["version"] = sys.argv[1]
+          with open("collections.json", "w", encoding="utf-8") as f:
+              json.dump(index, f, ensure_ascii=False, indent=2)
+              f.write("\n")
+          PY
           mkdir -p dist/collections
           cp collections.json dist/
           cp collections/*.json dist/collections/

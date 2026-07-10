@@ -4,6 +4,8 @@
   "description": "Chilling visions of the future from the great dystopian novels, where surveillance, conformity, and control reveal what we stand to lose.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "eye.fill",
   "category": "Literature",
   "lastUpdated": "2026-06-27T12:00:00Z",

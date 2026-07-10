@@ -4,6 +4,8 @@
   "description": "Memorable quotes from science fiction movies and television that shaped our imagination.",
   "author": "Quips Editorial",
   "colorName": "cyan",
+  "colorLightHex": "#29ACB2",
+  "colorDarkHex": "#2DD3DA",
   "iconName": "sparkles",
   "category": "Movies",
   "lastUpdated": "2026-07-04T12:00:00Z",

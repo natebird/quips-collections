@@ -4,6 +4,8 @@
   "description": "Wonder, courage, and quiet wisdom from the enchanted films of Studio Ghibli.",
   "author": "Quips Editorial",
   "colorName": "cyan",
+  "colorLightHex": "#29ACB2",
+  "colorDarkHex": "#2DD3DA",
   "iconName": "wind",
   "category": "Anime & Manga",
   "lastUpdated": "2026-06-30T12:00:00Z",

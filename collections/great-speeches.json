@@ -4,6 +4,8 @@
   "description": "The lines that changed history, drawn from the world's most powerful addresses.",
   "author": "Quips Editorial",
   "colorName": "red",
+  "colorLightHex": "#E92528",
+  "colorDarkHex": "#FA7064",
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
   "lastUpdated": "2026-06-30T12:00:00Z",

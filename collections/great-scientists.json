@@ -4,6 +4,8 @@
   "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
   "author": "Quips Editorial",
   "colorName": "cyan",
+  "colorLightHex": "#29ACB2",
+  "colorDarkHex": "#2DD3DA",
   "iconName": "atom",
   "category": "Science",
   "lastUpdated": "2026-07-09T12:00:00Z",
