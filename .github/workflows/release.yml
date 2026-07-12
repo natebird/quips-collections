@@ -44,10 +44,19 @@ jobs:
               json.dump(index, f, ensure_ascii=False, indent=2)
               f.write("\n")
           PY
+          # Regenerate the standalone dynamic feeds from the released data so the
+          # published copies always reflect this version (the data is the source of
+          # truth). build_manifest.py hashes these from the working copy, so this
+          # must run before it.
+          python3 scripts/build_recently_added.py
+          python3 scripts/build_on_this_day.py
+          python3 scripts/build_newsletter_picks.py
           mkdir -p dist/collections
           cp collections.json dist/
           cp collections/*.json dist/collections/
-          ( cd dist && zip -qr "quips-collections-${TAG}.zip" collections.json collections )
+          cp recently-added.json on-this-day.json newsletter-picks.json dist/
+          ( cd dist && zip -qr "quips-collections-${TAG}.zip" collections.json collections \
+              recently-added.json on-this-day.json newsletter-picks.json )
           python3 scripts/build_manifest.py "$VER" > dist/manifest.json
           echo "Manifest:"; cat dist/manifest.json
 

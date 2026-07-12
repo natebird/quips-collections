@@ -1,6 +1,12 @@
 # Build output
 dist/
 
+# Generated feeds — build artifacts regenerated and published at release
+# (see scripts/build_*.py). Not committed; served from the CDN per the manifest.
+recently-added.json
+on-this-day.json
+newsletter-picks.json
+
 # macOS
 .DS_Store
 .AppleDouble
