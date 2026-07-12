@@ -1,6 +1,12 @@
 # Build output
 dist/
 
+# Large generated feeds — build artifacts regenerated and published at release
+# (see scripts/build_on_this_day.py, scripts/build_short_and_shareable.py).
+# The small feeds (recently-added.json, newsletter-picks.json) stay committed.
+on-this-day.json
+short-and-shareable.json
+
 # macOS
 .DS_Store
 .AppleDouble

@@ -12,10 +12,20 @@ version, then pins the immutable v<version> assets it names.
 import base64
 import hashlib
 import json
+import os
 import sys
 from datetime import datetime, timezone
 
 BASE = "https://data.quipsapp.com"
+
+# Standalone generated feeds published alongside the index (see scripts/build_*.py).
+# Each is optional: listed in the manifest only when the file is present at release.
+GENERATED_FEEDS = [
+    ("recentlyAdded", "recently-added.json"),
+    ("onThisDay", "on-this-day.json"),
+    ("shortAndShareable", "short-and-shareable.json"),
+    ("newsletterPicks", "newsletter-picks.json"),
+]
 
 
 def sri_hash(raw: bytes) -> str:
@@ -54,6 +64,23 @@ def main():
         "indexBytes": len(index_raw),
         "bundleUrl": f"{base}/quips-collections-v{version}.zip",
     }
+
+    # Generated feeds (Recently Added, On This Day, …). Same url/hash/bytes
+    # contract as the index, so a client discovers and integrity-checks them
+    # the same way, and skips a feed whose hash matches its cached copy.
+    generated = {}
+    for key, fname in GENERATED_FEEDS:
+        if os.path.exists(fname):
+            with open(fname, "rb") as f:
+                raw = f.read()
+            generated[key] = {
+                "url": f"{base}/{fname}",
+                "hash": sri_hash(raw),
+                "bytes": len(raw),
+            }
+    if generated:
+        manifest["generated"] = generated
+
     json.dump(manifest, sys.stdout, indent=2)
     print()
     return 0
