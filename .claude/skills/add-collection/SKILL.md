@@ -59,10 +59,14 @@ entry, and `previewQuotes`.
      "colorName": "<colorName>",
      "iconName": "<iconName>",
      "category": "<category>",
+     "addedAt": "<today>T12:00:00Z",
      "lastUpdated": "<today>T12:00:00Z",
      "quotes": [ /* quote objects per the add-quotes skill, ids <prefix>-001, -002, … */ ]
    }
    ```
+   - `addedAt` — **required** dataset-recency timestamp (see `add-quotes`). Every
+     quote in a brand-new collection shares this same `<today>T12:00:00Z` value,
+     since they all enter the dataset together.
 
 5. **Add the index entry to `collections.json`** in the `collections` array (append, or place
    thematically). It mirrors the file plus index-only fields:
@@ -80,10 +84,12 @@ entry, and `previewQuotes`.
      "colorName": "<colorName>",
      "iconName": "<iconName>",
      "category": "<category>",
+     "addedAt": "<today>T12:00:00Z",
      "lastUpdated": "<today>T12:00:00Z"
    }
    ```
    - `quoteCount` must equal the number of quotes in the collection file.
+   - `addedAt` must match the collection file's `addedAt` exactly.
    - `previewQuotes` — pick 2 of the most recognizable/short **verified** lines.
    - Bump the index's top-level `lastUpdated` to `<today>T12:00:00Z`.
 

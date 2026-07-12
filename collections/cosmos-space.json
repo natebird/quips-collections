@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "moon.stars.fill",
   "category": "Science",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-07-09T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1980",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening words of both Sagan's book and the companion PBS television series."
+      "notes": "The opening words of both Sagan's book and the companion PBS television series.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1980",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sagan's reflection that the atoms in our bodies were forged inside stars."
+      "notes": "Sagan's reflection that the atoms in our bodies were forged inside stars.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1980",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the opening chapter, on pairing imagination with skepticism."
+      "notes": "From the opening chapter, on pairing imagination with skepticism.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1980",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "Popularized by Sagan as the 'Sagan standard' for evaluating extraordinary claims."
+      "notes": "Popularized by Sagan as the 'Sagan standard' for evaluating extraordinary claims.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1994",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Inspired by Voyager 1's 1990 photograph of Earth as a mote of dust in a sunbeam."
+      "notes": "Inspired by Voyager 1's 1990 photograph of Earth as a mote of dust in a sunbeam.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1994",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The closing of the Pale Blue Dot passage, urging stewardship of Earth."
+      "notes": "The closing of the Pale Blue Dot passage, urging stewardship of Earth.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A thematic line near the end of Sagan's only novel."
+      "notes": "A thematic line near the end of Sagan's only novel.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-008",
@@ -88,7 +96,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: popularly attributed to Sagan but not traced to any of his documented writings or broadcasts."
+      "notes": "Source axis fails: popularly attributed to Sagan but not traced to any of his documented writings or broadcasts.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Tyson's answer to 'the most astounding fact about the universe,' later made into a viral video."
+      "notes": "Tyson's answer to 'the most astounding fact about the universe,' later made into a viral video.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-010",
@@ -108,7 +118,8 @@
       "quoteDate": "2011",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "Said in conversation with Stephen Colbert and later posted verbatim to Tyson's verified account."
+      "notes": "Said in conversation with Stephen Colbert and later posted verbatim to Tyson's verified account.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The book's concluding sentence; Hawking later said he used 'God' figuratively."
+      "notes": "The book's concluding sentence; Hawking later said he used 'God' figuratively.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-012",
@@ -128,7 +140,8 @@
       "quoteDate": "2010",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "The first of three pieces of advice Hawking said he gave his children."
+      "notes": "The first of three pieces of advice Hawking said he gave his children.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-013",
@@ -138,7 +151,8 @@
       "quoteDate": "2012",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered by webcast when illness kept Hawking from attending the event in person."
+      "notes": "Delivered by webcast when illness kept Hawking from attending the event in person.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "On humanity's smallness in the cosmos balanced against our capacity to comprehend it."
+      "notes": "On humanity's smallness in the cosmos balanced against our capacity to comprehend it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1969-07-20",
       "verificationStatus": "verified",
       "sourceType": "radio",
-      "notes": "Armstrong maintained he said 'for a man'; recordings are inconclusive and NASA transcripts render the 'a' in parentheses."
+      "notes": "Armstrong maintained he said 'for a man'; recordings are inconclusive and NASA transcripts render the 'a' in parentheses.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1969-07-20",
       "verificationStatus": "verified",
       "sourceType": "radio",
-      "notes": "Armstrong's spontaneous call sign change confirmed the Lunar Module had touched down safely."
+      "notes": "Armstrong's spontaneous call sign change confirmed the Lunar Module had touched down safely.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1969-07-20",
       "verificationStatus": "verified",
       "sourceType": "radio",
-      "notes": "Recorded in NASA's air-to-ground transcript; Aldrin chose opposing words to capture the Moon's stark beauty."
+      "notes": "Recorded in NASA's air-to-ground transcript; Aldrin chose opposing words to capture the Moon's stark beauty.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1961-04-12",
       "verificationStatus": "verified",
       "sourceType": "radio",
-      "notes": "His exclamation at lift-off, 'Poyekhali!', became a motto of the Soviet space program."
+      "notes": "His exclamation at lift-off, 'Poyekhali!', became a motto of the Soviet space program.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1961",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Wording axis fails: historians dispute whether this was said in one breath or reassembled from separate transmissions and later recollections."
+      "notes": "Wording axis fails: historians dispute whether this was said in one breath or reassembled from separate transmissions and later recollections.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Ride was the first American woman in space, aboard STS-7 in 1983."
+      "notes": "Ride was the first American woman in space, aboard STS-7 in 1983.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Ride describing the raw experience of a rocket launch."
+      "notes": "Ride describing the raw experience of a rocket launch.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The signature motto McAuliffe adopted during selection; she died aboard Challenger in 1986."
+      "notes": "The signature motto McAuliffe adopted during selection; she died aboard Challenger in 1986.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1998",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: repeated across quote sites but not confirmed against a primary transcript or recording of the interview."
+      "notes": "Source axis fails: repeated across quote sites but not confirmed against a primary transcript or recording of the interview.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1929",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Hubble later showed the universe is expanding, giving rise to the concept of the Big Bang."
+      "notes": "Hubble later showed the universe is expanding, giving rise to the concept of the Big Bang.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1619",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Translated from the Latin; Kepler saw mathematical harmony as evidence of divine order in the heavens."
+      "notes": "Translated from the Latin; Kepler saw mathematical harmony as evidence of divine order in the heavens.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1630",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "The astronomer's own epitaph, written shortly before his death and documented in his collected works."
+      "notes": "The astronomer's own epitaph, written shortly before his death and documented in his collected works.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1911",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "Literal translation of the Russian; often paraphrased as 'Earth is the cradle of humanity.'"
+      "notes": "Literal translation of the Russian; often paraphrased as 'Earth is the cradle of humanity.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1912",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "The passage inscribed on the obelisk marking the rocketry pioneer's grave."
+      "notes": "The passage inscribed on the obelisk marking the rocketry pioneer's grave.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 2018",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "The NASA mathematician whose orbital calculations were trusted by John Glenn for Friendship 7."
+      "notes": "The NASA mathematician whose orbital calculations were trusted by John Glenn for Friendship 7.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 2018",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "Johnson on the enduring importance of mathematics to human progress."
+      "notes": "Johnson on the enduring importance of mathematics to human progress.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cosmos-031",
@@ -318,7 +349,8 @@
       "quoteDate": "1974",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Collins's reflection on his roughly 48 minutes of solitude aboard the Apollo 11 command module, alone on the far side of the Moon during Armstrong and Aldrin's descent."
+      "notes": "Collins's reflection on his roughly 48 minutes of solitude aboard the Apollo 11 command module, alone on the far side of the Moon during Armstrong and Aldrin's descent.",
+      "addedAt": "2026-07-09T12:40:13Z"
     },
     {
       "id": "cosmos-032",
@@ -328,7 +360,8 @@
       "quoteDate": "1972-12-14",
       "verificationStatus": "verified",
       "sourceType": "radio",
-      "notes": "Cernan's closing remarks as the last person to walk on the Moon, recorded in NASA's air-to-ground transcript."
+      "notes": "Cernan's closing remarks as the last person to walk on the Moon, recorded in NASA's air-to-ground transcript.",
+      "addedAt": "2026-07-09T12:40:13Z"
     }
   ]
 }

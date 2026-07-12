@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD66A",
   "iconName": "flame.fill",
   "category": "Literature",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-06-20T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "1954-07-29",
       "verificationStatus": "verified",
-      "notes": "From the poem about Aragorn. Often quoted independently as a travel or life philosophy motto."
+      "notes": "From the poem about Aragorn. Often quoted independently as a travel or life philosophy motto.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "quoteDate": "1954-07-29",
       "verificationStatus": "verified",
-      "notes": "Gandalf's advice to Frodo in Moria. One of Tolkien's most quoted philosophical passages."
+      "notes": "Gandalf's advice to Frodo in Moria. One of Tolkien's most quoted philosophical passages.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-003",
@@ -38,7 +41,8 @@
       "sourceType": "movie",
       "quoteDate": "2001-12-19",
       "verificationStatus": "verified",
-      "notes": "Film addition by Fran Walsh and Philippa Boyens. Cate Blanchett's delivery made it iconic."
+      "notes": "Film addition by Fran Walsh and Philippa Boyens. Cate Blanchett's delivery made it iconic.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-004",
@@ -48,7 +52,8 @@
       "sourceType": "movie",
       "quoteDate": "2001-12-19",
       "verificationStatus": "verified",
-      "notes": "Gandalf confronting the Balrog. In the book it's 'You cannot pass!' The film version became more famous."
+      "notes": "Gandalf confronting the Balrog. In the book it's 'You cannot pass!' The film version became more famous.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-005",
@@ -58,7 +63,8 @@
       "sourceType": "movie",
       "quoteDate": "2002-12-18",
       "verificationStatus": "verified",
-      "notes": "Gollum's obsessive phrase for the Ring. Serkis' motion-capture performance revolutionized the technology."
+      "notes": "Gollum's obsessive phrase for the Ring. Serkis' motion-capture performance revolutionized the technology.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-006",
@@ -68,7 +74,8 @@
       "sourceType": "movie",
       "quoteDate": "2001-12-19",
       "verificationStatus": "verified",
-      "notes": "Gandalf's response to Frodo about his timing. Sets up Gandalf's enigmatic character."
+      "notes": "Gandalf's response to Frodo about his timing. Sets up Gandalf's enigmatic character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-007",
@@ -78,7 +85,8 @@
       "sourceType": "movie",
       "quoteDate": "2001-12-19",
       "verificationStatus": "verified",
-      "notes": "Gandalf rejecting Saruman's offer of alliance. Establishes the Ring's singular corrupting power."
+      "notes": "Gandalf rejecting Saruman's offer of alliance. Establishes the Ring's singular corrupting power.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-008",
@@ -88,7 +96,8 @@
       "sourceType": "television",
       "quoteDate": "2011-04-17",
       "verificationStatus": "verified",
-      "notes": "Stark family words warning of coming hardship. Became one of TV's most recognized phrases."
+      "notes": "Stark family words warning of coming hardship. Became one of TV's most recognized phrases.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-009",
@@ -98,7 +107,8 @@
       "sourceType": "television",
       "quoteDate": "2011-05-29",
       "verificationStatus": "verified",
-      "notes": "Cersei warning Ned Stark about the stakes of power. Defines the show's brutal political world."
+      "notes": "Cersei warning Ned Stark about the stakes of power. Defines the show's brutal political world.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-010",
@@ -108,7 +118,8 @@
       "sourceType": "television",
       "quoteDate": "2011-04-17",
       "verificationStatus": "verified",
-      "notes": "Lannister family saying. Used for both financial reliability and threats of revenge."
+      "notes": "Lannister family saying. Used for both financial reliability and threats of revenge.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-011",
@@ -118,7 +129,8 @@
       "sourceType": "television",
       "quoteDate": "2011-04-17",
       "verificationStatus": "verified",
-      "notes": "Red Priestess prayer to R'hllor, the Lord of Light. Became the show's ominous catchphrase."
+      "notes": "Red Priestess prayer to R'hllor, the Lord of Light. Became the show's ominous catchphrase.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-012",
@@ -128,7 +140,8 @@
       "sourceType": "television",
       "quoteDate": "2012-04-01",
       "verificationStatus": "verified",
-      "notes": "High Valyrian greeting of the Faceless Men. Response: 'Valar dohaeris' (All men must serve)."
+      "notes": "High Valyrian greeting of the Faceless Men. Response: 'Valar dohaeris' (All men must serve).",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-013",
@@ -138,7 +151,8 @@
       "sourceType": "television",
       "quoteDate": "2016-05-01",
       "verificationStatus": "verified",
-      "notes": "Tyrion's self-deprecating job description. Became one of the show's most merchandised quotes."
+      "notes": "Tyrion's self-deprecating job description. Became one of the show's most merchandised quotes.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-014",
@@ -148,7 +162,8 @@
       "sourceType": "television",
       "quoteDate": "2013-05-05",
       "verificationStatus": "verified",
-      "notes": "Littlefinger revealing his philosophy of exploiting instability. Defines his scheming character."
+      "notes": "Littlefinger revealing his philosophy of exploiting instability. Defines his scheming character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-015",
@@ -158,7 +173,8 @@
       "sourceType": "television",
       "quoteDate": "2016-05-22",
       "verificationStatus": "verified",
-      "notes": "Revealed origin of Hodor's name. The episode's tragic twist shocked and devastated viewers."
+      "notes": "Revealed origin of Hodor's name. The episode's tragic twist shocked and devastated viewers.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-016",
@@ -168,7 +184,8 @@
       "sourceType": "television",
       "quoteDate": "2012-04-01",
       "verificationStatus": "verified",
-      "notes": "Ygritte's recurring phrase to Jon. Became a pop culture catchphrase and meme."
+      "notes": "Ygritte's recurring phrase to Jon. Became a pop culture catchphrase and meme.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "quoteDate": "1996-08-01",
       "verificationStatus": "verified",
-      "notes": "Arya's sword instructor's wisdom. Part of her internal mantra for survival."
+      "notes": "Arya's sword instructor's wisdom. Part of her internal mantra for survival.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-018",
@@ -188,7 +206,8 @@
       "sourceType": "television",
       "quoteDate": "2011-04-17",
       "verificationStatus": "verified",
-      "notes": "Ned's lesson to Bran about justice and responsibility. Establishes Stark honor."
+      "notes": "Ned's lesson to Bran about justice and responsibility. Establishes Stark honor.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-019",
@@ -198,7 +217,8 @@
       "sourceType": "television",
       "quoteDate": "2011-04-17",
       "verificationStatus": "verified",
-      "notes": "Daenerys asserting her Targaryen heritage. Foreshadows her growing power and eventual transformation."
+      "notes": "Daenerys asserting her Targaryen heritage. Foreshadows her growing power and eventual transformation.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-020",
@@ -208,7 +228,8 @@
       "sourceType": "television",
       "quoteDate": "2013-04-21",
       "verificationStatus": "verified",
-      "notes": "High Valyrian command meaning 'dragonfire.' Daenerys' first devastating use of her dragons."
+      "notes": "High Valyrian command meaning 'dragonfire.' Daenerys' first devastating use of her dragons.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "1990-01-15",
       "verificationStatus": "verified",
-      "notes": "Central philosophy of the series about fate and destiny. The Pattern cannot be changed."
+      "notes": "Central philosophy of the series about fate and destiny. The Pattern cannot be changed.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": "1990-01-15",
       "verificationStatus": "verified",
-      "notes": "Borderlander saying that Lan lives by. Reflects the warrior culture's sense of honor."
+      "notes": "Borderlander saying that Lan lives by. Reflects the warrior culture's sense of honor.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "quoteDate": "2006-07-17",
       "verificationStatus": "verified",
-      "notes": "Kelsier's paradoxical wisdom about giving everything for a cause. His philosophy shapes the rebellion."
+      "notes": "Kelsier's paradoxical wisdom about giving everything for a cause. His philosophy shapes the rebellion.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "quoteDate": "2010-08-31",
       "verificationStatus": "verified",
-      "notes": "Core oath of the Knights Radiant. 'Life before death' precedes these lines in the full oath."
+      "notes": "Core oath of the Knights Radiant. 'Life before death' precedes these lines in the full oath.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "2010-08-31",
       "verificationStatus": "verified",
-      "notes": "Kaladin's oath that unlocks greater power. Each order has different Ideals."
+      "notes": "Kaladin's oath that unlocks greater power. Each order has different Ideals.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "2007-03-27",
       "verificationStatus": "verified",
-      "notes": "Kvothe's philosophy about the power of true names. Central to the magic system."
+      "notes": "Kvothe's philosophy about the power of true names. Central to the magic system.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-027",
@@ -278,7 +305,8 @@
       "sourceType": "book",
       "quoteDate": "2007-03-27",
       "verificationStatus": "verified",
-      "notes": "Kvothe reflecting on learning and wisdom. Fits his scholar-musician-adventurer character."
+      "notes": "Kvothe reflecting on learning and wisdom. Fits his scholar-musician-adventurer character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-028",
@@ -288,7 +316,8 @@
       "sourceType": "book",
       "quoteDate": "2011-07-12",
       "verificationStatus": "verified",
-      "notes": "Jojen's observation about the power of reading and stories. Meta-commentary on fiction."
+      "notes": "Jojen's observation about the power of reading and stories. Meta-commentary on fiction.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-029",
@@ -298,7 +327,8 @@
       "sourceType": "movie",
       "quoteDate": "2002-12-18",
       "verificationStatus": "verified",
-      "notes": "Sam's hopeful speech at Osgiliath. Film addition that crystallizes the trilogy's themes."
+      "notes": "Sam's hopeful speech at Osgiliath. Film addition that crystallizes the trilogy's themes.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-030",
@@ -308,7 +338,8 @@
       "sourceType": "movie",
       "quoteDate": "2003-12-17",
       "verificationStatus": "verified",
-      "notes": "Sam carrying Frodo up Mount Doom. Represents friendship and loyalty at their purest."
+      "notes": "Sam carrying Frodo up Mount Doom. Represents friendship and loyalty at their purest.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-031",
@@ -318,7 +349,8 @@
       "sourceType": "movie",
       "quoteDate": "2001-12-19",
       "verificationStatus": "verified",
-      "notes": "Boromir explaining Mordor's dangers at the Council of Elrond. Became one of the internet's earliest memes."
+      "notes": "Boromir explaining Mordor's dangers at the Council of Elrond. Became one of the internet's earliest memes.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-032",
@@ -328,7 +360,8 @@
       "sourceType": "television",
       "quoteDate": "2012-04-01",
       "verificationStatus": "verified",
-      "notes": "Ironborn religious phrase about the Drowned God. 'But rises again, harder and stronger.'"
+      "notes": "Ironborn religious phrase about the Drowned God. 'But rises again, harder and stronger.'",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-033",
@@ -338,7 +371,8 @@
       "sourceType": "television",
       "quoteDate": "2011-04-17",
       "verificationStatus": "verified",
-      "notes": "Jaime before pushing Bran from the tower. Introduces his morally complex character."
+      "notes": "Jaime before pushing Bran from the tower. Introduces his morally complex character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-034",
@@ -348,7 +382,8 @@
       "sourceType": "book",
       "quoteDate": "1998-07-02",
       "verificationStatus": "verified",
-      "notes": "Dumbledore's wisdom to Harry about character and identity. Central theme of the series."
+      "notes": "Dumbledore's wisdom to Harry about character and identity. Central theme of the series.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-035",
@@ -358,7 +393,8 @@
       "sourceType": "book",
       "quoteDate": "2007-07-21",
       "verificationStatus": "verified",
-      "notes": "Snape's revelation about his love for Lily Potter. The series' most emotional twist."
+      "notes": "Snape's revelation about his love for Lily Potter. The series' most emotional twist.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "fantasy-036",
@@ -368,7 +404,8 @@
       "sourceType": "movie",
       "quoteDate": "2003-12-17",
       "verificationStatus": "verified",
-      "notes": "Éowyn's reveal to the Witch-king after he declares no living man can kill him; the film condensed Tolkien's longer passage to this three-word subversion of the prophecy."
+      "notes": "Éowyn's reveal to the Witch-king after he declares no living man can kill him; the film condensed Tolkien's longer passage to this three-word subversion of the prophecy.",
+      "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
 }

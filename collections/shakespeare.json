@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "theatermasks.fill",
   "category": "Literature",
+  "addedAt": "2026-06-28T02:20:43Z",
   "lastUpdated": "2026-06-27T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Hamlet opens his most famous soliloquy as he contemplates life and death."
+      "notes": "Hamlet opens his most famous soliloquy as he contemplates life and death.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-002",
@@ -28,7 +30,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Polonius offers parting advice to his son Laertes."
+      "notes": "Polonius offers parting advice to his son Laertes.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-003",
@@ -38,7 +41,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Polonius says this to the King and Queen, ironically before a long-winded speech."
+      "notes": "Polonius says this to the King and Queen, ironically before a long-winded speech.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-004",
@@ -48,7 +52,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Polonius, aside, observing Hamlet's seemingly mad behavior."
+      "notes": "Polonius, aside, observing Hamlet's seemingly mad behavior.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-005",
@@ -58,7 +63,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Queen Gertrude reacts to the player queen during the play-within-a-play; often misquoted with the word order reversed."
+      "notes": "Queen Gertrude reacts to the player queen during the play-within-a-play; often misquoted with the word order reversed.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-006",
@@ -68,7 +74,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Hamlet to Rosencrantz and Guildenstern, on Denmark as a prison."
+      "notes": "Hamlet to Rosencrantz and Guildenstern, on Denmark as a prison.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-007",
@@ -78,7 +85,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Spoken by the guard Marcellus as Hamlet follows his father's ghost."
+      "notes": "Spoken by the guard Marcellus as Hamlet follows his father's ghost.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-008",
@@ -88,7 +96,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Hamlet holds the skull of the former court jester in the graveyard scene."
+      "notes": "Hamlet holds the skull of the former court jester in the graveyard scene.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-009",
@@ -98,7 +107,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Hamlet's dying words."
+      "notes": "Hamlet's dying words.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-010",
@@ -108,7 +118,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1606",
       "verificationStatus": "verified",
-      "notes": "The three witches chant over their cauldron; commonly misremembered as 'bubble bubble.'"
+      "notes": "The three witches chant over their cauldron; commonly misremembered as 'bubble bubble.'",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-011",
@@ -118,7 +129,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1606",
       "verificationStatus": "verified",
-      "notes": "Lady Macbeth, sleepwalking, imagines bloodstains she cannot wash away."
+      "notes": "Lady Macbeth, sleepwalking, imagines bloodstains she cannot wash away.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-012",
@@ -128,7 +140,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1606",
       "verificationStatus": "verified",
-      "notes": "Macbeth hallucinates a dagger leading him to murder King Duncan."
+      "notes": "Macbeth hallucinates a dagger leading him to murder King Duncan.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-013",
@@ -138,7 +151,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1606",
       "verificationStatus": "verified",
-      "notes": "The witches chant this in the play's opening scene, setting its theme of moral inversion."
+      "notes": "The witches chant this in the play's opening scene, setting its theme of moral inversion.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-014",
@@ -148,7 +162,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1606",
       "verificationStatus": "verified",
-      "notes": "Macbeth's despairing soliloquy on hearing of his wife's death."
+      "notes": "Macbeth's despairing soliloquy on hearing of his wife's death.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-015",
@@ -158,7 +173,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1606",
       "verificationStatus": "verified",
-      "notes": "Macbeth reflects on the futility of life moments before his end."
+      "notes": "Macbeth reflects on the futility of life moments before his end.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-016",
@@ -168,7 +184,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Juliet at her window asks why Romeo must be a Montague ('wherefore' means 'why')."
+      "notes": "Juliet at her window asks why Romeo must be a Montague ('wherefore' means 'why').",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-017",
@@ -178,7 +195,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Romeo sees Juliet appear at her window during the balcony scene."
+      "notes": "Romeo sees Juliet appear at her window during the balcony scene.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-018",
@@ -188,7 +206,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Juliet argues that names are arbitrary; the Folger and Quarto texts read 'word,' often modernized to 'name.'"
+      "notes": "Juliet argues that names are arbitrary; the Folger and Quarto texts read 'word,' often modernized to 'name.'",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-019",
@@ -198,7 +217,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Juliet bids Romeo good night at the close of the balcony scene."
+      "notes": "Juliet bids Romeo good night at the close of the balcony scene.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-020",
@@ -208,7 +228,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Mercutio curses the Montagues and Capulets as he dies of his wound."
+      "notes": "Mercutio curses the Montagues and Capulets as he dies of his wound.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-021",
@@ -218,7 +239,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "The Prince's closing couplet that ends the play."
+      "notes": "The Prince's closing couplet that ends the play.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-022",
@@ -228,7 +250,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "Mark Antony opens his funeral oration over Caesar's body."
+      "notes": "Mark Antony opens his funeral oration over Caesar's body.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-023",
@@ -238,7 +261,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "Caesar's last words on seeing Brutus among his assassins ('You too, Brutus?')."
+      "notes": "Caesar's last words on seeing Brutus among his assassins ('You too, Brutus?').",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-024",
@@ -248,7 +272,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "Caesar dismisses his wife Calphurnia's fears on the morning of his death."
+      "notes": "Caesar dismisses his wife Calphurnia's fears on the morning of his death.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-025",
@@ -258,7 +283,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "Cassius urges Brutus to take action against Caesar rather than blaming fate."
+      "notes": "Cassius urges Brutus to take action against Caesar rather than blaming fate.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-026",
@@ -268,7 +294,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "Antony, alone with Caesar's corpse, prophesies the civil war to come."
+      "notes": "Antony, alone with Caesar's corpse, prophesies the civil war to come.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-027",
@@ -278,7 +305,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "A soothsayer warns Caesar of the day he will be assassinated."
+      "notes": "A soothsayer warns Caesar of the day he will be assassinated.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-028",
@@ -288,7 +316,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
-      "notes": "Prospero reflects on the illusory nature of life; note 'made on,' not 'made of.'"
+      "notes": "Prospero reflects on the illusory nature of life; note 'made on,' not 'made of.'",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-029",
@@ -298,7 +327,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
-      "notes": "Miranda marvels at the strangers she has never seen before."
+      "notes": "Miranda marvels at the strangers she has never seen before.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-030",
@@ -308,7 +338,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
-      "notes": "Ariel reports the words of the panicked passengers during the shipwreck."
+      "notes": "Ariel reports the words of the panicked passengers during the shipwreck.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-031",
@@ -318,7 +349,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "The melancholy Jaques begins his 'seven ages of man' speech."
+      "notes": "The melancholy Jaques begins his 'seven ages of man' speech.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-032",
@@ -328,7 +360,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "Spoken by the clown Touchstone."
+      "notes": "Spoken by the clown Touchstone.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-033",
@@ -338,7 +371,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1601",
       "verificationStatus": "verified",
-      "notes": "Duke Orsino's opening line, lovesick for Olivia."
+      "notes": "Duke Orsino's opening line, lovesick for Olivia.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-034",
@@ -348,7 +382,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1601",
       "verificationStatus": "verified",
-      "notes": "Malvolio reads aloud from the forged letter he believes is from Olivia."
+      "notes": "Malvolio reads aloud from the forged letter he believes is from Olivia.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-035",
@@ -358,7 +393,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1605",
       "verificationStatus": "verified",
-      "notes": "Lear warns Cordelia when she refuses to flatter him."
+      "notes": "Lear warns Cordelia when she refuses to flatter him.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-036",
@@ -368,7 +404,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1605",
       "verificationStatus": "verified",
-      "notes": "Lear laments the ingratitude of his daughter Goneril."
+      "notes": "Lear laments the ingratitude of his daughter Goneril.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-037",
@@ -378,7 +415,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1605",
       "verificationStatus": "verified",
-      "notes": "The blinded Gloucester despairs of the cruelty of the gods."
+      "notes": "The blinded Gloucester despairs of the cruelty of the gods.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-038",
@@ -388,7 +426,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "King Henry rallies his troops at the siege of Harfleur."
+      "notes": "King Henry rallies his troops at the siege of Harfleur.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-039",
@@ -398,7 +437,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1599",
       "verificationStatus": "verified",
-      "notes": "King Henry inspires his outnumbered men in the St. Crispin's Day speech before Agincourt."
+      "notes": "King Henry inspires his outnumbered men in the St. Crispin's Day speech before Agincourt.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-040",
@@ -408,7 +448,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1596",
       "verificationStatus": "verified",
-      "notes": "Portia, disguised as a lawyer, pleads for mercy in the courtroom."
+      "notes": "Portia, disguised as a lawyer, pleads for mercy in the courtroom.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-041",
@@ -418,7 +459,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1596",
       "verificationStatus": "verified",
-      "notes": "Shylock argues for the shared humanity of Jews and Christians."
+      "notes": "Shylock argues for the shared humanity of Jews and Christians.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-042",
@@ -428,7 +470,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1596",
       "verificationStatus": "verified",
-      "notes": "The Prince of Morocco reads this scroll inside the golden casket; 'glisters,' not 'glitters.'"
+      "notes": "The Prince of Morocco reads this scroll inside the golden casket; 'glisters,' not 'glitters.'",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-043",
@@ -438,7 +481,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Lysander consoles Hermia about the obstacles to their love."
+      "notes": "Lysander consoles Hermia about the obstacles to their love.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-044",
@@ -448,7 +492,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Puck remarks to Oberon on the lovers' confusion."
+      "notes": "Puck remarks to Oberon on the lovers' confusion.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-045",
@@ -458,7 +503,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1595",
       "verificationStatus": "verified",
-      "notes": "Helena describes the small but formidable Hermia."
+      "notes": "Helena describes the small but formidable Hermia.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-046",
@@ -468,7 +514,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1593",
       "verificationStatus": "verified",
-      "notes": "Richard, Duke of Gloucester, opens the play with this soliloquy."
+      "notes": "Richard, Duke of Gloucester, opens the play with this soliloquy.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-047",
@@ -478,7 +525,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1593",
       "verificationStatus": "verified",
-      "notes": "King Richard cries out, unhorsed, at the Battle of Bosworth Field."
+      "notes": "King Richard cries out, unhorsed, at the Battle of Bosworth Field.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-048",
@@ -488,7 +536,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1597",
       "verificationStatus": "verified",
-      "notes": "The sleepless King Henry IV reflects on the burdens of kingship."
+      "notes": "The sleepless King Henry IV reflects on the burdens of kingship.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-049",
@@ -498,7 +547,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1597",
       "verificationStatus": "verified",
-      "notes": "Falstaff justifies playing dead to survive the battle."
+      "notes": "Falstaff justifies playing dead to survive the battle.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-050",
@@ -508,7 +558,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1603",
       "verificationStatus": "verified",
-      "notes": "Iago slyly plants suspicion in Othello's mind."
+      "notes": "Iago slyly plants suspicion in Othello's mind.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-051",
@@ -518,7 +569,8 @@
       "sourceType": "poem",
       "quoteDate": "1609",
       "verificationStatus": "verified",
-      "notes": "The opening lines of one of Shakespeare's best-known sonnets."
+      "notes": "The opening lines of one of Shakespeare's best-known sonnets.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-052",
@@ -528,7 +580,8 @@
       "sourceType": "poem",
       "quoteDate": "1609",
       "verificationStatus": "verified",
-      "notes": "A sonnet defining constant, unchanging love."
+      "notes": "A sonnet defining constant, unchanging love.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-053",
@@ -538,7 +591,8 @@
       "sourceType": "poem",
       "quoteDate": "1609",
       "verificationStatus": "verified",
-      "notes": "The opening line of a sonnet that mocks the clichés of love poetry."
+      "notes": "The opening line of a sonnet that mocks the clichés of love poetry.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "shakespeare-054",
@@ -548,7 +602,8 @@
       "sourceType": "poem",
       "quoteDate": "1609",
       "verificationStatus": "verified",
-      "notes": "The opening lines of a sonnet that turns from despair to gratitude for love."
+      "notes": "The opening lines of a sonnet that turns from despair to gratitude for love.",
+      "addedAt": "2026-06-28T02:20:43Z"
     }
   ]
 }

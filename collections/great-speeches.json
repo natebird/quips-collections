@@ -8,6 +8,7 @@
   "colorDarkHex": "#FA7064",
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1863-11-19",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Opening line of the Bliss copy, the only version Lincoln signed, dedicating the Soldiers' National Cemetery."
+      "notes": "Opening line of the Bliss copy, the only version Lincoln signed, dedicating the Soldiers' National Cemetery.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1863-11-19",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From the Bliss copy; the phrase 'last full measure of devotion' honors the Union dead."
+      "notes": "From the Bliss copy; the phrase 'last full measure of devotion' honors the Union dead.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1863-11-19",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Closing line of the Bliss copy; 'under God' appears in the delivered text but not Lincoln's earliest drafts."
+      "notes": "Closing line of the Bliss copy; 'under God' appears in the delivered text but not Lincoln's earliest drafts.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1865-03-04",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Lincoln's plea for reconciliation delivered weeks before the Civil War's end and his assassination."
+      "notes": "Lincoln's plea for reconciliation delivered weeks before the Civil War's end and his assassination.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1865-03-04",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Lincoln reflecting on the shared faith of North and South during the Civil War."
+      "notes": "Lincoln reflecting on the shared faith of North and South during the Civil War.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1963-08-28",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The 'I have a dream' refrain was largely improvised; this line is the speech's most quoted passage."
+      "notes": "The 'I have a dream' refrain was largely improvised; this line is the speech's most quoted passage.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1963-08-28",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "King ties the civil rights cause to the Declaration of Independence."
+      "notes": "King ties the civil rights cause to the Declaration of Independence.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1963-08-28",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "King rejects gradualism and insists on immediate action on civil rights."
+      "notes": "King rejects gradualism and insists on immediate action on civil rights.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1963-08-28",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The line later inscribed on King's memorial on the National Mall."
+      "notes": "The line later inscribed on King's memorial on the National Mall.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1963-08-28",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "King closes by quoting an old African American spiritual."
+      "notes": "King closes by quoting an old African American spiritual.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1940-05-13",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Churchill's first speech as PM; often misremembered as 'blood, sweat and tears.'"
+      "notes": "Churchill's first speech as PM; often misremembered as 'blood, sweat and tears.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1940-05-13",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From the same 'Blood, Toil, Tears and Sweat' address to the Commons."
+      "notes": "From the same 'Blood, Toil, Tears and Sweat' address to the Commons.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1940-06-04",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered after Dunkirk; Churchill said 'on the beaches,' not the common misquote 'on the beaches them.'"
+      "notes": "Delivered after Dunkirk; Churchill said 'on the beaches,' not the common misquote 'on the beaches them.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1940-06-18",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Spoken as the Battle of Britain began; the closing line gives the speech its name."
+      "notes": "Spoken as the Battle of Britain began; the closing line gives the speech its name.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1961-01-20",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Kennedy signals a generational shift in American leadership."
+      "notes": "Kennedy signals a generational shift in American leadership.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1961-01-20",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "A Cold War pledge of American resolve to defend freedom worldwide."
+      "notes": "A Cold War pledge of American resolve to defend freedom worldwide.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1961-01-20",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Kennedy balances firmness with an opening to diplomacy with the Soviet Union."
+      "notes": "Kennedy balances firmness with an opening to diplomacy with the Soviet Union.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1961-01-20",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The most quoted line of any modern inaugural, crafted with speechwriter Ted Sorensen."
+      "notes": "The most quoted line of any modern inaugural, crafted with speechwriter Ted Sorensen.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1962-09-12",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Kennedy rallies public support for the Apollo program to reach the Moon."
+      "notes": "Kennedy rallies public support for the Apollo program to reach the Moon.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1933-03-04",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Roosevelt reassures a nation gripped by the Great Depression."
+      "notes": "Roosevelt reassures a nation gripped by the Great Depression.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1941-12-08",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "FDR changed his draft's 'a date which will live in world history' to 'infamy'; often misquoted as 'a day.'"
+      "notes": "FDR changed his draft's 'a date which will live in world history' to 'infamy'; often misquoted as 'a day.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1851",
       "verificationStatus": "unverified",
       "sourceType": "speech",
-      "notes": "Wording axis fails: this famous refrain comes from Frances Gage's 1863 reconstruction, not the contemporaneous 1851 report by Marius Robinson, which lacks the phrase and the Southern dialect."
+      "notes": "Wording axis fails: this famous refrain comes from Frances Gage's 1863 reconstruction, not the contemporaneous 1851 report by Marius Robinson, which lacks the phrase and the Southern dialect.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1873",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Anthony's stump speech after her arrest for voting in the 1872 presidential election."
+      "notes": "Anthony's stump speech after her arrest for voting in the 1872 presidential election.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1775-03-23",
       "verificationStatus": "unverified",
       "sourceType": "speech",
-      "notes": "Wording axis fails: no contemporaneous transcript exists; the text was reconstructed from memory by biographer William Wirt in 1817, decades after delivery."
+      "notes": "Wording axis fails: no contemporaneous transcript exists; the text was reconstructed from memory by biographer William Wirt in 1817, decades after delivery.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1987-06-12",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Reagan's challenge over the Berlin Wall, which several advisers had urged him to cut."
+      "notes": "Reagan's challenge over the Berlin Wall, which several advisers had urged him to cut.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1964-04-20",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Mandela's closing statement at the trial that sent him to prison for 27 years."
+      "notes": "Mandela's closing statement at the trial that sent him to prison for 27 years.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1994-05-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Mandela speaking as South Africa's first democratically elected, and first Black, president."
+      "notes": "Mandela speaking as South Africa's first democratically elected, and first Black, president.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1994-05-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The final lines of Mandela's inaugural address ending apartheid rule."
+      "notes": "The final lines of Mandela's inaugural address ending apartheid rule.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-029",
@@ -298,7 +327,8 @@
       "quoteDate": "1913-11-13",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The British suffragette leader defends militant tactics during a U.S. speaking tour."
+      "notes": "The British suffragette leader defends militant tactics during a U.S. speaking tour.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-030",
@@ -308,7 +338,8 @@
       "quoteDate": "1986-12-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From the acceptance speech (delivered the day before his Nobel lecture) by the Holocaust survivor and author."
+      "notes": "From the acceptance speech (delivered the day before his Nobel lecture) by the Holocaust survivor and author.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "speech-031",
@@ -318,7 +349,8 @@
       "quoteDate": "1986-12-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Wiesel's call to universal moral responsibility upon accepting the Nobel Peace Prize."
+      "notes": "Wiesel's call to universal moral responsibility upon accepting the Nobel Peace Prize.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

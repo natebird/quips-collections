@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "flag.fill",
   "category": "History & Speeches",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1776-07-04",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "The Declaration's second paragraph, the founding statement of natural rights; text confirmed against the National Archives engrossed copy."
+      "notes": "The Declaration's second paragraph, the founding statement of natural rights; text confirmed against the National Archives engrossed copy.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1787-11-13",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Written from Paris reflecting on Shays's Rebellion; confirmed on Founders Online (Jefferson to W. S. Smith, 13 Nov. 1787)."
+      "notes": "Written from Paris reflecting on Shays's Rebellion; confirmed on Founders Online (Jefferson to W. S. Smith, 13 Nov. 1787).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1816-07-12",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "On constitutional reform in Virginia; confirmed on Founders Online. A redacted version is carved on the Jefferson Memorial."
+      "notes": "On constitutional reform in Virginia; confirmed on Founders Online. A redacted version is carved on the Jefferson Memorial.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1801-03-04",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The first of the 'essential principles' Jefferson listed in his conciliatory first inaugural; confirmed on Founders Online."
+      "notes": "The first of the 'essential principles' Jefferson listed in his conciliatory first inaugural; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1819-04-04",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Jefferson's definition of liberty, distinguishing it from unlimited license; confirmed on Founders Online."
+      "notes": "Jefferson's definition of liberty, distinguishing it from unlimited license; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1816-08-01",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "From the reconciled Adams-Jefferson correspondence of their retirement years; confirmed on Founders Online."
+      "notes": "From the reconciled Adams-Jefferson correspondence of their retirement years; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1755-11-11",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "Written for the Pennsylvania Assembly during a tax dispute in the French and Indian War, not about civil liberties as often quoted; confirmed on Founders Online."
+      "notes": "Written for the Pennsylvania Assembly during a tax dispute in the French and Indian War, not about civil liberties as often quoted; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1737",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "One of Franklin's maxims under the Poor Richard pseudonym; confirmed on Founders Online (Poor Richard, 1737)."
+      "notes": "One of Franklin's maxims under the Poor Richard pseudonym; confirmed on Founders Online (Poor Richard, 1737).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1776-12-19",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Opening of the first Crisis pamphlet, read aloud to Washington's troops before the crossing of the Delaware."
+      "notes": "Opening of the first Crisis pamphlet, read aloud to Washington's troops before the crossing of the Delaware.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1776",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening argument of Common Sense distinguishing society from government."
+      "notes": "The opening argument of Common Sense distinguishing society from government.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1792",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Part II of Rights of Man; the fuller line begins 'Independence is my happiness...'."
+      "notes": "From Part II of Rights of Man; the fuller line begins 'Independence is my happiness...'.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1796-09-19",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "From Washington's printed valedictory to the nation, first published in Claypoole's American Daily Advertiser."
+      "notes": "From Washington's printed valedictory to the nation, first published in Claypoole's American Daily Advertiser.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1790-08-18",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Washington's statement of religious liberty, echoing warden Moses Seixas's own words; confirmed on Founders Online."
+      "notes": "Washington's statement of religious liberty, echoing warden Moses Seixas's own words; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1783-03-15",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered to defuse the Newburgh conspiracy among unpaid officers; confirmed on Founders Online."
+      "notes": "Delivered to defuse the Newburgh conspiracy among unpaid officers; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1788-02-06",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Madison's argument for checks and balances, published under the pseudonym Publius."
+      "notes": "Madison's argument for checks and balances, published under the pseudonym Publius.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1785",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Madison's petition opposing a Virginia tax to support clergy; confirmed on Founders Online."
+      "notes": "Madison's petition opposing a Virginia tax to support clergy; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1788-01-30",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Madison on the separation of powers, published as Publius."
+      "notes": "Madison on the separation of powers, published as Publius.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1822-08-04",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "On the necessity of public education to self-government; confirmed on Founders Online."
+      "notes": "On the necessity of public education to self-government; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1775-02-06",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "From Adams's Novanglus essays in the Boston Gazette; he was invoking James Harrington's earlier formulation. Confirmed on Founders Online."
+      "notes": "From Adams's Novanglus essays in the Boston Gazette; he was invoking James Harrington's earlier formulation. Confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1770-12-04",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From Adams's summation defending the accused soldiers; confirmed on Founders Online (Adams' Argument for the Defense)."
+      "notes": "From Adams's summation defending the accused soldiers; confirmed on Founders Online (Adams' Argument for the Defense).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1798-10-11",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "To the officers of the First Brigade, Third Division of the Massachusetts Militia; confirmed on Founders Online."
+      "notes": "To the officers of the First Brigade, Third Division of the Massachusetts Militia; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1776-03-31",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Written as the Continental Congress moved toward independence; confirmed on Founders Online (spelling lightly modernized)."
+      "notes": "Written as the Continental Congress moved toward independence; confirmed on Founders Online (spelling lightly modernized).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1780-03-20",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Advice to her teenage son, the future president; confirmed on Founders Online."
+      "notes": "Advice to her teenage son, the future president; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1787-10-27",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "The framing question that opens the Federalist essays, published as Publius."
+      "notes": "The framing question that opens the Federalist essays, published as Publius.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1788-03-15",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Hamilton's argument for a single, vigorous executive; confirmed on Founders Online."
+      "notes": "Hamilton's argument for a single, vigorous executive; confirmed on Founders Online.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1786",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Rush, a signer of the Declaration, on virtue and civic education; text confirmed against the University of Chicago Founders' Constitution."
+      "notes": "Rush, a signer of the Declaration, on virtue and civic education; text confirmed against the University of Chicago Founders' Constitution.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1775-03-23",
       "verificationStatus": "unverified",
       "sourceType": "speech",
-      "notes": "Wording axis fails: no contemporaneous transcript exists. The famous text is biographer William Wirt's 1817 reconstruction from witnesses' recollections decades after the fact, and historians dispute whether Henry spoke these exact words."
+      "notes": "Wording axis fails: no contemporaneous transcript exists. The famous text is biographer William Wirt's 1817 reconstruction from witnesses' recollections decades after the fact, and historians dispute whether Henry spoke these exact words.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1787-09-18",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Attribution axis fails: the line survives only in a single secondhand anecdote in delegate James McHenry's notes (first printed in 1906), not in any of Franklin's own writings or the convention record."
+      "notes": "Attribution axis fails: the line survives only in a single secondhand anecdote in delegate James McHenry's notes (first printed in 1906), not in any of Franklin's own writings or the convention record.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-029",
@@ -298,7 +327,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: the Monticello staff classify this as spurious. It appears nowhere in Jefferson's writings and likely entered circulation during the Vietnam era."
+      "notes": "Source axis fails: the Monticello staff classify this as spurious. It appears nowhere in Jefferson's writings and likely entered circulation during the Vietnam era.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "found-030",
@@ -308,7 +338,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford."
+      "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

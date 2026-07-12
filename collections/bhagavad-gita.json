@@ -8,6 +8,7 @@
   "colorDarkHex": "#FDA260",
   "iconName": "sun.max.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna opens his teaching to Arjuna on the battlefield; Arnold's 1885 verse rendering of Gita 2:11, the first line of the Lord's counsel."
+      "notes": "Krishna opens his teaching to Arjuna on the battlefield; Arnold's 1885 verse rendering of Gita 2:11, the first line of the Lord's counsel.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the reality of the eternal and unreality of the transient; Arnold's rendering of Gita 2:16."
+      "notes": "On the reality of the eternal and unreality of the transient; Arnold's rendering of Gita 2:16.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The soul neither kills nor is killed; Arnold's rendering of Gita 2:19."
+      "notes": "The soul neither kills nor is killed; Arnold's rendering of Gita 2:19.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna's teaching that the soul is never born and never dies; Arnold's celebrated quatrain rendering of Gita 2:20."
+      "notes": "Krishna's teaching that the soul is never born and never dies; Arnold's celebrated quatrain rendering of Gita 2:20.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The soul discards worn bodies as a man casts off old garments; Arnold's rendering of Gita 2:22."
+      "notes": "The soul discards worn bodies as a man casts off old garments; Arnold's rendering of Gita 2:22.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The core teaching of karma-yoga, the right to action but not to its fruits; Arnold's rendering of Gita 2:47."
+      "notes": "The core teaching of karma-yoga, the right to action but not to its fruits; Arnold's rendering of Gita 2:47.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The steady sage withdraws the senses as a tortoise draws in its limbs; Arnold's rendering of Gita 2:58."
+      "notes": "The steady sage withdraws the senses as a tortoise draws in its limbs; Arnold's rendering of Gita 2:58.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The chain by which attachment leads through desire and passion to ruin; Arnold's rendering of Gita 2:62-63."
+      "notes": "The chain by which attachment leads through desire and passion to ruin; Arnold's rendering of Gita 2:62-63.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The peaceful soul is like the ocean, unmoved though all rivers pour into it; Arnold's rendering of Gita 2:70."
+      "notes": "The peaceful soul is like the ocean, unmoved though all rivers pour into it; Arnold's rendering of Gita 2:70.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna urges action over inaction; Arnold's rendering of Gita 3:8."
+      "notes": "Krishna urges action over inaction; Arnold's rendering of Gita 3:8.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Perform duty without attachment to reach the Supreme; Arnold's rendering of Gita 3:19."
+      "notes": "Perform duty without attachment to reach the Supreme; Arnold's rendering of Gita 3:19.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the example the great set for others; Arnold's rendering of Gita 3:21."
+      "notes": "On the example the great set for others; Arnold's rendering of Gita 3:21.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Better one's own duty imperfectly than another's well; Arnold's rendering of Gita 3:35."
+      "notes": "Better one's own duty imperfectly than another's well; Arnold's rendering of Gita 3:35.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna's promise to incarnate whenever righteousness declines; Arnold's rendering of Gita 4:7-8."
+      "notes": "Krishna's promise to incarnate whenever righteousness declines; Arnold's rendering of Gita 4:7-8.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Seeing inaction in action and action in inaction; Arnold's rendering of Gita 4:18."
+      "notes": "Seeing inaction in action and action in inaction; Arnold's rendering of Gita 4:18.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The fire of knowledge reduces all actions to ashes; Arnold's rendering of Gita 4:37."
+      "notes": "The fire of knowledge reduces all actions to ashes; Arnold's rendering of Gita 4:37.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Lift yourself by yourself; the self is both friend and foe; Arnold's rendering of Gita 6:5."
+      "notes": "Lift yourself by yourself; the self is both friend and foe; Arnold's rendering of Gita 6:5.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The controlled mind is like a lamp in a windless place; Arnold's rendering of Gita 6:19."
+      "notes": "The controlled mind is like a lamp in a windless place; Arnold's rendering of Gita 6:19.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The restless mind is subdued by practice and dispassion; Arnold's rendering of Gita 6:35."
+      "notes": "The restless mind is subdued by practice and dispassion; Arnold's rendering of Gita 6:35.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Yoga is won by the self-controlled who strive; Arnold's rendering of Gita 6:36."
+      "notes": "Yoga is won by the self-controlled who strive; Arnold's rendering of Gita 6:36.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "No one who does good ever comes to grief; Arnold's rendering of Gita 6:40."
+      "notes": "No one who does good ever comes to grief; Arnold's rendering of Gita 6:40.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna secures the welfare of those wholly devoted to him; Arnold's rendering of Gita 9:22."
+      "notes": "Krishna secures the welfare of those wholly devoted to him; Arnold's rendering of Gita 9:22.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "God accepts the humblest offering given with devotion; Arnold's rendering of Gita 9:26."
+      "notes": "God accepts the humblest offering given with devotion; Arnold's rendering of Gita 9:26.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "God is impartial to all yet dwells in those who love him; Arnold's rendering of Gita 9:29."
+      "notes": "God is impartial to all yet dwells in those who love him; Arnold's rendering of Gita 9:29.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Even the worst who turns to God with whole devotion is counted righteous; Arnold's rendering of Gita 9:30."
+      "notes": "Even the worst who turns to God with whole devotion is counted righteous; Arnold's rendering of Gita 9:30.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna's assurance that his devotee never perishes; Arnold's rendering of Gita 9:31."
+      "notes": "Krishna's assurance that his devotee never perishes; Arnold's rendering of Gita 9:31.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna describes the devotee who is dear to him; Arnold's rendering of Gita 12:13-14."
+      "notes": "Krishna describes the devotee who is dear to him; Arnold's rendering of Gita 12:13-14.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The devotee who neither agitates the world nor is agitated by it; Arnold's rendering of Gita 12:15."
+      "notes": "The devotee who neither agitates the world nor is agitated by it; Arnold's rendering of Gita 12:15.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Krishna's final counsel of total surrender, the charama-shloka; Arnold's rendering of Gita 18:66."
+      "notes": "Krishna's final counsel of total surrender, the charama-shloka; Arnold's rendering of Gita 18:66.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "gita-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sanjaya's closing benediction ending the dialogue; Arnold's rendering of Gita 18:78."
+      "notes": "Sanjaya's closing benediction ending the dialogue; Arnold's rendering of Gita 18:78.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

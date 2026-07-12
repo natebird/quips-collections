@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD1AA",
   "iconName": "tree.fill",
   "category": "Nature",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The book's most quoted passage, stating the purpose of Thoreau's two-year experiment at the pond."
+      "notes": "The book's most quoted passage, stating the purpose of Thoreau's two-year experiment at the pond.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Continues the 'live deliberately' passage with Thoreau's appetite for essential experience."
+      "notes": "Continues the 'live deliberately' passage with Thoreau's appetite for essential experience.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Ellipsis marks omitted text; the twinned 'Simplify, simplify' follows the same paragraph as Thoreau's call for a spare life."
+      "notes": "Ellipsis marks omitted text; the twinned 'Simplify, simplify' follows the same paragraph as Thoreau's call for a spare life.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Perhaps the most famous line of the book, from the opening chapter's critique of conventional labor."
+      "notes": "Perhaps the most famous line of the book, from the opening chapter's critique of conventional labor.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thoreau's rebuke to those who treat time as something merely to be spent or wasted."
+      "notes": "Thoreau's rebuke to those who treat time as something merely to be spent or wasted.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Frequently mangled as 'the price of anything is the amount of life you exchange for it'; this is Thoreau's actual wording."
+      "notes": "Frequently mangled as 'the price of anything is the amount of life you exchange for it'; this is Thoreau's actual wording.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On self-reliance: the harshest judge of a person is their own inner conscience, not the crowd."
+      "notes": "On self-reliance: the harshest judge of a person is their own inner conscience, not the crowd.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thoreau redefines wealth as freedom from possessions rather than their accumulation."
+      "notes": "Thoreau redefines wealth as freedom from possessions rather than their accumulation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A meditation on drinking from the current of time while glimpsing eternity beneath it."
+      "notes": "A meditation on drinking from the current of time while glimpsing eternity beneath it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter defending the richness of a life lived largely alone at the pond."
+      "notes": "From the chapter defending the richness of a life lived largely alone at the pond.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thoreau's playful accounting of hospitality in his one-room cabin."
+      "notes": "Thoreau's playful accounting of hospitality in his one-room cabin.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the disorienting walk home in the dark as a metaphor for self-discovery."
+      "notes": "On the disorienting walk home in the dark as a metaphor for self-discovery.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on discipline, purity, and the reverence owed to one's own life."
+      "notes": "From the chapter on discipline, purity, and the reverence owed to one's own life.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Written while sounding the frozen depths of Walden Pond, finding the divine in the ordinary earth."
+      "notes": "Written while sounding the frozen depths of Walden Pond, finding the divine in the ordinary earth.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Often misprinted as 'tonic of wilderness'; Thoreau's word is 'wildness.'"
+      "notes": "Often misprinted as 'tonic of wilderness'; Thoreau's word is 'wildness.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the same passage praising wildness as a restorative for the human spirit."
+      "notes": "From the same passage praising wildness as a restorative for the human spirit.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Closing counsel to embrace one's actual life rather than envy another's."
+      "notes": "Closing counsel to embrace one's actual life rather than envy another's.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The genuine source of the popular but loose paraphrase 'Go confidently in the direction of your dreams.'"
+      "notes": "The genuine source of the popular but loose paraphrase 'Go confidently in the direction of your dreams.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thoreau's ranking of truth above the ordinary objects of ambition."
+      "notes": "Thoreau's ranking of truth above the ordinary objects of ambition.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1854",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the inward locus of transformation in the book's final chapter."
+      "notes": "On the inward locus of transformation in the book's final chapter.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1862",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening sentence of the essay, first delivered as a lecture in 1851 and published in The Atlantic in 1862."
+      "notes": "The opening sentence of the essay, first delivered as a lecture in 1851 and published in The Atlantic in 1862.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1862",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The full line behind the widely misquoted 'in wilderness is the preservation of the world'; Thoreau wrote 'Wildness' and 'preservation.'"
+      "notes": "The full line behind the widely misquoted 'in wilderness is the preservation of the world'; Thoreau wrote 'Wildness' and 'preservation.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1862",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thoreau equates vitality itself with the untamed and unsubdued."
+      "notes": "Thoreau equates vitality itself with the untamed and unsubdued.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The motto Thoreau 'heartily accepts' to open the essay, though he pushes it toward 'governs not at all.'"
+      "notes": "The motto Thoreau 'heartily accepts' to open the essay, though he pushes it toward 'governs not at all.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Written after Thoreau's night in jail for refusing a tax that funded slavery and the Mexican-American War."
+      "notes": "Written after Thoreau's night in jail for refusing a tax that funded slavery and the Mexican-American War.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the moral authority of the lone individual against the majority."
+      "notes": "On the moral authority of the lone individual against the majority.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thoreau places conscience above statute as the true guide to conduct."
+      "notes": "Thoreau places conscience above statute as the true guide to conduct.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1849",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A cornerstone of Thoreau's argument for individual conscience over collective demand."
+      "notes": "A cornerstone of Thoreau's argument for individual conscience over collective demand.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-029",
@@ -298,7 +327,8 @@
       "quoteDate": "1857",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "The genuine original of the popular misquote 'It is not enough to be busy; so are the ants,' from Thoreau's correspondence with Harrison Blake."
+      "notes": "The genuine original of the popular misquote 'It is not enough to be busy; so are the ants,' from Thoreau's correspondence with Harrison Blake.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "thoreau-030",
@@ -308,7 +338,8 @@
       "quoteDate": "1853",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "From Thoreau's private Journal, a distillation of his practice of living attentively in the present."
+      "notes": "From Thoreau's private Journal, a distillation of his practice of living attentively in the present.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

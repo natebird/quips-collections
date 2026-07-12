@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD66A",
   "iconName": "dollarsign.circle.fill",
   "category": "Business & Leadership",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-07-06T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Buffett crediting Munger for pushing him from cigar-butt bargains toward quality businesses."
+      "notes": "Buffett crediting Munger for pushing him from cigar-butt bargains toward quality businesses.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-002",
@@ -28,7 +30,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Buffett attributes this maxim to his teacher Ben Graham in the 2008 letter."
+      "notes": "Buffett attributes this maxim to his teacher Ben Graham in the 2008 letter.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Graham's summation of his central investing principle in the book's final chapter."
+      "notes": "Graham's summation of his central investing principle in the book's final chapter.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On temperament, not intellect, as the true test of the investor."
+      "notes": "On temperament, not intellect, as the true test of the investor.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 1934",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: this tidy wording is not found verbatim in Security Analysis or The Intelligent Investor; Buffett recalls Graham saying it in class. Wording/source axis fails."
+      "notes": "Unverified: this tidy wording is not found verbatim in Security Analysis or The Intelligent Investor; Buffett recalls Graham saying it in class. Wording/source axis fails.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-006",
@@ -68,7 +74,8 @@
       "quoteDate": "2008-10-16",
       "verificationStatus": "verified",
       "sourceType": "newspaper",
-      "notes": "Buffett's contrarian rule, stated in his op-ed urging stock buying during the financial crisis."
+      "notes": "Buffett's contrarian rule, stated in his op-ed urging stock buying during the financial crisis.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-007",
@@ -78,7 +85,8 @@
       "quoteDate": "2001",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "On hidden risks exposed when markets turn, written in the wake of insurance losses."
+      "notes": "On hidden risks exposed when markets turn, written in the wake of insurance losses.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "The full sentence behind the often-truncated 'favorite holding period is forever.'"
+      "notes": "The full sentence behind the often-truncated 'favorite holding period is forever.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Written after the 2008 crash on treating market declines as sales."
+      "notes": "Written after the 2008 crash on treating market declines as sales.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 2006",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: no primary Buffett speech or letter carries this exact phrasing; it traces to a secondary compilation. Source axis fails."
+      "notes": "Unverified: no primary Buffett speech or letter carries this exact phrasing; it traces to a secondary compilation. Source axis fails.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1994",
       "verificationStatus": "unverified",
       "sourceType": "newspaper",
-      "notes": "Unverified: reported secondhand and, per Quote Investigator, compressed from non-adjacent phrases. Wording axis fails."
+      "notes": "Unverified: reported secondhand and, per Quote Investigator, compressed from non-adjacent phrases. Wording axis fails.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Munger on patience as the real engine of compounding returns."
+      "notes": "Munger on patience as the real engine of compounding returns.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Munger's inversion principle, later reprinted in Poor Charlie's Almanack."
+      "notes": "Munger's inversion principle, later reprinted in Poor Charlie's Almanack.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-014",
@@ -148,7 +162,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Munger on continuous learning as a compounding advantage over a long career."
+      "notes": "Munger on continuous learning as a compounding advantage over a long career.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-015",
@@ -158,7 +173,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The Vanguard founder's case for owning the whole market via low-cost index funds."
+      "notes": "The Vanguard founder's case for owning the whole market via low-cost index funds.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-016",
@@ -168,7 +184,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Bogle on patience and the cost of emotional trading."
+      "notes": "Bogle on patience and the cost of emotional trading.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1989",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified: universally attributed to Lynch's book but confirmed here only via quote aggregators, not primary text. Source axis fails."
+      "notes": "Unverified: universally attributed to Lynch's book but confirmed here only via quote aggregators, not primary text. Source axis fails.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1989",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified: attributed to Lynch's book but confirmed here only via aggregators, not primary text. Source axis fails."
+      "notes": "Unverified: attributed to Lynch's book but confirmed here only via aggregators, not primary text. Source axis fails.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-019",
@@ -198,7 +217,8 @@
       "quoteDate": "2017",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Dalio's core formula, rendered in the book as 'Pain + Reflection = Progress.'"
+      "notes": "Dalio's core formula, rendered in the book as 'Pain + Reflection = Progress.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2017",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A market adage Dalio says he learned young and cites in Principles; he credits it as an existing saying."
+      "notes": "A market adage Dalio says he learned young and cites in Principles; he credits it as an existing saying.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-021",
@@ -218,7 +239,8 @@
       "quoteDate": "2020",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The book's central thesis, from its introduction."
+      "notes": "The book's central thesis, from its introduction.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2020",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Housel distinguishing spent income (things) from unspent wealth (options)."
+      "notes": "Housel distinguishing spent income (things) from unspent wealth (options).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-023",
@@ -238,7 +261,8 @@
       "quoteDate": "2020",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On restraint rather than income as the driver of savings."
+      "notes": "On restraint rather than income as the driver of savings.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-024",
@@ -248,7 +272,8 @@
       "quoteDate": "2003",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified: signature Ramsey line but confirmed here only via aggregators, not primary text; wording also circulates in variant forms. Source axis fails."
+      "notes": "Unverified: signature Ramsey line but confirmed here only via aggregators, not primary text; wording also circulates in variant forms. Source axis fails.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1758",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Franklin's Poor Richard essay compiling his thrift maxims."
+      "notes": "From Franklin's Poor Richard essay compiling his thrift maxims.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1735",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A proverb Franklin popularized in the 1735 almanac; earlier versions predate him."
+      "notes": "A proverb Franklin popularized in the 1735 almanac; earlier versions predate him.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1758",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Franklin on the true cost of debt."
+      "notes": "Franklin on the true cost of debt.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1758",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Franklin quoting Poor Richard on the irrecoverable cost of wasted time."
+      "notes": "Franklin quoting Poor Richard on the irrecoverable cost of wasted time.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-029",
@@ -298,7 +327,8 @@
       "quoteDate": "1912-12-19",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "Morgan's sworn reply on what credit rests upon; from the Money Trust investigation transcript."
+      "notes": "Morgan's sworn reply on what credit rests upon; from the Money Trust investigation transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 1912",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: the transcript reads 'The money is gold, and nothing else'; this tidy paraphrase is not the verbatim testimony. Wording axis fails."
+      "notes": "Unverified: the transcript reads 'The money is gold, and nothing else'; this tidy paraphrase is not the verbatim testimony. Wording axis fails.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "invest-031",
@@ -318,7 +349,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Marks's maxim from the book's chapters on risk, on why hard markets teach the lessons easy ones cannot."
+      "notes": "Marks's maxim from the book's chapters on risk, on why hard markets teach the lessons easy ones cannot.",
+      "addedAt": "2026-07-06T12:25:35Z"
     },
     {
       "id": "invest-032",
@@ -328,7 +360,8 @@
       "quoteDate": "2010",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Often misattributed to Taleb's later Skin in the Game; the aphorism originates in this 2010 collection."
+      "notes": "Often misattributed to Taleb's later Skin in the Game; the aphorism originates in this 2010 collection.",
+      "addedAt": "2026-07-06T12:25:35Z"
     },
     {
       "id": "invest-033",
@@ -338,7 +371,8 @@
       "quoteDate": "1991",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Klarman's summary of the temperament value investing demands; the long-out-of-print book now sells for thousands of dollars used."
+      "notes": "Klarman's summary of the temperament value investing demands; the long-out-of-print book now sells for thousands of dollars used.",
+      "addedAt": "2026-07-06T12:25:35Z"
     }
   ]
 }

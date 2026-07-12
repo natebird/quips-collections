@@ -8,6 +8,7 @@
   "colorDarkHex": "#FDA260",
   "iconName": "flame.fill",
   "category": "Inspiration",
+  "addedAt": "2026-07-01T01:53:56Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "speech",
       "quoteDate": "1941-10-29",
       "verificationStatus": "verified",
-      "notes": "The exact wording from Churchill's wartime Harrow address; the popular 'never, never, never give up' is a later corruption."
+      "notes": "The exact wording from Churchill's wartime Harrow address; the popular 'never, never, never give up' is a later corruption.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-002",
@@ -28,7 +30,8 @@
       "sourceType": "speech",
       "quoteDate": "1857-08-03",
       "verificationStatus": "verified",
-      "notes": "From Douglass's 1857 address on the anniversary of West Indian emancipation, a documented primary text."
+      "notes": "From Douglass's 1857 address on the anniversary of West Indian emancipation, a documented primary text.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "1983-01-01",
       "verificationStatus": "verified",
-      "notes": "Verbatim from Beckett's late prose piece; often quoted out of its bleaker original context."
+      "notes": "Verbatim from Beckett's late prose piece; often quoted out of its bleaker original context.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "1901-01-01",
       "verificationStatus": "verified",
-      "notes": "From the opening chapter of Washington's autobiography, defining success by obstacles overcome."
+      "notes": "From the opening chapter of Washington's autobiography, defining success by obstacles overcome.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "1776-12-19",
       "verificationStatus": "verified",
-      "notes": "From the pamphlet Washington had read to his troops; the line follows Paine's famous 'times that try men's souls.'"
+      "notes": "From the pamphlet Washington had read to his troops; the line follows Paine's famous 'times that try men's souls.'",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-006",
@@ -68,7 +74,8 @@
       "sourceType": "speech",
       "quoteDate": "2008-06-05",
       "verificationStatus": "verified",
-      "notes": "From Rowling's Harvard address on the benefits of failure, verbatim from the published transcript."
+      "notes": "From Rowling's Harvard address on the benefits of failure, verbatim from the published transcript.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-007",
@@ -78,7 +85,8 @@
       "sourceType": "video",
       "quoteDate": "1997-01-01",
       "verificationStatus": "verified",
-      "notes": "The full script of Jordan's Nike 'Failure' ad, usually quoted only in its final line."
+      "notes": "The full script of Jordan's Nike 'Failure' ad, usually quoted only in its final line.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-008",
@@ -88,7 +96,8 @@
       "sourceType": "letter",
       "quoteDate": "1801-11-16",
       "verificationStatus": "verified",
-      "notes": "Standard translation of Beethoven's letter written as his deafness advanced; German original 'Ich will dem Schicksal in den Rachen greifen.'"
+      "notes": "Standard translation of Beethoven's letter written as his deafness advanced; German original 'Ich will dem Schicksal in den Rachen greifen.'",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-009",
@@ -98,7 +107,8 @@
       "sourceType": "lecture",
       "quoteDate": "c. 2013",
       "verificationStatus": "verified",
-      "notes": "Duckworth's working definition from her TED talk, later expanded in her 2016 book of the same name."
+      "notes": "Duckworth's working definition from her TED talk, later expanded in her 2016 book of the same name.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "2008-01-01",
       "verificationStatus": "verified",
-      "notes": "From Angelou's essay collection; she voiced versions of this line across interviews, but the book gives a fixed wording."
+      "notes": "From Angelou's essay collection; she voiced versions of this line across interviews, but the book gives a fixed wording.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-011",
@@ -118,7 +129,8 @@
       "sourceType": "movie",
       "quoteDate": "2006-12-20",
       "verificationStatus": "verified",
-      "notes": "Rocky's speech to his son in the sixth film; a verbatim, widely quoted screen line."
+      "notes": "Rocky's speech to his son in the sixth film; a verbatim, widely quoted screen line.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-012",
@@ -128,7 +140,8 @@
       "sourceType": "interview",
       "quoteDate": "c. 1902",
       "verificationStatus": "attributed",
-      "notes": "Genuinely Edison's, repeated by him for years, but exact wording and the original occasion vary across early reports (wording axis)."
+      "notes": "Genuinely Edison's, repeated by him for years, but exact wording and the original occasion vary across early reports (wording axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Consistent with Edison's documented attitude toward failed experiments, but this is a compressed paraphrase whose exact wording is unverified (wording axis)."
+      "notes": "Consistent with Edison's documented attitude toward failed experiments, but this is a compressed paraphrase whose exact wording is unverified (wording axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-014",
@@ -148,7 +162,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Firmly credited to Coolidge and printed on memorial cards, but the exact primary occasion is undocumented (attribution axis)."
+      "notes": "Firmly credited to Coolidge and printed on memorial cards, but the exact primary occasion is undocumented (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-015",
@@ -158,7 +173,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Long associated with Lombardi's coaching philosophy, but no single primary source pins the exact wording (attribution axis)."
+      "notes": "Long associated with Lombardi's coaching philosophy, but no single primary source pins the exact wording (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-016",
@@ -168,7 +184,8 @@
       "sourceType": "interview",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Widely credited to Ali and in keeping with his training ethos, but the original interview is not cleanly documented (attribution axis)."
+      "notes": "Widely credited to Ali and in keeping with his training ethos, but the original interview is not cleanly documented (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Commonly credited to Ruth without a traceable primary source (attribution axis)."
+      "notes": "Commonly credited to Ruth without a traceable primary source (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-018",
@@ -188,7 +206,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Frequently cited to Curie and consistent with her recorded outlook, but the exact original context is unconfirmed (attribution axis)."
+      "notes": "Frequently cited to Curie and consistent with her recorded outlook, but the exact original context is unconfirmed (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-019",
@@ -198,7 +217,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Widely attributed to Mandela; consistent with his life but lacking a verified primary source (attribution axis)."
+      "notes": "Widely attributed to Mandela; consistent with his life but lacking a verified primary source (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-020",
@@ -208,7 +228,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Credited to the Olympic sprinter and echoing her comeback from childhood polio, but the primary source is not firmly established (attribution axis)."
+      "notes": "Credited to the Olympic sprinter and echoing her comeback from childhood polio, but the primary source is not firmly established (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-021",
@@ -218,7 +239,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Commonly credited to Earhart without a documented primary source (attribution axis)."
+      "notes": "Commonly credited to Earhart without a documented primary source (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-022",
@@ -228,7 +250,8 @@
       "sourceType": "interview",
       "quoteDate": "c. 1995",
       "verificationStatus": "attributed",
-      "notes": "Widely quoted from Jobs interviews on entrepreneurship; exact source and date vary across citations (attribution axis)."
+      "notes": "Widely quoted from Jobs interviews on entrepreneurship; exact source and date vary across citations (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-023",
@@ -238,7 +261,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Long credited to Stowe, but the specific work it comes from is not reliably confirmed (attribution axis)."
+      "notes": "Long credited to Stowe, but the specific work it comes from is not reliably confirmed (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-024",
@@ -248,7 +272,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Popularly credited to FDR, though no documented speech or writing confirms it (attribution axis)."
+      "notes": "Popularly credited to FDR, though no documented speech or writing confirms it (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-025",
@@ -258,7 +283,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Widely circulated under Lee's name without a verified primary source (attribution axis)."
+      "notes": "Widely circulated under Lee's name without a verified primary source (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-026",
@@ -268,7 +294,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Commonly attributed to the Scottish politician Walter Elliot without a confirmed primary source (attribution axis)."
+      "notes": "Commonly attributed to the Scottish politician Walter Elliot without a confirmed primary source (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-027",
@@ -278,7 +305,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Credited to the American publisher and aphorist; the exact original printing is not pinned down (attribution axis)."
+      "notes": "Credited to the American publisher and aphorist; the exact original printing is not pinned down (attribution axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-028",
@@ -288,7 +316,8 @@
       "sourceType": "poem",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "The sentiment traces to Ovid's Latin verse, but this smooth English wording is a loose translation that varies (wording axis)."
+      "notes": "The sentiment traces to Ovid's Latin verse, but this smooth English wording is a loose translation that varies (wording axis).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-029",
@@ -298,7 +327,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Popularly credited to Confucius but not found in the Analects or other genuine texts (attribution axis fails)."
+      "notes": "Popularly credited to Confucius but not found in the Analects or other genuine texts (attribution axis fails).",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "grit-030",
@@ -308,7 +338,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "A modern Stoic-flavored paraphrase not found verbatim in the Enchiridion or Discourses (attribution axis fails)."
+      "notes": "A modern Stoic-flavored paraphrase not found verbatim in the Enchiridion or Discourses (attribution axis fails).",
+      "addedAt": "2026-07-01T01:53:56Z"
     }
   ]
 }

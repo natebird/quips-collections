@@ -8,6 +8,7 @@
   "colorDarkHex": "#DE56F3",
   "iconName": "paintbrush.fill",
   "category": "Creativity",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-06-20T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "interview",
       "notes": "From an interview with George Sylvester Viereck titled 'What Life Means to Einstein.' This is the verified full quote; shorter versions often circulate.",
       "quoteDate": "1929-10-26",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-002",
@@ -28,7 +30,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to Picasso. The sentiment appears in various biographies though the exact original context is difficult to verify.",
       "quoteDate": "c. 1950s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-003",
@@ -38,7 +41,8 @@
       "sourceType": "unspecified",
       "notes": "Commonly attributed to Matisse and consistent with his philosophy of bold artistic expression. Exact source unverified.",
       "quoteDate": "c. 1940s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-004",
@@ -48,7 +52,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to Picasso. Reflects his rebellious approach to artistic convention and willingness to break rules.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-005",
@@ -58,7 +63,8 @@
       "sourceType": "interview",
       "notes": "From an interview. Angelou frequently discussed creativity as an inexhaustible resource in her lectures and writings.",
       "quoteDate": "1989",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "notes": "From Osho's book on creativity. Originally from his discourses on living creatively.",
       "quoteDate": "1999",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-007",
@@ -78,7 +85,8 @@
       "sourceType": "speech",
       "notes": "From Uchtdorf's LDS General Conference talk 'Happiness, Your Heritage.' Verified from official church records.",
       "quoteDate": "2008-10",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-008",
@@ -88,7 +96,8 @@
       "sourceType": "play",
       "notes": "From Shaw's play 'Back to Methuselah.' The full passage describes the creative process in sequence.",
       "quoteDate": "1921",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-009",
@@ -98,7 +107,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to French Impressionist Edgar Degas. Reflects his philosophy that art is about perception and communication.",
       "quoteDate": "c. 1880s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-010",
@@ -108,7 +118,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to Einstein but no verified source exists. The sentiment aligns with his playful approach to science and thought experiments.",
       "quoteDate": null,
-      "verificationStatus": "unverified"
+      "verificationStatus": "unverified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "notes": "From Leonardo's collected writings on painting, compiled after his death. Original Italian: 'Il pittore ha l'universo nella sua mente e nelle sue mani.'",
       "quoteDate": "1651",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "notes": "From Kandinsky's influential theoretical text on abstract art and the spiritual purpose of artistic creation.",
       "quoteDate": "1911",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-013",
@@ -138,7 +151,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to French author Emile Zola. Reflects his naturalist philosophy balancing talent with discipline.",
       "quoteDate": "c. 1860s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-014",
@@ -148,7 +162,8 @@
       "sourceType": "letter",
       "notes": "From Van Gogh's extensive correspondence with his brother Theo. Describes his intuitive creative process.",
       "quoteDate": "1888",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-015",
@@ -158,7 +173,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to Picasso though unverified. Reflects his journey from classical training to revolutionary modernism.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-016",
@@ -168,7 +184,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to Dali and consistent with his surrealist embrace of imperfection and the unexpected.",
       "quoteDate": "c. 1960s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the science fiction author. Reflects her views on imagination and the importance of preserving childlike wonder.",
       "quoteDate": "c. 1990s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-018",
@@ -188,7 +206,8 @@
       "sourceType": "interview",
       "notes": "From various interviews with Picasso about his creative process. Describes how his works evolved organically.",
       "quoteDate": "c. 1950s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-019",
@@ -198,7 +217,8 @@
       "sourceType": "letter",
       "notes": "Verified from Van Gogh's letters. Advice about overcoming self-doubt through persistent creative action.",
       "quoteDate": "1883-10",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "notes": "From Plath's personal journals. Reflects her struggles with perfectionism and creative blocks.",
       "quoteDate": "2000",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "notes": "From Vonnegut's collection of essays. He encourages creating for its own sake rather than for recognition.",
       "quoteDate": "2005",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "notes": "From Merton's book on spiritual life. The Trappist monk saw art as a form of contemplation.",
       "quoteDate": "1955",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-023",
@@ -238,7 +261,8 @@
       "sourceType": "unspecified",
       "notes": "One of Picasso's most famous quotes about the creative process. Emphasizes discipline over waiting for inspiration.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-024",
@@ -248,7 +272,8 @@
       "sourceType": "unspecified",
       "notes": "Frequently attributed to Michelangelo regarding his sculpture process. No contemporary source, but consistent with Renaissance artistic philosophy.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-025",
@@ -258,7 +283,8 @@
       "sourceType": "letter",
       "notes": "Verified from Van Gogh's correspondence. Advice about breaking large creative projects into manageable steps.",
       "quoteDate": "1882-10",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-026",
@@ -268,7 +294,8 @@
       "sourceType": "unspecified",
       "notes": "Commonly attributed to Einstein. Aligns with his emphasis on thought experiments and creative thinking in physics.",
       "quoteDate": "c. 1920s-1930s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-027",
@@ -278,7 +305,8 @@
       "sourceType": "interview",
       "notes": "From an interview in The Arts magazine. One of Picasso's most philosophical statements about artistic representation.",
       "quoteDate": "1923-05",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to Picasso. Reflects his surrealist connections and belief in the reality of imaginative experience.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "notes": "From Rand's novel about architect Howard Roark. Reflects her philosophy of individual creative achievement.",
       "quoteDate": "1943",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-030",
@@ -308,7 +338,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the Swiss sculptor. Reflects his approach to creating art that captures emotional rather than literal truth.",
       "quoteDate": "c. 1960s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
 }

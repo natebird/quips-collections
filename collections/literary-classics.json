@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "book.fill",
   "category": "Literature",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-06-20T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "1813-01-28",
       "verificationStatus": "verified",
-      "notes": "Opening line of the novel. One of the most famous first lines in English literature, establishing the novel's ironic tone."
+      "notes": "Opening line of the novel. One of the most famous first lines in English literature, establishing the novel's ironic tone.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "quoteDate": "1877",
       "verificationStatus": "verified",
-      "notes": "Opening line of the novel. Known as the 'Anna Karenina principle' in fields from evolutionary biology to business."
+      "notes": "Opening line of the novel. Known as the 'Anna Karenina principle' in fields from evolutionary biology to business.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "1859",
       "verificationStatus": "verified",
-      "notes": "Opening line of the novel set during the French Revolution. The full first sentence continues for 119 words."
+      "notes": "Opening line of the novel set during the French Revolution. The full first sentence continues for 119 words.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "1925-04-10",
       "verificationStatus": "verified",
-      "notes": "The novel's famous closing line. Encapsulates the theme of pursuing an unattainable dream."
+      "notes": "The novel's famous closing line. Encapsulates the theme of pursuing an unattainable dream.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "1954",
       "verificationStatus": "verified",
-      "notes": "Gandalf's words to Frodo in Moria. One of the most quoted passages from The Lord of the Rings."
+      "notes": "Gandalf's words to Frodo in Moria. One of the most quoted passages from The Lord of the Rings.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "1998",
       "verificationStatus": "verified",
-      "notes": "Dumbledore's words to Harry in the Chamber of Secrets. A central theme of the Harry Potter series."
+      "notes": "Dumbledore's words to Harry in the Chamber of Secrets. A central theme of the Harry Potter series.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "quoteDate": "1847",
       "verificationStatus": "verified",
-      "notes": "Catherine Earnshaw speaking about Heathcliff. Expresses the intense, almost supernatural connection between them."
+      "notes": "Catherine Earnshaw speaking about Heathcliff. Expresses the intense, almost supernatural connection between them.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-008",
@@ -88,7 +96,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Beginning of Hamlet's famous soliloquy on existence. Perhaps the most famous line in English literature."
+      "notes": "Beginning of Hamlet's famous soliloquy on existence. Perhaps the most famous line in English literature.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "quoteDate": "1851",
       "verificationStatus": "verified",
-      "notes": "Opening line of the novel. One of literature's most recognizable first lines, establishing the narrator's identity."
+      "notes": "Opening line of the novel. One of literature's most recognizable first lines, establishing the narrator's identity.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "1949-06-08",
       "verificationStatus": "verified",
-      "notes": "Opening line immediately signals a world where things are not as they should be. The 13-hour clock suggests totalitarian control."
+      "notes": "Opening line immediately signals a world where things are not as they should be. The 13-hour clock suggests totalitarian control.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "quoteDate": "1925-04-10",
       "verificationStatus": "verified",
-      "notes": "Opening line introducing Nick Carraway as narrator. Sets up the novel's themes of judgment and moral complexity."
+      "notes": "Opening line introducing Nick Carraway as narrator. Sets up the novel's themes of judgment and moral complexity.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "quoteDate": "1945",
       "verificationStatus": "verified",
-      "notes": "The pigs' final corruption of the original Seven Commandments. A satirical critique of Soviet communism."
+      "notes": "The pigs' final corruption of the original Seven Commandments. A satirical critique of Soviet communism.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": "1862",
       "verificationStatus": "verified",
-      "notes": "From Jean Valjean's reflections near the novel's end. Expresses the theme of redemption through living fully."
+      "notes": "From Jean Valjean's reflections near the novel's end. Expresses the theme of redemption through living fully.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "quoteDate": "1969",
       "verificationStatus": "verified",
-      "notes": "From Angelou's autobiography about her childhood. Reflects the importance of voice and storytelling in healing."
+      "notes": "From Angelou's autobiography about her childhood. Reflects the importance of voice and storytelling in healing.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "quoteDate": "1942",
       "verificationStatus": "verified",
-      "notes": "Concluding line of Camus' philosophical essay. Suggests finding meaning in struggle despite absurdity."
+      "notes": "Concluding line of Camus' philosophical essay. Suggests finding meaning in struggle despite absurdity.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "quoteDate": "1963",
       "verificationStatus": "verified",
-      "notes": "Esther Greenwood's moment of reconnection with life. Represents recovery and the persistence of being."
+      "notes": "Esther Greenwood's moment of reconnection with life. Represents recovery and the persistence of being.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "quoteDate": "1944-07-15",
       "verificationStatus": "verified",
-      "notes": "Written while hiding from the Nazis. Remarkable optimism given her circumstances; she died in Bergen-Belsen."
+      "notes": "Written while hiding from the Nazis. Remarkable optimism given her circumstances; she died in Bergen-Belsen.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": "1954",
       "verificationStatus": "verified",
-      "notes": "From the poem 'All that is gold does not glitter' about Aragorn. Often quoted independently of the novel."
+      "notes": "From the poem 'All that is gold does not glitter' about Aragorn. Often quoted independently of the novel.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-019",
@@ -198,7 +217,8 @@
       "sourceType": "book",
       "quoteDate": "1818",
       "verificationStatus": "verified",
-      "notes": "The creature's words to Victor Frankenstein. Warns of the danger of creating something one cannot control."
+      "notes": "The creature's words to Victor Frankenstein. Warns of the danger of creating something one cannot control.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "quoteDate": "1949-06-08",
       "verificationStatus": "verified",
-      "notes": "Party slogan in the novel. Describes how totalitarian regimes manipulate historical truth."
+      "notes": "Party slogan in the novel. Describes how totalitarian regimes manipulate historical truth.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "2005",
       "verificationStatus": "verified",
-      "notes": "Central theme of the novel. The labyrinth question is taken from Gabriel García Márquez's 'The General in His Labyrinth.'"
+      "notes": "Central theme of the novel. The labyrinth question is taken from Gabriel García Márquez's 'The General in His Labyrinth.'",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": "1936",
       "verificationStatus": "verified",
-      "notes": "Scarlett O'Hara's famous closing declaration. Represents resilience and hope despite loss."
+      "notes": "Scarlett O'Hara's famous closing declaration. Represents resilience and hope despite loss.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-023",
@@ -238,7 +261,8 @@
       "sourceType": "play",
       "quoteDate": "1892",
       "verificationStatus": "verified",
-      "notes": "Lord Darlington's line in the play. One of Wilde's most quoted aphorisms about aspiration despite circumstances."
+      "notes": "Lord Darlington's line in the play. One of Wilde's most quoted aphorisms about aspiration despite circumstances.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-024",
@@ -248,7 +272,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
-      "notes": "Hamlet to Rosencrantz and Guildenstern. An early expression of cognitive philosophy about perception and reality."
+      "notes": "Hamlet to Rosencrantz and Guildenstern. An early expression of cognitive philosophy about perception and reality.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-025",
@@ -258,7 +283,8 @@
       "sourceType": "play",
       "quoteDate": "c. 1610",
       "verificationStatus": "verified",
-      "notes": "Miranda's line 'O brave new world, that has such people in't!' Huxley used it ironically as his 1932 novel title."
+      "notes": "Miranda's line 'O brave new world, that has such people in't!' Huxley used it ironically as his 1932 novel title.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "1847",
       "verificationStatus": "verified",
-      "notes": "Jane's direct address to the reader announcing her marriage to Rochester. Iconic for its simple directness."
+      "notes": "Jane's direct address to the reader announcing her marriage to Rochester. Iconic for its simple directness.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-027",
@@ -278,7 +305,8 @@
       "sourceType": "movie",
       "quoteDate": "2004",
       "verificationStatus": "verified",
-      "notes": "Dumbledore's line from the film script by Steve Kloves, not the original novel. Widely attributed to J.K. Rowling but originated in the screenplay."
+      "notes": "Dumbledore's line from the film script by Steve Kloves, not the original novel. Widely attributed to J.K. Rowling but originated in the screenplay.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-028",
@@ -288,7 +316,8 @@
       "sourceType": "play",
       "quoteDate": "1951",
       "verificationStatus": "verified",
-      "notes": "Gavin Stevens' line. Reflects Faulkner's recurring theme of history's persistent influence on the present."
+      "notes": "Gavin Stevens' line. Reflects Faulkner's recurring theme of history's persistent influence on the present.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "quoteDate": "1883",
       "verificationStatus": "verified",
-      "notes": "From Zarathustra's discourses. Explores the irrational nature of love while acknowledging its internal logic."
+      "notes": "From Zarathustra's discourses. Explores the irrational nature of love while acknowledging its internal logic.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "lc-030",
@@ -308,7 +338,8 @@
       "sourceType": "book",
       "quoteDate": "1929",
       "verificationStatus": "verified",
-      "notes": "Narrator Frederic Henry's reflection on suffering and resilience; the 1929 Scribner's first edition spells 'every one' as two words, modernized here per common transcription convention."
+      "notes": "Narrator Frederic Henry's reflection on suffering and resilience; the 1929 Scribner's first edition spells 'every one' as two words, modernized here per common transcription convention.",
+      "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
 }

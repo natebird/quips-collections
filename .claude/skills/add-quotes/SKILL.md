@@ -38,7 +38,8 @@ is an index of every collection and must be kept in sync (its `quoteCount` and `
      "quoteDate": "2005-09-19",
      "verificationStatus": "verified",
      "sourceType": "television",
-     "notes": "One sentence of context about the quote."
+     "notes": "One sentence of context about the quote.",
+     "addedAt": "2026-01-15T12:00:00Z"
    }
    ```
    - `authorName` — for shows/films use `Character (Actor)`; for people, the person's name.
@@ -58,6 +59,11 @@ is an index of every collection and must be kept in sync (its `quoteCount` and `
    - `verificationStatus` — `verified` / `unverified`. See **Verification** below. The default
      is `unverified`; promote to `verified` only when the bar is met.
    - `notes` — a single sentence of context (and, if `unverified`, which axis failed).
+   - `addedAt` — ISO-8601 UTC timestamp of when the quote is added, as
+     `<today>T12:00:00Z` (the same value you set for `lastUpdated` in step 5).
+     **Required** — CI (`validate_collections.py --strict`) fails without it. It
+     records dataset-recency (not when the quote was said — that's `quoteDate`)
+     and drives dynamic collections like Recently Added. Never backdate it.
 
 ## Verification — the point of the task, do not cut corners
 

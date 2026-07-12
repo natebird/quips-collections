@@ -17,7 +17,7 @@
   "definitions": {
     "entry": {
       "type": "object",
-      "required": ["id", "name", "description", "author", "quoteCount", "previewQuotes", "colorName", "iconName", "category", "lastUpdated"],
+      "required": ["id", "name", "description", "author", "quoteCount", "previewQuotes", "colorName", "iconName", "category", "addedAt", "lastUpdated"],
       "additionalProperties": true,
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
@@ -46,6 +46,7 @@
         "colorDarkHex": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$", "description": "Dark-appearance hex for colorName's Palette 2.0 token." },
         "iconName": { "type": "string" },
         "category": { "type": "string" },
+        "addedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$", "description": "ISO-8601 UTC timestamp of when this collection first entered the dataset; mirrors the collection file's addedAt." },
         "lastUpdated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$" }
       }
     }

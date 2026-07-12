@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD1AA",
   "iconName": "moon.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening hadith of Bukhari, narrated by Umar ibn al-Khattab; graded sahih (authentic) and among the most foundational sayings in Islam."
+      "notes": "The opening hadith of Bukhari, narrated by Umar ibn al-Khattab; graded sahih (authentic) and among the most foundational sayings in Islam.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 45."
+      "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 45.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2609."
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2609.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 47."
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 47.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra on hospitality; graded sahih and also recorded in Sahih Muslim 48."
+      "notes": "Narrated by Abu Hurayra on hospitality; graded sahih and also recorded in Sahih Muslim 48.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 1734."
+      "notes": "Narrated by Anas ibn Malik; graded sahih and also recorded in Sahih Muslim 1734.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and part of the well-known hadith on aiding others."
+      "notes": "Narrated by Abu Hurayra; graded sahih and part of the well-known hadith on aiding others.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Dharr and Mu'adh ibn Jabal; graded hasan by at-Tirmidhi and included in An-Nawawi's collection."
+      "notes": "Narrated by Abu Dharr and Mu'adh ibn Jabal; graded hasan by at-Tirmidhi and included in An-Nawawi's collection.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded hasan by at-Tirmidhi and included in An-Nawawi's collection."
+      "notes": "Narrated by Abu Hurayra; graded hasan by at-Tirmidhi and included in An-Nawawi's collection.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Tamim ad-Dari; graded sahih, rendering the Arabic 'naseehah' as sincere goodwill toward God and people."
+      "notes": "Narrated by Tamim ad-Dari; graded sahih, rendering the Arabic 'naseehah' as sincere goodwill toward God and people.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; the Prophet repeated this counsel each time a man asked for advice. Graded sahih."
+      "notes": "Narrated by Abu Hurayra; the Prophet repeated this counsel each time a man asked for advice. Graded sahih.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners."
+      "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Malik al-Ash'ari; graded sahih, from Muslim's Book of Purification."
+      "notes": "Narrated by Abu Malik al-Ash'ari; graded sahih, from Muslim's Book of Purification.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Aisha; graded sahih and also recorded in Sahih Muslim 2818."
+      "notes": "Narrated by Aisha; graded sahih and also recorded in Sahih Muslim 2818.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2318."
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 2318.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abdullah ibn Amr; graded sahih and also recorded in Sahih Muslim 40."
+      "notes": "Narrated by Abdullah ibn Amr; graded sahih and also recorded in Sahih Muslim 40.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abdullah ibn Umar; graded sahih and also recorded in Sahih Muslim 1033."
+      "notes": "Narrated by Abdullah ibn Umar; graded sahih and also recorded in Sahih Muslim 1033.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Mas'ud al-Ansari; graded sahih, from Muslim's Book of Government."
+      "notes": "Narrated by Abu Mas'ud al-Ansari; graded sahih, from Muslim's Book of Government.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Musa al-Ash'ari; graded sahih, from Bukhari's Book of the Sick."
+      "notes": "Narrated by Abu Musa al-Ash'ari; graded sahih, from Bukhari's Book of the Sick.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners."
+      "notes": "Narrated by Abu Hurayra; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Aisha; graded sahih, from Muslim's Book of Virtue and Good Manners."
+      "notes": "Narrated by Aisha; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Imran ibn Husayn; graded sahih and also recorded in Sahih Muslim 37."
+      "notes": "Narrated by Imran ibn Husayn; graded sahih and also recorded in Sahih Muslim 37.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by an-Nu'man ibn Bashir; graded sahih and also recorded in Sahih Muslim 2586."
+      "notes": "Narrated by an-Nu'man ibn Bashir; graded sahih and also recorded in Sahih Muslim 2586.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Dharr; graded sahih, from Muslim's Book of Virtue and Good Manners."
+      "notes": "Narrated by Abu Dharr; graded sahih, from Muslim's Book of Virtue and Good Manners.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded hasan sahih by at-Tirmidhi and included by an-Nawawi in Riyad as-Salihin."
+      "notes": "Narrated by Abu Hurayra; graded hasan sahih by at-Tirmidhi and included by an-Nawawi in Riyad as-Salihin.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Sa'id al-Khudri; graded sahih and included in An-Nawawi's collection."
+      "notes": "Narrated by Abu Sa'id al-Khudri; graded sahih and included in An-Nawawi's collection.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1009."
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1009.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih al-Bukhari 9."
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih al-Bukhari 9.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih (al-Albani) and also recorded in Jami' at-Tirmidhi 1954."
+      "notes": "Narrated by Abu Hurayra; graded sahih (al-Albani) and also recorded in Jami' at-Tirmidhi 1954.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1051."
+      "notes": "Narrated by Abu Hurayra; graded sahih and also recorded in Sahih Muslim 1051.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "hadith-031",
@@ -318,7 +349,8 @@
       "quoteDate": "c. 620 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narrated by Abdullah ibn Amr; graded sahih, from Bukhari's Book of Manners."
+      "notes": "Narrated by Abdullah ibn Amr; graded sahih, from Bukhari's Book of Manners.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

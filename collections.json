@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-10T12:00:00Z",
+  "lastUpdated": "2026-07-11T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -17,9 +17,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "sunrise.fill",
       "category": "Inspiration",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-83GeUKmIBz72oW6q4alFVKMj0PGPP3f3O5Xp9FLP1Hc=",
-      "bytes": 14417
+      "contentHash": "sha256-9sBr04n7c4CXpLhNDitBliZHciEvgl5fBpIHf0EAy8c=",
+      "bytes": 15684
     },
     {
       "id": "grit-perseverance",
@@ -36,9 +37,10 @@
       "colorDarkHex": "#FDA260",
       "iconName": "flame.fill",
       "category": "Inspiration",
+      "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-zUcXvANqpAiO82V/CC/g9MMIOvhbNxKI+dBEZoPdVFQ=",
-      "bytes": 15652
+      "contentHash": "sha256-AEn2D43kcdEjVlqa63cBoPnlNUhfMu6oX1dOIRRfb/k=",
+      "bytes": 16919
     },
     {
       "id": "leadership-vision",
@@ -55,9 +57,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "flag.fill",
       "category": "Inspiration",
+      "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-drEm3WIf8k/3Pu/5qS5GRpJ+Dd/sNq/99yDQx57iFzw=",
-      "bytes": 15308
+      "contentHash": "sha256-AM3FVoAtz/ZNdUcEAZIbMeTpqnESg1WpNsFqIV79IrE=",
+      "bytes": 16575
     },
     {
       "id": "courage-conviction",
@@ -74,9 +77,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "shield.fill",
       "category": "Inspiration",
+      "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-iWoJ18FnbH9YF6R+YKTDRNeaxX9fQJmy+7rrctouk6Q=",
-      "bytes": 15610
+      "contentHash": "sha256-w4ny/VevmORsppzYn3VOr/UCP/yNWtJRJ39GWO1AOBo=",
+      "bytes": 16877
     },
     {
       "id": "dream-big",
@@ -93,9 +97,10 @@
       "colorDarkHex": "#DE56F3",
       "iconName": "moon.stars.fill",
       "category": "Inspiration",
+      "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-RekGKaWi7naHQ+Tew+5Wl4UqjE7JDCZIeiSXNscGaSs=",
-      "bytes": 14699
+      "contentHash": "sha256-kvHZxRF13/tw00gW4NqoeLtM+DCVbvk/UuemBTqWlPc=",
+      "bytes": 15925
     },
     {
       "id": "stoic-wisdom",
@@ -112,9 +117,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "building.columns.fill",
       "category": "Philosophy",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-rwZ0OgWGHOigYVy6d5dx1gVFhFZg96Tt/0uzReLpJcc=",
-      "bytes": 14362
+      "contentHash": "sha256-aMKFkkmvGQEwRM4o5AYluLuMdFugzUt5RmKMdITh+N4=",
+      "bytes": 15670
     },
     {
       "id": "creative-minds",
@@ -131,9 +137,10 @@
       "colorDarkHex": "#DE56F3",
       "iconName": "paintbrush.fill",
       "category": "Creativity",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-tjwm1whNqjBYj+BL60pgXso3k4ShBRTWvhnr8Fasp3o=",
-      "bytes": 13580
+      "contentHash": "sha256-7dHl4scKUg/F/54JG5Ek9dZzEW+l2PDVZX/IXP96ieI=",
+      "bytes": 14847
     },
     {
       "id": "tech-visionaries",
@@ -150,9 +157,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "cpu.fill",
       "category": "Technology",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-+T4A1a6eOeF8bDLGL6JPzQ4WpcOyEYUZjNXN4q83xAw=",
-      "bytes": 14047
+      "contentHash": "sha256-TFg9EYLJTlpu4in6Sofy0sYtiwHmIyHtgYUeE8ds4L0=",
+      "bytes": 15314
     },
     {
       "id": "literary-classics",
@@ -169,9 +177,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "book.fill",
       "category": "Literature",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-s46V28PXKTwaeeGrmDYxSVlh2HcDMuohOQBnHSlVAtA=",
-      "bytes": 13676
+      "contentHash": "sha256-kHSOwuZNobSr6WW4cO/Oz+n3sOJT4MDXyFgdBIxTu80=",
+      "bytes": 14943
     },
     {
       "id": "shakespeare",
@@ -188,9 +197,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "theatermasks.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-K7KVxrv14YvVNeZ61Sy4EfnvXYeE/IVg/V6reVhdd6s=",
-      "bytes": 22084
+      "contentHash": "sha256-FQawYiK6wdMZGN/6qu3iko9HqBoDrTgmPXSq+0LFm3k=",
+      "bytes": 24335
     },
     {
       "id": "oscar-wilde",
@@ -207,9 +217,10 @@
       "colorDarkHex": "#F762B7",
       "iconName": "quote.bubble.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-DjBPsbTm2RY5FeAPVjhUnr2qE9U29c79naT5rM5u5t4=",
-      "bytes": 19062
+      "contentHash": "sha256-P3Te3MGNBTXeieqGPMXPOnVLv3D7/wrh2aBdwjqol3U=",
+      "bytes": 21108
     },
     {
       "id": "sherlock-holmes",
@@ -226,9 +237,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "magnifyingglass",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-C8P5+93dLTRX30RVlmdGKVNg35LoGrsKZw5Rumc8eng=",
-      "bytes": 18486
+      "contentHash": "sha256-/NcSt3fMRYJjk00xInIIa9VqR2gnZ7oivu9DHuYdpNY=",
+      "bytes": 20286
     },
     {
       "id": "edgar-allan-poe",
@@ -245,9 +257,10 @@
       "colorDarkHex": "#DE56F3",
       "iconName": "bird.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-/en3GFDuU5agUjtLVPLlsCBegOOnw6fgpA/Rh4SP4cc=",
-      "bytes": 12895
+      "contentHash": "sha256-gYdZ354fNYHKPUW6Yvxi0F9uYUsyCfwwLhlA9BgV9/w=",
+      "bytes": 14203
     },
     {
       "id": "jane-austen",
@@ -264,9 +277,10 @@
       "colorDarkHex": "#DAC720",
       "iconName": "heart.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-L+m9QbC/O5pYu1amR75oQ5Ogz6o/Ncfd4xQcKARrPXA=",
-      "bytes": 14737
+      "contentHash": "sha256-3G/zI/CFL6kMIdZyVzBBaIGUUdHQOOGZhhVpSm+LB98=",
+      "bytes": 16291
     },
     {
       "id": "great-poems",
@@ -283,9 +297,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "scroll.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-xRhiTexSCVzQFyKmj3cqhkWqZh5hu1ASJK632kN82DM=",
-      "bytes": 15071
+      "contentHash": "sha256-HZcF/avkdAULY/Y7DsfCRFrp7XCh4BhkmWGsT3Yu3Vk=",
+      "bytes": 16543
     },
     {
       "id": "dystopian-fiction",
@@ -302,9 +317,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "eye.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-OOwMPFuURFeQDwOFmQUQ6YuFnkFmjXc/LKBifvHgi9c=",
-      "bytes": 12206
+      "contentHash": "sha256-XiimczEnxB8Jl1OSy/JAlD5rGImMoVJe7edfHvqyxFY=",
+      "bytes": 13432
     },
     {
       "id": "childrens-literature",
@@ -321,9 +337,10 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "teddybear.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-SATys9shoxScuDXNX22gaakd8Xw0k+58fObo5kBpVIM=",
-      "bytes": 12899
+      "contentHash": "sha256-Fwe0CEKfBbjtziZ5Ip2Mrr86FaH5fX3eSDLOvyREuV8=",
+      "bytes": 14207
     },
     {
       "id": "first-lines",
@@ -340,9 +357,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "book.pages.fill",
       "category": "Literature",
+      "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-xLCx9Kj9A1HZnX1soMtHFAgD39GhBG8aVdjIS2o9QtE=",
-      "bytes": 17379
+      "contentHash": "sha256-nhYM/+wcvas7fHLBWTWytbrR1VVtQCP+ohyO5PMQ4/A=",
+      "bytes": 19015
     },
     {
       "id": "mindfulness",
@@ -359,9 +377,10 @@
       "colorDarkHex": "#2BD1AA",
       "iconName": "leaf.fill",
       "category": "Wellness",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-xP3FUTQpr60DcsjKcKg7BFcRvVXvXCE0XvVWWn744yQ=",
-      "bytes": 13468
+      "contentHash": "sha256-PBJvU85zO/Z42upsP3H3EcbOQ/1WkUL2G1fioxddcrw=",
+      "bytes": 14735
     },
     {
       "id": "gratitude",
@@ -378,9 +397,10 @@
       "colorDarkHex": "#FDA260",
       "iconName": "hands.sparkles.fill",
       "category": "Wellness",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-jIE//ulgEwhu562KX00M23h586fa1qliRnRHl1VUvlI=",
-      "bytes": 13873
+      "contentHash": "sha256-LS6TT292AfRYGjqq90r8os5NQDVCMsoQB/FcItMB9xE=",
+      "bytes": 15140
     },
     {
       "id": "resilience",
@@ -397,9 +417,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "mountain.2.fill",
       "category": "Wellness",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-l7fG3geU0NfZgGpK8agfq/Ug8xP5sPnxBdVHOCszfjM=",
-      "bytes": 12547
+      "contentHash": "sha256-v1iwjIcsnUuv19jnNjFCcWKLaRZgSwgrLnfczagLAhQ=",
+      "bytes": 13732
     },
     {
       "id": "self-compassion",
@@ -416,9 +437,10 @@
       "colorDarkHex": "#F762B7",
       "iconName": "heart.circle.fill",
       "category": "Wellness",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-ZEgisXMwv7PutcarMT9wUz93waVvRyy2oR/VOG4WOqY=",
-      "bytes": 13292
+      "contentHash": "sha256-fO6UnmgdK6QFTtuoXGUPZgETIGQ1awezOuDYvrQBxy0=",
+      "bytes": 14559
     },
     {
       "id": "rest-balance",
@@ -435,9 +457,10 @@
       "colorDarkHex": "#DE56F3",
       "iconName": "moon.stars.fill",
       "category": "Wellness",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-KzbXnZzEEKjuLi2aRHPTZvsq/AvRSf6nBAfiF6JDbbo=",
-      "bytes": 11956
+      "contentHash": "sha256-l/uBjZd3SezUznVX3LW1BpI2Icnw89BwqLPuN6sxAWI=",
+      "bytes": 13141
     },
     {
       "id": "marvel-movies",
@@ -454,9 +477,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "bolt.fill",
       "category": "Movies",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-/Z8dUOM3Bgi0x0Bm/KTSpKFtGiFr8MZx/Kd2gYCL2Vg=",
-      "bytes": 16657
+      "contentHash": "sha256-sqVSjopWJlqUBqwgBdb0CVk5B+rRq/RKezArLTQFTXU=",
+      "bytes": 18334
     },
     {
       "id": "dc-comics",
@@ -473,9 +497,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "shield.fill",
       "category": "Movies",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-Tor5CfylO2NEvD3LtsjpKStfQYarvHOeIxxiJnEvVm8=",
-      "bytes": 14965
+      "contentHash": "sha256-Vn+ehrI/ne9I0taeGIbtXmGo9suLy8MbyRapNMMSf2M=",
+      "bytes": 16437
     },
     {
       "id": "lds-general-conference",
@@ -492,9 +517,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "mic.fill",
       "category": "Faith",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-nG3Amn+Iq6Ry+DSsqbZ7jkavxPjlrDC3OOuhCNzLhOQ=",
-      "bytes": 30749
+      "contentHash": "sha256-dS3F4SCzxQluTwDfsXFWOCXxA59KzQ1kTwojei0EyJQ=",
+      "bytes": 33082
     },
     {
       "id": "disney-animated",
@@ -511,9 +537,10 @@
       "colorDarkHex": "#F762B7",
       "iconName": "wand.and.stars",
       "category": "Movies",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-ZWbgZxGIlzIkZ0cHBjr+LFR/qJadNioKNFJ1SSR7EDA=",
-      "bytes": 20764
+      "contentHash": "sha256-VCeRzGRDtC65Co6tTaSMdkPn0QqO6svBq+j+OA165Gw=",
+      "bytes": 22933
     },
     {
       "id": "seinfeld",
@@ -530,9 +557,10 @@
       "colorDarkHex": "#FDA260",
       "iconName": "tv.fill",
       "category": "Television",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-rsV2t8qIke/0ZXjw8g9sN6KzJa6SgpIb2EBEeNaeJXU=",
-      "bytes": 11082
+      "contentHash": "sha256-eOOJsZ5FAz5SMeyswR5e48r54n4vsvLf5c4EIzurb5E=",
+      "bytes": 12185
     },
     {
       "id": "how-i-met-your-mother",
@@ -549,9 +577,10 @@
       "colorDarkHex": "#DAC720",
       "iconName": "umbrella.fill",
       "category": "Television",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-NtSLAddtQUtP68AqpudpTLQA/jGic5T5xQ7JXtYaqD4=",
-      "bytes": 48646
+      "contentHash": "sha256-zS+rxu6LiLpdz9KCWOEoE+Wi96qJ7XBiTofTy7qe+bc=",
+      "bytes": 52660
     },
     {
       "id": "fantasy-worlds",
@@ -568,9 +597,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "flame.fill",
       "category": "Literature",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-ABDwhvJKPGnj916uEAZoyiPwohii9I1E3zWTbiqI+Es=",
-      "bytes": 15390
+      "contentHash": "sha256-IhjpjCOLJHnJUDSXy1XJveEWdOfYM+C31RNgc/wIMyo=",
+      "bytes": 16903
     },
     {
       "id": "western-movies",
@@ -587,9 +617,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "sun.dust.fill",
       "category": "Movies",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-f1ffOL5XhMb0+IauQ/AOlrg24uNfTu1i5B1oqt1kkXg=",
-      "bytes": 12608
+      "contentHash": "sha256-8M5j/Gbb1UM9BF/X6LGvnJlfUU8Il8ckQEen79HEbIA=",
+      "bytes": 13875
     },
     {
       "id": "scifi-screen",
@@ -606,9 +637,10 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "sparkles",
       "category": "Movies",
+      "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-QDJSJcre3kfC/hgyfcK4RBOuQd7ENQJPdZWyPwMiIPQ=",
-      "bytes": 18782
+      "contentHash": "sha256-YXZitVI0QfC9TaGxFIs2zeTpIE07uTu0gUi25gOUz18=",
+      "bytes": 20746
     },
     {
       "id": "star-wars",
@@ -625,9 +657,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "star.fill",
       "category": "Movies",
+      "addedAt": "2026-06-27T22:04:48Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-OhD7/mre2SNslH2LDzAJM1S5MblnCn1Wqg5CcvR1v0Y=",
-      "bytes": 24459
+      "contentHash": "sha256-ftMACUIs6Ta5yHj/WQAc5svRSl6kHerGzYNubE9mRmw=",
+      "bytes": 26956
     },
     {
       "id": "lego-movies",
@@ -644,9 +677,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "cube.fill",
       "category": "Movies",
+      "addedAt": "2026-07-05T03:48:30Z",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-PXYsRX5+6mCONNcrQ+pVvVc6xVr7tuPeClAgeVLPD0M=",
-      "bytes": 10777
+      "contentHash": "sha256-mE1mg+YTatNouczUCeXBPvpNP1wlLHch9dvDSjPXAHc=",
+      "bytes": 11921
     },
     {
       "id": "teen-movies",
@@ -663,9 +697,10 @@
       "colorDarkHex": "#F762B7",
       "iconName": "graduationcap.fill",
       "category": "Movies",
+      "addedAt": "2026-07-05T03:48:30Z",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-0hiSMWyWYuUD6NNgZn6r36tesyMJnRm9ijIaDMy+vng=",
-      "bytes": 12654
+      "contentHash": "sha256-iO01jEW7AptsUXc4YFHqyyWf4oIDBvYRQUqn0MdVXSs=",
+      "bytes": 13962
     },
     {
       "id": "battlestar-galactica",
@@ -682,9 +717,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "tv.fill",
       "category": "Television",
+      "addedAt": "2026-06-27T22:01:13Z",
       "lastUpdated": "2026-07-06T12:00:00Z",
-      "contentHash": "sha256-fMAK8tyvo57r1n094ZlZNppY/q8bSmUANERrNmgz0dc=",
-      "bytes": 12122
+      "contentHash": "sha256-akwm+HjM8o7eDeRG/cDFsC3pRGpOcNygjCbN2dyOlLI=",
+      "bytes": 13184
     },
     {
       "id": "bible-wisdom",
@@ -701,9 +737,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "book.closed.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-x/ITyUzwqbRkxA8Fx9fOpPb0SHOyuH/7C2W8MEiqgvA=",
-      "bytes": 13665
+      "contentHash": "sha256-c4wWZNpUGDkBfe/s7Yu/Cem2ONkSgKhMnxeG1gXJFZc=",
+      "bytes": 14973
     },
     {
       "id": "words-of-jesus",
@@ -720,9 +757,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "cross.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-ixNFUPmxl0jEAEQl90WjGPtMaEhhnwW+CkFR6Mhvvt4=",
-      "bytes": 14157
+      "contentHash": "sha256-6dHxcSjtUKCSk9PxnO1w5gbPfXFkQ5Bj986dkxwpKgk=",
+      "bytes": 15588
     },
     {
       "id": "christian-saints",
@@ -739,9 +777,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "cross.circle.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-fDybcGjy4qyxnJvptDizM0GNIRvR1GcXYo/zCPKEdik=",
-      "bytes": 15169
+      "contentHash": "sha256-QYOZIHxGx32lnQ+ztrCe1jMN+d7LuUQ3+zdAan/chTs=",
+      "bytes": 16477
     },
     {
       "id": "cs-lewis",
@@ -758,9 +797,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "text.book.closed.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-5IF+eiBTfDEgI7WWOn6UL8zV6fgm1GVrjcwKQM/f41E=",
-      "bytes": 14894
+      "contentHash": "sha256-84PIF6uTvD1/6eL42kFJtx3RzqJlLmGIP4jMrYs9edc=",
+      "bytes": 16243
     },
     {
       "id": "quran",
@@ -777,9 +817,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "moon.stars.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-06Rc13VW0AMfHhmvvLb+UEs3GlxLf0DlF0z+NXsKHVc=",
-      "bytes": 16095
+      "contentHash": "sha256-90XBDO2xFVhToj/vFBeBbilCFkVr5Ab4/Df+H8QrgYA=",
+      "bytes": 17444
     },
     {
       "id": "rumi",
@@ -796,9 +837,10 @@
       "colorDarkHex": "#F762B7",
       "iconName": "heart.circle.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-NBn6JP8f+ogRglQ2njIu0RUAl+ouGsHiEMp+qrzZaCQ=",
-      "bytes": 11209
+      "contentHash": "sha256-aMhZyjZA1rslSb/TrDxJA4kufyLac8LPJUnyU49S/0g=",
+      "bytes": 12189
     },
     {
       "id": "hadith",
@@ -815,9 +857,10 @@
       "colorDarkHex": "#2BD1AA",
       "iconName": "moon.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-7IsYA2tHUrZc5sWb0fJZs804bwftIS7hEow1kFnNCNo=",
-      "bytes": 14016
+      "contentHash": "sha256-1ycIK6hjK3U2u8f/EETwLxy/X/Pce/Q+oZ04RePSkXI=",
+      "bytes": 15324
     },
     {
       "id": "bhagavad-gita",
@@ -834,9 +877,10 @@
       "colorDarkHex": "#FDA260",
       "iconName": "sun.max.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-6rZUNvTFu3LL+XrZmESVuRTS3glo/BFeouuVeudZl+U=",
-      "bytes": 16202
+      "contentHash": "sha256-cHKkkh+C7oD4+GY5qppEDV8JSu1OfGw8U0q0T63nmhw=",
+      "bytes": 17469
     },
     {
       "id": "dhammapada",
@@ -853,9 +897,10 @@
       "colorDarkHex": "#DAC720",
       "iconName": "leaf.circle.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-x5vARQef2wuBbmyGL07f5+m0m+wEE5NEQdLkC7GgW6U=",
-      "bytes": 15744
+      "contentHash": "sha256-JUwzPGGaFzdndjdDHRn4XTK0Kz2JS7HbIAdXCF+H8X4=",
+      "bytes": 17011
     },
     {
       "id": "tao-te-ching",
@@ -872,9 +917,10 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "circle.lefthalf.filled",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-L7SYWVjZ0Vs4KuLGsqm9jBF3kL48ooKLcc8ZB1aDqFk=",
-      "bytes": 14687
+      "contentHash": "sha256-jwnKed77Qt0UilHNjqpg5dCdQqWO2omvHXs9G90Sxus=",
+      "bytes": 15954
     },
     {
       "id": "zen-wisdom",
@@ -891,9 +937,10 @@
       "colorDarkHex": "#DE56F3",
       "iconName": "leaf.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-ex/gj1bgNK78BL+blFt9FvVn+KmJo5GN5Oh3erakg44=",
-      "bytes": 12797
+      "contentHash": "sha256-C/UdY+4ltfK+V5hiDDKN8qYXhUuDtrEh8QccX/fTCX0=",
+      "bytes": 14105
     },
     {
       "id": "jewish-wisdom",
@@ -910,9 +957,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "scroll.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-41yYfOs3tSwvzCYTPoQZ++kj92QNMIjzPk6xGEm2p+E=",
-      "bytes": 15177
+      "contentHash": "sha256-OZuBzZoEhe2zfyUsXrcueYRjoVyMTOTpGAS1MSAzFdU=",
+      "bytes": 16567
     },
     {
       "id": "sikh-wisdom",
@@ -929,9 +977,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "book.closed.fill",
       "category": "Faith",
+      "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-hXxKlRY8OzoMU9SVxrAJWkxSnG/EiLRSGOqXcqIEtvI=",
-      "bytes": 10278
+      "contentHash": "sha256-MWzn2gUJMvBDn7ZiPnohJqF1jUUyKKoZSX40mAT5vL0=",
+      "bytes": 11053
     },
     {
       "id": "legendary-coaches",
@@ -948,9 +997,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "figure.american.football",
       "category": "Sports",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-JZMusPJQSBn/twn6zF+EGJXwou9Jr2F+tH/ezYFVvfA=",
-      "bytes": 13399
+      "contentHash": "sha256-r8/gH09IJ3JJrSuv6rGZml4DsYL0Oxi0gWoNlrsnpoI=",
+      "bytes": 14584
     },
     {
       "id": "champions-mindset",
@@ -967,9 +1017,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "trophy.fill",
       "category": "Sports",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-0nR800QNZlDcEsrBaCcljSttkCG6VEVLriBQ+WHZtXg=",
-      "bytes": 15924
+      "contentHash": "sha256-Z+BoYRQD+siIsXYqtUsEU86vnXcxvrJquZt1hErE4Nc=",
+      "bytes": 17191
     },
     {
       "id": "yogi-berra",
@@ -986,9 +1037,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "baseball.fill",
       "category": "Sports",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-uqGf3Sd+DMpQ1EiLRRinYCTQsWMzqCljz9wOaaxiFfw=",
-      "bytes": 12976
+      "contentHash": "sha256-OnYTYjXaj7dY7qot4+Tre9iD538PVWDSqTfljAm5uQA=",
+      "bytes": 14202
     },
     {
       "id": "entrepreneurs",
@@ -1005,9 +1057,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-uXnUZp7smYT32X4F9mrR6peD1u45355wE7UevzsM8gA=",
-      "bytes": 14869
+      "contentHash": "sha256-Nanu9WpfVOHFoHi0+8vCmUIT/OZPkwxZd1FOMI+8Enw=",
+      "bytes": 16054
     },
     {
       "id": "on-leadership",
@@ -1024,9 +1077,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "person.3.fill",
       "category": "Business & Leadership",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-OHrAp9alTdsnkbVBQ0Q73ptmX2IrXsGWR8HOEyZ4a9Q=",
-      "bytes": 14452
+      "contentHash": "sha256-eEW7Drf7Y2BbD0uVjgQF3w8NzQBThHAdc1kgdsHURss=",
+      "bytes": 15637
     },
     {
       "id": "money-investing",
@@ -1043,9 +1097,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "dollarsign.circle.fill",
       "category": "Business & Leadership",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-06T12:00:00Z",
-      "contentHash": "sha256-w2DM7WvKSr5+CqvZ/GrZPzgaxAODSJ2G3TWvNfVmzu4=",
-      "bytes": 15280
+      "contentHash": "sha256-VtLXi/qTeemO7OrB+YNkGWZEL+MGL1UQB4DQscNyPEk=",
+      "bytes": 16670
     },
     {
       "id": "great-speeches",
@@ -1062,9 +1117,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-mexhuI+bziKYt/Wwa0rF8AU/lKjeOFl+c0NEyEmVVO8=",
-      "bytes": 16640
+      "contentHash": "sha256-HtfYq0wzht5ABK/NitIqiWhIjnvrMkJP9q9YUEQTMw4=",
+      "bytes": 17948
     },
     {
       "id": "founding-fathers",
@@ -1081,9 +1137,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "flag.fill",
       "category": "History & Speeches",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-aLwYam105F3xiSpu+EugZKzW+/YTU4bYHGMcTPIO0j0=",
-      "bytes": 16277
+      "contentHash": "sha256-vZ0yDFkUBUDd+e0PSRhf3aXdS4jOcETBN3BMGyatC4U=",
+      "bytes": 17544
     },
     {
       "id": "civil-rights-voices",
@@ -1100,9 +1157,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-dr3WP/aA3Pq7I1U5KusQPxYokWLMs9/XfceUE/vImh8=",
-      "bytes": 15030
+      "contentHash": "sha256-tU6JR4VX9gZRmInJpkKvddfMBWGApv7Ywa+owPSu2dg=",
+      "bytes": 16215
     },
     {
       "id": "cosmos-space",
@@ -1119,9 +1177,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "moon.stars.fill",
       "category": "Science",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-XJcZEMI8mKKcvHmD3hRAsopmK/oewZ+t18SFSb7unIQ=",
-      "bytes": 15288
+      "contentHash": "sha256-IUjrfrfbdm4GCqsSZLjOGMxK+Ae8NYtRgPzapN6Qog0=",
+      "bytes": 16637
     },
     {
       "id": "great-scientists",
@@ -1138,9 +1197,10 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "atom",
       "category": "Science",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-cpgSILARxY1AcP+uqsy5lsJf6+0ddSfbHJXJ6Lmg27U=",
-      "bytes": 16287
+      "contentHash": "sha256-FwCbTLkK1CQFQWSuuZQvlKTLWv8jNePTBsPEofXlwvo=",
+      "bytes": 17554
     },
     {
       "id": "curiosity-discovery",
@@ -1157,9 +1217,10 @@
       "colorDarkHex": "#DE56F3",
       "iconName": "sparkle.magnifyingglass",
       "category": "Science",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-E4zSfsfpJ7WOzGbbvLW8429+MYUHbqdhjpYPgi5caoU=",
-      "bytes": 14742
+      "contentHash": "sha256-3ouXwpBC47ja2jO/uaMJIU3Yqyv2FbNY0eJiMbnXZjE=",
+      "bytes": 15927
     },
     {
       "id": "bob-dylan",
@@ -1176,9 +1237,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "guitars.fill",
       "category": "Music",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-RP3r3yo10FFdtNQeFrz8TJhPp9KvetbYi++jLP3I5uk=",
-      "bytes": 11522
+      "contentHash": "sha256-W8Ithho7l6aUCtlyAIV/2O82A09yUF2vxTZWExBX/Z0=",
+      "bytes": 12625
     },
     {
       "id": "the-beatles",
@@ -1195,9 +1257,10 @@
       "colorDarkHex": "#F762B7",
       "iconName": "music.note",
       "category": "Music",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Y2XlN6vgKvjmu3SHxkHKXbMo9xL7RV7Lb+8xnTy2kYc=",
-      "bytes": 12901
+      "contentHash": "sha256-KE2DIy6Z+us1rawXJv+wo0BIDhb69NKZWIYAMwA5HMg=",
+      "bytes": 14004
     },
     {
       "id": "johnny-cash",
@@ -1214,9 +1277,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "guitars",
       "category": "Music",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-7j6Y2mCvbPW4xS0CK0Yq6P7hqyj4BI7aeqOCJUwlCUs=",
-      "bytes": 12213
+      "contentHash": "sha256-JRVFjxSTmqt1ZB2DY9u0UdFYtgJf6mQ0jnL92hPfgWM=",
+      "bytes": 13275
     },
     {
       "id": "one-liners",
@@ -1233,9 +1297,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "text.bubble.fill",
       "category": "Comedy",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-qRe05Bnj6BJOkVM6j3GxeI6Rm4adrlP81AvGZEHM8n8=",
-      "bytes": 11934
+      "contentHash": "sha256-UR4VzzepgivPzs554zf7O+ZnyISreGgzTDy9iSD7Q2Y=",
+      "bytes": 13078
     },
     {
       "id": "mark-twain-wit",
@@ -1252,9 +1317,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "quote.bubble.fill",
       "category": "Comedy",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-F9mH1JY8/5TPvSEhbiSRFUXNQM/sLd6X58XWgbumTuk=",
-      "bytes": 15175
+      "contentHash": "sha256-eDY6E/z/5rptSjXmOZWD6BuVEZ0QwjNtKhQHxsmCi0g=",
+      "bytes": 16524
     },
     {
       "id": "standup-legends",
@@ -1271,9 +1337,10 @@
       "colorDarkHex": "#FDA260",
       "iconName": "mic.fill",
       "category": "Comedy",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-84vRLbHxcnAutraEOKv3Ho+2SZ5z6OHf40zE7ob6DQg=",
-      "bytes": 11427
+      "contentHash": "sha256-2Imc2GZsBWgSCFGYM6wiABb6daUA0SsVFbnjPQPDskA=",
+      "bytes": 12489
     },
     {
       "id": "love-and-romance",
@@ -1290,9 +1357,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "heart.circle.fill",
       "category": "Love & Relationships",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-/Nc3h1obzs6FwMcQuK+YAPu001GmzE5rwFIGPpZFR+Q=",
-      "bytes": 13036
+      "contentHash": "sha256-GafvYzzLT3dTfd3AD0vwb/7L807HZtuDicpx1n8VGeE=",
+      "bytes": 14221
     },
     {
       "id": "friendship",
@@ -1309,9 +1377,10 @@
       "colorDarkHex": "#FDA260",
       "iconName": "person.2.fill",
       "category": "Love & Relationships",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-XF8G9687SUJXUWai2CQ/d5pLph2Trdtn8w7JkuKfx+8=",
-      "bytes": 13343
+      "contentHash": "sha256-pAKtAF1pF5NSHYP9gMD1iMDr94NzYWvaXziP3Af2r0Y=",
+      "bytes": 14528
     },
     {
       "id": "marriage-and-weddings",
@@ -1328,9 +1397,10 @@
       "colorDarkHex": "#F762B7",
       "iconName": "heart.text.square.fill",
       "category": "Love & Relationships",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-el/3ADTqh2CsGhgk5Xhknv3Dp/HFC5SrQlgIiKNQKJg=",
-      "bytes": 12558
+      "contentHash": "sha256-oACsVyMz3FPQF+oYtgX0I6X8UZ9mc2VWL7FpMOy4TIY=",
+      "bytes": 13579
     },
     {
       "id": "john-muir",
@@ -1347,9 +1417,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "mountain.2.fill",
       "category": "Nature",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-4ZJsKz4DhWxlfJJXsQC395cCy3sqhwe+RhKLXoGFxWA=",
-      "bytes": 16441
+      "contentHash": "sha256-K/5dk80dmTi/l5AQqKr9NpbKi7tL0wV+FV/mPCMVkPc=",
+      "bytes": 17790
     },
     {
       "id": "thoreau-walden",
@@ -1366,9 +1437,10 @@
       "colorDarkHex": "#2BD1AA",
       "iconName": "tree.fill",
       "category": "Nature",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-qfv1S8wpI/M9J2GmpLC5n5wu9id0pQZ7I0+fMP/3Is8=",
-      "bytes": 13708
+      "contentHash": "sha256-iGwMIyWw5E+JScibUcyml3zjzmO84ab9MAGmHwDj/7o=",
+      "bytes": 14975
     },
     {
       "id": "earth-and-the-wild",
@@ -1385,9 +1457,10 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "globe.americas.fill",
       "category": "Nature",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-V4W5jbkfwcZzLXII/IBh5t/wp1m+d5vmgXeixiuqxJg=",
-      "bytes": 14294
+      "contentHash": "sha256-AORDQ1/4xQttAKyWWUq003LPKEBeAdISCMmCgyVyI9g=",
+      "bytes": 15520
     },
     {
       "id": "studio-ghibli",
@@ -1404,9 +1477,10 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "wind",
       "category": "Anime & Manga",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-oXrybx93Ba5pufX50El1XoIVx7/ptB7esjTATS5zHGs=",
-      "bytes": 12404
+      "contentHash": "sha256-z0YQhM8GroTqNAJCXpeed4qKEZ373W4uEnT0xw7NpJo=",
+      "bytes": 13589
     },
     {
       "id": "naruto",
@@ -1423,9 +1497,10 @@
       "colorDarkHex": "#FDA260",
       "iconName": "figure.martial.arts",
       "category": "Anime & Manga",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-t7stf4ytaM4tNGfhoMGHXHSemkBW9gjyvZbyjDTL8XI=",
-      "bytes": 13630
+      "contentHash": "sha256-LPzwWRYCJqQ2AscWw/yMBXtxpbTtAU5jIKJOeYk3LFI=",
+      "bytes": 14733
     },
     {
       "id": "one-piece",
@@ -1442,9 +1517,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "sailboat.fill",
       "category": "Anime & Manga",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-uK0Bzc11h84c7d+Fw4bKbHP49KKBcqcWWGlg0jgcczQ=",
-      "bytes": 13575
+      "contentHash": "sha256-OVNgT91TdU68FksLYOO/zGrBQXHSkRX8wVs+Q6/A5dw=",
+      "bytes": 14678
     },
     {
       "id": "iconic-game-lines",
@@ -1461,9 +1537,10 @@
       "colorDarkHex": "#DE56F3",
       "iconName": "gamecontroller.fill",
       "category": "Video Games",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-d9Yp3iUplmY5BAswnl9Fn1iUh24kuVhkNaWGGoVDhR4=",
-      "bytes": 13034
+      "contentHash": "sha256-pmhsuQ6iRtXe81EnbFgLGKOoUnnGr/ndYfSLjY3MwEI=",
+      "bytes": 14342
     },
     {
       "id": "legend-of-zelda",
@@ -1480,9 +1557,10 @@
       "colorDarkHex": "#FBB620",
       "iconName": "triangle.fill",
       "category": "Video Games",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-ymvXKIXOVmXa+RD05wYE+9oTq4BkeE8hGY7b4s9J0Xc=",
-      "bytes": 9409
+      "contentHash": "sha256-L7LhBLow0uwM1PKmIyfwP4uYq9V4nLIVO9NQ9BXnst4=",
+      "bytes": 10266
     },
     {
       "id": "rpg-wisdom",
@@ -1499,9 +1577,10 @@
       "colorDarkHex": "#4790FB",
       "iconName": "shield.lefthalf.filled",
       "category": "Video Games",
+      "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-lUJG0kF69eh9oaVVO9MI3UT1TXD1ykEu9KSSXWgt9ik=",
-      "bytes": 11967
+      "contentHash": "sha256-fVZII8RXCrTGJVM8wBUt88s6cbOC6cutaSUYLGufMZU=",
+      "bytes": 13070
     },
     {
       "id": "starcraft",
@@ -1518,9 +1597,10 @@
       "colorDarkHex": "#2DD3DA",
       "iconName": "bolt.fill",
       "category": "Video Games",
+      "addedAt": "2026-07-01T14:52:27Z",
       "lastUpdated": "2026-07-01T12:00:00Z",
-      "contentHash": "sha256-l8gvaAlNS74PL76KObKXpteODavAaw09ThgZPFhlsLc=",
-      "bytes": 7660
+      "contentHash": "sha256-lQ7kuRv4Hvaph5TBwXYj+XN6Vm2Z/HWC4E+/2GcJ2n4=",
+      "bytes": 8517
     },
     {
       "id": "warcraft",
@@ -1537,9 +1617,10 @@
       "colorDarkHex": "#2BD66A",
       "iconName": "flame.fill",
       "category": "Video Games",
+      "addedAt": "2026-07-01T14:52:27Z",
       "lastUpdated": "2026-07-01T12:00:00Z",
-      "contentHash": "sha256-MdiC3izZNxv6+Z4g7x64lZeq3m0VXxUlAp5iRuwaZJ0=",
-      "bytes": 8194
+      "contentHash": "sha256-hRcoZ4kDMY0zLVRWmmvy6G+qylO3LBQD5VWNTflUk2Q=",
+      "bytes": 9051
     },
     {
       "id": "michael-jordan",
@@ -1556,9 +1637,10 @@
       "colorDarkHex": "#FA7064",
       "iconName": "basketball.fill",
       "category": "Sports",
+      "addedAt": "2026-07-08T02:59:16Z",
       "lastUpdated": "2026-07-07T12:00:00Z",
-      "contentHash": "sha256-36EpIJxiK9CNx7febAaLXaHCB993BcSBL883/5R/7uI=",
-      "bytes": 25483
+      "contentHash": "sha256-y7luVkb/dDXUFAvbiSFpqJzf9ayni3wIvOKu7MXLi3Q=",
+      "bytes": 27652
     }
   ]
 }

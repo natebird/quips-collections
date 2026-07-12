@@ -8,6 +8,7 @@
   "colorDarkHex": "#FA7064",
   "iconName": "heart.circle.fill",
   "category": "Love & Relationships",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1850",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The most famous opening line in English love poetry, written for her husband Robert Browning."
+      "notes": "The most famous opening line in English love poetry, written for her husband Robert Browning.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1850",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The opening measure of the poet's catalogue of the ways she loves."
+      "notes": "The opening measure of the poet's catalogue of the ways she loves.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1850",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The closing lines of Sonnet 43, promising a love that outlasts death itself."
+      "notes": "The closing lines of Sonnet 43, promising a love that outlasts death itself.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1959",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Mark Eisner's widely quoted English rendering of the sonnet Neruda wrote for Matilde Urrutia."
+      "notes": "Mark Eisner's widely quoted English rendering of the sonnet Neruda wrote for Matilde Urrutia.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1924",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "From 'Every Day You Play,' in W. S. Merwin's standard English translation."
+      "notes": "From 'Every Day You Play,' in W. S. Merwin's standard English translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1959",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The opening of Sonnet XI in Stephen Tapscott's authorized translation."
+      "notes": "The opening of Sonnet XI in Stephen Tapscott's authorized translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1904",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "From the letter of 14 May 1904, in Stephen Mitchell's translation."
+      "notes": "From the letter of 14 May 1904, in Stephen Mitchell's translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1904",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Rilke's ideal of love as two solitudes protecting one another."
+      "notes": "Rilke's ideal of love as two solitudes protecting one another.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2000",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "hooks argues that treating love as a verb makes us answerable for how we love."
+      "notes": "hooks argues that treating love as a verb makes us answerable for how we love.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1994",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "hooks frames the choice to love as an act of liberation."
+      "notes": "hooks frames the choice to love as an act of liberation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1956",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Fromm's central claim that mature love is a practiced act of giving, not an accident of attraction."
+      "notes": "Fromm's central claim that mature love is a practiced act of giving, not an accident of attraction.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1956",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Fromm's distinction between dependence and freely chosen love."
+      "notes": "Fromm's distinction between dependence and freely chosen love.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1862",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From 'Fantine,' Book 5; the Wilbour translation of the year of first publication."
+      "notes": "From 'Fantine,' Book 5; the Wilbour translation of the year of first publication.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Catherine Earnshaw describing the depth of her bond with Heathcliff."
+      "notes": "Catherine Earnshaw describing the depth of her bond with Heathcliff.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Catherine's confession of a love so total it dissolves the boundary of self."
+      "notes": "Catherine's confession of a love so total it dissolves the boundary of self.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Heathcliff's cry of grief after Catherine's death."
+      "notes": "Heathcliff's cry of grief after Catherine's death.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The novel's famous opening line, in Edith Grossman's English translation."
+      "notes": "The novel's famous opening line, in Edith Grossman's English translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The genuine 'give birth to themselves' passage, in Grossman's translation."
+      "notes": "The genuine 'give birth to themselves' passage, in Grossman's translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the way memory sweetens the past into longing."
+      "notes": "On the way memory sweetens the past into longing.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1920",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Fitzgerald writing about Zelda in a February 1920 letter, collected in his correspondence."
+      "notes": "Fitzgerald writing about Zelda in a February 1920 letter, collected in his correspondence.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1990",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The closing lines of Angelou's poem on love as both a price and a liberation."
+      "notes": "The closing lines of Angelou's poem on love as both a price and a liberation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1678",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The opening of one of the earliest great love poems in American literature, published posthumously."
+      "notes": "The opening of one of the earliest great love poems in American literature, published posthumously.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1819",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "From one of the most celebrated love letters in English, written to Keats's beloved Fanny Brawne."
+      "notes": "From one of the most celebrated love letters in English, written to Keats's beloved Fanny Brawne.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The opening line of Cummings's best-known love poem."
+      "notes": "The opening line of Cummings's best-known love poem.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1817",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Captain Wentworth's letter to Anne Elliot, one of literature's great declarations of love."
+      "notes": "From Captain Wentworth's letter to Anne Elliot, one of literature's great declarations of love.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1609",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Shakespeare's definition of constant love, from the sonnet on the marriage of true minds."
+      "notes": "Shakespeare's definition of constant love, from the sonnet on the marriage of true minds.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 1250",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Coleman Barks's widely loved rendering of the 13th-century Persian poet."
+      "notes": "Coleman Barks's widely loved rendering of the 13th-century Persian poet.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "love-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1633",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Donne's image of lovers whose union contains the whole world, published posthumously."
+      "notes": "Donne's image of lovers whose union contains the whole world, published posthumously.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

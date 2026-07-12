@@ -8,6 +8,7 @@
   "colorDarkHex": "#F762B7",
   "iconName": "heart.circle.fill",
   "category": "Wellness",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "notes": "From the psychologist whose research established self-compassion as a field of study.",
       "quoteDate": "2011",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "notes": "From Brown's book on letting go of who we think we should be.",
       "quoteDate": "2010",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "notes": "A central idea from Brown's research on vulnerability and worthiness.",
       "quoteDate": "2010",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "notes": "From the meditation teacher and psychologist's book on embracing life with an open heart.",
       "quoteDate": "2003",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "notes": "From the self-help author's influential book on self-acceptance.",
       "quoteDate": "1984",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "notes": "From the humanistic psychologist's foundational work on personal growth.",
       "quoteDate": "1961",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "notes": "From the American Buddhist nun's guide to fearlessness in difficult times.",
       "quoteDate": "2001",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "notes": "From the meditation teacher who helped bring metta practice to the West.",
       "quoteDate": "1995",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "notes": "From a collection of reflections by the beloved children's television host.",
       "quoteDate": "2003",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "notes": "From Dahl's children's book, on how inner kindness shapes outward beauty.",
       "quoteDate": "1980",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-011",
@@ -118,7 +129,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to the Buddha; the phrasing is a modern rendering rather than a canonical text.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-012",
@@ -128,7 +140,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to the 14th Dalai Lama in talks and interviews.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-013",
@@ -138,7 +151,8 @@
       "sourceType": "unspecified",
       "notes": "A frequently cited expression of the Dalai Lama's emphasis on kindness.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-014",
@@ -148,7 +162,8 @@
       "sourceType": "unspecified",
       "notes": "A moral drawn from the fable of the lion and the mouse; wording varies by translation.",
       "quoteDate": "c. 6th century BCE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-015",
@@ -158,7 +173,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the Scottish author and clergyman John Watson (pen name Ian Maclaren); often misattributed to Plato.",
       "quoteDate": "c. 1897",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-016",
@@ -168,7 +184,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the novelist by way of a family recollection.",
       "quoteDate": "c. 1900s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "notes": "Traditionally attributed to Lao Tzu; not securely traced to the Tao Te Ching.",
       "quoteDate": "c. 6th century BCE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-018",
@@ -188,7 +206,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the aviation pioneer.",
       "quoteDate": "c. 1930s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-019",
@@ -198,7 +217,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to Emerson; a definitive source in his essays is not established.",
       "quoteDate": "c. 19th century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-020",
@@ -208,7 +228,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to Diana, Princess of Wales.",
       "quoteDate": "c. 1990s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-021",
@@ -218,7 +239,8 @@
       "sourceType": "unspecified",
       "notes": "Popularly attributed to Twain, but no primary source in his writings has been found.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-022",
@@ -228,7 +250,8 @@
       "sourceType": "unspecified",
       "notes": "Long associated with Angelou; the exact original source is contested.",
       "quoteDate": "c. 1970s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-023",
@@ -238,7 +261,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to Chödrön; a fixed published source is uncertain.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-024",
@@ -248,7 +272,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the meditation teacher and author, sometimes framed as a Buddhist teaching.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "notes": "Neff's 'self-compassion break,' a three-part phrase for meeting hard moments.",
       "quoteDate": "2011",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-026",
@@ -268,7 +294,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the self-help author; echoes his teaching on non-judgment.",
       "quoteDate": "c. 2000s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-027",
@@ -278,7 +305,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the author and lecturer known as 'Dr. Love.'",
       "quoteDate": "c. 1980s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the Lebanese-American poet and author of The Prophet.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-029",
@@ -298,7 +327,8 @@
       "sourceType": "unspecified",
       "notes": "Coined by writer Anne Herbert, reportedly on a placemat, and later popularized worldwide.",
       "quoteDate": "c. 1982",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "sc-030",
@@ -308,7 +338,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the educator and author of Up from Slavery.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

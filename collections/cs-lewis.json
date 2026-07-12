@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD66A",
   "iconName": "text.book.closed.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Lewis's 'argument from desire' for the soul's longing beyond earthly satisfaction."
+      "notes": "Lewis's 'argument from desire' for the soul's longing beyond earthly satisfaction.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The core of Lewis's famous 'Liar, Lunatic, or Lord' trilemma."
+      "notes": "The core of Lewis's famous 'Liar, Lunatic, or Lord' trilemma.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter 'The Great Sin,' where Lewis calls pride the essential vice."
+      "notes": "From the chapter 'The Great Sin,' where Lewis calls pride the essential vice.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On how the attempt at virtue reveals the depth of one's failings."
+      "notes": "On how the attempt at virtue reveals the depth of one's failings.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From 'The Great Sin,' on how pride blinds one to God."
+      "notes": "From 'The Great Sin,' on how pride blinds one to God.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter 'Hope,' on the priority of eternal things."
+      "notes": "From the chapter 'Hope,' on the priority of eternal things.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From 'We Have Cause to Be Uneasy,' warning against wishful thinking."
+      "notes": "From 'We Have Cause to Be Uneasy,' warning against wishful thinking.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1941",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the sermon preached at Oxford's University Church, on desire being too weak rather than too strong."
+      "notes": "From the sermon preached at Oxford's University Church, on desire being too weak rather than too strong.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1941",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the eternal weight and destiny of every human being."
+      "notes": "On the eternal weight and destiny of every human being.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1944",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Closing line of an address to the Oxford Socratic Club."
+      "notes": "Closing line of an address to the Oxford Socratic Club.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1940",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter 'Human Pain,' on suffering as a summons to God."
+      "notes": "From the chapter 'Human Pain,' on suffering as a summons to God.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1940",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On pain's power to break through complacency, unlike pleasure."
+      "notes": "On pain's power to break through complacency, unlike pleasure.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1960",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Charity, on the risk inherent in all love."
+      "notes": "From the chapter on Charity, on the risk inherent in all love.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1960",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Friendship, on the shared insight that begins it."
+      "notes": "From the chapter on Friendship, on the shared insight that begins it.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1942",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Screwtape, the senior devil, advising his nephew on quiet corruption."
+      "notes": "Screwtape, the senior devil, advising his nephew on quiet corruption.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1942",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Lewis's own preface, guarding against both skepticism and obsession."
+      "notes": "Lewis's own preface, guarding against both skepticism and obsession.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1961",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening line of his journal after the death of his wife, Joy Davidman."
+      "notes": "The opening line of his journal after the death of his wife, Joy Davidman.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1946",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Spoken by the character George MacDonald in Lewis's dream-vision of heaven and hell."
+      "notes": "Spoken by the character George MacDonald in Lewis's dream-vision of heaven and hell.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1946",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "MacDonald's assurance to the narrator about the reachability of heaven."
+      "notes": "MacDonald's assurance to the narrator about the reachability of heaven.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1943",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From 'Men Without Chests,' on education that severs the trained sentiments from reason."
+      "notes": "From 'Men Without Chests,' on education that severs the trained sentiments from reason.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1958",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter 'A Word About Praising,' on why worship completes joy."
+      "notes": "From the chapter 'A Word About Praising,' on why worship completes joy.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1955",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Lewis's account of his conversion to theism in his spiritual autobiography."
+      "notes": "Lewis's account of his conversion to theism in his spiritual autobiography.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1950",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Lewis's dedication of the book to his goddaughter Lucy Barfield."
+      "notes": "From Lewis's dedication of the book to his goddaughter Lucy Barfield.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1950",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Mr. Beaver describing Aslan the lion to the Pevensie children."
+      "notes": "Mr. Beaver describing Aslan the lion to the Pevensie children.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Aslan's whispered comfort to Lucy in the darkness surrounding the Dark Island."
+      "notes": "Aslan's whispered comfort to Lucy in the darkness surrounding the Dark Island.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Aslan tells the children he exists in their world under another name."
+      "notes": "Aslan tells the children he exists in their world under another name.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1953",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Puddleglum the Marsh-wiggle defying the Green Witch's enchantment."
+      "notes": "Puddleglum the Marsh-wiggle defying the Green Witch's enchantment.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1951",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Aslan to Lucy, on why she should not expect a repeat of past rescues."
+      "notes": "Aslan to Lucy, on why she should not expect a repeat of past rescues.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-029",
@@ -298,7 +327,8 @@
       "quoteDate": "1956",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The rallying cry as the characters ascend into the true, deeper Narnia."
+      "notes": "The rallying cry as the characters ascend into the true, deeper Narnia.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-030",
@@ -308,7 +338,8 @@
       "quoteDate": "1956",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The closing image of the Narnia series, on death as an awakening."
+      "notes": "The closing image of the Narnia series, on death as an awakening.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-031",
@@ -318,7 +349,8 @@
       "quoteDate": "1955",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narration on how perception is shaped by one's own character."
+      "notes": "Narration on how perception is shaped by one's own character.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-032",
@@ -328,7 +360,8 @@
       "quoteDate": "1961",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the preface added to the 1961 edition, on the bureaucratic face of evil."
+      "notes": "From the preface added to the 1961 edition, on the bureaucratic face of evil.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }
