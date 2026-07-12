@@ -27,8 +27,24 @@ entry, and `previewQuotes`.
    - `category` — reuse an existing one when it fits: `Creativity`, `Inspiration`,
      `Literature`, `Movies`, `Philosophy`, `Technology`, `Television`, `Wellness`. Add a new
      one only if none fit.
-   - `colorName` — pick from the palette in use: `brown`, `cyan`, `forestGreen`, `gold`,
-     `magenta`, `mint`, `navyBlue`, `orange`, `primaryBlue`, `purple`, `red`.
+   - `colorName` + `colorLightHex` + `colorDarkHex` — pick one token from the Quips
+     Palette 2.0 (16 OKLCH tokens) and set the matching light/dark hex pair. All three
+     fields are required, on both the file and the index entry. Pick the token whose hue
+     fits the theme; the hex pair is fixed per token:
+
+     | token | light | dark | token | light | dark |
+     |-------|-------|------|-------|-------|------|
+     | `rose` | `#E03063` | `#F66E89` | `sky` | `#1F9ED4` | `#45C2FC` |
+     | `red` | `#E92528` | `#FA7064` | `blue` | `#116BDF` | `#4790FB` |
+     | `orange` | `#E1791C` | `#FDA260` | `indigo` | `#494BEC` | `#6A7BF3` |
+     | `amber` | `#E2A520` | `#FBB620` | `violet` | `#8839E9` | `#A174F0` |
+     | `yellow` | `#F7E120` | `#DAC720` | `purple` | `#B632CA` | `#DE56F3` |
+     | `lime` | `#9EDB2A` | `#9DDC21` | `magenta` | `#D72D97` | `#F762B7` |
+     | `green` | `#27AE57` | `#2BD66A` | `gray` | `#8A8D90` | `#9CA0A3` |
+     | `teal` | `#27A98A` | `#2BD1AA` | `cyan` | `#29ACB2` | `#2DD3DA` |
+
+     Cross-platform clients render from the hex pair; iOS prefers `colorName`. Match an
+     existing collection's token when the new one is thematically similar, for consistency.
    - `iconName` — an SF Symbol. Existing ones: `bolt.fill`, `book.fill`,
      `building.columns.fill`, `cpu.fill`, `flame.fill`, `leaf.fill`, `paintbrush.fill`,
      `shield.fill`, `sparkles`, `sun.dust.fill`, `sunrise.fill`, `tv.fill`, `wand.and.stars`.
@@ -57,6 +73,8 @@ entry, and `previewQuotes`.
      "description": "<description>",
      "author": "Quips Editorial",
      "colorName": "<colorName>",
+     "colorLightHex": "<#RRGGBB>",
+     "colorDarkHex": "<#RRGGBB>",
      "iconName": "<iconName>",
      "category": "<category>",
      "addedAt": "<today>T12:00:00Z",
@@ -82,6 +100,8 @@ entry, and `previewQuotes`.
        "A second representative quote."
      ],
      "colorName": "<colorName>",
+     "colorLightHex": "<#RRGGBB>",
+     "colorDarkHex": "<#RRGGBB>",
      "iconName": "<iconName>",
      "category": "<category>",
      "addedAt": "<today>T12:00:00Z",
@@ -89,6 +109,7 @@ entry, and `previewQuotes`.
    }
    ```
    - `quoteCount` must equal the number of quotes in the collection file.
+   - `colorName`, `colorLightHex`, `colorDarkHex` must match the collection file exactly.
    - `addedAt` must match the collection file's `addedAt` exactly.
    - `previewQuotes` — pick 2 of the most recognizable/short **verified** lines.
    - Bump the index's top-level `lastUpdated` to `<today>T12:00:00Z`.
