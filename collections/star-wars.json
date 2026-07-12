@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "star.fill",
   "category": "Movies",
+  "addedAt": "2026-06-27T22:04:48Z",
   "lastUpdated": "2026-06-27T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "The franchise's signature blessing, recurring across every film; Han offers it to Luke before the Death Star trench run."
+      "notes": "The franchise's signature blessing, recurring across every film; Han offers it to Luke before the Death Star trench run.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-002",
@@ -28,7 +30,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's Jedi mind trick on a Mos Eisley stormtrooper checkpoint."
+      "notes": "Obi-Wan's Jedi mind trick on a Mos Eisley stormtrooper checkpoint.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-003",
@@ -38,7 +41,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's reassurance to Luke, echoed as a disembodied voice after his death."
+      "notes": "Obi-Wan's reassurance to Luke, echoed as a disembodied voice after his death.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-004",
@@ -48,7 +52,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Vader rebukes Admiral Motti aboard the Death Star, Force-choking him for doubting the Force."
+      "notes": "Vader rebukes Admiral Motti aboard the Death Star, Force-choking him for doubting the Force.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-005",
@@ -58,7 +63,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Leia's holographic plea hidden inside R2-D2 that sets the story in motion."
+      "notes": "Leia's holographic plea hidden inside R2-D2 that sets the story in motion.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-006",
@@ -68,7 +74,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's gentle correction of Han's skepticism about the Force aboard the Millennium Falcon."
+      "notes": "Obi-Wan's gentle correction of Han's skepticism about the Force aboard the Millennium Falcon.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-007",
@@ -78,7 +85,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan recognizes the Death Star as the Falcon is drawn toward it."
+      "notes": "Obi-Wan recognizes the Death Star as the Falcon is drawn toward it.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-008",
@@ -88,7 +96,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Han's warning to Luke after a TIE fighter kill during the escape from the Death Star."
+      "notes": "Han's warning to Luke after a TIE fighter kill during the escape from the Death Star.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-009",
@@ -98,7 +107,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Leia's deadpan greeting to a disguised Luke in her detention cell."
+      "notes": "Leia's deadpan greeting to a disguised Luke in her detention cell.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-010",
@@ -108,7 +118,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "A Rebel pilot's steady mantra during the Death Star trench run."
+      "notes": "A Rebel pilot's steady mantra during the Death Star trench run.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-011",
@@ -118,7 +129,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda's lesson to Luke about commitment while training on Dagobah."
+      "notes": "Yoda's lesson to Luke about commitment while training on Dagobah.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-012",
@@ -128,7 +140,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "The saga's great revelation on Cloud City; popularly misquoted as 'Luke, I am your father.'"
+      "notes": "The saga's great revelation on Cloud City; popularly misquoted as 'Luke, I am your father.'",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-013",
@@ -138,7 +151,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Han's improvised reply to Leia's 'I love you' as he is lowered into carbon freeze."
+      "notes": "Han's improvised reply to Leia's 'I love you' as he is lowered into carbon freeze.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-014",
@@ -148,7 +162,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Han's retort to C-3PO while piloting the Falcon into an asteroid field."
+      "notes": "Han's retort to C-3PO while piloting the Falcon into an asteroid field.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-015",
@@ -158,7 +173,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda chides Luke for judging the Force by physical scale before raising the X-wing."
+      "notes": "Yoda chides Luke for judging the Force by physical scale before raising the X-wing.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-016",
@@ -168,7 +184,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda describes the nature of the Force to Luke on Dagobah."
+      "notes": "Yoda describes the nature of the Force to Luke on Dagobah.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-017",
@@ -178,7 +195,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda's rebuke to Luke when first sizing him up as a potential Jedi."
+      "notes": "Yoda's rebuke to Luke when first sizing him up as a potential Jedi.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-018",
@@ -188,7 +206,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Leia's insult to Han aboard the Falcon, prompting his 'Who's scruffy-looking?'"
+      "notes": "Leia's insult to Han aboard the Falcon, prompting his 'Who's scruffy-looking?'",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-019",
@@ -198,7 +217,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Han's jab at a chuckling Chewbacca aboard the Millennium Falcon."
+      "notes": "Han's jab at a chuckling Chewbacca aboard the Millennium Falcon.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-020",
@@ -208,7 +228,8 @@
       "sourceType": "movie",
       "quoteDate": "1983-05-25",
       "verificationStatus": "verified",
-      "notes": "Ackbar's realization as the Rebel fleet springs the Emperor's ambush at Endor."
+      "notes": "Ackbar's realization as the Rebel fleet springs the Emperor's ambush at Endor.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-021",
@@ -218,7 +239,8 @@
       "sourceType": "movie",
       "quoteDate": "1983-05-25",
       "verificationStatus": "verified",
-      "notes": "Luke's defiant declaration to the Emperor as he refuses the dark side."
+      "notes": "Luke's defiant declaration to the Emperor as he refuses the dark side.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-022",
@@ -228,7 +250,8 @@
       "sourceType": "movie",
       "quoteDate": "1983-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's spirit explains to Luke why he said Vader killed his father."
+      "notes": "Obi-Wan's spirit explains to Luke why he said Vader killed his father.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-023",
@@ -238,7 +261,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-05-19",
       "verificationStatus": "verified",
-      "notes": "Yoda warns the Jedi Council about the danger he senses in young Anakin."
+      "notes": "Yoda warns the Jedi Council about the danger he senses in young Anakin.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-024",
@@ -248,7 +272,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-05-19",
       "verificationStatus": "verified",
-      "notes": "Qui-Gon's calm observation after a sea creature devours their pursuer in Naboo's core."
+      "notes": "Qui-Gon's calm observation after a sea creature devours their pursuer in Naboo's core.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-025",
@@ -258,7 +283,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-05-19",
       "verificationStatus": "verified",
-      "notes": "Qui-Gon's advice to Anakin before the Boonta Eve podrace."
+      "notes": "Qui-Gon's advice to Anakin before the Boonta Eve podrace.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-026",
@@ -268,7 +294,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-05-19",
       "verificationStatus": "verified",
-      "notes": "Qui-Gon's dry put-down of Jar Jar Binks in the Naboo swamp."
+      "notes": "Qui-Gon's dry put-down of Jar Jar Binks in the Naboo swamp.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-027",
@@ -278,7 +305,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-05-19",
       "verificationStatus": "verified",
-      "notes": "Young Anakin's exhilaration piloting through the Boonta Eve Classic."
+      "notes": "Young Anakin's exhilaration piloting through the Boonta Eve Classic.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-028",
@@ -288,7 +316,8 @@
       "sourceType": "movie",
       "quoteDate": "2002-05-16",
       "verificationStatus": "verified",
-      "notes": "Anakin's much-memed attempt at romance with Padmé on Naboo."
+      "notes": "Anakin's much-memed attempt at romance with Padmé on Naboo.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-029",
@@ -298,7 +327,8 @@
       "sourceType": "movie",
       "quoteDate": "2002-05-16",
       "verificationStatus": "verified",
-      "notes": "Yoda's remark after younglings help solve the mystery of a hidden planet."
+      "notes": "Yoda's remark after younglings help solve the mystery of a hidden planet.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-030",
@@ -308,7 +338,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's reply to Anakin's ultimatum during their duel on Mustafar."
+      "notes": "Obi-Wan's reply to Anakin's ultimatum during their duel on Mustafar.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-031",
@@ -318,7 +349,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Padmé watches the Senate cheer as Palpatine declares the Galactic Empire."
+      "notes": "Padmé watches the Senate cheer as Palpatine declares the Galactic Empire.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-032",
@@ -328,7 +360,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's warning to Anakin atop the lava banks of Mustafar."
+      "notes": "Obi-Wan's warning to Anakin atop the lava banks of Mustafar.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-033",
@@ -338,7 +371,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Palpatine begins seducing Anakin to the dark side at the Galaxies Opera House."
+      "notes": "Palpatine begins seducing Anakin to the dark side at the Galaxies Opera House.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-034",
@@ -348,7 +382,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's greeting to General Grievous; he first uses the line to Luke's R2 in A New Hope."
+      "notes": "Obi-Wan's greeting to General Grievous; he first uses the line to Luke's R2 in A New Hope.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-035",
@@ -358,7 +393,8 @@
       "sourceType": "movie",
       "quoteDate": "2015-12-18",
       "verificationStatus": "verified",
-      "notes": "Han and Chewbacca step back aboard the recovered Millennium Falcon."
+      "notes": "Han and Chewbacca step back aboard the recovered Millennium Falcon.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-036",
@@ -368,7 +404,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan defines the Force for Luke during their first lightsaber lesson."
+      "notes": "Obi-Wan defines the Force for Luke during their first lightsaber lesson.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-037",
@@ -378,7 +415,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "The saga's running gag line, uttered by a different character in nearly every film."
+      "notes": "The saga's running gag line, uttered by a different character in nearly every film.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-038",
@@ -388,7 +426,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's disembodied guidance as Luke makes the trench run on the Death Star."
+      "notes": "Obi-Wan's disembodied guidance as Luke makes the trench run on the Death Star.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-039",
@@ -398,7 +437,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's warning to Vader moments before letting himself be struck down."
+      "notes": "Obi-Wan's warning to Vader moments before letting himself be struck down.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-040",
@@ -408,7 +448,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Vader senses Luke's potential while pursuing him in the Death Star trench."
+      "notes": "Vader senses Luke's potential while pursuing him in the Death Star trench.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-041",
@@ -418,7 +459,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Han's retort to Luke's impatience aboard the Millennium Falcon."
+      "notes": "Han's retort to Luke's impatience aboard the Millennium Falcon.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-042",
@@ -428,7 +470,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Han defends the Millennium Falcon against Luke's first unimpressed reaction."
+      "notes": "Han defends the Millennium Falcon against Luke's first unimpressed reaction.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-043",
@@ -438,7 +481,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Han dismisses the Force to Luke before he comes to believe in it."
+      "notes": "Han dismisses the Force to Luke before he comes to believe in it.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-044",
@@ -448,7 +492,8 @@
       "sourceType": "movie",
       "quoteDate": "1977-05-25",
       "verificationStatus": "verified",
-      "notes": "Leia takes charge of the escape during the Death Star rescue."
+      "notes": "Leia takes charge of the escape during the Death Star rescue.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-045",
@@ -458,7 +503,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda pushes Luke past his doubts during training on Dagobah."
+      "notes": "Yoda pushes Luke past his doubts during training on Dagobah.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-046",
@@ -468,7 +514,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda warns Luke that visions of what is to come are never fixed."
+      "notes": "Yoda warns Luke that visions of what is to come are never fixed.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-047",
@@ -478,7 +525,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda chides the restless Luke for the wrong reasons to seek Jedi training."
+      "notes": "Yoda chides the restless Luke for the wrong reasons to seek Jedi training.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-048",
@@ -488,7 +536,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda's challenge to Luke just before lifting the sunken X-wing from the swamp."
+      "notes": "Yoda's challenge to Luke just before lifting the sunken X-wing from the swamp.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-049",
@@ -498,7 +547,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Yoda warns Luke against giving in to fear and anger on Dagobah."
+      "notes": "Yoda warns Luke against giving in to fear and anger on Dagobah.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-050",
@@ -508,7 +558,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Vader tightens the screws on Lando's bargain at Cloud City."
+      "notes": "Vader tightens the screws on Lando's bargain at Cloud City.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-051",
@@ -518,7 +569,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Lando's resigned reaction as Vader keeps changing the terms on Cloud City."
+      "notes": "Lando's resigned reaction as Vader keeps changing the terms on Cloud City.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-052",
@@ -528,7 +580,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-05-21",
       "verificationStatus": "verified",
-      "notes": "Han's indignant comeback to Leia's 'scruffy-looking nerf herder' jab."
+      "notes": "Han's indignant comeback to Leia's 'scruffy-looking nerf herder' jab.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-053",
@@ -538,7 +591,8 @@
       "sourceType": "movie",
       "quoteDate": "1983-05-25",
       "verificationStatus": "verified",
-      "notes": "Luke's defiance of the Emperor, who replies that faith in friends is Luke's."
+      "notes": "Luke's defiance of the Emperor, who replies that faith in friends is Luke's.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-054",
@@ -548,7 +602,8 @@
       "sourceType": "movie",
       "quoteDate": "1983-05-25",
       "verificationStatus": "verified",
-      "notes": "The redeemed Anakin's dying words to Luke after turning on the Emperor."
+      "notes": "The redeemed Anakin's dying words to Luke after turning on the Emperor.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-055",
@@ -558,7 +613,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-05-19",
       "verificationStatus": "verified",
-      "notes": "Yoda explains the Rule of Two governing the Sith to the Jedi Council."
+      "notes": "Yoda explains the Rule of Two governing the Sith to the Jedi Council.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-056",
@@ -568,7 +624,8 @@
       "sourceType": "movie",
       "quoteDate": "2002-05-16",
       "verificationStatus": "verified",
-      "notes": "Yoda's grim closing pronouncement as clone troopers march to war."
+      "notes": "Yoda's grim closing pronouncement as clone troopers march to war.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-057",
@@ -578,7 +635,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Anakin's relish as he and Obi-Wan dive into the battle over Coruscant."
+      "notes": "Anakin's relish as he and Obi-Wan dive into the battle over Coruscant.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-058",
@@ -588,7 +646,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Obi-Wan's anguished cry at the wounded Anakin on the banks of Mustafar."
+      "notes": "Obi-Wan's anguished cry at the wounded Anakin on the banks of Mustafar.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-059",
@@ -598,7 +657,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Palpatine exults as he blasts Mace Windu with Force lightning."
+      "notes": "Palpatine exults as he blasts Mace Windu with Force lightning.",
+      "addedAt": "2026-06-27T22:04:48Z"
     },
     {
       "id": "starwars-060",
@@ -608,7 +668,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-05-19",
       "verificationStatus": "verified",
-      "notes": "Palpatine's quiet line as Mace Windu and three Jedi arrive to arrest him."
+      "notes": "Palpatine's quiet line as Mace Windu and three Jedi arrive to arrest him.",
+      "addedAt": "2026-06-27T22:04:48Z"
     }
   ]
 }

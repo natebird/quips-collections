@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD66A",
   "iconName": "mountain.2.fill",
   "category": "Nature",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1873",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "The genuine full line; the famous short form drops the second clause about ceaseless study and work."
+      "notes": "The genuine full line; the famous short form drops the second clause about ceaseless study and work.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1901",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The passage that gives the genuine 'going to the mountains is going home' line."
+      "notes": "The passage that gives the genuine 'going to the mountains is going home' line.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1901",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Often misquoted as 'glad tidings' and 'leaves of Autumn'; Sierra Club confirms 'good tidings' and 'drop off like autumn leaves.'"
+      "notes": "Often misquoted as 'glad tidings' and 'leaves of Autumn'; Sierra Club confirms 'good tidings' and 'drop off like autumn leaves.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1912",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's plea to preserve the Hetch Hetchy valley."
+      "notes": "From Muir's plea to preserve the Hetch Hetchy valley.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 1890",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From his journals as edited by Linnie Marsh Wolfe."
+      "notes": "From his journals as edited by Linnie Marsh Wolfe.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1918",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Published posthumously in a collection of Muir's travel essays."
+      "notes": "Published posthumously in a collection of Muir's travel essays.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 1890",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals."
+      "notes": "From Muir's journals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 1890",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals."
+      "notes": "From Muir's journals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 1913",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals."
+      "notes": "From Muir's journals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 1890",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals."
+      "notes": "From Muir's journals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 1872",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals, describing the Sierra spring thaw."
+      "notes": "From Muir's journals, describing the Sierra spring thaw.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1901",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "An invitation to visit the Sierra forest reservations."
+      "notes": "An invitation to visit the Sierra forest reservations.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1901",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Frequently confused with the misquote 'God never made an ugly landscape.'"
+      "notes": "Frequently confused with the misquote 'God never made an ugly landscape.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1911",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The correct wording; the widely circulated 'when one tugs at a single thing in nature' version is a misquote."
+      "notes": "The correct wording; the widely circulated 'when one tugs at a single thing in nature' version is a misquote.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1911",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From his 1869 journal of a summer herding sheep in the high Sierra."
+      "notes": "From his 1869 journal of a summer herding sheep in the high Sierra.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1911",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the 1869 Sierra journal."
+      "notes": "From the 1869 Sierra journal.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 1890",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals."
+      "notes": "From Muir's journals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1911",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the 1869 Sierra journal."
+      "notes": "From the 1869 Sierra journal.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 1871",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals."
+      "notes": "From Muir's journals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the wind-storms of the Sierra forests."
+      "notes": "From the chapter on the wind-storms of the Sierra forests.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the overlooked beauty of the everyday Sierra."
+      "notes": "On the overlooked beauty of the everyday Sierra.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1912",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The origin of Muir's celebrated name for the Sierra Nevada."
+      "notes": "The origin of Muir's celebrated name for the Sierra Nevada.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1875",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "An early published statement of Muir's biocentric view of nature."
+      "notes": "An early published statement of Muir's biocentric view of nature.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 1867",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the journal of his 1867 southern walk, published posthumously."
+      "notes": "From the journal of his 1867 southern walk, published posthumously.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 1890",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Muir's journals."
+      "notes": "From Muir's journals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1901",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the wild gardens of the Yosemite National Park."
+      "notes": "From the chapter on the wild gardens of the Yosemite National Park.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1888",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Written from Mount Rainier during his Pacific Northwest travels."
+      "notes": "Written from Mount Rainier during his Pacific Northwest travels.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1872",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "From a Yosemite-era letter on the unity of nature and spirit."
+      "notes": "From a Yosemite-era letter on the unity of nature and spirit.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 1872",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "A genuine Muir marginal note documented by the Sierra Club, not from a published work."
+      "notes": "A genuine Muir marginal note documented by the Sierra Club, not from a published work.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 1879",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Authorship/wording axis: recorded secondhand as Muir's parting words in a companion's memoir, not written by Muir himself, and popularly circulated with added ellipses."
+      "notes": "Authorship/wording axis: recorded secondhand as Muir's parting words in a companion's memoir, not written by Muir himself, and popularly circulated with added ellipses.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-031",
@@ -318,7 +349,8 @@
       "quoteDate": "c. 1873",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Wording axis: this is Wolfe's biographical paraphrase, not Muir's own verbatim text."
+      "notes": "Wording axis: this is Wolfe's biographical paraphrase, not Muir's own verbatim text.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "muir-032",
@@ -328,7 +360,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Source axis: attested only through a later anthology, without a pinned original journal date or page."
+      "notes": "Source axis: attested only through a later anthology, without a pinned original journal date or page.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

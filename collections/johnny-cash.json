@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "guitars",
   "category": "Music",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Cash reflecting on the enduring meaning of the Man in Black persona."
+      "notes": "Cash reflecting on the enduring meaning of the Man in Black persona.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1975",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From his first autobiography, written after his conversion and recovery."
+      "notes": "From his first autobiography, written after his conversion and recovery.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-003",
@@ -38,7 +41,8 @@
       "quoteDate": "2000",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Cash describing June Carter's unconditional love in a documented Rolling Stone interview."
+      "notes": "Cash describing June Carter's unconditional love in a documented Rolling Stone interview.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-004",
@@ -48,7 +52,8 @@
       "quoteDate": "2003-07-05",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "Spoken from the stage weeks after June's death, at one of his final public performances."
+      "notes": "Spoken from the stage weeks after June's death, at one of his final public performances.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-005",
@@ -58,7 +63,8 @@
       "quoteDate": "2000",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Cash reconciling his devout faith with his struggles in a documented interview."
+      "notes": "Cash reconciling his devout faith with his struggles in a documented interview.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "His signature distinction between his faith and his craft."
+      "notes": "His signature distinction between his faith and his craft.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On refusing to hide his faith when network executives pressed him about it."
+      "notes": "On refusing to hide his faith when network executives pressed him about it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On guarding his testimony while never denying it."
+      "notes": "On guarding his testimony while never denying it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1970",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "From Cash's own written account of surrendering his addiction to God."
+      "notes": "From Cash's own written account of surrendering his addiction to God.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1970",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Cash on the source of strength in his early recovery."
+      "notes": "Cash on the source of strength in his early recovery.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1970",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Closing his own testimony of overcoming pills."
+      "notes": "Closing his own testimony of overcoming pills.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "His often-repeated summary of how amphetamine addiction took hold."
+      "notes": "His often-repeated summary of how amphetamine addiction took hold.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1996",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "On the lifelong vigilance his recovery demanded, even amid chronic pain."
+      "notes": "On the lifelong vigilance his recovery demanded, even amid chronic pain.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1996",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Cash crediting his gift to God in a documented interview."
+      "notes": "Cash crediting his gift to God in a documented interview.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On refusing to let past mistakes define the future."
+      "notes": "On refusing to let past mistakes define the future.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "His credo on honesty in song and speech."
+      "notes": "His credo on honesty in song and speech.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On his brother Jack, whose death when Cash was twelve haunted him for life."
+      "notes": "On his brother Jack, whose death when Cash was twelve haunted him for life.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-018",
@@ -188,7 +206,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "On wrestling with the Book of Revelation while writing his late-career title track."
+      "notes": "On wrestling with the Book of Revelation while writing his late-career title track.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1975",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: wording is consistent across sources, but the original primary source (source axis) could not be confirmed."
+      "notes": "Unverified: wording is consistent across sources, but the original primary source (source axis) could not be confirmed.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-020",
@@ -208,7 +228,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: circulates widely without a documented primary source (source axis)."
+      "notes": "Unverified: circulates widely without a documented primary source (source axis).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-021",
@@ -218,7 +239,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified and likely apocryphal: no reliable primary source documents Cash saying it (source axis)."
+      "notes": "Unverified and likely apocryphal: no reliable primary source documents Cash saying it (source axis).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-022",
@@ -228,7 +250,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: no documented interview or writing located for this line (source axis)."
+      "notes": "Unverified: no documented interview or writing located for this line (source axis).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-023",
@@ -238,7 +261,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: attribution rests on aggregator sites with no primary citation (source axis)."
+      "notes": "Unverified: attribution rests on aggregator sites with no primary citation (source axis).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-024",
@@ -248,7 +272,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: paraphrased across sources with no fixed wording or documented origin (source axis)."
+      "notes": "Unverified: paraphrased across sources with no fixed wording or documented origin (source axis).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "cash-025",
@@ -258,7 +283,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: reflects his documented view of amphetamines but exact wording could not be confirmed (exact-wording axis)."
+      "notes": "Unverified: reflects his documented view of amphetamines but exact wording could not be confirmed (exact-wording axis).",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

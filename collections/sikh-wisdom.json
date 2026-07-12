@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "book.closed.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The Mool Mantar, the opening statement of Sikh belief that begins the Guru Granth Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "The Mool Mantar, the opening statement of Sikh belief that begins the Guru Granth Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening pauri of Japji Sahib affirming the eternal truth of God; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "The opening pauri of Japji Sahib affirming the eternal truth of God; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Japji Sahib, on the emptiness of accumulating material wealth; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "From Japji Sahib, on the emptiness of accumulating material wealth; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The question that opens Japji Sahib, answered by living in harmony with God's Will; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "The question that opens Japji Sahib, answered by living in harmony with God's Will; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Nanak's answer to how one becomes truthful: by accepting the Hukam (divine order); verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Nanak's answer to how one becomes truthful: by accepting the Hukam (divine order); verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the closing Salok of Japji Sahib, honoring the natural elements as our teachers and parents; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "From the closing Salok of Japji Sahib, honoring the natural elements as our teachers and parents; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the closing Salok of Japji Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "From the closing Salok of Japji Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 1500",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The final lines of Japji Sahib, praising those who earn honestly and remember God; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "The final lines of Japji Sahib, praising those who earn honestly and remember God; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 1520",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Nanak's defense of women in Asa Ki Var, challenging the prejudices of his era; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Nanak's defense of women in Asa Ki Var, challenging the prejudices of his era; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 1520",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Guru Nanak's verse on the dignity of women in Asa Ki Var; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "From Guru Nanak's verse on the dignity of women in Asa Ki Var; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 1520",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A foundational teaching on honest labor (kirat karni) and sharing (vand chakna); verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "A foundational teaching on honest labor (kirat karni) and sharing (vand chakna); verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 1520",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Nanak teaching that conduct matters more than knowledge of truth; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Nanak teaching that conduct matters more than knowledge of truth; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 1530",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Nanak on the total surrender that the path of divine love demands; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Nanak on the total surrender that the path of divine love demands; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 1575",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Ram Das (Fourth Mehl) describing the daily discipline of a Sikh; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Ram Das (Fourth Mehl) describing the daily discipline of a Sikh; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 1600",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Arjan (Fifth Mehl) in Sukhmani Sahib, on remembrance of God paired with pure living; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Arjan (Fifth Mehl) in Sukhmani Sahib, on remembrance of God paired with pure living; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 1670",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Tegh Bahadur (Ninth Mehl) on the fearless, harmless soul; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Tegh Bahadur (Ninth Mehl) on the fearless, harmless soul; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 1670",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Guru Tegh Bahadur (Ninth Mehl) on equanimity and detachment as the mark of the liberated; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "Guru Tegh Bahadur (Ninth Mehl) on equanimity and detachment as the mark of the liberated; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "sikh-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 1250",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A salok of the Sufi saint Sheikh Farid, whose verses are enshrined in the Guru Granth Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation."
+      "notes": "A salok of the Sufi saint Sheikh Farid, whose verses are enshrined in the Guru Granth Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

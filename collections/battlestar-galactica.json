@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "tv.fill",
   "category": "Television",
+  "addedAt": "2026-06-27T22:01:13Z",
   "lastUpdated": "2026-07-06T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "Colonial call-and-response affirmation of unity. Adama first rouses the crew with it at a memorial service, and it becomes the series' signature rallying cry."
+      "notes": "Colonial call-and-response affirmation of unity. Adama first rouses the crew with it at a memorial service, and it becomes the series' signature rallying cry.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-002",
@@ -28,7 +30,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "Six's first words to the human officer at the armistice station, opening the reimagined series."
+      "notes": "Six's first words to the human officer at the armistice station, opening the reimagined series.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-003",
@@ -38,7 +41,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "Six's chilling herald of the Cylon attack on the Twelve Colonies in the opening scene."
+      "notes": "Six's chilling herald of the Cylon attack on the Twelve Colonies in the opening scene.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-004",
@@ -48,7 +52,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2004",
       "verificationStatus": "verified",
-      "notes": "The Season 1 broadcast title card (Season 2+ used a rewritten narration, and the miniseries used a different one still)."
+      "notes": "The Season 1 broadcast title card (Season 2+ used a rewritten narration, and the miniseries used a different one still).",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-005",
@@ -58,7 +63,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "From Adama's decommissioning-ceremony speech, an unscripted reflection on humanity's responsibility for creating the Cylons."
+      "notes": "From Adama's decommissioning-ceremony speech, an unscripted reflection on humanity's responsibility for creating the Cylons.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-006",
@@ -68,7 +74,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "The question at the heart of Adama's decommissioning speech, framing the series' central theme."
+      "notes": "The question at the heart of Adama's decommissioning speech, framing the series' central theme.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-007",
@@ -78,7 +85,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "Adama on the toll of military service, from the Galactica's decommissioning ceremony."
+      "notes": "Adama on the toll of military service, from the Galactica's decommissioning ceremony.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-008",
@@ -88,7 +96,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "Roslin convincing Adama that flight and survival, not a hopeless fight, are humanity's only path forward."
+      "notes": "Roslin convincing Adama that flight and survival, not a hopeless fight, are humanity's only path forward.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-009",
@@ -98,7 +107,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2003",
       "verificationStatus": "verified",
-      "notes": "Starbuck's answer to Adama's recurring pre-launch ritual, 'What do you hear, Starbuck?'"
+      "notes": "Starbuck's answer to Adama's recurring pre-launch ritual, 'What do you hear, Starbuck?'",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-010",
@@ -108,7 +118,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2004",
       "verificationStatus": "verified",
-      "notes": "Adama warning against militarizing civilian life; the line is frequently shared online, often without crediting the show."
+      "notes": "Adama warning against militarizing civilian life; the line is frequently shared online, often without crediting the show.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-011",
@@ -118,7 +129,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2004",
       "verificationStatus": "verified",
-      "notes": "Starbuck's cocky introduction to a class of nugget trainees."
+      "notes": "Starbuck's cocky introduction to a class of nugget trainees.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-012",
@@ -128,7 +140,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2004",
       "verificationStatus": "verified",
-      "notes": "Baltar leans into the fleet's 'toaster' slur for Cylons, with characteristic self-serving bravado."
+      "notes": "Baltar leans into the fleet's 'toaster' slur for Cylons, with characteristic self-serving bravado.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-013",
@@ -138,7 +151,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2004",
       "verificationStatus": "verified",
-      "notes": "Leoben voicing the show's cyclical-time motif, drawn from the sacred scrolls; the line recurs throughout the series."
+      "notes": "Leoben voicing the show's cyclical-time motif, drawn from the sacred scrolls; the line recurs throughout the series.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-014",
@@ -148,7 +162,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Adama on taking the long-odds gamble; a dice-game metaphor that became one of his signature lines."
+      "notes": "Adama on taking the long-odds gamble; a dice-game metaphor that became one of his signature lines.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-015",
@@ -158,7 +173,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Adama's advice to a pilot about command and composure under pressure."
+      "notes": "Adama's advice to a pilot about command and composure under pressure.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-016",
@@ -168,7 +184,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Virtual Six pressing her monotheistic faith on Baltar."
+      "notes": "Virtual Six pressing her monotheistic faith on Baltar.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-017",
@@ -178,7 +195,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2004",
       "verificationStatus": "verified",
-      "notes": "Tigh rallying an exhausted crew during the relentless Cylon pursuit of the series premiere."
+      "notes": "Tigh rallying an exhausted crew during the relentless Cylon pursuit of the series premiere.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-018",
@@ -188,7 +206,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2006",
       "verificationStatus": "verified",
-      "notes": "Adama on the moral line he refuses to cross even against the Cylons. Some transcripts render it 'One must be worthy of survival.'"
+      "notes": "Adama on the moral line he refuses to cross even against the Cylons. Some transcripts render it 'One must be worthy of survival.'",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-019",
@@ -198,7 +217,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Virtual Six defining her role in Baltar's head as the series' religious arc deepens."
+      "notes": "Virtual Six defining her role in Baltar's head as the series' religious arc deepens.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-020",
@@ -208,7 +228,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Baltar despairing at the endless cycle of human-Cylon violence."
+      "notes": "Baltar despairing at the endless cycle of human-Cylon violence.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-021",
@@ -218,7 +239,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2006",
       "verificationStatus": "verified",
-      "notes": "Tigh justifying the insurgency's brutal tactics during the Cylon occupation of New Caprica."
+      "notes": "Tigh justifying the insurgency's brutal tactics during the Cylon occupation of New Caprica.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-022",
@@ -228,7 +250,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2006",
       "verificationStatus": "verified",
-      "notes": "Adama's gruff, emotional aside as the fleet pulls together for the rescue from New Caprica."
+      "notes": "Adama's gruff, emotional aside as the fleet pulls together for the rescue from New Caprica.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-023",
@@ -238,7 +261,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2006",
       "verificationStatus": "verified",
-      "notes": "Baltar on the cycle of reprisals during the occupation."
+      "notes": "Baltar on the cycle of reprisals during the occupation.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-024",
@@ -248,7 +272,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Apollo on the constitutional limits of military authority as Adama and Roslin clash over power."
+      "notes": "Apollo on the constitutional limits of military authority as Adama and Roslin clash over power.",
+      "addedAt": "2026-06-27T22:01:13Z"
     },
     {
       "id": "bsg-025",
@@ -258,7 +283,8 @@
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Starbuck to Lee, a rare unguarded moment in their long, fraught relationship."
+      "notes": "Starbuck to Lee, a rare unguarded moment in their long, fraught relationship.",
+      "addedAt": "2026-06-27T22:01:13Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "figure.walk.motion",
   "category": "History & Speeches",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1857-08-03",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From Douglass's speech marking the anniversary of British West Indian emancipation; text preserved in the Frederick Douglass Papers."
+      "notes": "From Douglass's speech marking the anniversary of British West Indian emancipation; text preserved in the Frederick Douglass Papers.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1857-08-03",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Same 1857 address; among the most-cited passages of Douglass's oratory."
+      "notes": "Same 1857 address; among the most-cited passages of Douglass's oratory.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1855",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Douglass's reply to the 'no union with slaveholders' abolitionist motto, arguing for pragmatic alliances."
+      "notes": "Douglass's reply to the 'no union with slaveholders' abolitionist motto, arguing for pragmatic alliances.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1869",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Tubman's words on her first escape as recorded in Bradford's biography, the earliest documented source for her recollections."
+      "notes": "Tubman's words on her first escape as recorded in Bradford's biography, the earliest documented source for her recollections.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 1990s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: fact-checkers (PolitiFact, Snopes, Africa Check) find no evidence Tubman said this; the line surfaced only in the 1990s-2000s and contradicts her own accounts of freeing about 70 people."
+      "notes": "Source axis fails: fact-checkers (PolitiFact, Snopes, Africa Check) find no evidence Tubman said this; the line surfaced only in the 1990s-2000s and contradicts her own accounts of freeing about 70 people.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1851",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From the contemporaneous 1851 transcription by Marius Robinson, whom Truth knew and who reviewed the text with her; considered the most reliable record of the speech."
+      "notes": "From the contemporaneous 1851 transcription by Marius Robinson, whom Truth knew and who reviewed the text with her; considered the most reliable record of the speech.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1863",
       "verificationStatus": "unverified",
       "sourceType": "speech",
-      "notes": "Wording axis fails: this famous 'Ain't I a woman?' version is Gage's 1863 reconstruction in a fabricated Southern dialect, published 12 years later and differing sharply from the 1851 Robinson transcript."
+      "notes": "Wording axis fails: this famous 'Ain't I a woman?' version is Gage's 1863 reconstruction in a fabricated Southern dialect, published 12 years later and differing sharply from the 1851 Robinson transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1970",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From her posthumously published autobiography, recounting her resolve after the 1892 Memphis lynching of her friend Thomas Moss."
+      "notes": "From her posthumously published autobiography, recounting her resolve after the 1892 Memphis lynching of her friend Thomas Moss.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 1892",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: universally attributed to Wells and reportedly used on her lecture advertising, but not located in a dated primary text such as Southern Horrors."
+      "notes": "Source axis fails: universally attributed to Wells and reportedly used on her lecture advertising, but not located in a dated primary text such as Southern Horrors.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1903",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The thesis Du Bois announces in the 'Forethought' of his landmark essay collection."
+      "notes": "The thesis Du Bois announces in the 'Forethought' of his landmark essay collection.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1909",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A recurring refrain in the closing chapter, 'The Legacy of John Brown,' of Du Bois's biography of the abolitionist."
+      "notes": "A recurring refrain in the closing chapter, 'The Legacy of John Brown,' of Du Bois's biography of the abolitionist.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1978-11-18",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered by the Supreme Court justice; collected in J. Clay Smith Jr., ed., Supreme Justice: Speeches and Writings (2003)."
+      "notes": "Delivered by the Supreme Court justice; collected in J. Clay Smith Jr., ed., Supreme Justice: Speeches and Writings (2003).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1964",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Spoken after the murders of James Chaney, Andrew Goodman, and Michael Schwerner; later adapted into 'Ella's Song' by Bernice Johnson Reagon."
+      "notes": "Spoken after the murders of James Chaney, Andrew Goodman, and Michael Schwerner; later adapted into 'Ella's Song' by Bernice Johnson Reagon.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 1960s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: widely cited as Baker's personal motto and used as the title of Barbara Ransby's biography, but not traced to a dated primary source."
+      "notes": "Source axis fails: widely cited as Baker's personal motto and used as the title of Barbara Ransby's biography, but not traced to a dated primary source.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 1948",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "Rustin's line, dated by biographers to his return from India around 1948 and echoed in later speeches; collected in his published writings."
+      "notes": "Rustin's line, dated by biographers to his return from India around 1948 and echoed in later speeches; collected in his published writings.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1992",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From her autobiography, correcting the myth that her refusal to give up her bus seat was merely physical exhaustion."
+      "notes": "From her autobiography, correcting the myth that her refusal to give up her bus seat was merely physical exhaustion.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1964-12-20",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered at a rally, shared with Malcolm X, supporting the Mississippi Freedom Democratic Party's congressional challenge."
+      "notes": "Delivered at a rally, shared with Malcolm X, supporting the Mississippi Freedom Democratic Party's congressional challenge.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1971-07-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The closing line and title of her address; collected in The Speeches of Fannie Lou Hamer: To Tell It Like It Is."
+      "notes": "The closing line and title of her address; collected in The Speeches of Fannie Lou Hamer: To Tell It Like It Is.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1963-04-16",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "King's reply to clergymen who called him an 'outsider,' written from jail during the Birmingham campaign."
+      "notes": "King's reply to clergymen who called him an 'outsider,' written from jail during the Birmingham campaign.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From King's published sermon collection; the chapter develops his case for nonviolent, redemptive love."
+      "notes": "From King's published sermon collection; the chapter develops his case for nonviolent, redemptive love.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Appears in Strength to Love; an earlier version was printed in King's The Measure of a Man (1959)."
+      "notes": "Appears in Strength to Love; an earlier version was printed in King's The Measure of a Man (1959).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1967-08-16",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "King's paraphrase of 19th-century abolitionist Theodore Parker, whose source he acknowledged when quoting the line."
+      "notes": "King's paraphrase of 19th-century abolitionist Theodore Parker, whose source he acknowledged when quoting the line.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1964-06-28",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Collected in By Any Means Necessary: Speeches, Interviews, and a Letter by Malcolm X (1970)."
+      "notes": "Collected in By Any Means Necessary: Speeches, Interviews, and a Letter by Malcolm X (1970).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1965",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From a letter written during his pilgrimage to Mecca, quoted in the autobiography's final chapter."
+      "notes": "From a letter written during his pilgrimage to Mecca, quoted in the autobiography's final chapter.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-025",
@@ -258,7 +283,8 @@
       "quoteDate": null,
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: ubiquitous on aggregator sites but not located in any documented Malcolm X speech, interview, or writing."
+      "notes": "Source axis fails: ubiquitous on aggregator sites but not located in any documented Malcolm X speech, interview, or writing.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-026",
@@ -268,7 +294,8 @@
       "quoteDate": "2018-06-27",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "From Lewis's own social-media account; his signature phrase 'good trouble' recurred throughout his speeches and interviews."
+      "notes": "From Lewis's own social-media account; his signature phrase 'good trouble' recurred throughout his speeches and interviews.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-027",
@@ -278,7 +305,8 @@
       "quoteDate": "2020-07-30",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Lewis asked that this essay be published on the day of his funeral, addressed to future generations."
+      "notes": "Lewis asked that this essay be published on the day of his funeral, addressed to future generations.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rights-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 2000s",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "The guiding slogan of Bridges's own foundation, stated by her in public remarks and on its official site; minor wording variants exist."
+      "notes": "The guiding slogan of Bridges's own foundation, stated by her in public remarks and on its official site; minor wording variants exist.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#F762B7",
   "iconName": "heart.text.square.fill",
   "category": "Love & Relationships",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1859",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the 'Marriage Bells' chapter, on the union of Adam and Dinah; one of the most-read wedding passages."
+      "notes": "From the 'Marriage Bells' chapter, on the union of Adam and Dinah; one of the most-read wedding passages.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 700 BCE",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Odysseus's blessing to Nausicaa, the 'homophrosyne' (like-mindedness) ideal of marriage; Rieu's 1946 translation."
+      "notes": "Odysseus's blessing to Nausicaa, the 'homophrosyne' (like-mindedness) ideal of marriage; Rieu's 1946 translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1678",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Published posthumously; a Puritan poet's plain-spoken vow, spelling modernized for reading."
+      "notes": "Published posthumously; a Puritan poet's plain-spoken vow, spelling modernized for reading.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1609",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The 'marriage of true minds' sonnet, a fixture of wedding ceremonies."
+      "notes": "The 'marriage of true minds' sonnet, a fixture of wedding ceremonies.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1850",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Written in secret during her courtship with Robert Browning."
+      "notes": "Written in secret during her courtship with Robert Browning.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1864",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The poem's opening lines, long borrowed as a toast to lifelong companionship."
+      "notes": "The poem's opening lines, long borrowed as a toast to lifelong companionship.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Catherine Earnshaw on her bond with Heathcliff, spoken to Nelly Dean."
+      "notes": "Catherine Earnshaw on her bond with Heathcliff, spoken to Nelly Dean.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1847",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Rochester to Jane during his proposal."
+      "notes": "Rochester to Jane during his proposal.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1872",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Spoken by Dorothea; often loosely misquoted as 'the world less difficult'—this is the original wording."
+      "notes": "Spoken by Dorothea; often loosely misquoted as 'the world less difficult'—this is the original wording.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1904",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Letter of May 14, 1904, M. D. Herter Norton translation; Rilke's idea of marriage as guarded solitude."
+      "notes": "Letter of May 14, 1904, M. D. Herter Norton translation; Rilke's idea of marriage as guarded solitude.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1904",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Stephen Mitchell translation of the same letter's most-quoted line."
+      "notes": "Stephen Mitchell translation of the same letter's most-quoted line.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1923",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The closing of Gibran's marriage passage, a staple of contemporary ceremonies."
+      "notes": "The closing of Gibran's marriage passage, a staple of contemporary ceremonies.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1923",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the same section of The Prophet."
+      "notes": "From the same section of The Prophet.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1939",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Lewis Galantière translation of Terre des Hommes, Ch. 8; often paraphrased loosely, this is the published wording."
+      "notes": "Lewis Galantière translation of Terre des Hommes, Ch. 8; often paraphrased loosely, this is the published wording.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1963",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Aphorism from her published notebook; some sources date the collection to 1960."
+      "notes": "Aphorism from her published notebook; some sources date the collection to 1960.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1994",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Dr. Iannis's counsel to his daughter Pelagia; one of the most requested modern wedding readings."
+      "notes": "Dr. Iannis's counsel to his daughter Pelagia; one of the most requested modern wedding readings.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1937",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Janie's closing reflection on love; dialect preserved as written."
+      "notes": "Janie's closing reflection on love; dialect preserved as written.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1964",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Collected in Marriage Lines: Notes of a Student Husband; the lighthearted toast standby."
+      "notes": "Collected in Marriage Lines: Notes of a Student Husband; the lighthearted toast standby.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1611",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "KJV wording; the 'threefold cord' verse is a common wedding reading. Date given is the KJV publication year."
+      "notes": "KJV wording; the 'threefold cord' verse is a common wedding reading. Date given is the KJV publication year.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1611",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "KJV wording. Date given is the KJV publication year."
+      "notes": "KJV wording. Date given is the KJV publication year.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1946",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "RSV wording (KJV renders 'love' as 'charity'); the most requested wedding scripture. Date given is the RSV New Testament publication year."
+      "notes": "RSV wording (KJV renders 'love' as 'charity'); the most requested wedding scripture. Date given is the RSV New Testament publication year.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1611",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "KJV wording; Ruth's pledge to Naomi, widely adapted as a marriage vow. Date given is the KJV publication year."
+      "notes": "KJV wording; Ruth's pledge to Naomi, widely adapted as a marriage vow. Date given is the KJV publication year.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1862",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Charles Wilbour's 1862 translation of the French original."
+      "notes": "Charles Wilbour's 1862 translation of the French original.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "wed-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1813",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Darcy's first proposal to Elizabeth Bennet."
+      "notes": "Darcy's first proposal to Elizabeth Bennet.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

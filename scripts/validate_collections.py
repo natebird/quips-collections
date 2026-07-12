@@ -25,6 +25,9 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
   WARN
     - description differs between index entry and file
     - lastUpdated is not YYYY-MM-DDTHH:MM:SSZ
+    - addedAt (collection index, collection file, or any quote) is missing or
+      not YYYY-MM-DDTHH:MM:SSZ, or the index and file addedAt disagree
+      (under --strict, i.e. in CI, these become errors — addedAt is required)
     - previewQuotes is not a list of 2 non-empty strings
     - quoteDate, when present, is not one of the accepted shapes
       (YYYY[-MM[-DD]], "c. YYYY", decade/year ranges, "c. N BCE/CE",
@@ -135,12 +138,18 @@ def validate_collection(cid, data, entry, rep):
             rep.warn(f"{cid}: description differs between index and file")
         if not TS_RE.match(str(entry.get("lastUpdated", ""))):
             rep.warn(f"{cid}: index lastUpdated not YYYY-MM-DDTHH:MM:SSZ")
+        if not TS_RE.match(str(entry.get("addedAt", ""))):
+            rep.warn(f"{cid}: index addedAt missing or not YYYY-MM-DDTHH:MM:SSZ")
+        elif entry.get("addedAt") != data.get("addedAt"):
+            rep.warn(f"{cid}: index addedAt {entry.get('addedAt')!r} != file {data.get('addedAt')!r}")
         pq = entry.get("previewQuotes")
         if not (isinstance(pq, list) and len(pq) == 2 and all(isinstance(p, str) and p.strip() for p in pq)):
             rep.warn(f"{cid}: previewQuotes should be 2 non-empty strings")
 
     if not TS_RE.match(str(data.get("lastUpdated", ""))):
         rep.warn(f"{cid}: file lastUpdated not YYYY-MM-DDTHH:MM:SSZ")
+    if not TS_RE.match(str(data.get("addedAt", ""))):
+        rep.warn(f"{cid}: file addedAt missing or not YYYY-MM-DDTHH:MM:SSZ")
 
     dup_ids = sorted(i for i, n in Counter(ids).items() if n > 1)
     if dup_ids:
@@ -168,6 +177,8 @@ def validate_collection(cid, data, entry, rep):
         qd = q.get("quoteDate")
         if qd is not None and not QUOTE_DATE_RE.match(str(qd)):
             rep.warn(f"{cid}/{qid}: unrecognized quoteDate {qd!r}")
+        if not TS_RE.match(str(q.get("addedAt", ""))):
+            rep.warn(f"{cid}/{qid}: addedAt missing or not YYYY-MM-DDTHH:MM:SSZ")
 
     texts = [str(q.get("content", "")).strip().lower() for q in quotes]
     dup_text = sorted(t for t, n in Counter(t for t in texts if t).items() if n > 1)

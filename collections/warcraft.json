@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD66A",
   "iconName": "flame.fill",
   "category": "Video Games",
+  "addedAt": "2026-07-01T14:52:27Z",
   "lastUpdated": "2026-07-01T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Orc Peon's weary reply when ordered to gather resources."
+      "notes": "The Orc Peon's weary reply when ordered to gather resources.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1995",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Orcish for rough agreement — the Peon's acknowledgment, a series-long catchphrase."
+      "notes": "Orcish for rough agreement — the Peon's acknowledgment, a series-long catchphrase.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-003",
@@ -38,7 +41,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Human Peasant's line on finishing a task."
+      "notes": "The Human Peasant's line on finishing a task.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-004",
@@ -48,7 +52,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Human Peasant's selection response."
+      "notes": "The Human Peasant's selection response.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-005",
@@ -58,7 +63,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Orc Peon's selection line."
+      "notes": "The Orc Peon's selection line.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-006",
@@ -68,7 +74,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "One of the Peon's joking repeated-click lines."
+      "notes": "One of the Peon's joking repeated-click lines.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-007",
@@ -78,7 +85,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Orcish for 'I obey' — the Grunt's order acknowledgment."
+      "notes": "Orcish for 'I obey' — the Grunt's order acknowledgment.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-008",
@@ -88,7 +96,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Human Peasant's exasperated reply after too many clicks."
+      "notes": "The Human Peasant's exasperated reply after too many clicks.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Orcish war cry meaning 'Victory or death,' the rallying motto of the Horde."
+      "notes": "Orcish war cry meaning 'Victory or death,' the rallying motto of the Horde.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-010",
@@ -108,7 +118,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Horde's defining battle cry across the Warcraft series."
+      "notes": "The Horde's defining battle cry across the Warcraft series.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-011",
@@ -118,7 +129,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Human Footman's charge, naming the kingdom of Lordaeron."
+      "notes": "The Human Footman's charge, naming the kingdom of Lordaeron.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-012",
@@ -128,7 +140,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Human Footman's selection response."
+      "notes": "The Human Footman's selection response.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-013",
@@ -138,7 +151,8 @@
       "quoteDate": "2003",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Illidan's warning, later immortalized in the World of Warcraft: The Burning Crusade trailer."
+      "notes": "Illidan's warning, later immortalized in the World of Warcraft: The Burning Crusade trailer.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-014",
@@ -148,7 +162,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Death Knight Arthas speaking of the cursed runeblade Frostmourne."
+      "notes": "The Death Knight Arthas speaking of the cursed runeblade Frostmourne.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-015",
@@ -158,7 +173,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Goblin greeting that sums up their profit-driven outlook."
+      "notes": "The Goblin greeting that sums up their profit-driven outlook.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-016",
@@ -168,7 +184,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The candle-headed Kobold's frantic protest, a beloved early-game meme."
+      "notes": "The candle-headed Kobold's frantic protest, a beloved early-game meme.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-017",
@@ -178,7 +195,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The gurgling battle cry of the Murlocs, an instantly recognizable Warcraft sound."
+      "notes": "The gurgling battle cry of the Murlocs, an instantly recognizable Warcraft sound.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-018",
@@ -188,7 +206,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Uther refusing Prince Arthas's order to purge Stratholme."
+      "notes": "Uther refusing Prince Arthas's order to purge Stratholme.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-019",
@@ -198,7 +217,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Arthas, corrupted by Frostmourne, returning to Lordaeron to kill his father."
+      "notes": "Arthas, corrupted by Frostmourne, returning to Lordaeron to kill his father.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "wcraft-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2002",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The dreadlord Mal'Ganis luring Arthas toward his doom in the frozen north."
+      "notes": "The dreadlord Mal'Ganis luring Arthas toward his doom in the frozen north.",
+      "addedAt": "2026-07-01T14:52:27Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "person.3.fill",
   "category": "Business & Leadership",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1974",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Drucker's own published wording; the popular 'management vs. leadership' rephrasing is a later paraphrase."
+      "notes": "Drucker's own published wording; the popular 'management vs. leadership' rephrasing is a later paraphrase.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1996",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Opens Drucker's list of things all effective leaders he had observed understood."
+      "notes": "Opens Drucker's list of things all effective leaders he had observed understood.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The much-quoted manager/leader distinction, from the book Bennis co-authored with Burt Nanus."
+      "notes": "The much-quoted manager/leader distinction, from the book Bennis co-authored with Burt Nanus.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A central thesis of Bennis's classic that leadership is a matter of authentic self-development."
+      "notes": "A central thesis of Bennis's classic that leadership is a matter of authentic self-development.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Bennis's rebuttal to the 'born leader' idea, arguing leadership is learned."
+      "notes": "Bennis's rebuttal to the 'born leader' idea, arguing leadership is learned.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Maxwell's summation of his 'Law of Influence,' the second of the twenty-one laws."
+      "notes": "Maxwell's summation of his 'Law of Influence,' the second of the twenty-one laws.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The book's opening law: leadership ability is the 'lid' that caps a person's potential."
+      "notes": "The book's opening law: leadership ability is the 'lid' that caps a person's potential.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1995",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "One of the leadership principles Powell recounts in his autobiography."
+      "notes": "One of the leadership principles Powell recounts in his autobiography.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2012",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Powell's chapter on beginning with trust when assuming command."
+      "notes": "From Powell's chapter on beginning with trust when assuming command.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1995",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The last of Powell's '13 Rules,' reproduced in his autobiography."
+      "notes": "The last of Powell's '13 Rules,' reproduced in his autobiography.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1954-05-12",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Exact wording and citation confirmed via the Eisenhower Presidential Library."
+      "notes": "Exact wording and citation confirmed via the Eisenhower Presidential Library.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1956-09-12",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered during a 1956 campaign address at his Gettysburg farm."
+      "notes": "Delivered during a 1956 campaign address at his Gettysburg farm.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-013",
@@ -138,7 +151,8 @@
       "quoteDate": "2014",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Sinek's argument that leaders must protect their people before serving customers."
+      "notes": "From Sinek's argument that leaders must protect their people before serving customers.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-014",
@@ -148,7 +162,8 @@
       "quoteDate": "2015-01-28",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "Posted from Sinek's own verified account; a recurring theme in his talks and books."
+      "notes": "Posted from Sinek's own verified account; a recurring theme in his talks and books.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-015",
@@ -158,7 +173,8 @@
       "quoteDate": "2009",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Opens Sinek's contrast between manipulation and inspiration as leadership tools."
+      "notes": "Opens Sinek's contrast between manipulation and inspiration as leadership tools.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-016",
@@ -168,7 +184,8 @@
       "quoteDate": "2016",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sinek's distinction between mere collaboration and trust-based teams."
+      "notes": "Sinek's distinction between mere collaboration and trust-based teams.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening lines of the former Herman Miller CEO's book on servant leadership."
+      "notes": "The opening lines of the former Herman Miller CEO's book on servant leadership.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "De Pree measures leaders by whether their people are reaching their potential."
+      "notes": "De Pree measures leaders by whether their people are reaching their potential.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1944",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The original Chinese text dates to roughly the 4th century BCE; this exact English wording is Bynner's 1944 translation."
+      "notes": "The original Chinese text dates to roughly the 4th century BCE; this exact English wording is Bynner's 1944 translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2011-05-17",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From Sandberg's Barnard commencement, urging graduates to claim leadership rather than wait for it."
+      "notes": "From Sandberg's Barnard commencement, urging graduates to claim leadership rather than wait for it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-021",
@@ -218,7 +239,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sandberg on how awareness of bias is the first step toward changing it."
+      "notes": "Sandberg on how awareness of bias is the first step toward changing it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2013-12-05",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "The PepsiCo CEO on balancing high standards with genuine care for her people."
+      "notes": "The PepsiCo CEO on balancing high standards with genuine care for her people.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-023",
@@ -238,7 +261,8 @@
       "quoteDate": "2011",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Nooyi on continuous learning, quoted in Burnison's interview-based book on leadership."
+      "notes": "Nooyi on continuous learning, quoted in Burnison's interview-based book on leadership.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 1989",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified — wording/attribution axis: this exact antithesis is not found verbatim in Drucker's writings, which instead contrast efficiency and effectiveness (see lead-001); Covey credited both Drucker and Bennis."
+      "notes": "Unverified — wording/attribution axis: this exact antithesis is not found verbatim in Drucker's writings, which instead contrast efficiency and effectiveness (see lead-001); Covey credited both Drucker and Bennis.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 2005",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified — source axis: universally credited to Welch and often to Winning, but the line could not be confirmed in the book's text or another primary Welch source."
+      "notes": "Unverified — source axis: universally credited to Welch and often to Winning, but the line could not be confirmed in the book's text or another primary Welch source.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 1994",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified — source axis: widely circulated but not located verbatim in the autobiography, whose confirmed 'lead from behind' passage uses a shepherd metaphor instead."
+      "notes": "Unverified — source axis: widely circulated but not located verbatim in the autobiography, whose confirmed 'lead from behind' passage uses a shepherd metaphor instead.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 1999",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified — source axis: no primary Maxwell text located; the aphorism echoes older sayings and surfaces mainly on quote sites and gift compilations."
+      "notes": "Unverified — source axis: no primary Maxwell text located; the aphorism echoes older sayings and surfaces mainly on quote sites and gift compilations.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ldr-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 1987",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified — source axis: appears only on aggregator sites with no documented speech, book, or interview behind it."
+      "notes": "Unverified — source axis: appears only on aggregator sites with no documented speech, book, or interview behind it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

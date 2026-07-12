@@ -8,6 +8,7 @@
   "colorDarkHex": "#F762B7",
   "iconName": "graduationcap.fill",
   "category": "Movies",
+  "addedAt": "2026-07-05T03:48:30Z",
   "lastUpdated": "2026-07-04T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Kat's poem, read aloud in class near the film's climax."
+      "notes": "Kat's poem, read aloud in class near the film's climax.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-002",
@@ -28,7 +30,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Often misattributed to Kat Stratford, but it's Chastity's line."
+      "notes": "Often misattributed to Kat Stratford, but it's Chastity's line.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-003",
@@ -38,7 +41,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Bianca's deadpan reply to Chastity's 'whelmed' line."
+      "notes": "Bianca's deadpan reply to Chastity's 'whelmed' line.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-004",
@@ -48,7 +52,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Patrick confessing his real feelings to Cameron."
+      "notes": "Patrick confessing his real feelings to Cameron.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-005",
@@ -58,7 +63,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Establishes Kat's core defiance."
+      "notes": "Establishes Kat's core defiance.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-006",
@@ -68,7 +74,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Michael sizing up Cameron's crush on Bianca."
+      "notes": "Michael sizing up Cameron's crush on Bianca.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-007",
@@ -78,7 +85,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Yelled at a moped rider who cuts off Kat's car."
+      "notes": "Yelled at a moped rider who cuts off Kat's car.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-008",
@@ -88,7 +96,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "The gynecologist dad's running joke about teen pregnancy scare tactics."
+      "notes": "The gynecologist dad's running joke about teen pregnancy scare tactics.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-009",
@@ -98,7 +107,8 @@
       "sourceType": "movie",
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
-      "notes": "Kat mocking Bianca's crush."
+      "notes": "Kat mocking Bianca's crush.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-010",
@@ -108,7 +118,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Regina recruiting Cady into the Plastics."
+      "notes": "Regina recruiting Cady into the Plastics.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-011",
@@ -118,7 +129,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "The Plastics' rigid dress code, one of the film's most-quoted lines."
+      "notes": "The Plastics' rigid dress code, one of the film's most-quoted lines.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-012",
@@ -128,7 +140,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Regina shutting down Gretchen's slang."
+      "notes": "Regina shutting down Gretchen's slang.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-013",
@@ -138,7 +151,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "The slang Regina refuses to let catch on."
+      "notes": "The slang Regina refuses to let catch on.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-014",
@@ -148,7 +162,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Damian handing out candy canes at the Christmas pageant; the character's name is often misspelled 'Glenn Coco.'"
+      "notes": "Damian handing out candy canes at the Christmas pageant; the character's name is often misspelled 'Glenn Coco.'",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-015",
@@ -158,7 +173,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Damian's outburst during the cafeteria brawl."
+      "notes": "Damian's outburst during the cafeteria brawl.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-016",
@@ -168,7 +184,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Regina's mom trying to bond with the girls."
+      "notes": "Regina's mom trying to bond with the girls.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-017",
@@ -178,7 +195,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Cady's accidental word-blend in front of Aaron Samuels."
+      "notes": "Cady's accidental word-blend in front of Aaron Samuels.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-018",
@@ -188,7 +206,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Gretchen's non-apology during the gym-class apology scene, often misattributed to Regina."
+      "notes": "Gretchen's non-apology during the gym-class apology scene, often misattributed to Regina.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-019",
@@ -198,7 +217,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-04-30",
       "verificationStatus": "verified",
-      "notes": "Regina's diet-obsessed non-sequitur."
+      "notes": "Regina's diet-obsessed non-sequitur.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-020",
@@ -208,7 +228,8 @@
       "sourceType": "movie",
       "quoteDate": "1995-07-19",
       "verificationStatus": "verified",
-      "notes": "Cher scolding Tai after a cutting remark."
+      "notes": "Cher scolding Tai after a cutting remark.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-021",
@@ -218,7 +239,8 @@
       "sourceType": "movie",
       "quoteDate": "1995-07-19",
       "verificationStatus": "verified",
-      "notes": "Cher's catchphrase dismissal."
+      "notes": "Cher's catchphrase dismissal.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-022",
@@ -228,7 +250,8 @@
       "sourceType": "movie",
       "quoteDate": "2001-07-13",
       "verificationStatus": "verified",
-      "notes": "Elle's retort to Warner in the Harvard hallway."
+      "notes": "Elle's retort to Warner in the Harvard hallway.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-023",
@@ -238,7 +261,8 @@
       "sourceType": "movie",
       "quoteDate": "2001-07-13",
       "verificationStatus": "verified",
-      "notes": "Paulette's excitement after trying Elle's flirting technique."
+      "notes": "Paulette's excitement after trying Elle's flirting technique.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-024",
@@ -248,7 +272,8 @@
       "sourceType": "movie",
       "quoteDate": "1985-02-15",
       "verificationStatus": "verified",
-      "notes": "Bender's dry philosophy during detention."
+      "notes": "Bender's dry philosophy during detention.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-025",
@@ -258,7 +283,8 @@
       "sourceType": "movie",
       "quoteDate": "1985-02-15",
       "verificationStatus": "verified",
-      "notes": "From Brian's closing essay to Mr. Vernon."
+      "notes": "From Brian's closing essay to Mr. Vernon.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-026",
@@ -268,7 +294,8 @@
       "sourceType": "movie",
       "quoteDate": "1986-06-11",
       "verificationStatus": "verified",
-      "notes": "Ferris's direct-to-camera thesis statement."
+      "notes": "Ferris's direct-to-camera thesis statement.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-027",
@@ -278,7 +305,8 @@
       "sourceType": "movie",
       "quoteDate": "1986-06-11",
       "verificationStatus": "verified",
-      "notes": "The deadpan roll-call gag that became the film's signature bit."
+      "notes": "The deadpan roll-call gag that became the film's signature bit.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-028",
@@ -288,7 +316,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-06-11",
       "verificationStatus": "verified",
-      "notes": "Napoleon's list of qualifications for dating."
+      "notes": "Napoleon's list of qualifications for dating.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-029",
@@ -298,7 +327,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-06-11",
       "verificationStatus": "verified",
-      "notes": "Napoleon presenting a fish to Deb as a gift."
+      "notes": "Napoleon presenting a fish to Deb as a gift.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-030",
@@ -308,7 +338,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-08-25",
       "verificationStatus": "verified",
-      "notes": "Torrance asserting captain authority over the squad."
+      "notes": "Torrance asserting captain authority over the squad.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "teen-031",
@@ -318,7 +349,8 @@
       "sourceType": "movie",
       "quoteDate": "2010-09-17",
       "verificationStatus": "verified",
-      "notes": "Olive addressing her school-wide reputation."
+      "notes": "Olive addressing her school-wide reputation.",
+      "addedAt": "2026-07-05T03:48:30Z"
     }
   ]
 }

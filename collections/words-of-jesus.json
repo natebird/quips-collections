@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "cross.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The first of the Beatitudes, opening the Sermon on the Mount."
+      "notes": "The first of the Beatitudes, opening the Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Second Beatitude from the Sermon on the Mount."
+      "notes": "Second Beatitude from the Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Third Beatitude, echoing Psalm 37:11."
+      "notes": "Third Beatitude, echoing Psalm 37:11.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Fourth Beatitude from the Sermon on the Mount."
+      "notes": "Fourth Beatitude from the Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Fifth Beatitude from the Sermon on the Mount."
+      "notes": "Fifth Beatitude from the Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sixth Beatitude from the Sermon on the Mount."
+      "notes": "Sixth Beatitude from the Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Seventh Beatitude from the Sermon on the Mount."
+      "notes": "Seventh Beatitude from the Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the Sermon on the Mount, addressed to Jesus's followers."
+      "notes": "From the Sermon on the Mount, addressed to Jesus's followers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sermon on the Mount, continuing the metaphor of light."
+      "notes": "Sermon on the Mount, continuing the metaphor of light.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sermon on the Mount teaching on nonretaliation; final semicolon rendered as a period."
+      "notes": "Sermon on the Mount teaching on nonretaliation; final semicolon rendered as a period.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sermon on the Mount, on laying up treasures in heaven."
+      "notes": "Sermon on the Mount, on laying up treasures in heaven.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sermon on the Mount; the concluding clause of the saying that no man can serve two masters."
+      "notes": "Sermon on the Mount; the concluding clause of the saying that no man can serve two masters.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sermon on the Mount, opening the teaching on judging others."
+      "notes": "Sermon on the Mount, opening the teaching on judging others.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Sermon on the Mount, on persistent prayer; final colon rendered as a period."
+      "notes": "Sermon on the Mount, on persistent prayer; final colon rendered as a period.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The Golden Rule, from the Sermon on the Mount."
+      "notes": "The Golden Rule, from the Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus's invitation to the weary."
+      "notes": "Jesus's invitation to the weary.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Spoken to the disciples on the cost of discipleship."
+      "notes": "Spoken to the disciples on the cost of discipleship.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus welcoming children brought to him despite the disciples' objections."
+      "notes": "Jesus welcoming children brought to him despite the disciples' objections.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus's reply to the Pharisees' question about paying tribute."
+      "notes": "Jesus's reply to the Pharisees' question about paying tribute.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The second great commandment, named by Jesus when asked which is greatest."
+      "notes": "The second great commandment, named by Jesus when asked which is greatest.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus's reply to the tempter in the wilderness, quoting Deuteronomy 8:3."
+      "notes": "Jesus's reply to the tempter in the wilderness, quoting Deuteronomy 8:3.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Said to the disciple who drew a sword at Jesus's arrest in Gethsemane."
+      "notes": "Said to the disciple who drew a sword at Jesus's arrest in Gethsemane.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Jesus's teaching to the disciples on gathering and forgiveness."
+      "notes": "From Jesus's teaching to the disciples on gathering and forgiveness.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus's teaching on marriage in response to the Pharisees."
+      "notes": "Jesus's teaching on marriage in response to the Pharisees.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus's reply to the Pharisees on when the kingdom of God should come."
+      "notes": "Jesus's reply to the Pharisees on when the kingdom of God should come.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Spoken from the cross at the crucifixion."
+      "notes": "Spoken from the cross at the crucifixion.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Said to the accusers of the woman taken in adultery."
+      "notes": "Said to the accusers of the woman taken in adultery.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "One of the 'I am' declarations in John's Gospel."
+      "notes": "One of the 'I am' declarations in John's Gospel.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Spoken to the Jews who believed on him, on abiding in his word."
+      "notes": "Spoken to the Jews who believed on him, on abiding in his word.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Said to Martha before the raising of Lazarus; closing colon rendered as a period."
+      "notes": "Said to Martha before the raising of Lazarus; closing colon rendered as a period.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-031",
@@ -318,7 +349,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Given to the disciples at the Last Supper."
+      "notes": "Given to the disciples at the Last Supper.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-032",
@@ -328,7 +360,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus's answer to Thomas in the upper room discourse."
+      "notes": "Jesus's answer to Thomas in the upper room discourse.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-033",
@@ -338,7 +371,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Jesus's farewell discourse on the vine and the branches."
+      "notes": "From Jesus's farewell discourse on the vine and the branches.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jesus-034",
@@ -348,7 +382,8 @@
       "quoteDate": "c. 30 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Closing words of Jesus's farewell discourse to the disciples."
+      "notes": "Closing words of Jesus's farewell discourse to the disciples.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

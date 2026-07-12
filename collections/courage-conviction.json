@@ -8,6 +8,7 @@
   "colorDarkHex": "#FA7064",
   "iconName": "shield.fill",
   "category": "Inspiration",
+  "addedAt": "2026-07-01T01:53:56Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1994",
       "verificationStatus": "verified",
-      "notes": "From Mandela's autobiography, reflecting on his years of resistance and imprisonment."
+      "notes": "From Mandela's autobiography, reflecting on his years of resistance and imprisonment.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-002",
@@ -28,7 +30,8 @@
       "sourceType": "poem",
       "quoteDate": "c. 1927",
       "verificationStatus": "verified",
-      "notes": "The opening line of Earhart's own poem \"Courage,\" written around the time of her first Atlantic crossing."
+      "notes": "The opening line of Earhart's own poem \"Courage,\" written around the time of her first Atlantic crossing.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1960",
       "verificationStatus": "verified",
-      "notes": "From the chapter \"Fear — the Great Enemy\" in Roosevelt's book of collected life lessons."
+      "notes": "From the chapter \"Fear — the Great Enemy\" in Roosevelt's book of collected life lessons.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1897",
       "verificationStatus": "verified",
-      "notes": "One of the aphorisms Twain used as a chapter epigraph in his travel book."
+      "notes": "One of the aphorisms Twain used as a chapter epigraph in his travel book.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-005",
@@ -58,7 +63,8 @@
       "sourceType": "speech",
       "quoteDate": "1933-03-04",
       "verificationStatus": "verified",
-      "notes": "Delivered at the depth of the Great Depression; the full clause is usually shortened to its first six words."
+      "notes": "Delivered at the depth of the Great Depression; the full clause is usually shortened to its first six words.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1960",
       "verificationStatus": "verified",
-      "notes": "Atticus explains courage to his children after the death of Mrs. Dubose."
+      "notes": "Atticus explains courage to his children after the death of Mrs. Dubose.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-007",
@@ -78,7 +85,8 @@
       "sourceType": "speech",
       "quoteDate": "1910-04-23",
       "verificationStatus": "verified",
-      "notes": "The \"Man in the Arena\" passage, excerpted here from a much longer paragraph."
+      "notes": "The \"Man in the Arena\" passage, excerpted here from a much longer paragraph.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-008",
@@ -88,7 +96,8 @@
       "sourceType": "socialMedia",
       "quoteDate": "2018-06-27",
       "verificationStatus": "verified",
-      "notes": "Lewis returned to the phrase \"good trouble\" throughout his life; this exact wording is from his own posted message."
+      "notes": "Lewis returned to the phrase \"good trouble\" throughout his life; this exact wording is from his own posted message.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-009",
@@ -98,7 +107,8 @@
       "sourceType": "speech",
       "quoteDate": "1986-12-10",
       "verificationStatus": "verified",
-      "notes": "From the address Wiesel gave on accepting the Nobel Peace Prize."
+      "notes": "From the address Wiesel gave on accepting the Nobel Peace Prize.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1980",
       "verificationStatus": "verified",
-      "notes": "Lorde wrote this while confronting her own mortality after a breast cancer diagnosis."
+      "notes": "Lorde wrote this while confronting her own mortality after a breast cancer diagnosis.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1992",
       "verificationStatus": "verified",
-      "notes": "From Parks's autobiography, reflecting on the resolve behind her refusal to give up her bus seat."
+      "notes": "From Parks's autobiography, reflecting on the resolve behind her refusal to give up her bus seat.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1939",
       "verificationStatus": "verified",
-      "notes": "From Nin's published diaries; the surrounding passage repeats the phrase for emphasis."
+      "notes": "From Nin's published diaries; the surrounding passage repeats the phrase for emphasis.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-013",
@@ -138,7 +151,8 @@
       "sourceType": "speech",
       "quoteDate": "1857-08-03",
       "verificationStatus": "verified",
-      "notes": "Douglass argued that freedom is won only by those willing to struggle for it."
+      "notes": "Douglass argued that freedom is won only by those willing to struggle for it.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "quoteDate": "c. 1906",
       "verificationStatus": "verified",
-      "notes": "Hall coined this as a summary of Voltaire's attitude to free speech; it is very commonly misattributed to Voltaire himself."
+      "notes": "Hall coined this as a summary of Voltaire's attitude to free speech; it is very commonly misattributed to Voltaire himself.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-015",
@@ -158,7 +173,8 @@
       "sourceType": "interview",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Angelou said versions of this many times, but the wording varies across appearances and no single primary source is definitive."
+      "notes": "Angelou said versions of this many times, but the wording varies across appearances and no single primary source is definitive.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-016",
@@ -168,7 +184,8 @@
       "sourceType": "speech",
       "quoteDate": "2015-05-29",
       "verificationStatus": "attributed",
-      "notes": "Widely and reliably credited to Ginsburg at this event, though transcribed wording varies slightly between reports."
+      "notes": "Widely and reliably credited to Ginsburg at this event, though transcribed wording varies slightly between reports.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Genuinely and consistently credited to Tutu, but a specific primary source and exact wording are hard to pin down; attribution axis is the uncertain one."
+      "notes": "Genuinely and consistently credited to Tutu, but a specific primary source and exact wording are hard to pin down; attribution axis is the uncertain one.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "The sentiment is from the Analects, but English wording depends entirely on the translator; the wording axis is uncertain."
+      "notes": "The sentiment is from the Analects, but English wording depends entirely on the translator; the wording axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-019",
@@ -198,7 +217,8 @@
       "sourceType": "book",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "As rendered from Thucydides' account of Pericles; the phrasing varies substantially by translation, so the wording axis is uncertain."
+      "notes": "As rendered from Thucydides' account of Pericles; the phrasing varies substantially by translation, so the wording axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-020",
@@ -208,7 +228,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Long associated with O'Keeffe, but a firm primary source has not been located; attribution axis is uncertain."
+      "notes": "Long associated with O'Keeffe, but a firm primary source has not been located; attribution axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-021",
@@ -218,7 +239,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Credited to Redmoon, reportedly from a 1991 magazine essay, but the original publication is difficult to confirm; wording axis is uncertain."
+      "notes": "Credited to Redmoon, reportedly from a 1991 magazine essay, but the original publication is difficult to confirm; wording axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Reliably credited to Lewis, but the exact source passage is disputed, so the attribution/source axis is uncertain."
+      "notes": "Reliably credited to Lewis, but the exact source passage is disputed, so the attribution/source axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-023",
@@ -238,7 +261,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Consistent with Malala's advocacy and widely credited to her, but a single primary source is hard to fix; attribution axis is uncertain."
+      "notes": "Consistent with Malala's advocacy and widely credited to her, but a single primary source is hard to fix; attribution axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-024",
@@ -248,7 +272,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Long credited to Anthony, but the exact original occasion is not firmly documented; attribution axis is uncertain."
+      "notes": "Long credited to Anthony, but the exact original occasion is not firmly documented; attribution axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-025",
@@ -258,7 +283,8 @@
       "sourceType": "inPerson",
       "quoteDate": "1776-09-22",
       "verificationStatus": "attributed",
-      "notes": "Handed down through witnesses rather than a document, and it echoes a line from Addison's play Cato; wording axis is uncertain."
+      "notes": "Handed down through witnesses rather than a document, and it echoes a line from Addison's play Cato; wording axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-026",
@@ -268,7 +294,8 @@
       "sourceType": "speech",
       "quoteDate": "1521-04-18",
       "verificationStatus": "attributed",
-      "notes": "The defiant \"Here I stand\" sentence may have been added by early printers and is not in the earliest transcripts; wording axis is uncertain."
+      "notes": "The defiant \"Here I stand\" sentence may have been added by early printers and is not in the earliest transcripts; wording axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-027",
@@ -278,7 +305,8 @@
       "sourceType": "speech",
       "quoteDate": "c. 1851",
       "verificationStatus": "attributed",
-      "notes": "Surviving transcripts of this speech differ greatly from one another, so the exact wording axis is uncertain."
+      "notes": "Surviving transcripts of this speech differ greatly from one another, so the exact wording axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "A paraphrase in the spirit of Aristotle's ethics rather than a literal line from any text; wording axis is uncertain."
+      "notes": "A paraphrase in the spirit of Aristotle's ethics rather than a literal line from any text; wording axis is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-029",
@@ -298,7 +327,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "No primary source has ever been found in Churchill's speeches or writings; the attribution axis fails."
+      "notes": "No primary source has ever been found in Churchill's speeches or writings; the attribution axis fails.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-030",
@@ -308,7 +338,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Widely circulated online but absent from Cummings's published work; the attribution axis fails."
+      "notes": "Widely circulated online but absent from Cummings's published work; the attribution axis fails.",
+      "addedAt": "2026-07-01T01:53:56Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "building.columns.fill",
   "category": "Philosophy",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-06-20T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from 'Meditations' (Ta eis heauton). This is a modern translation; the original Greek expresses the Stoic concept of the dichotomy of control."
+      "notes": "Verified from 'Meditations' (Ta eis heauton). This is a modern translation; the original Greek expresses the Stoic concept of the dichotomy of control.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-002",
@@ -28,7 +30,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "From Seneca's epistolary work 'Epistulae Morales ad Lucilium.' The Latin reads 'plura sunt quae nos terrent quam quae premunt.'"
+      "notes": "From Seneca's epistolary work 'Epistulae Morales ad Lucilium.' The Latin reads 'plura sunt quae nos terrent quam quae premunt.'",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "c. 125 CE",
       "verificationStatus": "verified",
-      "notes": "Paraphrased from the Enchiridion (Handbook). The original discusses how we are disturbed not by things but by our judgments about things."
+      "notes": "Paraphrased from the Enchiridion (Handbook). The original discusses how we are disturbed not by things but by our judgments about things.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Modern translation from Meditations. Various translations exist; some render 'thoughts' as 'soul' or 'mind.'"
+      "notes": "Modern translation from Meditations. Various translations exist; some render 'thoughts' as 'soul' or 'mind.'",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "c. 64 CE",
       "verificationStatus": "verified",
-      "notes": "From 'De Providentia' where Seneca discusses why misfortunes befall good people and how adversity builds character."
+      "notes": "From 'De Providentia' where Seneca discusses why misfortunes befall good people and how adversity builds character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from Meditations. This passage reflects Marcus' practical approach to virtue over philosophical debate."
+      "notes": "Verified from Meditations. This passage reflects Marcus' practical approach to virtue over philosophical debate.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-007",
@@ -78,7 +85,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "From Seneca's letters discussing the Stoic approach to mortality and living fully without fear of death."
+      "notes": "From Seneca's letters discussing the Stoic approach to mortality and living fully without fear of death.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "quoteDate": "c. 108 CE",
       "verificationStatus": "verified",
-      "notes": "From Epictetus' teachings recorded by his student Arrian. Emphasizes the Stoic practice of setting intentions and acting accordingly."
+      "notes": "From Epictetus' teachings recorded by his student Arrian. Emphasizes the Stoic practice of setting intentions and acting accordingly.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from Meditations. One of Marcus' most poetic expressions of how habitual thinking shapes character."
+      "notes": "Verified from Meditations. One of Marcus' most poetic expressions of how habitual thinking shapes character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "c. 108 CE",
       "verificationStatus": "verified",
-      "notes": "Core Stoic teaching on inner freedom. Epictetus, himself a former slave, emphasized that true freedom comes from self-mastery."
+      "notes": "Core Stoic teaching on inner freedom. Epictetus, himself a former slave, emphasized that true freedom comes from self-mastery.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-011",
@@ -118,7 +129,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "From Seneca's letters on the urgency of living well. Reflects the Stoic practice of treating each day as complete in itself."
+      "notes": "From Seneca's letters on the urgency of living well. Reflects the Stoic practice of treating each day as complete in itself.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from Meditations. Expresses the Stoic view that contentment depends on internal attitude rather than external circumstances."
+      "notes": "Verified from Meditations. Expresses the Stoic view that contentment depends on internal attitude rather than external circumstances.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": "c. 108 CE",
       "verificationStatus": "verified",
-      "notes": "Reflects Epictetus' teaching on the simplicity of needs. Consistent with Stoic minimalism and focus on inner wealth."
+      "notes": "Reflects Epictetus' teaching on the simplicity of needs. Consistent with Stoic minimalism and focus on inner wealth.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "quoteDate": "c. 49 CE",
       "verificationStatus": "verified",
-      "notes": "Opening argument of 'De Brevitate Vitae.' Seneca's famous essay on time management and living purposefully."
+      "notes": "Opening argument of 'De Brevitate Vitae.' Seneca's famous essay on time management and living purposefully.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "From Meditations. Expresses the Stoic concept of amor fati (love of fate) and acceptance of one's circumstances."
+      "notes": "From Meditations. Expresses the Stoic concept of amor fati (love of fate) and acceptance of one's circumstances.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "quoteDate": "c. 125 CE",
       "verificationStatus": "verified",
-      "notes": "Paraphrased from the Enchiridion. Central to Stoic cognitive therapy - distinguishing between events and our judgments about them."
+      "notes": "Paraphrased from the Enchiridion. Central to Stoic cognitive therapy - distinguishing between events and our judgments about them.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Often attributed to Seneca but the exact source is uncertain. The sentiment aligns with Stoic views on preparation and seizing moments."
+      "notes": "Often attributed to Seneca but the exact source is uncertain. The sentiment aligns with Stoic views on preparation and seizing moments.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from Meditations. Addresses anxiety about the future with the Stoic confidence in rational thinking."
+      "notes": "Verified from Meditations. Addresses anxiety about the future with the Stoic confidence in rational thinking.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-019",
@@ -198,7 +217,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "From Seneca's correspondence with Lucilius. Illustrates the Stoic practice of finding perspective in adversity."
+      "notes": "From Seneca's correspondence with Lucilius. Illustrates the Stoic practice of finding perspective in adversity.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "quoteDate": "c. 108 CE",
       "verificationStatus": "verified",
-      "notes": "Core teaching of the dichotomy of control - focus on what you can control and accept what you cannot."
+      "notes": "Core teaching of the dichotomy of control - focus on what you can control and accept what you cannot.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from Meditations. Reflects the Stoic emphasis on independent thinking over popular opinion."
+      "notes": "Verified from Meditations. Reflects the Stoic emphasis on independent thinking over popular opinion.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-022",
@@ -228,7 +250,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "From early letters to Lucilius on achieving tranquility through present-moment focus."
+      "notes": "From early letters to Lucilius on achieving tranquility through present-moment focus.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Central Stoic principle verified from Meditations. The basis of ancient cognitive behavioral approaches."
+      "notes": "Central Stoic principle verified from Meditations. The basis of ancient cognitive behavioral approaches.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-024",
@@ -248,7 +272,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "From Seneca's letters on anticipatory anxiety. The Stoic cure for worry about future events."
+      "notes": "From Seneca's letters on anticipatory anxiety. The Stoic cure for worry about future events.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "c. 125 CE",
       "verificationStatus": "verified",
-      "notes": "Paraphrased from the Enchiridion. Illustrates how emotional reactions give others power over us."
+      "notes": "Paraphrased from the Enchiridion. Illustrates how emotional reactions give others power over us.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from Meditations. Part of Marcus' morning contemplation practice to cultivate gratitude."
+      "notes": "Verified from Meditations. Part of Marcus' morning contemplation practice to cultivate gratitude.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-027",
@@ -278,7 +305,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "From Seneca's advice on choosing companions wisely. The Stoic view that character is influenced by those around us."
+      "notes": "From Seneca's advice on choosing companions wisely. The Stoic view that character is influenced by those around us.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-028",
@@ -288,7 +316,8 @@
       "sourceType": "book",
       "quoteDate": "c. 108 CE",
       "verificationStatus": "verified",
-      "notes": "Paraphrased from Discourses. Epictetus emphasized that philosophy is a way of life, not just theoretical discussion."
+      "notes": "Paraphrased from Discourses. Epictetus emphasized that philosophy is a way of life, not just theoretical discussion.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "quoteDate": "c. 170-180 CE",
       "verificationStatus": "verified",
-      "notes": "Verified from Meditations. On focusing on one's own conduct rather than judging others."
+      "notes": "Verified from Meditations. On focusing on one's own conduct rather than judging others.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-030",
@@ -308,7 +338,8 @@
       "sourceType": "book",
       "quoteDate": "c. 49 CE",
       "verificationStatus": "verified",
-      "notes": "Core thesis of 'De Brevitate Vitae.' Seneca argues that life is ample for those who spend it wisely."
+      "notes": "Core thesis of 'De Brevitate Vitae.' Seneca argues that life is ample for those who spend it wisely.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "sw-031",
@@ -318,7 +349,8 @@
       "sourceType": "letter",
       "quoteDate": "c. 65 CE",
       "verificationStatus": "verified",
-      "notes": "Translation of Latin 'Ignoranti quem portum petat nullus suus ventus est'; Seneca's navigation metaphor arguing that without a clear purpose, no circumstance can help you."
+      "notes": "Translation of Latin 'Ignoranti quem portum petat nullus suus ventus est'; Seneca's navigation metaphor arguing that without a clear purpose, no circumstance can help you.",
+      "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
 }

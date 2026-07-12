@@ -8,6 +8,7 @@
   "colorDarkHex": "#DAC720",
   "iconName": "heart.fill",
   "category": "Literature",
+  "addedAt": "2026-06-28T02:20:43Z",
   "lastUpdated": "2026-06-27T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "The novel's celebrated opening line, the narrator setting an ironic tone."
+      "notes": "The novel's celebrated opening line, the narrator setting an ironic tone.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Mr. Darcy's slighting remark about Elizabeth Bennet at the Meryton assembly."
+      "notes": "Mr. Darcy's slighting remark about Elizabeth Bennet at the Meryton assembly.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Elizabeth Bennet, on her first impression of Mr. Darcy."
+      "notes": "Elizabeth Bennet, on her first impression of Mr. Darcy.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Mary Bennet, moralizing on the difference between the two faults."
+      "notes": "Mary Bennet, moralizing on the difference between the two faults.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Caroline Bingley, affecting a love of books to impress Mr. Darcy."
+      "notes": "Caroline Bingley, affecting a love of books to impress Mr. Darcy.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Mr. Darcy, reflecting on his character to Elizabeth near the novel's end."
+      "notes": "Mr. Darcy, reflecting on his character to Elizabeth near the novel's end.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Elizabeth Bennet, delighting in the prospect of a tour to the Lakes."
+      "notes": "Elizabeth Bennet, delighting in the prospect of a tour to the Lakes.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Mr. Darcy, teasing about how quickly affection is supposed."
+      "notes": "Mr. Darcy, teasing about how quickly affection is supposed.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Elizabeth Bennet, after reading Darcy's letter and confronting her own prejudice."
+      "notes": "Elizabeth Bennet, after reading Darcy's letter and confronting her own prejudice.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Mr. Bennet, in his characteristically dry humour."
+      "notes": "Mr. Bennet, in his characteristically dry humour.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Mr. Darcy's first, ill-fated proposal to Elizabeth at Hunsford."
+      "notes": "Mr. Darcy's first, ill-fated proposal to Elizabeth at Hunsford.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "quoteDate": "1813",
       "verificationStatus": "verified",
-      "notes": "Mr. Darcy, describing his unyielding temper to Elizabeth."
+      "notes": "Mr. Darcy, describing his unyielding temper to Elizabeth.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": "1811",
       "verificationStatus": "verified",
-      "notes": "Mrs. Dashwood, offering encouragement to Edward Ferrars."
+      "notes": "Mrs. Dashwood, offering encouragement to Edward Ferrars.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "quoteDate": "1811",
       "verificationStatus": "verified",
-      "notes": "Marianne Dashwood, declaring her romantic ideals to her mother."
+      "notes": "Marianne Dashwood, declaring her romantic ideals to her mother.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "quoteDate": "1811",
       "verificationStatus": "verified",
-      "notes": "Marianne Dashwood, steeling herself on seeing Willoughby in London."
+      "notes": "Marianne Dashwood, steeling herself on seeing Willoughby in London.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "quoteDate": "1811",
       "verificationStatus": "verified",
-      "notes": "Marianne Dashwood, on the swift growth of true affinity."
+      "notes": "Marianne Dashwood, on the swift growth of true affinity.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "quoteDate": "1811",
       "verificationStatus": "verified",
-      "notes": "Elinor Dashwood, in a rare moment of betraying her feelings for Edward."
+      "notes": "Elinor Dashwood, in a rare moment of betraying her feelings for Edward.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": "1815",
       "verificationStatus": "verified",
-      "notes": "Mr. Knightley, declaring his love to Emma Woodhouse."
+      "notes": "Mr. Knightley, declaring his love to Emma Woodhouse.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-019",
@@ -198,7 +217,8 @@
       "sourceType": "book",
       "quoteDate": "1815",
       "verificationStatus": "verified",
-      "notes": "Emma Woodhouse, to her father, Mr. Woodhouse."
+      "notes": "Emma Woodhouse, to her father, Mr. Woodhouse.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "quoteDate": "1815",
       "verificationStatus": "verified",
-      "notes": "Emma Woodhouse, to herself, in praise of her friend Harriet."
+      "notes": "Emma Woodhouse, to herself, in praise of her friend Harriet.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "1815",
       "verificationStatus": "verified",
-      "notes": "Mr. Knightley, chiding Emma for her matchmaking."
+      "notes": "Mr. Knightley, chiding Emma for her matchmaking.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": "1815",
       "verificationStatus": "verified",
-      "notes": "Emma Woodhouse, moralizing to herself."
+      "notes": "Emma Woodhouse, moralizing to herself.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "quoteDate": "1814",
       "verificationStatus": "verified",
-      "notes": "Fanny Price, to Edmund Bertram, on the conscience."
+      "notes": "Fanny Price, to Edmund Bertram, on the conscience.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "quoteDate": "1814",
       "verificationStatus": "verified",
-      "notes": "The narrator, opening the novel's final chapter."
+      "notes": "The narrator, opening the novel's final chapter.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "1814",
       "verificationStatus": "verified",
-      "notes": "Mary Crawford, on the comforts of wealth."
+      "notes": "Mary Crawford, on the comforts of wealth.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "1814",
       "verificationStatus": "verified",
-      "notes": "Mary Crawford, half-joking about her own faults."
+      "notes": "Mary Crawford, half-joking about her own faults.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-027",
@@ -278,7 +305,8 @@
       "sourceType": "book",
       "quoteDate": "1814",
       "verificationStatus": "verified",
-      "notes": "Fanny Price, to Mary Crawford, on what she had observed."
+      "notes": "Fanny Price, to Mary Crawford, on what she had observed.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-028",
@@ -288,7 +316,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "The narrator, in a spirited defence of novel-reading."
+      "notes": "The narrator, in a spirited defence of novel-reading.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "Isabella Thorpe, whose conduct soon belies her words."
+      "notes": "Isabella Thorpe, whose conduct soon belies her words.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-030",
@@ -308,7 +338,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "Catherine Morland, on her dislike of history books."
+      "notes": "Catherine Morland, on her dislike of history books.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-031",
@@ -318,7 +349,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "The narrator, with characteristic irony."
+      "notes": "The narrator, with characteristic irony.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-032",
@@ -328,7 +360,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "Captain Wentworth, in the letter he writes to Anne Elliot."
+      "notes": "Captain Wentworth, in the letter he writes to Anne Elliot.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-033",
@@ -338,7 +371,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "Captain Wentworth, in his letter to Anne Elliot."
+      "notes": "Captain Wentworth, in his letter to Anne Elliot.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-034",
@@ -348,7 +382,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "The opening of Captain Wentworth's letter to Anne Elliot."
+      "notes": "The opening of Captain Wentworth's letter to Anne Elliot.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-035",
@@ -358,7 +393,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "Anne Elliot, in her debate with Captain Harville about constancy."
+      "notes": "Anne Elliot, in her debate with Captain Harville about constancy.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-036",
@@ -368,7 +404,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "Anne Elliot, on why books slight women's constancy."
+      "notes": "Anne Elliot, on why books slight women's constancy.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "austen-037",
@@ -378,7 +415,8 @@
       "sourceType": "book",
       "quoteDate": "1817",
       "verificationStatus": "verified",
-      "notes": "The narrator, on Anne Elliot's changed view of love."
+      "notes": "The narrator, on Anne Elliot's changed view of love.",
+      "addedAt": "2026-06-28T02:20:43Z"
     }
   ]
 }

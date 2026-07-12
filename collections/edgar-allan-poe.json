@@ -8,6 +8,7 @@
   "colorDarkHex": "#DE56F3",
   "iconName": "bird.fill",
   "category": "Literature",
+  "addedAt": "2026-06-28T02:20:43Z",
   "lastUpdated": "2026-06-27T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "poem",
       "quoteDate": "1845",
       "verificationStatus": "verified",
-      "notes": "The famous opening line of Poe's best-known poem, setting its sleepless, sorrowful mood."
+      "notes": "The famous opening line of Poe's best-known poem, setting its sleepless, sorrowful mood.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-002",
@@ -28,7 +30,8 @@
       "sourceType": "poem",
       "quoteDate": "1845",
       "verificationStatus": "verified",
-      "notes": "The poem's haunting refrain, spoken by the ominous bird perched above the chamber door."
+      "notes": "The poem's haunting refrain, spoken by the ominous bird perched above the chamber door.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-003",
@@ -38,7 +41,8 @@
       "sourceType": "poem",
       "quoteDate": "1845",
       "verificationStatus": "verified",
-      "notes": "The narrator peers into the darkness beyond his door, lost in dread and longing."
+      "notes": "The narrator peers into the darkness beyond his door, lost in dread and longing.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-004",
@@ -48,7 +52,8 @@
       "sourceType": "poem",
       "quoteDate": "1845",
       "verificationStatus": "verified",
-      "notes": "The poem's despairing final lines, sealing the narrator's eternal grief."
+      "notes": "The poem's despairing final lines, sealing the narrator's eternal grief.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-005",
@@ -58,7 +63,8 @@
       "sourceType": "poem",
       "quoteDate": "1845",
       "verificationStatus": "verified",
-      "notes": "What the narrator finds upon opening the door into the night."
+      "notes": "What the narrator finds upon opening the door into the night.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-006",
@@ -68,7 +74,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "Poe's meditation on the elusive boundary between reality and illusion."
+      "notes": "Poe's meditation on the elusive boundary between reality and illusion.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-007",
@@ -78,7 +85,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The poem's second stanza, where the speaker confronts time slipping away like sand."
+      "notes": "The poem's second stanza, where the speaker confronts time slipping away like sand.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-008",
@@ -88,7 +96,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "An image of life's moments running irretrievably through the fingers."
+      "notes": "An image of life's moments running irretrievably through the fingers.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-009",
@@ -98,7 +107,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The fairy-tale opening of Poe's final complete poem, a lament for a lost love."
+      "notes": "The fairy-tale opening of Poe's final complete poem, a lament for a lost love.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-010",
@@ -108,7 +118,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The poem's most quoted profession of a devotion beyond ordinary affection."
+      "notes": "The poem's most quoted profession of a devotion beyond ordinary affection.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-011",
@@ -118,7 +129,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "Recalling the youthful innocence of the speaker and his beloved."
+      "notes": "Recalling the youthful innocence of the speaker and his beloved.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-012",
@@ -128,7 +140,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The grieving speaker is haunted nightly by visions of his lost love."
+      "notes": "The grieving speaker is haunted nightly by visions of his lost love.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-013",
@@ -138,7 +151,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The poem's eerie close, the speaker keeping vigil by his beloved's tomb."
+      "notes": "The poem's eerie close, the speaker keeping vigil by his beloved's tomb.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-014",
@@ -148,7 +162,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The bright opening of Poe's onomatopoeic study of bells and the moods they evoke."
+      "notes": "The bright opening of Poe's onomatopoeic study of bells and the moods they evoke.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-015",
@@ -158,7 +173,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "A recurring refrain echoing the insistent rhythm of the ringing bells."
+      "notes": "A recurring refrain echoing the insistent rhythm of the ringing bells.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-016",
@@ -168,7 +184,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The opening stanza of Poe's ballad about a lifelong, unattainable quest."
+      "notes": "The opening stanza of Poe's ballad about a lifelong, unattainable quest.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-017",
@@ -178,7 +195,8 @@
       "sourceType": "poem",
       "quoteDate": "1849",
       "verificationStatus": "verified",
-      "notes": "The pilgrim shade's answer, sending the aged knight ever onward toward his dream."
+      "notes": "The pilgrim shade's answer, sending the aged knight ever onward toward his dream.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-018",
@@ -188,7 +206,8 @@
       "sourceType": "poem",
       "quoteDate": "1831",
       "verificationStatus": "verified",
-      "notes": "The opening of Poe's classical tribute, likening a woman's beauty to a homeward voyage."
+      "notes": "The opening of Poe's classical tribute, likening a woman's beauty to a homeward voyage.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-019",
@@ -198,7 +217,8 @@
       "sourceType": "poem",
       "quoteDate": "1831",
       "verificationStatus": "verified",
-      "notes": "The poem's celebrated closing image of classical antiquity's splendor."
+      "notes": "The poem's celebrated closing image of classical antiquity's splendor.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "quoteDate": "1843",
       "verificationStatus": "verified",
-      "notes": "The unsettling opening line of the murderer-narrator protesting his sanity."
+      "notes": "The unsettling opening line of the murderer-narrator protesting his sanity.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "1843",
       "verificationStatus": "verified",
-      "notes": "The narrator's final confession, undone by the phantom heartbeat of his victim."
+      "notes": "The narrator's final confession, undone by the phantom heartbeat of his victim.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": "1843",
       "verificationStatus": "verified",
-      "notes": "The narrator's claim of preternaturally sharpened senses as proof of his soundness."
+      "notes": "The narrator's claim of preternaturally sharpened senses as proof of his soundness.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "quoteDate": "1842",
       "verificationStatus": "verified",
-      "notes": "The tale's chilling final sentence, as the plague claims even Prince Prospero's revelers."
+      "notes": "The tale's chilling final sentence, as the plague claims even Prince Prospero's revelers.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "quoteDate": "1842",
       "verificationStatus": "verified",
-      "notes": "The opening sentence introducing the pestilence no walls can keep out."
+      "notes": "The opening sentence introducing the pestilence no walls can keep out.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "1839",
       "verificationStatus": "verified",
-      "notes": "The atmospheric opening that establishes the tale's oppressive gothic dread."
+      "notes": "The atmospheric opening that establishes the tale's oppressive gothic dread.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "1846",
       "verificationStatus": "verified",
-      "notes": "Montresor's opening declaration of the grudge that drives his terrible vengeance."
+      "notes": "Montresor's opening declaration of the grudge that drives his terrible vengeance.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-027",
@@ -278,7 +305,8 @@
       "sourceType": "book",
       "quoteDate": "1846",
       "verificationStatus": "verified",
-      "notes": "Montresor's Latin closing words--\"May he rest in peace\"--over his walled-up victim."
+      "notes": "Montresor's Latin closing words--\"May he rest in peace\"--over his walled-up victim.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-028",
@@ -288,7 +316,8 @@
       "sourceType": "book",
       "quoteDate": "1842",
       "verificationStatus": "verified",
-      "notes": "The opening of the narrator's account of his ordeal before the Inquisition."
+      "notes": "The opening of the narrator's account of his ordeal before the Inquisition.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "quoteDate": "1839",
       "verificationStatus": "verified",
-      "notes": "The narrator's evasive opening in Poe's tale of a man pursued by his double."
+      "notes": "The narrator's evasive opening in Poe's tale of a man pursued by his double.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-030",
@@ -308,7 +338,8 @@
       "sourceType": "article",
       "quoteDate": "1846",
       "verificationStatus": "verified",
-      "notes": "Poe's much-debated claim from his essay on how he composed The Raven."
+      "notes": "Poe's much-debated claim from his essay on how he composed The Raven.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "poe-031",
@@ -318,7 +349,8 @@
       "sourceType": "article",
       "quoteDate": "1850",
       "verificationStatus": "verified",
-      "notes": "Poe's signature definition of poetry from his posthumously published essay."
+      "notes": "Poe's signature definition of poetry from his posthumously published essay.",
+      "addedAt": "2026-06-28T02:20:43Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#2DD3DA",
   "iconName": "wind",
   "category": "Anime & Manga",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "2001",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Zeniba reassures Chihiro about her fading memories; wording is the Disney English dub (John Lasseter production)."
+      "notes": "Zeniba reassures Chihiro about her fading memories; wording is the Disney English dub (John Lasseter production).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-002",
@@ -28,7 +30,8 @@
       "quoteDate": "2001",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Haku warns Chihiro after Yubaba steals her name; Disney English dub wording."
+      "notes": "Haku warns Chihiro after Yubaba steals her name; Disney English dub wording.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-003",
@@ -38,7 +41,8 @@
       "quoteDate": "2001",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Yubaba seizes Chihiro's name to bind her in servitude; Disney English dub."
+      "notes": "Yubaba seizes Chihiro's name to bind her in servitude; Disney English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-004",
@@ -48,7 +52,8 @@
       "quoteDate": "2001",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Haku's parting instruction as Chihiro leaves the spirit world; Disney English dub."
+      "notes": "Haku's parting instruction as Chihiro leaves the spirit world; Disney English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Ashitaka's guiding creed for the film; Neil Gaiman's Miramax English dub (Japanese literally closer to 'to see with clear eyes')."
+      "notes": "Ashitaka's guiding creed for the film; Neil Gaiman's Miramax English dub (Japanese literally closer to 'to see with clear eyes').",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "The wolf-god Moro rebukes humankind; Neil Gaiman's Miramax English dub."
+      "notes": "The wolf-god Moro rebukes humankind; Neil Gaiman's Miramax English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Eboshi before firing on the Forest Spirit; Miramax English dub wording."
+      "notes": "Eboshi before firing on the Forest Spirit; Miramax English dub wording.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Ashitaka urging the dying San to keep living; Miramax English dub."
+      "notes": "Ashitaka urging the dying San to keep living; Miramax English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "The village wise-woman sends the cursed Ashitaka away; Miramax English dub (minor wording variants like 'change your fate' appear in fan transcripts)."
+      "notes": "The village wise-woman sends the cursed Ashitaka away; Miramax English dub (minor wording variants like 'change your fate' appear in fan transcripts).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-010",
@@ -108,7 +118,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Sophie on Howl's traded-away heart; Disney English dub."
+      "notes": "Sophie on Howl's traded-away heart; Disney English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-011",
@@ -118,7 +129,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Howl's melodramatic despair after his hair is dyed the wrong color; Disney English dub (Christian Bale)."
+      "notes": "Howl's melodramatic despair after his hair is dyed the wrong color; Disney English dub (Christian Bale).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-012",
@@ -128,7 +140,8 @@
       "quoteDate": "2004",
       "verificationStatus": "unverified",
       "sourceType": "movie",
-      "notes": "Howl's declaration to Sophie; wording axis failed - the Disney dub phrasing varies across transcripts ('now that I have something I want to protect - it's you')."
+      "notes": "Howl's declaration to Sophie; wording axis failed - the Disney dub phrasing varies across transcripts ('now that I have something I want to protect - it's you').",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-013",
@@ -138,7 +151,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "The fire demon Calcifer's petulant curse; Disney English dub (Billy Crystal)."
+      "notes": "The fire demon Calcifer's petulant curse; Disney English dub (Billy Crystal).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Kiki describing her lost magic; Disney English dub (Kirsten Dunst)."
+      "notes": "Kiki describing her lost magic; Disney English dub (Kirsten Dunst).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1989",
       "verificationStatus": "unverified",
       "sourceType": "movie",
-      "notes": "The painter Ursula's advice on creative blocks; wording axis failed - reconstructed from fan summaries rather than a confirmed dub transcript."
+      "notes": "The painter Ursula's advice on creative blocks; wording axis failed - reconstructed from fan summaries rather than a confirmed dub transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1989",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "The cat Jiji's frantic pep talk; Disney English dub (Phil Hartman, whose ad-libs differ notably from the subtitles)."
+      "notes": "The cat Jiji's frantic pep talk; Disney English dub (Phil Hartman, whose ad-libs differ notably from the subtitles).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1986",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Sheeta recites the Spell of the Valley to Muska; Disney English dub (Anna Paquin)."
+      "notes": "Sheeta recites the Spell of the Valley to Muska; Disney English dub (Anna Paquin).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1986",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Sheeta explaining why the Laputans abandoned their floating kingdom; Disney English dub."
+      "notes": "Sheeta explaining why the Laputans abandoned their floating kingdom; Disney English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1984",
       "verificationStatus": "unverified",
       "sourceType": "movie",
-      "notes": "The old woman's prophecy fulfilled by Nausicaa; wording axis failed - the Disney 2005 dub phrasing varies and this is a normalized paraphrase."
+      "notes": "The old woman's prophecy fulfilled by Nausicaa; wording axis failed - the Disney 2005 dub phrasing varies and this is a normalized paraphrase.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "The Italian designer Caproni in Jiro's dream; Disney English dub (Stanley Tucci) delivers these as two adjacent lines."
+      "notes": "The Italian designer Caproni in Jiro's dream; Disney English dub (Stanley Tucci) delivers these as two adjacent lines.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-021",
@@ -218,7 +239,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "The film's refrain, a line from Paul Valery's poem 'Le Cimetiere marin'; Disney English dub."
+      "notes": "The film's refrain, a line from Paul Valery's poem 'Le Cimetiere marin'; Disney English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Naoko to Jiro amid her illness; Disney English dub (Emily Blunt)."
+      "notes": "Naoko to Jiro amid her illness; Disney English dub (Emily Blunt).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-023",
@@ -238,7 +261,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "The fish-girl Ponyo declaring her wish; Disney English dub (Noah Cyrus)."
+      "notes": "The fish-girl Ponyo declaring her wish; Disney English dub (Noah Cyrus).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-024",
@@ -248,7 +272,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Ponyo's gleeful demand at dinner; Disney English dub."
+      "notes": "Ponyo's gleeful demand at dinner; Disney English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1988",
       "verificationStatus": "unverified",
       "sourceType": "movie",
-      "notes": "The father explaining why he bought the house by the camphor tree; wording axis failed - the Disney 2006 and older Streamline dubs phrase this differently."
+      "notes": "The father explaining why he bought the house by the camphor tree; wording axis failed - the Disney 2006 and older Streamline dubs phrase this differently.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Miyazaki's stated aim, widely attributed to a making-of interview around My Neighbor Totoro; not film dialogue."
+      "notes": "Miyazaki's stated aim, widely attributed to a making-of interview around My Neighbor Totoro; not film dialogue.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-027",
@@ -278,7 +305,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "documentary",
-      "notes": "Miyazaki reflecting on The Wind Rises in Mami Sunada's documentary 'The Kingdom of Dreams and Madness'; English subtitle translation."
+      "notes": "Miyazaki reflecting on The Wind Rises in Mami Sunada's documentary 'The Kingdom of Dreams and Madness'; English subtitle translation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "ghibli-028",
@@ -288,7 +316,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "movie",
-      "notes": "Sophie briskly taking charge of Howl's filthy castle; Disney English dub."
+      "notes": "Sophie briskly taking charge of Howl's filthy castle; Disney English dub.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

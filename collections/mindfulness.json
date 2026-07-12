@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD1AA",
   "iconName": "leaf.fill",
   "category": "Wellness",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-06-20T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "notes": "From Thich Nhat Hanh's guide to mindfulness in everyday life. He was a Vietnamese Buddhist monk and peace activist.",
       "quoteDate": "1991",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-002",
@@ -28,7 +30,8 @@
       "sourceType": "unspecified",
       "notes": "Traditional Buddhist teaching. While the exact origin is uncertain, the sentiment aligns with core Buddhist philosophy about inner peace.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-003",
@@ -38,7 +41,8 @@
       "sourceType": "unspecified",
       "notes": "Paraphrased from the Dhammapada. The opening verses discuss how the mind shapes our experience and destiny.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "notes": "From Tolle's influential book on present-moment awareness. He emphasizes being over doing.",
       "quoteDate": "1997",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-005",
@@ -58,7 +63,8 @@
       "sourceType": "unspecified",
       "notes": "From Lamott's writings and talks. Uses a technology metaphor to explain the importance of rest and reset.",
       "quoteDate": "c. 2010s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "notes": "From Thich Nhat Hanh's writings on meditation. Uses natural imagery to describe the impermanence of emotions.",
       "quoteDate": "1997",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "notes": "From James' foundational psychology text. He pioneered ideas about attention and the selective nature of consciousness.",
       "quoteDate": "1890",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-008",
@@ -88,7 +96,8 @@
       "sourceType": "unspecified",
       "notes": "From the American spiritual teacher's teachings. She founded the Kashi Ashram and taught interfaith spirituality.",
       "quoteDate": "c. 1990s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-009",
@@ -98,7 +107,8 @@
       "sourceType": "newspaper",
       "notes": "From Harris' newspaper columns on life wisdom. He was a Chicago journalist known for philosophical observations.",
       "quoteDate": "c. 1950s-1960s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "notes": "Core teaching from Tolle's work on presence. Emphasizes full engagement with the current moment.",
       "quoteDate": "1997",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-011",
@@ -118,7 +129,8 @@
       "sourceType": "unspecified",
       "notes": "Common mindfulness teaching. Origin unclear but widely used in meditation and therapy contexts.",
       "quoteDate": null,
-      "verificationStatus": "folk-wisdom"
+      "verificationStatus": "folk-wisdom",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "notes": "From Thich Nhat Hanh's manual on mindfulness practice. Uses tea drinking as a meditation practice.",
       "quoteDate": "1975",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "notes": "Stoic advice on present-moment living. Marcus practiced awareness of mortality to enhance appreciation of life.",
       "quoteDate": "c. 170-180 CE",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "notes": "From Brach's book on self-acceptance and Buddhist psychology. She is a meditation teacher and clinical psychologist.",
       "quoteDate": "2003",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "notes": "From Hesse's novel about spiritual enlightenment. Describes the inner refuge available through meditation.",
       "quoteDate": "1922",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "notes": "From the Tibetan Buddhist master's teachings. Uses sky imagery common in Buddhist descriptions of awareness.",
       "quoteDate": "1997",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "notes": "One of Thich Nhat Hanh's most famous gathas (short verses for mindfulness practice).",
       "quoteDate": "1990",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "notes": "From the foundational Taoist text. Illustrates the principle of wu wei (effortless action).",
       "quoteDate": "c. 6th century BCE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-019",
@@ -198,7 +217,8 @@
       "sourceType": "book",
       "notes": "From the Indian author and spiritual teacher's work on meditation and yoga.",
       "quoteDate": "2010",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "notes": "From Thich Nhat Hanh's comprehensive guide to Buddhist practice. Emphasizes the gateway nature of now.",
       "quoteDate": "1998",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "notes": "From Dyer's bestselling self-help book. Echoes Stoic philosophy about the locus of control.",
       "quoteDate": "1976",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "notes": "From the founder of Mindfulness-Based Stress Reduction (MBSR). Kabat-Zinn brought mindfulness to Western medicine.",
       "quoteDate": "1994",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "notes": "From the Indian philosopher's writings. Krishnamurti rejected organized religion and emphasized individual inquiry.",
       "quoteDate": "1954",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "notes": "Taoist teaching on contentment and non-attachment. Suggests that fulfillment comes from inner sufficiency.",
       "quoteDate": "c. 6th century BCE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "notes": "Core teaching from Thich Nhat Hanh. Emphasizes that the present is the only place where life can be lived.",
       "quoteDate": "1990",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-026",
@@ -268,7 +294,8 @@
       "sourceType": "poem",
       "notes": "Attributed to the Persian poet and Sufi mystic. His poetry often describes the intoxication of spiritual presence.",
       "quoteDate": "c. 13th century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-027",
@@ -278,7 +305,8 @@
       "sourceType": "unspecified",
       "notes": "Paraphrased from Buddhist teachings on impermanence and present-moment action. Each day offers a fresh start.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "notes": "Modern mindfulness teaching on conscious response versus automatic reaction. Emphasizes pause before action.",
       "quoteDate": "c. 21st century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-029",
@@ -298,7 +327,8 @@
       "sourceType": "poem",
       "notes": "Attributed to Rumi. Paradoxically suggests that true listening requires releasing intellectual thinking.",
       "quoteDate": "c. 13th century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "mp-030",
@@ -308,7 +338,8 @@
       "sourceType": "book",
       "notes": "From Kabat-Zinn's introductory guide to mindfulness. Challenges the hierarchy of important versus unimportant moments.",
       "quoteDate": "2012",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
 }

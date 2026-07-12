@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "cross.circle.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 400 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening prayer of the Confessions; Henry Chadwick translation of the Latin 'fecisti nos ad te et inquietum est cor nostrum.'"
+      "notes": "The opening prayer of the Confessions; Henry Chadwick translation of the Latin 'fecisti nos ad te et inquietum est cor nostrum.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 400 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Augustine's lament over his slowness to turn to God; Henry Chadwick translation of 'Sero te amavi, pulchritudo tam antiqua et tam nova.'"
+      "notes": "Augustine's lament over his slowness to turn to God; Henry Chadwick translation of 'Sero te amavi, pulchritudo tam antiqua et tam nova.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 400 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Augustine recalls his younger self's half-hearted prayer; translation of 'da mihi castitatem et continentiam, sed noli modo.'"
+      "notes": "Augustine recalls his younger self's half-hearted prayer; translation of 'da mihi castitatem et continentiam, sed noli modo.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 407 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Augustine's tractate on 1 John; translation of 'Dilige, et quod vis fac,' meaning right love roots right action."
+      "notes": "From Augustine's tractate on 1 John; translation of 'Dilige, et quod vis fac,' meaning right love roots right action.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 420 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Augustine's defining contrast of the earthly and heavenly cities; Marcus Dods translation."
+      "notes": "Augustine's defining contrast of the earthly and heavenly cities; Marcus Dods translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 400 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Augustine's sermon on Isaiah 7:9; standard English rendering of 'Fides est credere quod non vides.'"
+      "notes": "From Augustine's sermon on Isaiah 7:9; standard English rendering of 'Fides est credere quod non vides.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 1270",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Aquinas's reply on sacred doctrine; translation of 'gratia non tollit naturam, sed perficit,' rendered by the Dominican Fathers edition."
+      "notes": "From Aquinas's reply on sacred doctrine; translation of 'gratia non tollit naturam, sed perficit,' rendered by the Dominican Fathers edition.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 1420",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Traditional English translation of 'Homo proponit, sed Deus disponit'; a Kempis popularized the maxim through the Imitation."
+      "notes": "Traditional English translation of 'Homo proponit, sed Deus disponit'; a Kempis popularized the maxim through the Imitation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 1420",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the knowledge of truth; traditional English translation."
+      "notes": "From the chapter on the knowledge of truth; traditional English translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 1420",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the wonderful effect of divine love; traditional English translation."
+      "notes": "From the chapter on the wonderful effect of divine love; traditional English translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 1420",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the opening chapter on imitating Christ; traditional English translation echoing Ecclesiastes."
+      "notes": "From the opening chapter on imitating Christ; traditional English translation echoing Ecclesiastes.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 1580",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The 'Nada te turbe' verses found in Teresa's breviary after her death; standard English translation of the Spanish original."
+      "notes": "The 'Nada te turbe' verses found in Teresa's breviary after her death; standard English translation of the Spanish original.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1577",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Opening image of the Interior Castle; E. Allison Peers translation of the Spanish 'Las Moradas.'"
+      "notes": "Opening image of the Interior Castle; E. Allison Peers translation of the Spanish 'Las Moradas.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 1585",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the 'Dichos de Luz y Amor'; Kavanaugh and Rodriguez translation of 'a la tarde te examinaran en el amor.'"
+      "notes": "From the 'Dichos de Luz y Amor'; Kavanaugh and Rodriguez translation of 'a la tarde te examinaran en el amor.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 1376",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Catherine's letters urging fervor of love; the popular English rendering of her exhortation to become fully oneself in God."
+      "notes": "From Catherine's letters urging fervor of love; the popular English rendering of her exhortation to become fully oneself in God.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 1548",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The 'Suscipe' prayer that closes the Spiritual Exercises; Louis Puhl translation of the Latin original."
+      "notes": "The 'Suscipe' prayer that closes the Spiritual Exercises; Louis Puhl translation of the Latin original.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 1395",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The words Julian receives from Christ in her showings; Grace Warrack's Middle English edition."
+      "notes": "The words Julian receives from Christ in her showings; Grace Warrack's Middle English edition.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 1395",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Julian's consolation from her sixteenth showing; Grace Warrack's Middle English edition."
+      "notes": "Julian's consolation from her sixteenth showing; Grace Warrack's Middle English edition.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 318 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Athanasius's classic statement of deification; translation of 'autos gar enenthropesen, hina hemeis theopoiethomen.'"
+      "notes": "Athanasius's classic statement of deification; translation of 'autos gar enenthropesen, hina hemeis theopoiethomen.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 368 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Basil's homily on Luke 12:18 against hoarding wealth; standard English translation of the Greek homily."
+      "notes": "From Basil's homily on Luke 12:18 against hoarding wealth; standard English translation of the Greek homily.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 390 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Chrysostom links the Eucharist to care for the poor; translation from the Nicene and Post-Nicene Fathers edition."
+      "notes": "Chrysostom links the Eucharist to care for the poor; translation from the Nicene and Post-Nicene Fathers edition.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 1995",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A documented saying of Mother Teresa published in the collected spiritual counsels 'A Simple Path.'"
+      "notes": "A documented saying of Mother Teresa published in the collected spiritual counsels 'A Simple Path.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 1128",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Bernard's treatise 'De Diligendo Deo'; translation of 'Causa diligendi Deum, Deus est; modus, sine modo diligere.'"
+      "notes": "From Bernard's treatise 'De Diligendo Deo'; translation of 'Causa diligendi Deum, Deus est; modus, sine modo diligere.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 180 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The often-shortened 'glory of God is man fully alive' comes from this passage; Ante-Nicene Fathers translation."
+      "notes": "The often-shortened 'glory of God is man fully alive' comes from this passage; Ante-Nicene Fathers translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 197 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Standard English rendering of 'semen est sanguis Christianorum,' Tertullian's reply to Roman persecution."
+      "notes": "Standard English rendering of 'semen est sanguis Christianorum,' Tertullian's reply to Roman persecution.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 251 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Cyprian's statement on ecclesial unity; Ante-Nicene Fathers translation of 'De Unitate Ecclesiae.'"
+      "notes": "Cyprian's statement on ecclesial unity; Ante-Nicene Fathers translation of 'De Unitate Ecclesiae.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 408 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the prologue to Jerome's commentary on Isaiah; translation of 'Ignoratio scripturarum, ignoratio Christi est.'"
+      "notes": "From the prologue to Jerome's commentary on Isaiah; translation of 'Ignoratio scripturarum, ignoratio Christi est.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 350 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the 'Apophthegmata Patrum'; Benedicta Ward translation of the Greek alphabetical collection."
+      "notes": "From the 'Apophthegmata Patrum'; Benedicta Ward translation of the Greek alphabetical collection.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 530 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on daily manual labor; translation of 'Otiositas inimica est animae.'"
+      "notes": "From the chapter on daily manual labor; translation of 'Otiositas inimica est animae.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 530 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening words of the Rule; translation of 'Ausculta, o fili, et inclina aurem cordis tui.'"
+      "notes": "The opening words of the Rule; translation of 'Ausculta, o fili, et inclina aurem cordis tui.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "saint-031",
@@ -318,7 +349,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A deathbed saying recorded in her final conversations and published with 'Story of a Soul'; standard English translation."
+      "notes": "A deathbed saying recorded in her final conversations and published with 'Story of a Soul'; standard English translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "trophy.fill",
   "category": "Sports",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1964-02-25",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "Ali's (then Cassius Clay) live reaction after Liston quit on his stool; preserved on broadcast footage."
+      "notes": "Ali's (then Cassius Clay) live reaction after Liston quit on his stool; preserved on broadcast footage.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1974-09-17",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Ali's signature braggadocio before the Foreman bout, preserved on film."
+      "notes": "Ali's signature braggadocio before the Foreman bout, preserved on film.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1975",
       "verificationStatus": "verified",
       "sourceType": "magazine",
-      "notes": "Ali on personal growth; wording and dated print attribution confirmed by Quote Investigator."
+      "notes": "Ali on personal growth; wording and dated print attribution confirmed by Quote Investigator.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "His most famous line on failing forward, delivered as a Nike voiceover; wording matches the archived ad."
+      "notes": "His most famous line on failing forward, delivered as a Nike voiceover; wording matches the archived ad.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1994",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Jordan's own motivational book, in its section on commitment."
+      "notes": "From Jordan's own motivational book, in its section on commitment.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-006",
@@ -68,7 +74,8 @@
       "quoteDate": "2020",
       "verificationStatus": "verified",
       "sourceType": "documentary",
-      "notes": "Jordan's emotional defense of his demanding leadership style, spoken on camera."
+      "notes": "Jordan's emotional defense of his demanding leadership style, spoken on camera.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-007",
@@ -78,7 +85,8 @@
       "quoteDate": "2009-06-07",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Bryant's stoic response to taking a 2-0 Finals lead; the press-conference video is hosted by NBA.com."
+      "notes": "Bryant's stoic response to taking a 2-0 Finals lead; the press-conference video is hosted by NBA.com.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 2016",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "His most-cited self-definition of the concept, in his own words."
+      "notes": "His most-cited self-definition of the concept, in his own words.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2012-02-21",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Pelé on his sense of purpose and destiny for the game."
+      "notes": "Pelé on his sense of purpose and destiny for the game.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1999",
       "verificationStatus": "verified",
       "sourceType": "magazine",
-      "notes": "Pelé on the burden of fame and setting an example; attribution traces to the dated SI piece."
+      "notes": "Pelé on the burden of fame and setting an example; attribution traces to the dated SI piece.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-011",
@@ -118,7 +129,8 @@
       "quoteDate": "2005-08-08",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Gretzky framing his greatness as self-made through work rather than raw gift."
+      "notes": "Gretzky framing his greatness as self-made through work rather than raw gift.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1972",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The final line of Robinson's autobiography, later inscribed on his headstone."
+      "notes": "The final line of Robinson's autobiography, later inscribed on his headstone.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1972",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the prologue reflecting on his 1947 debut; the fuller wording precedes the title line."
+      "notes": "From the prologue reflecting on his 1947 debut; the fuller wording precedes the title line.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1936",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Owens correcting the myth after FDR declined to honor his four Berlin gold medals."
+      "notes": "Owens correcting the myth after FDR declined to honor his four Berlin gold medals.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-015",
@@ -158,7 +173,8 @@
       "quoteDate": "2024-06-09",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From his 'effortless is a myth' theme; confirmed against Dartmouth's official transcript."
+      "notes": "From his 'effortless is a myth' theme; confirmed against Dartmouth's official transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-016",
@@ -168,7 +184,8 @@
       "quoteDate": "2024-06-09",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The setup to his 'it's only a point' lesson on resilience; figures appear verbatim in the official transcript."
+      "notes": "The setup to his 'it's only a point' lesson on resilience; figures appear verbatim in the official transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-017",
@@ -178,7 +195,8 @@
       "quoteDate": "2024-06-09",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Federer on discipline over dwelling on setbacks; confirmed against the official transcript."
+      "notes": "Federer on discipline over dwelling on setbacks; confirmed against the official transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-018",
@@ -188,7 +206,8 @@
       "quoteDate": "2022",
       "verificationStatus": "verified",
       "sourceType": "magazine",
-      "notes": "Serena's own framing of stepping away from the sport, from her authored essay."
+      "notes": "Serena's own framing of stepping away from the sport, from her authored essay.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-019",
@@ -198,7 +217,8 @@
       "quoteDate": "2022",
       "verificationStatus": "verified",
       "sourceType": "magazine",
-      "notes": "On the drive for greatness and the mental cost of chasing records."
+      "notes": "On the drive for greatness and the mental cost of chasing records.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2019-01-22",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Serena on her competitiveness, from the official Australian Open transcript."
+      "notes": "Serena on her competitiveness, from the official Australian Open transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-021",
@@ -218,7 +239,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "King's signature maxim; she recounts coining it courtside in 2000 and made it her book title."
+      "notes": "King's signature maxim; she recounts coining it courtside in 2000 and made it her book title.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2021",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "King on the championship mindset, from her memoir."
+      "notes": "King on the championship mindset, from her memoir.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-023",
@@ -238,7 +261,8 @@
       "quoteDate": "2021-07-27",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Biles after withdrawing from the team final; confirmed against NPR's verbatim transcript."
+      "notes": "Biles after withdrawing from the team final; confirmed against NPR's verbatim transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-024",
@@ -248,7 +272,8 @@
       "quoteDate": "2021-07-27",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Part of her remarks on protecting athletes' minds and bodies."
+      "notes": "Part of her remarks on protecting athletes' minds and bodies.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-025",
@@ -258,7 +283,8 @@
       "quoteDate": "2021-07-27",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Follows directly from her 'put mental health first' remark; confirmed against NPR's transcript."
+      "notes": "Follows directly from her 'put mental health first' remark; confirmed against NPR's transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-026",
@@ -268,7 +294,8 @@
       "quoteDate": "2008-08-16",
       "verificationStatus": "verified",
       "sourceType": "newspaper",
-      "notes": "Said immediately after his world-record 9.69s gold in Beijing."
+      "notes": "Said immediately after his world-record 9.69s gold in Beijing.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-027",
@@ -278,7 +305,8 @@
       "quoteDate": "2012-08-09",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "Bolt after defending his Olympic 200m title, quoted verbatim by the sport's governing body."
+      "notes": "Bolt after defending his Olympic 200m title, quoted verbatim by the sport's governing body.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-028",
@@ -288,7 +316,8 @@
       "quoteDate": "2016-08-19",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "His line after completing the 'triple-triple' with a ninth Olympic gold."
+      "notes": "His line after completing the 'triple-triple' with a ninth Olympic gold.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-029",
@@ -298,7 +327,8 @@
       "quoteDate": "2016",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Palmer's effort-and-drive philosophy from his late-career memoir."
+      "notes": "Palmer's effort-and-drive philosophy from his late-career memoir.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "champ-030",
@@ -308,7 +338,8 @@
       "quoteDate": "1940",
       "verificationStatus": "verified",
       "sourceType": "magazine",
-      "notes": "Exact primary wording from Ruth's own bylined article; the common 'It's hard to beat...' form is a paraphrase."
+      "notes": "Exact primary wording from Ruth's own bylined article; the common 'It's hard to beat...' form is a paraphrase.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

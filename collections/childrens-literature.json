@@ -8,6 +8,7 @@
   "colorDarkHex": "#2DD3DA",
   "iconName": "teddybear.fill",
   "category": "Literature",
+  "addedAt": "2026-06-28T02:20:43Z",
   "lastUpdated": "2026-06-27T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "1990",
       "verificationStatus": "verified",
-      "notes": "The book's signature line on self-direction and possibility."
+      "notes": "The book's signature line on self-direction and possibility.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "quoteDate": "1990",
       "verificationStatus": "verified",
-      "notes": "The opening lines of the book, a perennial graduation gift."
+      "notes": "The opening lines of the book, a perennial graduation gift.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "1990",
       "verificationStatus": "verified",
-      "notes": "A playful assurance of success near the book's close."
+      "notes": "A playful assurance of success near the book's close.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "1971",
       "verificationStatus": "verified",
-      "notes": "The Once-ler passes on the word 'UNLESS' as the book's environmental message."
+      "notes": "The Once-ler passes on the word 'UNLESS' as the book's environmental message.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "1971",
       "verificationStatus": "verified",
-      "notes": "The Lorax introduces himself as defender of the Truffula forest."
+      "notes": "The Lorax introduces himself as defender of the Truffula forest.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "1954",
       "verificationStatus": "verified",
-      "notes": "Horton the elephant's refrain about the worth of every living thing."
+      "notes": "Horton the elephant's refrain about the worth of every living thing.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "quoteDate": "1928",
       "verificationStatus": "verified",
-      "notes": "An exchange between Pooh and Piglet from Milne's actual text, not a Disney addition."
+      "notes": "An exchange between Pooh and Piglet from Milne's actual text, not a Disney addition.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "quoteDate": "1928",
       "verificationStatus": "verified",
-      "notes": "Said by the grown-up stream as it nears the edge of the Forest."
+      "notes": "Said by the grown-up stream as it nears the edge of the Forest.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "quoteDate": "1926",
       "verificationStatus": "verified",
-      "notes": "Spoken by Eeyore in Milne's original book."
+      "notes": "Spoken by Eeyore in Milne's original book.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "1964",
       "verificationStatus": "verified",
-      "notes": "From the Oompa-Loompas' song after Mike Teavee is shrunk."
+      "notes": "From the Oompa-Loompas' song after Mike Teavee is shrunk.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "quoteDate": "1988",
       "verificationStatus": "verified",
-      "notes": "Describing how reading opened the world to young Matilda."
+      "notes": "Describing how reading opened the world to young Matilda.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "quoteDate": "1982",
       "verificationStatus": "verified",
-      "notes": "The Big Friendly Giant on human skepticism."
+      "notes": "The Big Friendly Giant on human skepticism.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": "1982",
       "verificationStatus": "verified",
-      "notes": "The BFG's advice to Sophie about language."
+      "notes": "The BFG's advice to Sophie about language.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "quoteDate": "1952",
       "verificationStatus": "verified",
-      "notes": "Charlotte the spider explaining to Wilbur why she helped him."
+      "notes": "Charlotte the spider explaining to Wilbur why she helped him.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "quoteDate": "1952",
       "verificationStatus": "verified",
-      "notes": "The closing lines of the novel, in tribute to Charlotte."
+      "notes": "The closing lines of the novel, in tribute to Charlotte.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "quoteDate": "1865",
       "verificationStatus": "verified",
-      "notes": "The Cheshire Cat to Alice in Chapter 6."
+      "notes": "The Cheshire Cat to Alice in Chapter 6.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "quoteDate": "1865",
       "verificationStatus": "verified",
-      "notes": "Alice puzzling over her changing identity in Chapter 2."
+      "notes": "Alice puzzling over her changing identity in Chapter 2.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": "1865",
       "verificationStatus": "verified",
-      "notes": "Alice's exclamation as she begins to grow, opening Chapter 2."
+      "notes": "Alice's exclamation as she begins to grow, opening Chapter 2.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-019",
@@ -198,7 +217,8 @@
       "sourceType": "book",
       "quoteDate": "1865",
       "verificationStatus": "verified",
-      "notes": "Alice to the Caterpillar in Chapter 5; the exact text, not the popular 'I can't go back' paraphrase."
+      "notes": "Alice to the Caterpillar in Chapter 5; the exact text, not the popular 'I can't go back' paraphrase.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "quoteDate": "1900",
       "verificationStatus": "verified",
-      "notes": "Dorothy to the Scarecrow; the book's wording for the famous sentiment."
+      "notes": "Dorothy to the Scarecrow; the book's wording for the famous sentiment.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "1964",
       "verificationStatus": "verified",
-      "notes": "The book's recurring refrain and final line."
+      "notes": "The book's recurring refrain and final line.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": "1963",
       "verificationStatus": "verified",
-      "notes": "Max declaring the start of the celebration among the Wild Things."
+      "notes": "Max declaring the start of the celebration among the Wild Things.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "quoteDate": "1963",
       "verificationStatus": "verified",
-      "notes": "The Wild Things cry out as Max prepares to sail home."
+      "notes": "The Wild Things cry out as Max prepares to sail home.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "quoteDate": "1963",
       "verificationStatus": "verified",
-      "notes": "The final line, about the supper waiting in Max's room."
+      "notes": "The final line, about the supper waiting in Max's room.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "1943",
       "verificationStatus": "verified",
-      "notes": "The fox's secret to the little prince (Katherine Woods translation)."
+      "notes": "The fox's secret to the little prince (Katherine Woods translation).",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "1943",
       "verificationStatus": "verified",
-      "notes": "The fox on love and commitment (Katherine Woods translation)."
+      "notes": "The fox on love and commitment (Katherine Woods translation).",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-027",
@@ -278,7 +305,8 @@
       "sourceType": "book",
       "quoteDate": "1943",
       "verificationStatus": "verified",
-      "notes": "The fox on what gives the prince's rose its value (Katherine Woods translation)."
+      "notes": "The fox on what gives the prince's rose its value (Katherine Woods translation).",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-028",
@@ -288,7 +316,8 @@
       "sourceType": "book",
       "quoteDate": "1943",
       "verificationStatus": "verified",
-      "notes": "From the book's dedication (Katherine Woods translation)."
+      "notes": "From the book's dedication (Katherine Woods translation).",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "quoteDate": "1943",
       "verificationStatus": "verified",
-      "notes": "The little prince to the narrator in the desert (Katherine Woods translation)."
+      "notes": "The little prince to the narrator in the desert (Katherine Woods translation).",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-030",
@@ -308,7 +338,8 @@
       "sourceType": "book",
       "quoteDate": "1922",
       "verificationStatus": "verified",
-      "notes": "The Skin Horse explaining to the Rabbit what it means to become Real."
+      "notes": "The Skin Horse explaining to the Rabbit what it means to become Real.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "kidlit-031",
@@ -318,7 +349,8 @@
       "sourceType": "book",
       "quoteDate": "1922",
       "verificationStatus": "verified",
-      "notes": "The Skin Horse on the permanence of being Real."
+      "notes": "The Skin Horse on the permanence of being Real.",
+      "addedAt": "2026-06-28T02:20:43Z"
     }
   ]
 }

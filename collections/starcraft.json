@@ -8,6 +8,7 @@
   "colorDarkHex": "#2DD3DA",
   "iconName": "bolt.fill",
   "category": "Video Games",
+  "addedAt": "2026-07-01T14:52:27Z",
   "lastUpdated": "2026-07-01T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Protoss supply warning that became one of gaming's most-quoted catchphrases."
+      "notes": "The Protoss supply warning that became one of gaming's most-quoted catchphrases.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The dreaded Terran alert that a Ghost has armed a nuclear strike somewhere on the map."
+      "notes": "The dreaded Terran alert that a Ghost has armed a nuclear strike somewhere on the map.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The resource warning heard by every player who over-extended their build order."
+      "notes": "The resource warning heard by every player who over-extended their build order.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Terran counterpart to the Protoss pylon warning."
+      "notes": "The Terran counterpart to the Protoss pylon warning.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Protoss Zealot's battle cry, invoking their homeworld of Aiur."
+      "notes": "The Protoss Zealot's battle cry, invoking their homeworld of Aiur.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The selection response of the Terran capital ship."
+      "notes": "The selection response of the Terran capital ship.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Terran Marine's cocky selection line."
+      "notes": "The Terran Marine's cocky selection line.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Marine's order-acknowledgment when sent into battle."
+      "notes": "The Marine's order-acknowledgment when sent into battle.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Terran SCV's selection response."
+      "notes": "The Terran SCV's selection response.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "One of the SCV's repeated-click lines."
+      "notes": "One of the SCV's repeated-click lines.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Terran Ghost's selection line, alluding to their covert kill role."
+      "notes": "The Terran Ghost's selection line, alluding to their covert kill role.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The flamethrower-wielding Firebat's selection quip."
+      "notes": "The flamethrower-wielding Firebat's selection quip.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Terran Medic, added in the Brood War expansion, on selection."
+      "notes": "The Terran Medic, added in the Brood War expansion, on selection.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The hover-bike Vulture rider's order response."
+      "notes": "The hover-bike Vulture rider's order response.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "A Protoss battle cry invoking Adun, a revered figure of their history."
+      "notes": "A Protoss battle cry invoking Adun, a revered figure of their history.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Protoss hero Fenix's line after being resurrected as a Dragoon."
+      "notes": "The Protoss hero Fenix's line after being resurrected as a Dragoon.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "A Protoss war cry given when ordered into battle."
+      "notes": "A Protoss war cry given when ordered into battle.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Terran Siege Tank's selection response."
+      "notes": "The Terran Siege Tank's selection response.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Terran Dominion's founder revealing the depth of his ambition."
+      "notes": "The Terran Dominion's founder revealing the depth of his ambition.",
+      "addedAt": "2026-07-01T14:52:27Z"
     },
     {
       "id": "scraft-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2010",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The opening cinematic line as Tychus is sealed into his marine armor."
+      "notes": "The opening cinematic line as Tychus is sealed into his marine armor.",
+      "addedAt": "2026-07-01T14:52:27Z"
     }
   ]
 }

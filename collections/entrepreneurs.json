@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "lightbulb.fill",
   "category": "Business & Leadership",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "2016",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Bezos's warning against complacency at scale; verified verbatim on Amazon's official aboutamazon.com posting of the letter."
+      "notes": "Bezos's warning against complacency at scale; verified verbatim on Amazon's official aboutamazon.com posting of the letter.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Opening line of the famous long-term section; verified verbatim on Amazon's official reprint of the original 1997 letter."
+      "notes": "Opening line of the famous long-term section; verified verbatim on Amazon's official reprint of the original 1997 letter.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "From the 1997 letter's management-and-decision-making principles; confirmed against the letter's primary text."
+      "notes": "From the 1997 letter's management-and-decision-making principles; confirmed against the letter's primary text.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "A core Bezos long-term-bet principle; confirmed against the primary 1997 letter text."
+      "notes": "A core Bezos long-term-bet principle; confirmed against the primary 1997 letter text.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-005",
@@ -58,7 +63,8 @@
       "quoteDate": "2004-08-02",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Often misattributed to a shareholder letter; it is actually from a 2004 Bloomberg BusinessWeek interview, confirmed on the bloomberg.com article page."
+      "notes": "Often misattributed to a shareholder letter; it is actually from a 2004 Bloomberg BusinessWeek interview, confirmed on the bloomberg.com article page.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 2013",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: reported in a reputable biography but with no primary letter, transcript, or on-record utterance; treat as reported rather than documented."
+      "notes": "Source axis fails: reported in a reputable biography but with no primary letter, transcript, or on-record utterance; treat as reported rather than documented.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-007",
@@ -78,7 +85,8 @@
       "quoteDate": "2014",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Opening lines of the book's preface, arguing that copying past winners ('1 to n') is not creating the new ('0 to 1'); confirmed against the book text."
+      "notes": "Opening lines of the book's preface, arguing that copying past winners ('1 to n') is not creating the new ('0 to 1'); confirmed against the book text.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-008",
@@ -88,7 +96,8 @@
       "quoteDate": "2014",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thiel's core claim that durable success means escaping competition; extracted directly from the book's full text."
+      "notes": "Thiel's core claim that durable success means escaping competition; extracted directly from the book's full text.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2014-09-12",
       "verificationStatus": "verified",
       "sourceType": "newspaper",
-      "notes": "Functions as the title and thesis of Thiel's own bylined WSJ essay; attribution to Thiel is solid."
+      "notes": "Functions as the title and thesis of Thiel's own bylined WSJ essay; attribution to Thiel is solid.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-010",
@@ -108,7 +118,8 @@
       "quoteDate": "2014",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Thiel argues the binding constraint on innovation is courage, not intelligence; wording confirmed against the book."
+      "notes": "Thiel argues the binding constraint on innovation is courage, not intelligence; wording confirmed against the book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-011",
@@ -118,7 +129,8 @@
       "quoteDate": "2011-11-13",
       "verificationStatus": "verified",
       "sourceType": "article",
-      "notes": "The lesson that existential competitive threats are beaten by a better product, not a shortcut; verified on Horowitz's own a16z post."
+      "notes": "The lesson that existential competitive threats are beaten by a better product, not a shortcut; verified on Horowitz's own a16z post.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-012",
@@ -128,7 +140,8 @@
       "quoteDate": "2014",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the book's opening litany on what actually makes running a company hard; wording is identical across all reproductions of the intro."
+      "notes": "From the book's opening litany on what actually makes running a company hard; wording is identical across all reproductions of the intro.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-013",
@@ -138,7 +151,8 @@
       "quoteDate": "2013-07",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "Verified against Graham's own site; the full sentence begins 'Actually startups take off...'. Startups rarely grow by themselves — founders must push them into motion."
+      "notes": "Verified against Graham's own site; the full sentence begins 'Actually startups take off...'. Startups rarely grow by themselves — founders must push them into motion.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-014",
@@ -148,7 +162,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "Y Combinator's founding motto, associated with Graham and appearing in his essays and YC materials."
+      "notes": "Y Combinator's founding motto, associated with Graham and appearing in his essays and YC materials.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-015",
@@ -158,7 +173,8 @@
       "quoteDate": "2017-03-29",
       "verificationStatus": "verified",
       "sourceType": "socialMedia",
-      "notes": "Hoffman restated his own maxim verbatim on his own X account; the concept traces to LinkedIn's early ship-fast approach."
+      "notes": "Hoffman restated his own maxim verbatim on his own X account; the concept traces to LinkedIn's early ship-fast approach.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-016",
@@ -168,7 +184,8 @@
       "quoteDate": "2005-05-30",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "The true verbatim line from Cuban's own blog; the popular one-line paraphrase conflates two non-adjacent sentences, so this restores the original wording."
+      "notes": "The true verbatim line from Cuban's own blog; the popular one-line paraphrase conflates two non-adjacent sentences, so this restores the original wording.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-017",
@@ -178,7 +195,8 @@
       "quoteDate": "2008-01-02",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "Verbatim from Cuban's blog (original: 'Sweat Equity is the best start up capital'); the widely-quoted 'most valuable equity there is' version is a paraphrase and was not used."
+      "notes": "Verbatim from Cuban's blog (original: 'Sweat Equity is the best start up capital'); the widely-quoted 'most valuable equity there is' version is a paraphrase and was not used.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-018",
@@ -188,7 +206,8 @@
       "quoteDate": "2005-03-12",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "Cuban's own blog wording (original spells 'any where'); this is the documented source behind the polished 'work like someone is trying to take it away' aphorism."
+      "notes": "Cuban's own blog wording (original spells 'any where'); this is the documented source behind the polished 'work like someone is trying to take it away' aphorism.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-019",
@@ -198,7 +217,8 @@
       "quoteDate": "2006",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Branson's 'opportunity favours the bold' maxim; confirmed verbatim on his own X account and Virgin.com."
+      "notes": "Branson's 'opportunity favours the bold' maxim; confirmed verbatim on his own X account and Virgin.com.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2006",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "His action-over-hesitation mantra and the title of his own book."
+      "notes": "His action-over-hesitation mantra and the title of his own book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 2008",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: found only in third-party books quoting him, never confirmed inside a Branson-authored primary source; likely genuine but not citable to a primary."
+      "notes": "Source axis fails: found only in third-party books quoting him, never confirmed inside a Branson-authored primary source; likely genuine but not citable to a primary.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2013-10-16",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "The dinner-table question Blakely's father asked her as a child, which she credits with reframing failure as effort rather than outcome; consistently recounted in her on-record interviews."
+      "notes": "The dinner-table question Blakely's father asked her as a child, which she credits with reframing failure as effort rather than outcome; consistently recounted in her on-record interviews.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 1997",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: full-text search did not locate it in his own books; the exact phrase surfaces only in third-party books attributing it to him."
+      "notes": "Source axis fails: full-text search did not locate it in his own books; the exact phrase surfaces only in third-party books attributing it to him.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-024",
@@ -248,7 +272,8 @@
       "quoteDate": "2016",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Source axis fails: wording is consistent and genuinely from Knight's 1962 'I told myself' passage, but every locatable source is an aggregator; not confirmed against the primary book text."
+      "notes": "Source axis fails: wording is consistent and genuinely from Knight's 1962 'I told myself' passage, but every locatable source is an aggregator; not confirmed against the primary book text.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1954-10-27",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "Walt said this on camera on his own TV show, crediting Mickey Mouse as the origin of the enterprise; minor punctuation variants exist across transcriptions."
+      "notes": "Walt said this on camera on his own TV show, crediting Mickey Mouse as the origin of the enterprise; minor punctuation variants exist across transcriptions.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1922",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The genuine primary wording (confirmed in Project Gutenberg's full text); the popular 'Failure is simply the opportunity to begin again, this time more intelligently' is a paraphrase with no primary source."
+      "notes": "The genuine primary wording (confirmed in Project Gutenberg's full text); the popular 'Failure is simply the opportunity to begin again, this time more intelligently' is a paraphrase with no primary source.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 1985",
       "verificationStatus": "verified",
       "sourceType": "website",
-      "notes": "Wording is endorsed by the company she founded on its official heritage page; date is approximate as the page does not pin it to a book passage or occasion."
+      "notes": "Wording is endorsed by the company she founded on its official heritage page; date is approximate as the page does not pin it to a book passage or occasion.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "entre-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1977",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Source axis fails: attributed to Kroc's memoir but no primary passage was reachable to confirm it, and wording splits between 'a dividend' and 'the dividend.'"
+      "notes": "Source axis fails: attributed to Kroc's memoir but no primary passage was reachable to confirm it, and wording splits between 'a dividend' and 'the dividend.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#FA7064",
   "iconName": "eye.fill",
   "category": "Literature",
+  "addedAt": "2026-06-28T02:20:43Z",
   "lastUpdated": "2026-06-27T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "1949",
       "verificationStatus": "verified",
-      "notes": "The three paradoxical slogans of the Party, emblazoned on the Ministry of Truth."
+      "notes": "The three paradoxical slogans of the Party, emblazoned on the Ministry of Truth.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "quoteDate": "1949",
       "verificationStatus": "verified",
-      "notes": "The caption beneath the ubiquitous posters of the Party leader, embodying the surveillance state."
+      "notes": "The caption beneath the ubiquitous posters of the Party leader, embodying the surveillance state.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "1949",
       "verificationStatus": "verified",
-      "notes": "A Party slogan on the malleability of history that Winston records in his diary."
+      "notes": "A Party slogan on the malleability of history that Winston records in his diary.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "1949",
       "verificationStatus": "verified",
-      "notes": "O'Brien's vision of perpetual power, spoken during Winston's interrogation in the Ministry of Love."
+      "notes": "O'Brien's vision of perpetual power, spoken during Winston's interrogation in the Ministry of Love.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "1949",
       "verificationStatus": "verified",
-      "notes": "Winston writes this in his diary, defending objective truth against the Party."
+      "notes": "Winston writes this in his diary, defending objective truth against the Party.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "1949",
       "verificationStatus": "verified",
-      "notes": "O'Brien's words to Winston, which Winston wrongly takes as a promise of solidarity."
+      "notes": "O'Brien's words to Winston, which Winston wrongly takes as a promise of solidarity.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "quoteDate": "1949",
       "verificationStatus": "verified",
-      "notes": "Winston's reflection on how dissent from official reality is branded as madness."
+      "notes": "Winston's reflection on how dissent from official reality is branded as madness.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "quoteDate": "1945",
       "verificationStatus": "verified",
-      "notes": "The revised commandment painted on the barn wall after the pigs seize power."
+      "notes": "The revised commandment painted on the barn wall after the pigs seize power.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "quoteDate": "1945",
       "verificationStatus": "verified",
-      "notes": "The novel's closing sentence, as the pigs become indistinguishable from the humans they overthrew."
+      "notes": "The novel's closing sentence, as the pigs become indistinguishable from the humans they overthrew.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "1945",
       "verificationStatus": "verified",
-      "notes": "From Old Major's rousing speech that sparks the animals' rebellion."
+      "notes": "From Old Major's rousing speech that sparks the animals' rebellion.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "quoteDate": "1932",
       "verificationStatus": "verified",
-      "notes": "The World State's motto, mounted over the door of the Central London Hatchery."
+      "notes": "The World State's motto, mounted over the door of the Central London Hatchery.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "quoteDate": "1932",
       "verificationStatus": "verified",
-      "notes": "John the Savage's defiance of Mustapha Mond, claiming the right to be unhappy."
+      "notes": "John the Savage's defiance of Mustapha Mond, claiming the right to be unhappy.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": "1932",
       "verificationStatus": "verified",
-      "notes": "A hypnopaedic slogan conditioning citizens against private attachment."
+      "notes": "A hypnopaedic slogan conditioning citizens against private attachment.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "quoteDate": "1932",
       "verificationStatus": "verified",
-      "notes": "A sleep-taught slogan promoting consumption over repair."
+      "notes": "A sleep-taught slogan promoting consumption over repair.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "quoteDate": "1932",
       "verificationStatus": "verified",
-      "notes": "A conditioning slogan urging the use of the drug soma to suppress discontent."
+      "notes": "A conditioning slogan urging the use of the drug soma to suppress discontent.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "quoteDate": "1953",
       "verificationStatus": "verified",
-      "notes": "The novel's opening line, narrating fireman Guy Montag's delight in burning books."
+      "notes": "The novel's opening line, narrating fireman Guy Montag's delight in burning books.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "quoteDate": "1953",
       "verificationStatus": "verified",
-      "notes": "Granger relays his grandfather's counsel to Montag near the novel's close."
+      "notes": "Granger relays his grandfather's counsel to Montag near the novel's close.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": "1953",
       "verificationStatus": "verified",
-      "notes": "The retired professor Faber argues for the value of being challenged."
+      "notes": "The retired professor Faber argues for the value of being challenged.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-019",
@@ -198,7 +217,8 @@
       "sourceType": "book",
       "quoteDate": "1953",
       "verificationStatus": "verified",
-      "notes": "Montag, shaken after a woman chooses to die with her books, begins to doubt his work."
+      "notes": "Montag, shaken after a woman chooses to die with her books, begins to doubt his work.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "quoteDate": "1985",
       "verificationStatus": "verified",
-      "notes": "Mock-Latin for \"don't let the bastards grind you down,\" which Offred finds scratched in her closet by a previous handmaid."
+      "notes": "Mock-Latin for \"don't let the bastards grind you down,\" which Offred finds scratched in her closet by a previous handmaid.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "1985",
       "verificationStatus": "verified",
-      "notes": "The Commander justifies the regime of Gilead to Offred."
+      "notes": "The Commander justifies the regime of Gilead to Offred.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": "1985",
       "verificationStatus": "verified",
-      "notes": "Offred recalls the willful complacency of life before Gilead."
+      "notes": "Offred recalls the willful complacency of life before Gilead.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "quoteDate": "1985",
       "verificationStatus": "verified",
-      "notes": "Aunt Lydia reframes oppression as protection during the handmaids' indoctrination."
+      "notes": "Aunt Lydia reframes oppression as protection during the handmaids' indoctrination.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "quoteDate": "1962",
       "verificationStatus": "verified",
-      "notes": "The prison chaplain frames the novel's central question about free will and forced virtue."
+      "notes": "The prison chaplain frames the novel's central question about free will and forced virtue.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "1962",
       "verificationStatus": "verified",
-      "notes": "The opening line, narrated by Alex, that recurs to begin each of the novel's three parts."
+      "notes": "The opening line, narrated by Alex, that recurs to begin each of the novel's three parts.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "1954",
       "verificationStatus": "verified",
-      "notes": "Near the close of the novel, Ralph grasps the savagery that consumed the marooned boys."
+      "notes": "Near the close of the novel, Ralph grasps the savagery that consumed the marooned boys.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-027",
@@ -278,7 +305,8 @@
       "sourceType": "book",
       "quoteDate": "1954",
       "verificationStatus": "verified",
-      "notes": "Simon haltingly suggests that the dreaded beast is the boys' own nature."
+      "notes": "Simon haltingly suggests that the dreaded beast is the boys' own nature.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-028",
@@ -288,7 +316,8 @@
       "sourceType": "book",
       "quoteDate": "1993",
       "verificationStatus": "verified",
-      "notes": "The Giver explains to Jonas the burden of bearing a community's memories alone."
+      "notes": "The Giver explains to Jonas the burden of bearing a community's memories alone.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "dystopia-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "quoteDate": "2005",
       "verificationStatus": "verified",
-      "notes": "Kathy H., the narrator and a clone raised for organ donation, clings to memory against loss."
+      "notes": "Kathy H., the narrator and a clone raised for organ donation, clings to memory against loss.",
+      "addedAt": "2026-06-28T02:20:43Z"
     }
   ]
 }
