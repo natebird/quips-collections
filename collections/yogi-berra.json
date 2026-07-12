@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "baseball.fill",
   "category": "Sports",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 1973",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra confirms in The Yogi Book he said it as Mets manager in 1973, though the exact contemporary press record from that season is thin."
+      "notes": "Berra confirms in The Yogi Book he said it as Mets manager in 1973, though the exact contemporary press record from that season is thin.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 1961",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra dated it to watching Mantle and Maris hit back-to-back home runs; he confirmed the line as his own in The Yogi Book."
+      "notes": "Berra dated it to watching Mantle and Maris hit back-to-back home runs; he confirmed the line as his own in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 1960s",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra says it was directions to his Montclair home, reachable either way; a similar phrasing appears in print before him, but he claims this instance as his."
+      "notes": "Berra says it was directions to his Montclair home, reachable either way; a similar phrasing appears in print before him, but he claims this instance as his.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 1959",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra's remark about Ruggeri's restaurant in St. Louis while talking with Stan Musial and Joe Garagiola, as recounted in The Yogi Book."
+      "notes": "Berra's remark about Ruggeri's restaurant in St. Louis while talking with Stan Musial and Joe Garagiola, as recounted in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 1964",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra confirmed this line in The Yogi Book and later used it as the title of a 2008 memoir."
+      "notes": "Berra confirmed this line in The Yogi Book and later used it as the title of a 2008 memoir.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra claimed it in The Yogi Book; the underlying sentiment traces to Paul Valery (1937), but he embraced the line as his own."
+      "notes": "Berra claimed it in The Yogi Book; the underlying sentiment traces to Paul Valery (1937), but he embraced the line as his own.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 1961",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra's description of the autumn shadows creeping across left field at Yankee Stadium, documented in The Yogi Book."
+      "notes": "Berra's description of the autumn shadows creeping across left field at Yankee Stadium, documented in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 1960",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra's explanation for a World Series loss, confirmed as his line in The Yogi Book."
+      "notes": "Berra's explanation for a World Series loss, confirmed as his line in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1947",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "Berra's opening line at the 1947 hometown ceremony honoring him, one of his earliest and best-documented Yogi-isms."
+      "notes": "Berra's opening line at the 1947 hometown ceremony honoring him, one of his earliest and best-documented Yogi-isms.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra's reply to teammates ribbing his worn bags, confirmed in The Yogi Book."
+      "notes": "Berra's reply to teammates ribbing his worn bags, confirmed in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra's remark on ballpark attendance; a similar line was attributed to impresario Sol Hurok, but Berra claims this phrasing in The Yogi Book."
+      "notes": "Berra's remark on ballpark attendance; a similar line was attributed to impresario Sol Hurok, but Berra claims this phrasing in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 1969",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra's line about the Amazin' 1969 Mets, later recounted to pitcher Nolan Ryan and documented in The Yogi Book."
+      "notes": "Berra's line about the Amazin' 1969 Mets, later recounted to pitcher Nolan Ryan and documented in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Berra's spring-training instruction to his players, confirmed in The Yogi Book."
+      "notes": "Berra's spring-training instruction to his players, confirmed in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Yogi-ism he confirmed in The Yogi Book and revisited in his 2002 book When You Come to a Fork in the Road, Take It!"
+      "notes": "A Yogi-ism he confirmed in The Yogi Book and revisited in his 2002 book When You Come to a Fork in the Road, Take It!",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Yogi-ism listed among his confirmed sayings by the Yogi Berra Museum and in The Yogi Book."
+      "notes": "A Yogi-ism listed among his confirmed sayings by the Yogi Berra Museum and in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "One of the Yogi-isms Berra confirmed as his own in The Yogi Book."
+      "notes": "One of the Yogi-isms Berra confirmed as his own in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "This exact wording appears in The Yogi Book; it is often paraphrased as 'Baseball is ninety percent mental and the other half is physical.'"
+      "notes": "This exact wording appears in The Yogi Book; it is often paraphrased as 'Baseball is ninety percent mental and the other half is physical.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Yogi-ism Berra confirmed in The Yogi Book."
+      "notes": "A Yogi-ism Berra confirmed in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Yogi-ism Berra confirmed as his own in The Yogi Book."
+      "notes": "A Yogi-ism Berra confirmed as his own in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1986",
       "verificationStatus": "verified",
       "sourceType": "newspaper",
-      "notes": "Documented in newspapers in February 1986 when Berra joined the Astros, and later adopted as the subtitle of The Yogi Book."
+      "notes": "Documented in newspapers in February 1986 when Berra joined the Astros, and later adopted as the subtitle of The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Yogi-ism Berra confirmed in The Yogi Book."
+      "notes": "A Yogi-ism Berra confirmed in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Yogi-ism Berra confirmed as his own in The Yogi Book."
+      "notes": "A Yogi-ism Berra confirmed as his own in The Yogi Book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 1976",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Attribution axis failed: Berra himself said he never said it, and the line traces to sportscaster Ralph Carpenter in 1976."
+      "notes": "Attribution axis failed: Berra himself said he never said it, and the line traces to sportscaster Ralph Carpenter in 1976.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 1965",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Attribution and wording axes failed: the joke was in print (credited to Ken Thompson) by 1965, and The Yogi Book's own wording differs from this popular version."
+      "notes": "Attribution and wording axes failed: the joke was in print (credited to Ken Thompson) by 1965, and The Yogi Book's own wording differs from this popular version.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 1946",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Attribution axis failed: Berra denied saying it in his 1961 autobiography, then claimed it in The Yogi Book, leaving his own record contradictory."
+      "notes": "Attribution axis failed: Berra denied saying it in his 1961 autobiography, then claimed it in The Yogi Book, leaving his own record contradictory.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis failed: widely repeated by aggregators with no documented interview or firm confirmation of when Berra said it."
+      "notes": "Source axis failed: widely repeated by aggregators with no documented interview or firm confirmation of when Berra said it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis failed: no documented origin ties this line to a specific Berra utterance."
+      "notes": "Source axis failed: no documented origin ties this line to a specific Berra utterance.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Attribution axis failed: a common saying of uncertain origin routinely pinned on Berra without documentation."
+      "notes": "Attribution axis failed: a common saying of uncertain origin routinely pinned on Berra without documentation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "yogi-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 1998",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Attribution axis failed: an older vaudeville-style pun on 'humidity' attached to Berra without a documented source."
+      "notes": "Attribution axis failed: an older vaudeville-style pun on 'humidity' attached to Berra without a documented source.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

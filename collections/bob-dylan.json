@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "guitars.fill",
   "category": "Music",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "2016-12-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Opening of Dylan's acceptance remarks, read on his behalf at the Nobel banquet."
+      "notes": "Opening of Dylan's acceptance remarks, read on his behalf at the Nobel banquet.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-002",
@@ -28,7 +30,8 @@
       "quoteDate": "2016-12-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "The closing line of his banquet speech, thanking the Swedish Academy for answering the question for him."
+      "notes": "The closing line of his banquet speech, thanking the Swedish Academy for answering the question for him.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-003",
@@ -38,7 +41,8 @@
       "quoteDate": "2016-12-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Dylan on the intimacy and difficulty of small audiences."
+      "notes": "Dylan on the intimacy and difficulty of small audiences.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-004",
@@ -48,7 +52,8 @@
       "quoteDate": "2016-12-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Dylan compares his own songwriting to Shakespeare's practical, working-craftsman mindset."
+      "notes": "Dylan compares his own songwriting to Shakespeare's practical, working-craftsman mindset.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-005",
@@ -58,7 +63,8 @@
       "quoteDate": "2016-12-10",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "On Shakespeare, drawing the parallel that songs, like plays, are meant to be performed."
+      "notes": "On Shakespeare, drawing the parallel that songs, like plays, are meant to be performed.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-006",
@@ -68,7 +74,8 @@
       "quoteDate": "2017-06-04",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Near the close of his recorded Nobel lecture, on songs being meant to be sung, not read."
+      "notes": "Near the close of his recorded Nobel lecture, on songs being meant to be sung, not read.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-007",
@@ -78,7 +85,8 @@
       "quoteDate": "2015-02-06",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Dylan crediting the folk and traditional-music roots of his catalog."
+      "notes": "Dylan crediting the folk and traditional-music roots of his catalog.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-008",
@@ -88,7 +96,8 @@
       "quoteDate": "2015-02-06",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Continuing his account of how his songwriting was seeded by tradition, not invented from nothing."
+      "notes": "Continuing his account of how his songwriting was seeded by tradition, not invented from nothing.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-009",
@@ -98,7 +107,8 @@
       "quoteDate": "2015-02-06",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Dylan on the folk repertoire as his songwriting apprenticeship."
+      "notes": "Dylan on the folk repertoire as his songwriting apprenticeship.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-010",
@@ -108,7 +118,8 @@
       "quoteDate": "2015-02-06",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "On what the old folk standards taught him about the commons of song."
+      "notes": "On what the old folk standards taught him about the commons of song.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1965-12-03",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "His famous deflection when asked whether he was primarily a singer or a poet."
+      "notes": "His famous deflection when asked whether he was primarily a singer or a poet.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1965-12-03",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Dylan on the primacy of lyrics, adding that he writes the words first."
+      "notes": "Dylan on the primacy of lyrics, adding that he writes the words first.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1965-12-03",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "His answer when asked what to call his music, resisting the 'folk-rock' label."
+      "notes": "His answer when asked what to call his music, resisting the 'folk-rock' label.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1965-12-03",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Reply when asked what he thinks of people who analyze his songs."
+      "notes": "Reply when asked what he thinks of people who analyze his songs.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1965-12-03",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "His cryptic, deadpan definition of folk music at the press conference."
+      "notes": "His cryptic, deadpan definition of folk music at the press conference.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-016",
@@ -168,7 +184,8 @@
       "quoteDate": "2004-12-05",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "Explaining why he still tours; he later names the other party as 'the chief commander.'"
+      "notes": "Explaining why he still tours; he later names the other party as 'the chief commander.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-017",
@@ -178,7 +195,8 @@
       "quoteDate": "2004-12-05",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "Dylan reflecting on his 1960s output, which he says he couldn't write today."
+      "notes": "Dylan reflecting on his 1960s output, which he says he couldn't write today.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-018",
@@ -188,7 +206,8 @@
       "quoteDate": "2004-12-05",
       "verificationStatus": "verified",
       "sourceType": "television",
-      "notes": "On the mystery of his own early creative period."
+      "notes": "On the mystery of his own early creative period.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-019",
@@ -198,7 +217,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Dylan's memoir, describing the elusive work of writing a song."
+      "notes": "From Dylan's memoir, describing the elusive work of writing a song.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Dylan rejecting the 'voice of a generation' mantle placed on him in the 1960s."
+      "notes": "Dylan rejecting the 'voice of a generation' mantle placed on him in the 1960s.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-021",
@@ -218,7 +239,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On his weariness with being read as a political spokesman."
+      "notes": "On his weariness with being read as a political spokesman.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Dylan on the imaginative world he found in traditional song."
+      "notes": "Dylan on the imaginative world he found in traditional song.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-023",
@@ -238,7 +261,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A closing image from the memoir on the future he sensed at the start of his career."
+      "notes": "A closing image from the memoir on the future he sensed at the start of his career.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-024",
@@ -248,7 +272,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Dylan on what set the singers he admired apart in the early folk scene."
+      "notes": "Dylan on what set the singers he admired apart in the early folk scene.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1965-12-03",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "His reply when asked why his songs are so hard on people."
+      "notes": "His reply when asked why his songs are so hard on people.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "dylan-026",
@@ -268,7 +294,8 @@
       "quoteDate": "2004",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Widely attributed to Chronicles, but exact wording not confirmed against the primary text (wording axis)."
+      "notes": "Widely attributed to Chronicles, but exact wording not confirmed against the primary text (wording axis).",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

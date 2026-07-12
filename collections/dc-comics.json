@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "shield.fill",
   "category": "Movies",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-06-20T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-06-15",
       "verificationStatus": "verified",
-      "notes": "Thomas Wayne's lesson to young Bruce. Alfred later echoes this, making it a thematic throughline of Nolan's trilogy."
+      "notes": "Thomas Wayne's lesson to young Bruce. Alfred later echoes this, making it a thematic throughline of Nolan's trilogy.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-002",
@@ -28,7 +30,8 @@
       "sourceType": "movie",
       "quoteDate": "2005-06-15",
       "verificationStatus": "verified",
-      "notes": "Bruce echoes Rachel's earlier words back to her, revealing his identity. Central theme of the film."
+      "notes": "Bruce echoes Rachel's earlier words back to her, revealing his identity. Central theme of the film.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-003",
@@ -38,7 +41,8 @@
       "sourceType": "movie",
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
-      "notes": "Joker's menacing catchphrase during his 'scar story' scenes. Ledger won a posthumous Oscar for this role."
+      "notes": "Joker's menacing catchphrase during his 'scar story' scenes. Ledger won a posthumous Oscar for this role.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-004",
@@ -48,7 +52,8 @@
       "sourceType": "movie",
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
-      "notes": "Dent's prophetic statement that foreshadows his transformation into Two-Face. One of the film's most quoted lines."
+      "notes": "Dent's prophetic statement that foreshadows his transformation into Two-Face. One of the film's most quoted lines.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-005",
@@ -58,7 +63,8 @@
       "sourceType": "movie",
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
-      "notes": "Alfred's explanation of the Joker's motivations. Became a widely-used phrase for describing irrational chaos."
+      "notes": "Alfred's explanation of the Joker's motivations. Became a widely-used phrase for describing irrational chaos.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-006",
@@ -68,7 +74,8 @@
       "sourceType": "movie",
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
-      "notes": "Joker's self-justification during his interrogation scene. Shows his view of himself as an agent of truth."
+      "notes": "Joker's self-justification during his interrogation scene. Shows his view of himself as an agent of truth.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-007",
@@ -78,7 +85,8 @@
       "sourceType": "movie",
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
-      "notes": "Joker's closing philosophy to Batman. Summarizes his worldview that everyone is corruptible."
+      "notes": "Joker's closing philosophy to Batman. Summarizes his worldview that everyone is corruptible.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-008",
@@ -88,7 +96,8 @@
       "sourceType": "movie",
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
-      "notes": "Dent's optimistic speech before his downfall. The irony deepens as he becomes Two-Face."
+      "notes": "Dent's optimistic speech before his downfall. The irony deepens as he becomes Two-Face.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-009",
@@ -98,7 +107,8 @@
       "sourceType": "movie",
       "quoteDate": "1989-06-23",
       "verificationStatus": "verified",
-      "notes": "Keaton's iconic delivery to a mugger. Became the definitive Batman introduction across all media."
+      "notes": "Keaton's iconic delivery to a mugger. Became the definitive Batman introduction across all media.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-010",
@@ -108,7 +118,8 @@
       "sourceType": "movie",
       "quoteDate": "2012-07-20",
       "verificationStatus": "verified",
-      "notes": "Batman reveals his identity to Gordon by referencing Gordon's kindness to him as a child. Closes the trilogy's arc."
+      "notes": "Batman reveals his identity to Gordon by referencing Gordon's kindness to him as a child. Closes the trilogy's arc.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-011",
@@ -118,7 +129,8 @@
       "sourceType": "movie",
       "quoteDate": "2008-07-18",
       "verificationStatus": "verified",
-      "notes": "Gotham's campaign slogan for Dent. Appears on buttons and signs throughout the film."
+      "notes": "Gotham's campaign slogan for Dent. Appears on buttons and signs throughout the film.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-012",
@@ -128,7 +140,8 @@
       "sourceType": "movie",
       "quoteDate": "2013-06-14",
       "verificationStatus": "verified",
-      "notes": "Martha's advice to Clark about his choice to be a hero. Emphasizes that heroism is a choice, not an obligation."
+      "notes": "Martha's advice to Clark about his choice to be a hero. Emphasizes that heroism is a choice, not an obligation.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-013",
@@ -138,7 +151,8 @@
       "sourceType": "movie",
       "quoteDate": "2013-06-14",
       "verificationStatus": "verified",
-      "notes": "Jor-El's vision for his son's role on Earth. Defines Superman as a symbol of hope."
+      "notes": "Jor-El's vision for his son's role on Earth. Defines Superman as a symbol of hope.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-014",
@@ -148,7 +162,8 @@
       "sourceType": "movie",
       "quoteDate": "2017-06-02",
       "verificationStatus": "verified",
-      "notes": "Diana's declaration of her purpose. Encapsulates Wonder Woman's protective warrior ethos."
+      "notes": "Diana's declaration of her purpose. Encapsulates Wonder Woman's protective warrior ethos.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-015",
@@ -158,7 +173,8 @@
       "sourceType": "movie",
       "quoteDate": "2017-06-02",
       "verificationStatus": "verified",
-      "notes": "Diana's response to Ares. Love as a philosophy distinguishes Wonder Woman from other DC heroes."
+      "notes": "Diana's response to Ares. Love as a philosophy distinguishes Wonder Woman from other DC heroes.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-016",
@@ -168,7 +184,8 @@
       "sourceType": "movie",
       "quoteDate": "2017-06-02",
       "verificationStatus": "verified",
-      "notes": "Opening narration reflecting on Diana's disillusionment. Sets up her journey in the film."
+      "notes": "Opening narration reflecting on Diana's disillusionment. Sets up her journey in the film.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-017",
@@ -178,7 +195,8 @@
       "sourceType": "movie",
       "quoteDate": "2017-06-02",
       "verificationStatus": "verified",
-      "notes": "Hippolyta describing Amazon warrior standards. Establishes the culture Diana was raised in."
+      "notes": "Hippolyta describing Amazon warrior standards. Establishes the culture Diana was raised in.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-018",
@@ -188,7 +206,8 @@
       "sourceType": "movie",
       "quoteDate": "2016-03-25",
       "verificationStatus": "verified",
-      "notes": "Batman's threat to Superman during their first confrontation. Became a trailer highlight."
+      "notes": "Batman's threat to Superman during their first confrontation. Became a trailer highlight.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-019",
@@ -198,7 +217,8 @@
       "sourceType": "movie",
       "quoteDate": "2016-03-25",
       "verificationStatus": "verified",
-      "notes": "Bruce's paranoid logic about Superman. Shows his post-trauma mindset after Metropolis."
+      "notes": "Bruce's paranoid logic about Superman. Shows his post-trauma mindset after Metropolis.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-020",
@@ -208,7 +228,8 @@
       "sourceType": "movie",
       "quoteDate": "2016-03-25",
       "verificationStatus": "verified",
-      "notes": "Media commentary on Superman's polarizing presence. Reflects real-world debates about power and accountability."
+      "notes": "Media commentary on Superman's polarizing presence. Reflects real-world debates about power and accountability.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-021",
@@ -218,7 +239,8 @@
       "sourceType": "movie",
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
-      "notes": "This Batman's self-identification. The film explores how this identity limits him until he becomes hope."
+      "notes": "This Batman's self-identification. The film explores how this identity limits him until he becomes hope.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-022",
@@ -228,7 +250,8 @@
       "sourceType": "movie",
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
-      "notes": "Opening narration explaining Batman's psychological warfare approach. Sets the film's noir tone."
+      "notes": "Opening narration explaining Batman's psychological warfare approach. Sets the film's noir tone.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-023",
@@ -238,7 +261,8 @@
       "sourceType": "movie",
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
-      "notes": "Selina's playful acknowledgment of their partnership. Hints at their comic book romance."
+      "notes": "Selina's playful acknowledgment of their partnership. Hints at their comic book romance.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-024",
@@ -248,7 +272,8 @@
       "sourceType": "movie",
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
-      "notes": "Arthur's journal entry about his mental state. Phoenix won the Oscar for his portrayal of mental illness."
+      "notes": "Arthur's journal entry about his mental state. Phoenix won the Oscar for his portrayal of mental illness.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-025",
@@ -258,7 +283,8 @@
       "sourceType": "movie",
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
-      "notes": "Arthur's observation to his social worker. Reflects societal breakdown as a theme."
+      "notes": "Arthur's observation to his social worker. Reflects societal breakdown as a theme.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-026",
@@ -268,7 +294,8 @@
       "sourceType": "movie",
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
-      "notes": "Arthur's journal entry about societal expectations. Resonated with mental health advocacy discussions."
+      "notes": "Arthur's journal entry about societal expectations. Resonated with mental health advocacy discussions.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-027",
@@ -278,7 +305,8 @@
       "sourceType": "movie",
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
-      "notes": "Arthur's transformation moment. Marks his full embrace of the Joker identity."
+      "notes": "Arthur's transformation moment. Marks his full embrace of the Joker identity.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-028",
@@ -288,7 +316,8 @@
       "sourceType": "movie",
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
-      "notes": "Joker's declaration during the climactic talk show scene. The film's most shocking moment."
+      "notes": "Joker's declaration during the climactic talk show scene. The film's most shocking moment.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-029",
@@ -298,7 +327,8 @@
       "sourceType": "movie",
       "quoteDate": "2019-10-04",
       "verificationStatus": "verified",
-      "notes": "Arthur explaining his forced positivity. His mother's advice becomes tragically ironic."
+      "notes": "Arthur explaining his forced positivity. His mother's advice becomes tragically ironic.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-030",
@@ -308,7 +338,8 @@
       "sourceType": "movie",
       "quoteDate": "2018-12-21",
       "verificationStatus": "verified",
-      "notes": "Arthur claiming his birthright. Momoa's portrayal reinvented Aquaman for modern audiences."
+      "notes": "Arthur claiming his birthright. Momoa's portrayal reinvented Aquaman for modern audiences.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-031",
@@ -318,7 +349,8 @@
       "sourceType": "movie",
       "quoteDate": "2018-12-21",
       "verificationStatus": "verified",
-      "notes": "Arthur's quip arriving at a submarine. Shows his irreverent humor."
+      "notes": "Arthur's quip arriving at a submarine. Shows his irreverent humor.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-032",
@@ -328,7 +360,8 @@
       "sourceType": "movie",
       "quoteDate": "2017-11-17",
       "verificationStatus": "verified",
-      "notes": "Barry awkwardly introducing himself to Commissioner Gordon. Comic relief in the team's first assembly."
+      "notes": "Barry awkwardly introducing himself to Commissioner Gordon. Comic relief in the team's first assembly.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-033",
@@ -338,7 +371,8 @@
       "sourceType": "movie",
       "quoteDate": "1980-12-04",
       "verificationStatus": "verified",
-      "notes": "Zod's demand for submission. Became one of the most quoted villain lines in superhero cinema."
+      "notes": "Zod's demand for submission. Became one of the most quoted villain lines in superhero cinema.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-034",
@@ -348,7 +382,8 @@
       "sourceType": "comic",
       "quoteDate": null,
       "verificationStatus": "verified",
-      "notes": "The Yellow Lantern oath, counterpart to the Green Lantern oath. Fear-based power source."
+      "notes": "The Yellow Lantern oath, counterpart to the Green Lantern oath. Fear-based power source.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "dc-035",
@@ -358,7 +393,8 @@
       "sourceType": "comic",
       "quoteDate": "1959",
       "verificationStatus": "verified",
-      "notes": "The iconic Green Lantern oath, first appeared in Green Lantern #9 (1959). Recited when charging power rings."
+      "notes": "The iconic Green Lantern oath, first appeared in Green Lantern #9 (1959). Recited when charging power rings.",
+      "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
 }

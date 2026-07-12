@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "magnifyingglass",
   "category": "Literature",
+  "addedAt": "2026-06-28T02:20:43Z",
   "lastUpdated": "2026-06-27T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes chides Watson with the maxim that underpins his entire method of reasoning."
+      "notes": "Holmes chides Watson with the maxim that underpins his entire method of reasoning.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes explains to Watson why he cannot say how many steps lead up to their Baker Street rooms."
+      "notes": "Holmes explains to Watson why he cannot say how many steps lead up to their Baker Street rooms.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "quoteDate": "1904",
       "verificationStatus": "verified",
-      "notes": "Holmes rouses Watson from sleep to chase a fresh case, in his most famous rallying cry."
+      "notes": "Holmes rouses Watson from sleep to chase a fresh case, in his most famous rallying cry.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes warns against twisting facts to suit theories instead of theories to suit facts."
+      "notes": "Holmes warns against twisting facts to suit theories instead of theories to suit facts.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes invites Watson to deduce the history of a pocket watch for himself."
+      "notes": "Holmes invites Watson to deduce the history of a pocket watch for himself.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "1921",
       "verificationStatus": "verified",
-      "notes": "Holmes sums up his self-image as a creature of pure intellect."
+      "notes": "Holmes sums up his self-image as a creature of pure intellect.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "quoteDate": "1892",
       "verificationStatus": "verified",
-      "notes": "Holmes cries out impatiently for facts before he will venture a conclusion."
+      "notes": "Holmes cries out impatiently for facts before he will venture a conclusion.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes explains why he fastens on the small details others overlook."
+      "notes": "Holmes explains why he fastens on the small details others overlook.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "quoteDate": "1892",
       "verificationStatus": "verified",
-      "notes": "Holmes introduces himself to a wary salesman while tracing a stolen jewel."
+      "notes": "Holmes introduces himself to a wary salesman while tracing a stolen jewel.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes laughs off the seemingly open-and-shut case against young McCarthy."
+      "notes": "Holmes laughs off the seemingly open-and-shut case against young McCarthy.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "quoteDate": "1911",
       "verificationStatus": "verified",
-      "notes": "Holmes reflects on the unending nature of learning as a case unfolds."
+      "notes": "Holmes reflects on the unending nature of learning as a case unfolds.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-012",
@@ -128,7 +140,8 @@
       "sourceType": "book",
       "quoteDate": "1915",
       "verificationStatus": "verified",
-      "notes": "Holmes praises Inspector MacDonald's willingness to seek out the help of a superior mind."
+      "notes": "Holmes praises Inspector MacDonald's willingness to seek out the help of a superior mind.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": "1892",
       "verificationStatus": "verified",
-      "notes": "Holmes tells Watson to chronicle his reasoning rather than the sensational details of his cases."
+      "notes": "Holmes tells Watson to chronicle his reasoning rather than the sensational details of his cases.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes defends his rigid habits of method."
+      "notes": "Holmes defends his rigid habits of method.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "quoteDate": "1923",
       "verificationStatus": "verified",
-      "notes": "Holmes's characteristically terse telegram summoning Watson to Baker Street."
+      "notes": "Holmes's characteristically terse telegram summoning Watson to Baker Street.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes pays Watson a backhanded compliment as the two ride through the night."
+      "notes": "Holmes pays Watson a backhanded compliment as the two ride through the night.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes describes his craving for mental stimulation to ward off boredom."
+      "notes": "Holmes describes his craving for mental stimulation to ward off boredom.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes confesses the restlessness that drives him to detective work."
+      "notes": "Holmes confesses the restlessness that drives him to detective work.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-019",
@@ -198,7 +217,8 @@
       "sourceType": "book",
       "quoteDate": "1902",
       "verificationStatus": "verified",
-      "notes": "Holmes remarks on how much passes unnoticed by the ordinary eye."
+      "notes": "Holmes remarks on how much passes unnoticed by the ordinary eye.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-020",
@@ -208,7 +228,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes notes that the stranger and more featureless a crime, the harder it is to solve."
+      "notes": "Holmes notes that the stranger and more featureless a crime, the harder it is to solve.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-021",
@@ -218,7 +239,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes describes the role he plays once the official police are baffled."
+      "notes": "Holmes describes the role he plays once the official police are baffled.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes critiques Watson for romanticizing his cases instead of reasoning coldly."
+      "notes": "Holmes critiques Watson for romanticizing his cases instead of reasoning coldly.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-023",
@@ -238,7 +261,8 @@
       "sourceType": "book",
       "quoteDate": "1887",
       "verificationStatus": "verified",
-      "notes": "Holmes muses on the murder scene in his very first recorded case with Watson."
+      "notes": "Holmes muses on the murder scene in his very first recorded case with Watson.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "quoteDate": "1887",
       "verificationStatus": "verified",
-      "notes": "Holmes insists on examining the scene himself rather than relying on reports."
+      "notes": "Holmes insists on examining the scene himself rather than relying on reports.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "1887",
       "verificationStatus": "verified",
-      "notes": "Holmes explains why he deliberately ignores knowledge he deems useless to his work."
+      "notes": "Holmes explains why he deliberately ignores knowledge he deems useless to his work.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "quoteDate": "1887",
       "verificationStatus": "verified",
-      "notes": "Holmes hesitates to reveal his methods lest he seem ordinary once explained."
+      "notes": "Holmes hesitates to reveal his methods lest he seem ordinary once explained.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-027",
@@ -278,7 +305,8 @@
       "sourceType": "book",
       "quoteDate": "1887",
       "verificationStatus": "verified",
-      "notes": "Holmes ties painstaking effort to success in detection."
+      "notes": "Holmes ties painstaking effort to success in detection.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-028",
@@ -288,7 +316,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes returns to his attic metaphor for organizing the mind."
+      "notes": "Holmes returns to his attic metaphor for organizing the mind.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-029",
@@ -298,7 +327,8 @@
       "sourceType": "book",
       "quoteDate": "1893",
       "verificationStatus": "verified",
-      "notes": "Holmes describes the essential skill of separating trivial facts from crucial ones."
+      "notes": "Holmes describes the essential skill of separating trivial facts from crucial ones.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-030",
@@ -308,7 +338,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Holmes likens Watson to Samuel Johnson's devoted biographer."
+      "notes": "Holmes likens Watson to Samuel Johnson's devoted biographer.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-031",
@@ -318,7 +349,8 @@
       "sourceType": "book",
       "quoteDate": "1893",
       "verificationStatus": "verified",
-      "notes": "A rare humbled Holmes, having badly misjudged a case, asks Watson to check his arrogance."
+      "notes": "A rare humbled Holmes, having badly misjudged a case, asks Watson to check his arrogance.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-032",
@@ -328,7 +360,8 @@
       "sourceType": "book",
       "quoteDate": "1904",
       "verificationStatus": "verified",
-      "notes": "Holmes teases Watson after a lady departs from their consultation."
+      "notes": "Holmes teases Watson after a lady departs from their consultation.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-033",
@@ -338,7 +371,8 @@
       "sourceType": "book",
       "quoteDate": "1893",
       "verificationStatus": "verified",
-      "notes": "Holmes reveals to Watson the existence of his great adversary, Professor Moriarty."
+      "notes": "Holmes reveals to Watson the existence of his great adversary, Professor Moriarty.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-034",
@@ -348,7 +382,8 @@
       "sourceType": "book",
       "quoteDate": "1891",
       "verificationStatus": "verified",
-      "notes": "Watson's opening words on Irene Adler, the one person to ever outwit Holmes."
+      "notes": "Watson's opening words on Irene Adler, the one person to ever outwit Holmes.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-035",
@@ -358,7 +393,8 @@
       "sourceType": "book",
       "quoteDate": "1887",
       "verificationStatus": "verified",
-      "notes": "Holmes's first deduction about Watson, astonishing him at their very first meeting."
+      "notes": "Holmes's first deduction about Watson, astonishing him at their very first meeting.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-036",
@@ -368,7 +404,8 @@
       "sourceType": "book",
       "quoteDate": "1887",
       "verificationStatus": "verified",
-      "notes": "Watson narrates how his return from the war drew him to the capital, where he would meet Holmes."
+      "notes": "Watson narrates how his return from the war drew him to the capital, where he would meet Holmes.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-037",
@@ -378,7 +415,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Holmes refuses to speculate, insisting on reasoning from evidence alone."
+      "notes": "Holmes refuses to speculate, insisting on reasoning from evidence alone.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-038",
@@ -388,7 +426,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "verified",
-      "notes": "Watson protests at Holmes's coldly detached approach to the case before them."
+      "notes": "Watson protests at Holmes's coldly detached approach to the case before them.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-039",
@@ -398,7 +437,8 @@
       "sourceType": "book",
       "quoteDate": "1903",
       "verificationStatus": "verified",
-      "notes": "Holmes consoles Watson, recently widowed, by turning him back toward the work of detection."
+      "notes": "Holmes consoles Watson, recently widowed, by turning him back toward the work of detection.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-040",
@@ -408,7 +448,8 @@
       "sourceType": "book",
       "quoteDate": "1903",
       "verificationStatus": "verified",
-      "notes": "Holmes explains his confidence in cracking the stick-figure cipher."
+      "notes": "Holmes explains his confidence in cracking the stick-figure cipher.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-041",
@@ -418,7 +459,8 @@
       "sourceType": "book",
       "quoteDate": "1893",
       "verificationStatus": "verified",
-      "notes": "Holmes's actual one-word reply to Watson's 'Excellent!'; the famous phrase 'Elementary, my dear Watson' never appears in Doyle's canon."
+      "notes": "Holmes's actual one-word reply to Watson's 'Excellent!'; the famous phrase 'Elementary, my dear Watson' never appears in Doyle's canon.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-042",
@@ -428,7 +470,8 @@
       "sourceType": "book",
       "quoteDate": "1893",
       "verificationStatus": "verified",
-      "notes": "Holmes states the principle that guides his work beyond the letter of the law."
+      "notes": "Holmes states the principle that guides his work beyond the letter of the law.",
+      "addedAt": "2026-06-28T02:20:43Z"
     },
     {
       "id": "sherlock-043",
@@ -438,7 +481,8 @@
       "sourceType": "book",
       "quoteDate": "1902",
       "verificationStatus": "verified",
-      "notes": "Dr. Mortimer's chilling revelation that sets the most famous Holmes novel in motion."
+      "notes": "Dr. Mortimer's chilling revelation that sets the most famous Holmes novel in motion.",
+      "addedAt": "2026-06-28T02:20:43Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#2DD3DA",
   "iconName": "circle.lefthalf.filled",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening lines: the ultimate Way and its true name lie beyond words and fixed definition."
+      "notes": "The opening lines: the ultimate Way and its true name lie beyond words and fixed definition.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "An early statement of wu wei, action without forced effort, and teaching by example rather than words."
+      "notes": "An early statement of wu wei, action without forced effort, and teaching by example rather than words.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Heaven and earth endure because they do not live for themselves; the sage follows their selfless example."
+      "notes": "Heaven and earth endure because they do not live for themselves; the sage follows their selfless example.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The famous water simile: the greatest good yields and flows rather than contends. Parentheses are Legge's own."
+      "notes": "The famous water simile: the greatest good yields and flows rather than contends. Parentheses are Legge's own.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Water models the Way by nourishing everything and settling into the lowly places others avoid."
+      "notes": "Water models the Way by nourishing everything and settling into the lowly places others avoid.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A caution against excess and overreaching; knowing when to stop preserves what one has."
+      "notes": "A caution against excess and overreaching; knowing when to stop preserves what one has.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Hoarded riches breed anxiety and cannot be secured; the chapter counsels withdrawal once the work is done."
+      "notes": "Hoarded riches breed anxiety and cannot be secured; the chapter counsels withdrawal once the work is done.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The best rulers govern so lightly that subjects barely notice them; lesser ones are merely loved, feared, or despised."
+      "notes": "The best rulers govern so lightly that subjects barely notice them; lesser ones are merely loved, feared, or despised.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "When the ideal ruler's work succeeds, the people say this, feeling they did it themselves; a model of effortless leadership."
+      "notes": "When the ideal ruler's work succeeds, the people say this, feeling they did it themselves; a model of effortless leadership.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The paradox of yielding: bending and emptiness are the conditions for wholeness and renewal."
+      "notes": "The paradox of yielding: bending and emptiness are the conditions for wholeness and renewal.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Self-promotion defeats itself; the Taoist ideal is quiet self-effacement rather than striving for recognition."
+      "notes": "Self-promotion defeats itself; the Taoist ideal is quiet self-effacement rather than striving for recognition.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Knowing others is cleverness, but true insight is self-knowledge; often paraphrased as knowing yourself is enlightenment."
+      "notes": "Knowing others is cleverness, but true insight is self-knowledge; often paraphrased as knowing yourself is enlightenment.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Mastery of oneself is a greater power than dominance over others."
+      "notes": "Mastery of oneself is a greater power than dominance over others.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The core paradox of wu wei: the Way accomplishes everything precisely by not forcing anything. Parentheses are Legge's."
+      "notes": "The core paradox of wu wei: the Way accomplishes everything precisely by not forcing anything. Parentheses are Legge's.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Like water wearing away stone, gentleness and yielding prevail over rigid force."
+      "notes": "Like water wearing away stone, gentleness and yielding prevail over rigid force.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Legge renders this chapter as verse; contentment and knowing when to stop are the safeguards against loss. Slashes mark his line breaks."
+      "notes": "Legge renders this chapter as verse; contentment and knowing when to stop are the safeguards against loss. Slashes mark his line breaks.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Discontent and unchecked desire are named the root of misfortune; the chapter closes praising the contentment of enough."
+      "notes": "Discontent and unchecked desire are named the root of misfortune; the chapter closes praising the contentment of enough.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Contrasts accumulating learning with the pursuit of the Tao, which instead subtracts until one reaches non-action. Parentheses are Legge's."
+      "notes": "Contrasts accumulating learning with the pursuit of the Tao, which instead subtracts until one reaches non-action. Parentheses are Legge's.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The fruit of wu wei: by reducing effort to non-action, everything is accomplished."
+      "notes": "The fruit of wu wei: by reducing effort to non-action, everything is accomplished.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Those who truly understand the Way say little; those who talk most understand least. Parentheses are Legge's."
+      "notes": "Those who truly understand the Way say little; those who talk most understand least. Parentheses are Legge's.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Great difficulties grow from small easy beginnings, so the wise act early while matters are still manageable."
+      "notes": "Great difficulties grow from small easy beginnings, so the wise act early while matters are still manageable.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "By respecting small tasks before they grow hard, the sage avoids being overwhelmed."
+      "notes": "By respecting small tasks before they grow hard, the sage avoids being overwhelmed.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Legge's exact wording of the famous 'thousand-mile journey' passage; great things grow from small beginnings. Parentheses are Legge's."
+      "notes": "Legge's exact wording of the famous 'thousand-mile journey' passage; great things grow from small beginnings. Parentheses are Legge's.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Grasping and scheming defeat their own ends; the sage acts without forcing and so loses nothing. Parentheses are Legge's."
+      "notes": "Grasping and scheming defeat their own ends; the sage acts without forcing and so loses nothing. Parentheses are Legge's.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Like rivers and seas that lead by lying low, the sage rises above others by not contending."
+      "notes": "Like rivers and seas that lead by lying low, the sage rises above others by not contending.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Suppleness belongs to the living and rigidity to the dead; softness and flexibility are aligned with life."
+      "notes": "Suppleness belongs to the living and rigidity to the dead; softness and flexibility are aligned with life.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Yet nothing surpasses water for wearing down the hard and strong, the chapter's emblem of yielding power."
+      "notes": "Yet nothing surpasses water for wearing down the hard and strong, the chapter's emblem of yielding power.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A truth all recognize yet few can practice; the weak and yielding ultimately prevail."
+      "notes": "A truth all recognize yet few can practice; the weak and yielding ultimately prevail.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The closing chapter contrasts plain truth with ornamented speech; honesty needs no embellishment."
+      "notes": "The closing chapter contrasts plain truth with ornamented speech; honesty needs no embellishment.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "tao-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 4th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The book ends on generosity: the more the sage gives to others, the more he himself has. Parentheses are Legge's."
+      "notes": "The book ends on generosity: the more the sage gives to others, the more he himself has. Parentheses are Legge's.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

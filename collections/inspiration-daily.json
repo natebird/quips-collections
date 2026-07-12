@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "sunrise.fill",
   "category": "Inspiration",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-06-20T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "speech",
       "quoteDate": "2005-06-12",
       "verificationStatus": "verified",
-      "notes": "Verified from Stanford University's official transcript of Jobs' commencement address. This quote appears in the second story of his speech about love and loss."
+      "notes": "Verified from Stanford University's official transcript of Jobs' commencement address. This quote appears in the second story of his speech about love and loss.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-002",
@@ -28,7 +30,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1949",
       "verificationStatus": "attributed",
-      "notes": "This is a paraphrase. The original German from a 1949 letter reads closer to 'in the midst of every crisis, lies great opportunity.' Widely attributed but exact source disputed."
+      "notes": "This is a paraphrase. The original German from a 1949 letter reads closer to 'in the midst of every crisis, lies great opportunity.' Widely attributed but exact source disputed.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-003",
@@ -38,7 +41,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Commonly attributed to Roosevelt but no verified primary source exists. Consistent with his philosophy of the 'strenuous life' and self-belief."
+      "notes": "Commonly attributed to Roosevelt but no verified primary source exists. Consistent with his philosophy of the 'strenuous life' and self-belief.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-004",
@@ -48,7 +52,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1940s",
       "verificationStatus": "attributed",
-      "notes": "Widely attributed to Eleanor Roosevelt. Appears in various collections of her quotes, though exact original source is difficult to verify."
+      "notes": "Widely attributed to Eleanor Roosevelt. Appears in various collections of her quotes, though exact original source is difficult to verify.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-005",
@@ -58,7 +63,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 500 BCE",
       "verificationStatus": "folk-wisdom",
-      "notes": "Traditional attribution to Confucius. The sentiment aligns with Confucian philosophy of steady self-cultivation, though exact original text varies in translation."
+      "notes": "Traditional attribution to Confucius. The sentiment aligns with Confucian philosophy of steady self-cultivation, though exact original text varies in translation.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-006",
@@ -68,7 +74,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
-      "notes": "Attributed to real estate developer George Addair. The exact origin and date remain unverified, but the quote has been consistently attributed to him since at least the 1990s."
+      "notes": "Attributed to real estate developer George Addair. The exact origin and date remain unverified, but the quote has been consistently attributed to him since at least the 1990s.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-007",
@@ -78,7 +85,8 @@
       "sourceType": "speech",
       "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
-      "notes": "Consistent with Tony Robbins' motivational philosophy. Used in his seminars and writings on personal development."
+      "notes": "Consistent with Tony Robbins' motivational philosophy. Used in his seminars and writings on personal development.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-008",
@@ -88,7 +96,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Frequently attributed to Emerson but not found in his published works. May have originated from Henry Stanley Haskins' 'Meditations in Wall Street' (1940) or similar sources."
+      "notes": "Frequently attributed to Emerson but not found in his published works. May have originated from Henry Stanley Haskins' 'Meditations in Wall Street' (1940) or similar sources.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-009",
@@ -98,7 +107,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Widely attributed to Churchill but no verified source in his speeches or writings. The sentiment aligns with his wartime rhetoric about perseverance."
+      "notes": "Widely attributed to Churchill but no verified source in his speeches or writings. The sentiment aligns with his wartime rhetoric about perseverance.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-010",
@@ -108,7 +118,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "folk-wisdom",
-      "notes": "Traditional Chinese proverb. Exact origin unknown but the wisdom about taking action has been passed down for generations."
+      "notes": "Traditional Chinese proverb. Exact origin unknown but the wisdom about taking action has been passed down for generations.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-011",
@@ -118,7 +129,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1890s",
       "verificationStatus": "attributed",
-      "notes": "Various versions exist. Edison did make similar statements about his iterative approach to invention, particularly regarding the light bulb. Verified through multiple biographies."
+      "notes": "Various versions exist. Edison did make similar statements about his iterative approach to invention, particularly regarding the light bulb. Verified through multiple biographies.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-012",
@@ -128,7 +140,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1930s",
       "verificationStatus": "attributed",
-      "notes": "Consistently attributed to Ford and aligns with his philosophy on self-belief. Found in various collections of his quotes, though exact original context varies."
+      "notes": "Consistently attributed to Ford and aligns with his philosophy on self-belief. Found in various collections of his quotes, though exact original context varies.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "quoteDate": "1994",
       "verificationStatus": "unverified",
-      "notes": "Often attributed to Mandela but actually paraphrased from Oliver Goldsmith. Mandela may have used a version of this sentiment in speeches."
+      "notes": "Often attributed to Mandela but actually paraphrased from Oliver Goldsmith. Mandela may have used a version of this sentiment in speeches.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-014",
@@ -148,7 +162,8 @@
       "sourceType": "song",
       "quoteDate": "1980-11-17",
       "verificationStatus": "verified",
-      "notes": "From Lennon's song written for his son Sean. The line was inspired by earlier variations of this sentiment from other sources."
+      "notes": "From Lennon's song written for his son Sean. The line was inspired by earlier variations of this sentiment from other sources.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-015",
@@ -158,7 +173,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Widely attributed to Emerson and consistent with his transcendentalist philosophy of self-reliance and personal choice."
+      "notes": "Widely attributed to Emerson and consistent with his transcendentalist philosophy of self-reliance and personal choice.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-016",
@@ -168,7 +184,8 @@
       "sourceType": "book",
       "quoteDate": "1973",
       "verificationStatus": "verified",
-      "notes": "Verified from Levenson's book of humorous observations and wisdom. Levenson was an American humorist and writer."
+      "notes": "Verified from Levenson's book of humorous observations and wisdom. Levenson was an American humorist and writer.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-017",
@@ -178,7 +195,8 @@
       "sourceType": "book",
       "quoteDate": "1890",
       "verificationStatus": "attributed",
-      "notes": "Attributed to William James, the father of American psychology. Consistent with his pragmatist philosophy about the power of belief and action."
+      "notes": "Attributed to William James, the father of American psychology. Consistent with his pragmatist philosophy about the power of belief and action.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-018",
@@ -188,7 +206,8 @@
       "sourceType": "book",
       "quoteDate": "1975",
       "verificationStatus": "verified",
-      "notes": "From Ziglar's influential personal development book. Ziglar was a renowned motivational speaker who influenced generations of self-help philosophy."
+      "notes": "From Ziglar's influential personal development book. Ziglar was a renowned motivational speaker who influenced generations of self-help philosophy.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-019",
@@ -198,7 +217,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1983",
       "verificationStatus": "attributed",
-      "notes": "Widely attributed to hockey legend Wayne Gretzky. Popularized further when used by Michael Scott in The Office, often leading to the joke attribution 'Wayne Gretzky - Michael Scott.'"
+      "notes": "Widely attributed to hockey legend Wayne Gretzky. Popularized further when used by Michael Scott in The Office, often leading to the joke attribution 'Wayne Gretzky - Michael Scott.'",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-020",
@@ -208,7 +228,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1994",
       "verificationStatus": "attributed",
-      "notes": "Commonly attributed to Mandela during his post-prison years. The sentiment reflects his experience of the seemingly impossible task of ending apartheid."
+      "notes": "Commonly attributed to Mandela during his post-prison years. The sentiment reflects his experience of the seemingly impossible task of ending apartheid.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-021",
@@ -218,7 +239,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1955",
       "verificationStatus": "attributed",
-      "notes": "Attributed to Walt Disney and consistent with his action-oriented philosophy. Used in Disney company materials and biographies."
+      "notes": "Attributed to Walt Disney and consistent with his action-oriented philosophy. Used in Disney company materials and biographies.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-022",
@@ -228,7 +250,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1905",
       "verificationStatus": "attributed",
-      "notes": "Attributed to the educator and advisor Booker T. Washington. Consistent with his philosophy of self-improvement through community service."
+      "notes": "Attributed to the educator and advisor Booker T. Washington. Consistent with his philosophy of self-improvement through community service.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-023",
@@ -238,7 +261,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Widely attributed to C.S. Lewis but no verified source in his published works. The sentiment is consistent with his later life writings on hope and renewal."
+      "notes": "Widely attributed to C.S. Lewis but no verified source in his published works. The sentiment is consistent with his later life writings on hope and renewal.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-024",
@@ -248,7 +272,8 @@
       "sourceType": "book",
       "quoteDate": "1913",
       "verificationStatus": "verified",
-      "notes": "From Roosevelt's autobiography. He attributes a similar sentiment to Squire Bill Widener, making this a paraphrase he popularized."
+      "notes": "From Roosevelt's autobiography. He attributes a similar sentiment to Squire Bill Widener, making this a paraphrase he popularized.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-025",
@@ -258,7 +283,8 @@
       "sourceType": "book",
       "quoteDate": "c. 6th century BCE",
       "verificationStatus": "verified",
-      "notes": "From Chapter 64 of the Tao Te Ching. Various translations exist; some translate the key character as 'step' while others use 'foot.'"
+      "notes": "From Chapter 64 of the Tao Te Ching. Various translations exist; some translate the key character as 'step' while others use 'foot.'",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-026",
@@ -268,7 +294,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Commonly attributed to Whitman though not found in his published poetry collections. May be a paraphrase of his optimistic philosophy."
+      "notes": "Commonly attributed to Whitman though not found in his published poetry collections. May be a paraphrase of his optimistic philosophy.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-027",
@@ -278,7 +305,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Frequently attributed to Lincoln but likely originated from an advertisement by Edward J. Stieglitz in the 1940s. No verified Lincoln source."
+      "notes": "Frequently attributed to Lincoln but likely originated from an advertisement by Edward J. Stieglitz in the 1940s. No verified Lincoln source.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "quoteDate": "c. 1975",
       "verificationStatus": "attributed",
-      "notes": "Attributed to tennis champion and activist Arthur Ashe. Reflects his philosophy of making the best of circumstances, especially during his civil rights advocacy."
+      "notes": "Attributed to tennis champion and activist Arthur Ashe. Reflects his philosophy of making the best of circumstances, especially during his civil rights advocacy.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-029",
@@ -298,7 +327,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Widely attributed to Twain but no verified source in his writings. The sentiment aligns with his pragmatic humor and philosophy."
+      "notes": "Widely attributed to Twain but no verified source in his writings. The sentiment aligns with his pragmatic humor and philosophy.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "di-030",
@@ -308,7 +338,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "Commonly attributed to Lewis but not verified in his published works. The sentiment is consistent with themes in his Christian apologetics and Narnia series."
+      "notes": "Commonly attributed to Lewis but not verified in his published works. The sentiment is consistent with themes in his Christian apologetics and Narnia series.",
+      "addedAt": "2026-06-27T20:29:50Z"
     }
   ]
 }

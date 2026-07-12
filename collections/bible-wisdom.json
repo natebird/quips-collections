@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "book.closed.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A cornerstone proverb on faith over self-reliance, paired with verse 6's promise of directed paths."
+      "notes": "A cornerstone proverb on faith over self-reliance, paired with verse 6's promise of directed paths.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The completion of the trust exhortation begun in Proverbs 3:5."
+      "notes": "The completion of the trust exhortation begun in Proverbs 3:5.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening line of the beloved shepherd psalm attributed to David."
+      "notes": "The opening line of the beloved shepherd psalm attributed to David.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The psalm's assurance of God's presence amid mortal danger."
+      "notes": "The psalm's assurance of God's presence amid mortal danger.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening declaration of a psalm celebrating divine steadfastness."
+      "notes": "The opening declaration of a psalm celebrating divine steadfastness.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A call to stillness and trust amid turmoil, one of Scripture's most quoted lines."
+      "notes": "A call to stillness and trust amid turmoil, one of Scripture's most quoted lines.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening of a psalm of ascents about God as keeper and protector."
+      "notes": "The opening of a psalm of ascents about God as keeper and protector.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A verse of daily thanksgiving common in worship and prayer."
+      "notes": "A verse of daily thanksgiving common in worship and prayer.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the longest psalm, a meditation on the guidance of Scripture."
+      "notes": "From the longest psalm, a meditation on the guidance of Scripture.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The famous opening of the Preacher's poem on the seasons of life."
+      "notes": "The famous opening of the Preacher's poem on the seasons of life.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Part of Ecclesiastes' catalog of life's appointed times."
+      "notes": "Part of Ecclesiastes' catalog of life's appointed times.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The first of the Beatitudes in Jesus' Sermon on the Mount."
+      "notes": "The first of the Beatitudes in Jesus' Sermon on the Mount.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Beatitude promising reward to the humble."
+      "notes": "A Beatitude promising reward to the humble.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Beatitude honoring those who make peace."
+      "notes": "A Beatitude honoring those who make peace.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus' call for his followers to be visible witnesses."
+      "notes": "Jesus' call for his followers to be visible witnesses.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Perhaps the most widely quoted verse in the New Testament."
+      "notes": "Perhaps the most widely quoted verse in the New Testament.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jesus' words to believers on the liberating power of truth."
+      "notes": "Jesus' words to believers on the liberating power of truth.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Paul's assurance of God's providence over all circumstances."
+      "notes": "Paul's assurance of God's providence over all circumstances.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Paul's hymn to love; the KJV renders agape as 'charity.'"
+      "notes": "From Paul's hymn to love; the KJV renders agape as 'charity.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The closing line of the love chapter, exalting charity above all."
+      "notes": "The closing line of the love chapter, exalting charity above all.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Paul's testimony of contentment and strength written from prison."
+      "notes": "Paul's testimony of contentment and strength written from prison.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Isaiah's promise of renewal to those who hope in God."
+      "notes": "Isaiah's promise of renewal to those who hope in God.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The prophet Micah's summary of true religion."
+      "notes": "The prophet Micah's summary of true religion.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "God's message of hope to exiles through the prophet Jeremiah."
+      "notes": "God's message of hope to exiles through the prophet Jeremiah.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "God's commission to Joshua as he leads Israel into the promised land."
+      "notes": "God's commission to Joshua as he leads Israel into the promised land.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A proverb on the power of gentle speech."
+      "notes": "A proverb on the power of gentle speech.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A well-known proverb on the lasting influence of upbringing."
+      "notes": "A well-known proverb on the lasting influence of upbringing.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A proverb celebrating the refining influence of friendship."
+      "notes": "A proverb celebrating the refining influence of friendship.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A psalm of David on the fleeting nature of sorrow."
+      "notes": "A psalm of David on the fleeting nature of sorrow.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening of the Aaronic priestly blessing."
+      "notes": "The opening of the Aaronic priestly blessing.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "bible-031",
@@ -318,7 +349,8 @@
       "quoteDate": "c. 1611",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Paul's threefold exhortation to the Thessalonian church."
+      "notes": "Paul's threefold exhortation to the Thessalonian church.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

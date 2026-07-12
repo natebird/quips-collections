@@ -8,6 +8,7 @@
   "colorDarkHex": "#FBB620",
   "iconName": "quote.bubble.fill",
   "category": "Comedy",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A calendar maxim heading Chapter 2 of the novel, on the perverse appeal of the forbidden."
+      "notes": "A calendar maxim heading Chapter 2 of the novel, on the perverse appeal of the forbidden.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 3, mock-thanking Adam for the gift of mortality."
+      "notes": "Calendar epigraph to Chapter 3, mock-thanking Adam for the gift of mortality.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 5, one of Twain's most-quoted quips on nurture."
+      "notes": "Calendar epigraph to Chapter 5, one of Twain's most-quoted quips on nurture.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 8, a wry defense of youth over faded splendor."
+      "notes": "Calendar epigraph to Chapter 8, a wry defense of youth over faded splendor.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 9, on the selfishness lurking behind our sentiments."
+      "notes": "Calendar epigraph to Chapter 9, on the selfishness lurking behind our sentiments.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 10, Twain's revision of the old count-to-ten advice."
+      "notes": "Calendar epigraph to Chapter 10, Twain's revision of the old count-to-ten advice.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 13, listing all twelve months as dangerous for speculation."
+      "notes": "Calendar epigraph to Chapter 13, listing all twelve months as dangerous for speculation.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 16, on gratitude and human ingratitude."
+      "notes": "Calendar epigraph to Chapter 16, on gratitude and human ingratitude.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 19, on the irritation of the virtuous neighbor."
+      "notes": "Calendar epigraph to Chapter 19, on the irritation of the virtuous neighbor.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 19, defending disagreement as the spice of life."
+      "notes": "Calendar epigraph to Chapter 19, defending disagreement as the spice of life.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph opening Chapter 2 of Twain's travel book."
+      "notes": "Calendar epigraph opening Chapter 2 of Twain's travel book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 7, a mock-thrifty counsel on honesty."
+      "notes": "Calendar epigraph to Chapter 7, a mock-thrifty counsel on honesty.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 8, Twain's enduring jab at the legislature."
+      "notes": "Calendar epigraph to Chapter 8, Twain's enduring jab at the legislature.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 20, on the gap between liberties held and liberties used."
+      "notes": "Calendar epigraph to Chapter 20, on the gap between liberties held and liberties used.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 27, contrasting human shame with animal innocence."
+      "notes": "Calendar epigraph to Chapter 27, contrasting human shame with animal innocence.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 28, on the usefulness of the foolish."
+      "notes": "Calendar epigraph to Chapter 28, on the usefulness of the foolish.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 36, crediting fear where others credit virtue."
+      "notes": "Calendar epigraph to Chapter 36, crediting fear where others credit virtue.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Calendar epigraph to Chapter 38, on how comfort makes morality easier."
+      "notes": "Calendar epigraph to Chapter 38, on how comfort makes morality easier.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1869",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the closing chapter of Twain's first major travel book."
+      "notes": "From the closing chapter of Twain's first major travel book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1869",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Twain mocking the affectations Americans adopt while traveling in Europe."
+      "notes": "Twain mocking the affectations Americans adopt while traveling in Europe.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1869",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A dry aside on the social currency of wealth."
+      "notes": "A dry aside on the social currency of wealth.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-022",
@@ -228,7 +250,8 @@
       "quoteDate": "1876",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The moral Twain draws from the famous whitewashing-the-fence episode."
+      "notes": "The moral Twain draws from the famous whitewashing-the-fence episode.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1885",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The mock warning 'By Order of the Author' that opens the novel."
+      "notes": "The mock warning 'By Order of the Author' that opens the novel.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1885",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Huck's decision to help Jim escape rather than obey the morality he was taught."
+      "notes": "Huck's decision to help Jim escape rather than obey the morality he was taught.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1885",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Huck's closing words, fleeing civilization for the frontier."
+      "notes": "Huck's closing words, fleeing civilization for the frontier.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-026",
@@ -268,7 +294,8 @@
       "quoteDate": "1889",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Hank Morgan the Yankee on the power of promotion in sixth-century Britain."
+      "notes": "Hank Morgan the Yankee on the power of promotion in sixth-century Britain.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1889",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Hank Morgan on stage-managing wonders for maximum effect."
+      "notes": "Hank Morgan on stage-managing wonders for maximum effect.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-028",
@@ -288,7 +316,8 @@
       "quoteDate": "1883",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening of the boyhood-ambition chapter, from Twain's memoir of river piloting."
+      "notes": "The opening of the boyhood-ambition chapter, from Twain's memoir of river piloting.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-029",
@@ -298,7 +327,8 @@
       "quoteDate": "1897",
       "verificationStatus": "verified",
       "sourceType": "letter",
-      "notes": "Twain's actual wording, published June 2, 1897; the popular 'greatly exaggerated' is a later misquote."
+      "notes": "Twain's actual wording, published June 2, 1897; the popular 'greatly exaggerated' is a later misquote.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-030",
@@ -308,7 +338,8 @@
       "quoteDate": "1900",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered Nov. 20, 1900; Twain credited the definition to a Professor Winchester in the same speech."
+      "notes": "Delivered Nov. 20, 1900; Twain credited the definition to a Professor Winchester in the same speech.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-031",
@@ -318,7 +349,8 @@
       "quoteDate": "1907",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The verbatim opening clause of a longer memory joke in Twain's serialized autobiography."
+      "notes": "The verbatim opening clause of a longer memory joke in Twain's serialized autobiography.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "twain-032",
@@ -328,7 +360,8 @@
       "quoteDate": "1894",
       "verificationStatus": "verified",
       "sourceType": "unspecified",
-      "notes": "A documented notebook entry; Twain's own margin note credits the classical source Apuleius."
+      "notes": "A documented notebook entry; Twain's own margin note credits the classical source Apuleius.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

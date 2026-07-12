@@ -8,6 +8,7 @@
   "colorDarkHex": "#DAC720",
   "iconName": "leaf.circle.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening verse of the Twin-Verses chapter, teaching that action springs from mind; the popular paraphrase 'What you think you become' derives from this."
+      "notes": "The opening verse of the Twin-Verses chapter, teaching that action springs from mind; the popular paraphrase 'What you think you become' derives from this.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The companion to verse 1, contrasting the reward of a pure mind with the pain of an evil one."
+      "notes": "The companion to verse 1, contrasting the reward of a pure mind with the pain of an evil one.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On how nursing grievances perpetuates hatred, from the Twin-Verses chapter."
+      "notes": "On how nursing grievances perpetuates hatred, from the Twin-Verses chapter.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The counterpart to verse 3: releasing resentment ends hatred."
+      "notes": "The counterpart to verse 3: releasing resentment ends hatred.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "One of the most quoted lines of the Dhammapada, often rendered as 'hatred is never appeased by hatred.'"
+      "notes": "One of the most quoted lines of the Dhammapada, often rendered as 'hatred is never appeased by hatred.'",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On how awareness of mortality dissolves disputes."
+      "notes": "On how awareness of mortality dissolves disputes.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Mind, likening mental discipline to an arrow-maker's craft."
+      "notes": "From the chapter on the Mind, likening mental discipline to an arrow-maker's craft.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Mind, on the reward of self-mastery."
+      "notes": "From the chapter on the Mind, on the reward of self-mastery.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On how a misdirected mind harms more than any external enemy."
+      "notes": "On how a misdirected mind harms more than any external enemy.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The counterpart to verse 42: a rightly-directed mind is the greatest benefactor."
+      "notes": "The counterpart to verse 42: a rightly-directed mind is the greatest benefactor.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On self-cultivation, from the chapter on the Wise; the same image recurs at verse 145."
+      "notes": "On self-cultivation, from the chapter on the Wise; the same image recurs at verse 145.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Venerable, praising mastery of the senses."
+      "notes": "From the chapter on the Venerable, praising mastery of the senses.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On the tranquility of one liberated by wisdom."
+      "notes": "On the tranquility of one liberated by wisdom.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Thousands, valuing meaning over quantity of words."
+      "notes": "From the chapter on the Thousands, valuing meaning over quantity of words.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Thousands, exalting self-conquest over military victory."
+      "notes": "From the chapter on the Thousands, exalting self-conquest over military victory.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The origin of the 'drops of water fill a pitcher' image, warning that small evils accumulate."
+      "notes": "The origin of the 'drops of water fill a pitcher' image, warning that small evils accumulate.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The counterpart to verse 121: small goods likewise accumulate into greatness."
+      "notes": "The counterpart to verse 121: small goods likewise accumulate into greatness.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Evil, on the inescapability of one's own deeds."
+      "notes": "From the chapter on Evil, on the inescapability of one's own deeds.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Punishment, on non-harming and the wish of all beings for happiness."
+      "notes": "From the chapter on Punishment, on non-harming and the wish of all beings for happiness.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Self, on personal responsibility for one's own purity."
+      "notes": "From the chapter on Self, on personal responsibility for one's own purity.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A famous summary of the Buddha's teaching: avoid evil, do good, purify the mind."
+      "notes": "A famous summary of the Buddha's teaching: avoid evil, do good, purify the mind.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening of the chapter on Happiness, on dwelling without hatred."
+      "notes": "The opening of the chapter on Happiness, on dwelling without hatred.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Happiness, on the peace found beyond winning and losing."
+      "notes": "From the chapter on Happiness, on the peace found beyond winning and losing.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Happiness, ranking health, contentment, and trust among life's true goods."
+      "notes": "From the chapter on Happiness, ranking health, contentment, and trust among life's true goods.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Anger, prescribing generous responses to hostility."
+      "notes": "From the chapter on Anger, prescribing generous responses to hostility.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Impurity, comparing self-purification to a silversmith's refining."
+      "notes": "From the chapter on Impurity, comparing self-purification to a silversmith's refining.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on Impurity, on our readiness to see others' faults over our own."
+      "notes": "From the chapter on Impurity, on our readiness to see others' faults over our own.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Way; often paraphrased as 'Buddhas only point the way.' Muller renders 'the Awakened' for Tathagatas."
+      "notes": "From the chapter on the Way; often paraphrased as 'Buddhas only point the way.' Muller renders 'the Awakened' for Tathagatas.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Way, on impermanence as the path to release from suffering."
+      "notes": "From the chapter on the Way, on impermanence as the path to release from suffering.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "dhamma-030",
@@ -308,7 +338,8 @@
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the chapter on the Venerable, describing the peace of one wholly liberated."
+      "notes": "From the chapter on the Venerable, describing the peace of one wholly liberated.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

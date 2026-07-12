@@ -8,6 +8,7 @@
   "colorDarkHex": "#F762B7",
   "iconName": "wand.and.stars",
   "category": "Movies",
+  "addedAt": "2026-06-27T20:29:50Z",
   "lastUpdated": "2026-07-04T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "song",
       "quoteDate": "1994-06-24",
       "verificationStatus": "verified",
-      "notes": "Song by Elton John and Tim Rice. The Swahili phrase became a cultural catchphrase worldwide."
+      "notes": "Song by Elton John and Tim Rice. The Swahili phrase became a cultural catchphrase worldwide.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-002",
@@ -28,7 +30,8 @@
       "sourceType": "movie",
       "quoteDate": "1994-06-24",
       "verificationStatus": "verified",
-      "notes": "Rafiki's wisdom to Simba. Accompanied by the mandrill hitting Simba with his stick to make the point."
+      "notes": "Rafiki's wisdom to Simba. Accompanied by the mandrill hitting Simba with his stick to make the point.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-003",
@@ -38,7 +41,8 @@
       "sourceType": "movie",
       "quoteDate": "1994-06-24",
       "verificationStatus": "verified",
-      "notes": "Mufasa's ghost appears to remind Simba of his identity and duty. James Earl Jones voiced the character."
+      "notes": "Mufasa's ghost appears to remind Simba of his identity and duty. James Earl Jones voiced the character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-004",
@@ -48,7 +52,8 @@
       "sourceType": "movie",
       "quoteDate": "1995-11-22",
       "verificationStatus": "verified",
-      "notes": "Buzz's catchphrase. First Pixar feature film and first fully computer-animated feature."
+      "notes": "Buzz's catchphrase. First Pixar feature film and first fully computer-animated feature.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-005",
@@ -58,7 +63,8 @@
       "sourceType": "song",
       "quoteDate": "1995-11-22",
       "verificationStatus": "verified",
-      "notes": "Randy Newman's theme song, sung as dialogue by Woody. Became the franchise's signature song."
+      "notes": "Randy Newman's theme song, sung as dialogue by Woody. Became the franchise's signature song.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-006",
@@ -68,7 +74,8 @@
       "sourceType": "movie",
       "quoteDate": "2003-05-30",
       "verificationStatus": "verified",
-      "notes": "Dory's mantra for perseverance. Became an inspirational phrase far beyond the film."
+      "notes": "Dory's mantra for perseverance. Became an inspirational phrase far beyond the film.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-007",
@@ -78,7 +85,8 @@
       "sourceType": "movie",
       "quoteDate": "2003-05-30",
       "verificationStatus": "verified",
-      "notes": "The sharks' support group pledge. Humorous take on addiction recovery meetings."
+      "notes": "The sharks' support group pledge. Humorous take on addiction recovery meetings.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-008",
@@ -88,7 +96,8 @@
       "sourceType": "song",
       "quoteDate": "2013-11-27",
       "verificationStatus": "verified",
-      "notes": "From the Oscar-winning song. Became a global phenomenon and empowerment anthem."
+      "notes": "From the Oscar-winning song. Became a global phenomenon and empowerment anthem.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-009",
@@ -98,7 +107,8 @@
       "sourceType": "movie",
       "quoteDate": "2013-11-27",
       "verificationStatus": "verified",
-      "notes": "Olaf's expression of love for Anna. Embodies the film's theme of sacrificial love."
+      "notes": "Olaf's expression of love for Anna. Embodies the film's theme of sacrificial love.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-010",
@@ -108,7 +118,8 @@
       "sourceType": "song",
       "quoteDate": "2013-11-27",
       "verificationStatus": "verified",
-      "notes": "Final line of 'Let It Go' before Elsa's dramatic door slam. Became a meme and catchphrase."
+      "notes": "Final line of 'Let It Go' before Elsa's dramatic door slam. Became a meme and catchphrase.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-011",
@@ -118,7 +129,8 @@
       "sourceType": "movie",
       "quoteDate": "2002-06-21",
       "verificationStatus": "verified",
-      "notes": "Hawaiian concept of extended family. Central theme of the film about found family."
+      "notes": "Hawaiian concept of extended family. Central theme of the film about found family.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-012",
@@ -128,7 +140,8 @@
       "sourceType": "song",
       "quoteDate": "1950-02-15",
       "verificationStatus": "verified",
-      "notes": "Opening song of the film. Became one of Disney's most iconic phrases about hope."
+      "notes": "Opening song of the film. Became one of Disney's most iconic phrases about hope.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-013",
@@ -138,7 +151,8 @@
       "sourceType": "movie",
       "quoteDate": "1950-02-15",
       "verificationStatus": "verified",
-      "notes": "The Godmother's wisdom about patience. Verna Felton voiced the character."
+      "notes": "The Godmother's wisdom about patience. Verna Felton voiced the character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-014",
@@ -148,7 +162,8 @@
       "sourceType": "unspecified",
       "quoteDate": "1983",
       "verificationStatus": "unverified",
-      "notes": "Commonly attributed to Walt Disney, but actually written by Disney Imagineer Tom Fitzgerald for Epcot's Horizons attraction in 1983, seventeen years after Walt Disney's death. The misattribution persists in popular culture."
+      "notes": "Commonly attributed to Walt Disney, but actually written by Disney Imagineer Tom Fitzgerald for Epcot's Horizons attraction in 1983, seventeen years after Walt Disney's death. The misattribution persists in popular culture.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-015",
@@ -158,7 +173,8 @@
       "sourceType": "movie",
       "quoteDate": "1998-06-19",
       "verificationStatus": "verified",
-      "notes": "The Emperor's praise for Mulan. Reflects the film's themes of hidden worth and resilience."
+      "notes": "The Emperor's praise for Mulan. Reflects the film's themes of hidden worth and resilience.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-016",
@@ -168,7 +184,8 @@
       "sourceType": "movie",
       "quoteDate": "1997-06-27",
       "verificationStatus": "verified",
-      "notes": "Zeus explaining what makes a true hero. Rip Torn voiced Zeus in the film."
+      "notes": "Zeus explaining what makes a true hero. Rip Torn voiced Zeus in the film.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-017",
@@ -178,7 +195,8 @@
       "sourceType": "movie",
       "quoteDate": "2009-05-29",
       "verificationStatus": "verified",
-      "notes": "From Ellie's Adventure Book. Becomes the film's emotional throughline about living fully."
+      "notes": "From Ellie's Adventure Book. Becomes the film's emotional throughline about living fully.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-018",
@@ -188,7 +206,8 @@
       "sourceType": "movie",
       "quoteDate": "2009-05-29",
       "verificationStatus": "verified",
-      "notes": "Dug's easily distracted exclamation. Became a popular reference for distraction and ADHD humor."
+      "notes": "Dug's easily distracted exclamation. Became a popular reference for distraction and ADHD humor.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-019",
@@ -198,7 +217,8 @@
       "sourceType": "movie",
       "quoteDate": "2007-06-29",
       "verificationStatus": "verified",
-      "notes": "Gusteau's democratic philosophy about culinary talent. Brad Garrett voiced the character."
+      "notes": "Gusteau's democratic philosophy about culinary talent. Brad Garrett voiced the character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-020",
@@ -208,7 +228,8 @@
       "sourceType": "movie",
       "quoteDate": "2007-06-29",
       "verificationStatus": "verified",
-      "notes": "Gusteau encouraging Remy. Reflects the film's theme about overcoming social barriers."
+      "notes": "Gusteau encouraging Remy. Reflects the film's theme about overcoming social barriers.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-021",
@@ -218,7 +239,8 @@
       "sourceType": "movie",
       "quoteDate": "1994-06-24",
       "verificationStatus": "verified",
-      "notes": "Scar's exasperated complaint about the hyenas. Jeremy Irons voiced the villain."
+      "notes": "Scar's exasperated complaint about the hyenas. Jeremy Irons voiced the villain.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-022",
@@ -228,7 +250,8 @@
       "sourceType": "movie",
       "quoteDate": "2012-06-22",
       "verificationStatus": "verified",
-      "notes": "Merida's realization about destiny. First Pixar film with a female protagonist."
+      "notes": "Merida's realization about destiny. First Pixar film with a female protagonist.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-023",
@@ -238,7 +261,8 @@
       "sourceType": "song",
       "quoteDate": "2010-11-24",
       "verificationStatus": "verified",
-      "notes": "From the romantic lantern scene duet with Flynn. Oscar-nominated song by Alan Menken."
+      "notes": "From the romantic lantern scene duet with Flynn. Oscar-nominated song by Alan Menken.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-024",
@@ -248,7 +272,8 @@
       "sourceType": "song",
       "quoteDate": "2010-11-24",
       "verificationStatus": "verified",
-      "notes": "From the Snuggly Duckling song where thugs reveal their dreams. Mandy Moore voiced Rapunzel."
+      "notes": "From the Snuggly Duckling song where thugs reveal their dreams. Mandy Moore voiced Rapunzel.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-025",
@@ -258,7 +283,8 @@
       "sourceType": "song",
       "quoteDate": "1989-11-17",
       "verificationStatus": "verified",
-      "notes": "From 'Under the Sea.' Sebastian tries to convince Ariel to stay. Samuel E. Wright voiced the crab."
+      "notes": "From 'Under the Sea.' Sebastian tries to convince Ariel to stay. Samuel E. Wright voiced the crab.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-026",
@@ -268,7 +294,8 @@
       "sourceType": "song",
       "quoteDate": "1989-11-17",
       "verificationStatus": "verified",
-      "notes": "From 'Part of Your World.' Jodi Benson's song launched the Disney Renaissance."
+      "notes": "From 'Part of Your World.' Jodi Benson's song launched the Disney Renaissance.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-027",
@@ -278,7 +305,8 @@
       "sourceType": "song",
       "quoteDate": "1991-11-22",
       "verificationStatus": "verified",
-      "notes": "Oscar-winning song by Alan Menken and Howard Ashman. Angela Lansbury sang the original."
+      "notes": "Oscar-winning song by Alan Menken and Howard Ashman. Angela Lansbury sang the original.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-028",
@@ -288,7 +316,8 @@
       "sourceType": "song",
       "quoteDate": "1991-11-22",
       "verificationStatus": "verified",
-      "notes": "From 'Belle (Reprise).' Establishes Belle's desire for more than provincial life."
+      "notes": "From 'Belle (Reprise).' Establishes Belle's desire for more than provincial life.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-029",
@@ -298,7 +327,8 @@
       "sourceType": "song",
       "quoteDate": "1992-11-25",
       "verificationStatus": "verified",
-      "notes": "Oscar-winning song during the magic carpet ride. Brad Kane provided Aladdin's singing voice."
+      "notes": "Oscar-winning song during the magic carpet ride. Brad Kane provided Aladdin's singing voice.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-030",
@@ -308,7 +338,8 @@
       "sourceType": "song",
       "quoteDate": "1992-11-25",
       "verificationStatus": "verified",
-      "notes": "Williams' show-stopping performance. His improvisation changed how Disney used voice actors."
+      "notes": "Williams' show-stopping performance. His improvisation changed how Disney used voice actors.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-031",
@@ -318,7 +349,8 @@
       "sourceType": "movie",
       "quoteDate": "1992-11-25",
       "verificationStatus": "verified",
-      "notes": "Aladdin's defiant response to insults. Scott Weinger voiced the character."
+      "notes": "Aladdin's defiant response to insults. Scott Weinger voiced the character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-032",
@@ -328,7 +360,8 @@
       "sourceType": "song",
       "quoteDate": "2016-11-23",
       "verificationStatus": "verified",
-      "notes": "Lin-Manuel Miranda's Oscar-nominated song about calling and destiny. Auli'i Cravalho voiced Moana."
+      "notes": "Lin-Manuel Miranda's Oscar-nominated song about calling and destiny. Auli'i Cravalho voiced Moana.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-033",
@@ -338,7 +371,8 @@
       "sourceType": "movie",
       "quoteDate": "2016-11-23",
       "verificationStatus": "verified",
-      "notes": "Moana's repeated declaration to Maui. Shows her determination and identity."
+      "notes": "Moana's repeated declaration to Maui. Shows her determination and identity.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-034",
@@ -348,7 +382,8 @@
       "sourceType": "song",
       "quoteDate": "2016-11-23",
       "verificationStatus": "verified",
-      "notes": "From Maui's egotistical song about his heroic deeds. Lin-Manuel Miranda wrote the song."
+      "notes": "From Maui's egotistical song about his heroic deeds. Lin-Manuel Miranda wrote the song.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-035",
@@ -358,7 +393,8 @@
       "sourceType": "movie",
       "quoteDate": "2007-06-29",
       "verificationStatus": "verified",
-      "notes": "Remy's philosophy about embracing uncertainty. Patton Oswalt voiced the rat chef."
+      "notes": "Remy's philosophy about embracing uncertainty. Patton Oswalt voiced the rat chef.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-036",
@@ -368,7 +404,8 @@
       "sourceType": "movie",
       "quoteDate": "2010-11-24",
       "verificationStatus": "verified",
-      "notes": "Rapunzel's realization after leaving her tower. Reflects the film's coming-of-age themes."
+      "notes": "Rapunzel's realization after leaving her tower. Reflects the film's coming-of-age themes.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-037",
@@ -378,7 +415,8 @@
       "sourceType": "movie",
       "quoteDate": "2003-05-30",
       "verificationStatus": "verified",
-      "notes": "Extended version of Dory's mantra. DeGeneres' real-life optimism influenced the character."
+      "notes": "Extended version of Dory's mantra. DeGeneres' real-life optimism influenced the character.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-038",
@@ -388,7 +426,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-11-05",
       "verificationStatus": "verified",
-      "notes": "Edna's philosophy on forward-thinking. Brad Bird voiced the iconic fashion designer."
+      "notes": "Edna's philosophy on forward-thinking. Brad Bird voiced the iconic fashion designer.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-039",
@@ -398,7 +437,8 @@
       "sourceType": "movie",
       "quoteDate": "2004-11-05",
       "verificationStatus": "verified",
-      "notes": "Edna's firm design rule, demonstrated with superhero cape accidents. Became a popular safety meme."
+      "notes": "Edna's firm design rule, demonstrated with superhero cape accidents. Became a popular safety meme.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-040",
@@ -408,7 +448,8 @@
       "sourceType": "song",
       "quoteDate": "1967-10-18",
       "verificationStatus": "verified",
-      "notes": "From 'The Bare Necessities.' Phil Harris voiced Baloo in the original film."
+      "notes": "From 'The Bare Necessities.' Phil Harris voiced Baloo in the original film.",
+      "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "disney-041",
@@ -418,7 +459,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Kuzco's self-pitying opening narration, right after introducing himself as the llama on screen."
+      "notes": "Kuzco's self-pitying opening narration, right after introducing himself as the llama on screen.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-042",
@@ -428,7 +470,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Said after an old man bumps into Kuzco during his imperial strut, kicking off the film's running gag."
+      "notes": "Said after an old man bumps into Kuzco during his imperial strut, kicking off the film's running gag.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-043",
@@ -438,7 +481,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Kuzco's narrated introduction of Yzma early in the film."
+      "notes": "Kuzco's narrated introduction of Yzma early in the film.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-044",
@@ -448,7 +492,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Kuzco recoiling when Kronk suggests testing whether Yzma is a robot."
+      "notes": "Kuzco recoiling when Kronk suggests testing whether Yzma is a robot.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-045",
@@ -458,7 +503,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Yzma's command en route to her secret lab — Kronk pulls the wrong one and she falls into the alligator pit."
+      "notes": "Yzma's command en route to her secret lab — Kronk pulls the wrong one and she falls into the alligator pit.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-046",
@@ -468,7 +514,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Yzma's exasperated complaint immediately after the wrong-lever fall."
+      "notes": "Yzma's exasperated complaint immediately after the wrong-lever fall.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-047",
@@ -478,7 +525,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Yzma realizing the assassination attempt on Kuzco used the wrong potion."
+      "notes": "Yzma realizing the assassination attempt on Kuzco used the wrong potion.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-048",
@@ -488,7 +536,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Kronk's oblivious answer when Yzma asks if the poison is ready for dinner."
+      "notes": "Kronk's oblivious answer when Yzma asks if the poison is ready for dinner.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-049",
@@ -498,7 +547,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Kronk's deadpan excuse after the poison mix-up turns Kuzco into a llama instead of killing him."
+      "notes": "Kronk's deadpan excuse after the poison mix-up turns Kuzco into a llama instead of killing him.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-050",
@@ -508,7 +558,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Kronk's flat response to Yzma's shock that Kuzco is now a talking llama instead of dead."
+      "notes": "Kronk's flat response to Yzma's shock that Kuzco is now a talking llama instead of dead.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-051",
@@ -518,7 +569,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Pacha describing his home right before Kuzco reveals he plans to demolish it for his pool resort."
+      "notes": "Pacha describing his home right before Kuzco reveals he plans to demolish it for his pool resort.",
+      "addedAt": "2026-07-05T03:48:30Z"
     },
     {
       "id": "disney-052",
@@ -528,7 +580,8 @@
       "sourceType": "movie",
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
-      "notes": "Pacha's leverage line while guiding llama-Kuzco through the jungle, refusing to help him home unless he spares the village."
+      "notes": "Pacha's leverage line while guiding llama-Kuzco through the jungle, refusing to help him home unless he spares the village.",
+      "addedAt": "2026-07-05T03:48:30Z"
     }
   ]
 }

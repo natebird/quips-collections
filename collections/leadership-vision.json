@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "flag.fill",
   "category": "Inspiration",
+  "addedAt": "2026-07-01T01:53:56Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "book",
       "quoteDate": "1994-01-01",
       "verificationStatus": "verified",
-      "notes": "Mandela recalls the axiom of the Thembu regent Jongintaba in his autobiography; the quoteDate reflects the book's publication year, not a precise day."
+      "notes": "Mandela recalls the axiom of the Thembu regent Jongintaba in his autobiography; the quoteDate reflects the book's publication year, not a precise day.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-002",
@@ -28,7 +30,8 @@
       "sourceType": "speech",
       "quoteDate": "1957-11-14",
       "verificationStatus": "verified",
-      "notes": "Eisenhower framed it as an old Army maxim he had heard, illustrating that the discipline of planning outlasts any single plan."
+      "notes": "Eisenhower framed it as an old Army maxim he had heard, illustrating that the discipline of planning outlasts any single plan.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-003",
@@ -38,7 +41,8 @@
       "sourceType": "speech",
       "quoteDate": "1943-09-06",
       "verificationStatus": "verified",
-      "notes": "From Churchill's wartime speech receiving an honorary degree at Harvard, urging Anglo-American shared duty."
+      "notes": "From Churchill's wartime speech receiving an honorary degree at Harvard, urging Anglo-American shared duty.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-004",
@@ -48,7 +52,8 @@
       "sourceType": "speech",
       "quoteDate": "1963-11-22",
       "verificationStatus": "verified",
-      "notes": "From the address Kennedy was to give the day he was assassinated; the text was released though never spoken."
+      "notes": "From the address Kennedy was to give the day he was assassinated; the text was released though never spoken.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "quoteDate": "1990-01-01",
       "verificationStatus": "verified",
-      "notes": "Senge's definition of shared vision as a felt commitment rather than a slogan; quoteDate reflects publication year."
+      "notes": "Senge's definition of shared vision as a felt commitment rather than a slogan; quoteDate reflects publication year.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "quoteDate": "1989-01-01",
       "verificationStatus": "verified",
-      "notes": "The opening frame of the former Herman Miller chairman's book on leadership as stewardship; quoteDate reflects publication year."
+      "notes": "The opening frame of the former Herman Miller chairman's book on leadership as stewardship; quoteDate reflects publication year.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "quoteDate": "1970-01-01",
       "verificationStatus": "verified",
-      "notes": "The founding statement of the servant-leadership movement, from Greenleaf's original essay; quoteDate reflects publication year."
+      "notes": "The founding statement of the servant-leadership movement, from Greenleaf's original essay; quoteDate reflects publication year.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "A widely used English rendering of Chapter 17; exact wording (the attribution axis is sound) varies substantially across translations."
+      "notes": "A widely used English rendering of Chapter 17; exact wording (the attribution axis is sound) varies substantially across translations.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-009",
@@ -98,7 +107,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Commonly credited to Drucker and also to Warren Bennis; genuinely associated with both but not pinned to a single primary text."
+      "notes": "Commonly credited to Drucker and also to Warren Bennis; genuinely associated with both but not pinned to a single primary text.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-010",
@@ -108,7 +118,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Long and consistently credited to Eisenhower, matching his views, but the exact original occasion is not firmly documented."
+      "notes": "Long and consistently credited to Eisenhower, matching his views, but the exact original occasion is not firmly documented.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "quoteDate": "1995-01-01",
       "verificationStatus": "attributed",
-      "notes": "Drawn from Powell's memoir and later leadership talks; wording varies slightly across retellings, so marked attributed."
+      "notes": "Drawn from Powell's memoir and later leadership talks; wording varies slightly across retellings, so marked attributed.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-012",
@@ -128,7 +140,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Consistently credited to Bennis and true to his body of work, but not tied here to a specific book or page."
+      "notes": "Consistently credited to Bennis and true to his body of work, but not tied here to a specific book or page.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-013",
@@ -138,7 +151,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Widely and specifically credited to the former First Lady; a precise original source is not established."
+      "notes": "Widely and specifically credited to the former First Lady; a precise original source is not established.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-014",
@@ -148,7 +162,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Frequently credited to Welch and consistent with his writing on developing people, but not pinned to a specific text."
+      "notes": "Frequently credited to Welch and consistent with his writing on developing people, but not pinned to a specific text.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "quoteDate": "2014-01-01",
       "verificationStatus": "attributed",
-      "notes": "A signature Sinek theme expressed across his book and talks; exact phrasing varies, so marked attributed."
+      "notes": "A signature Sinek theme expressed across his book and talks; exact phrasing varies, so marked attributed.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-016",
@@ -168,7 +184,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Long associated with Roosevelt and matching his views on delegation; a firm primary citation is not established here."
+      "notes": "Long associated with Roosevelt and matching his views on delegation; a firm primary citation is not established here.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "A frequently repeated Maxwell line from his talks and writing; not tied here to a single book or page."
+      "notes": "A frequently repeated Maxwell line from his talks and writing; not tied here to a single book or page.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-018",
@@ -188,7 +206,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Consistently credited to Hopper, who often distinguished managing things from leading people; exact original wording varies."
+      "notes": "Consistently credited to Hopper, who often distinguished managing things from leading people; exact original wording varies.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-019",
@@ -198,7 +217,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Widely credited to Reagan and echoing a broader leadership adage; a precise original occasion is not documented."
+      "notes": "Widely credited to Reagan and echoing a broader leadership adage; a precise original occasion is not documented.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-020",
@@ -208,7 +228,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "A recurring Blanchard theme across his books and talks; not fixed here to one primary source."
+      "notes": "A recurring Blanchard theme across his books and talks; not fixed here to one primary source.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-021",
@@ -218,7 +239,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Popularly credited to Truman, who is said to have kept the sentiment on his desk, though the line predates him and is attributed to several people."
+      "notes": "Popularly credited to Truman, who is said to have kept the sentiment on his desk, though the line predates him and is attributed to several people.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-022",
@@ -228,7 +250,8 @@
       "sourceType": "book",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "The wording axis fails: this is a popular paraphrase that does not match any exact passage in Saint-Exupery's text, though the sentiment derives from Citadelle."
+      "notes": "The wording axis fails: this is a popular paraphrase that does not match any exact passage in Saint-Exupery's text, though the sentiment derives from Citadelle.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-023",
@@ -238,7 +261,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "The attribution axis fails: no primary Lincoln source exists for this line and it is widely regarded as a misattribution."
+      "notes": "The attribution axis fails: no primary Lincoln source exists for this line and it is widely regarded as a misattribution.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-024",
@@ -248,7 +272,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "unverified",
-      "notes": "The attribution axis fails: this line has no basis in Adams's writings and is a modern quotation without a documented primary source."
+      "notes": "The attribution axis fails: this line has no basis in Adams's writings and is a modern quotation without a documented primary source.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-025",
@@ -258,7 +283,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Consistently credited to Nader and in line with his public statements, but not tied here to a specific speech or text."
+      "notes": "Consistently credited to Nader and in line with his public statements, but not tied here to a specific speech or text.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-026",
@@ -268,7 +294,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Widely credited to Gates and matching his stated views on organizations; a precise original source is not established."
+      "notes": "Widely credited to Gates and matching his stated views on organizations; a precise original source is not established.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-027",
@@ -278,7 +305,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Genuinely credited to King and consistent with his speeches, but the exact original occasion is not firmly pinned here."
+      "notes": "Genuinely credited to King and consistent with his speeches, but the exact original occasion is not firmly pinned here.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Long associated with the Packers coach and true to his philosophy; not tied here to a single verified transcript."
+      "notes": "Long associated with the Packers coach and true to his philosophy; not tied here to a single verified transcript.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-029",
@@ -298,7 +327,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Famously credited to Thatcher, who repeated it; she presented it as a borrowed line, so the exact origin is uncertain."
+      "notes": "Famously credited to Thatcher, who repeated it; she presented it as a borrowed line, so the exact origin is uncertain.",
+      "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "lead-030",
@@ -308,7 +338,8 @@
       "sourceType": "unspecified",
       "quoteDate": null,
       "verificationStatus": "attributed",
-      "notes": "Credited to Nooyi from her interviews and talks on leadership; not fixed here to a single primary transcript."
+      "notes": "Credited to Nooyi from her interviews and talks on leadership; not fixed here to a single primary transcript.",
+      "addedAt": "2026-07-01T01:53:56Z"
     }
   ]
 }

@@ -8,6 +8,7 @@
   "colorDarkHex": "#DE56F3",
   "iconName": "gamecontroller.fill",
   "category": "Video Games",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-07-01T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The opening narration written by Tim Cain and voiced by Ron Perlman; it became the signature line of the entire Fallout series."
+      "notes": "The opening narration written by Tim Cain and voiced by Ron Perlman; it became the signature line of the entire Fallout series.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1986",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Spoken by the cave Old Man who hands Link his first sword; a landmark of Nintendo's early English localization."
+      "notes": "Spoken by the cave Old Man who hands Link his first sword; a landmark of Nintendo's early English localization.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1985",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "A Mushroom Retainer delivers this after each of the first seven castles until the real Bowser is defeated."
+      "notes": "A Mushroom Retainer delivers this after each of the first seven castles until the real Bowser is defeated.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-004",
@@ -48,7 +52,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Scrawled in hidden dens by the survivor Doug Rattmann as a warning about GLaDOS; it is graffiti, not a line GLaDOS speaks."
+      "notes": "Scrawled in hidden dens by the survivor Doug Rattmann as a warning about GLaDOS; it is graffiti, not a line GLaDOS speaks.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-005",
@@ -58,7 +63,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Andrew Ryan's line during the climactic confrontation revealing the game's mind-control twist."
+      "notes": "Andrew Ryan's line during the climactic confrontation revealing the game's mind-control twist.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-006",
@@ -68,7 +74,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The trigger phrase used to control the player throughout BioShock, exposed in Ryan's office scene."
+      "notes": "The trigger phrase used to control the player throughout BioShock, exposed in Ryan's office scene.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Peppy's advice during combat; the maneuver is technically an aileron roll, not a barrel roll."
+      "notes": "Peppy's advice during combat; the maneuver is technically an aileron roll, not a barrel roll.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1996",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Deckard Cain's invitation in Tristram, part of his fuller greeting 'Hello, my friend. Stay awhile and listen.'"
+      "notes": "Deckard Cain's invitation in Tristram, part of his fuller greeting 'Hello, my friend. Stay awhile and listen.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The fairy companion Navi's repeated attention-grabbing call, famous (and infamous) among players."
+      "notes": "The fairy companion Navi's repeated attention-grabbing call, famous (and infamous) among players.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-010",
@@ -108,7 +118,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The central maxim of the Assassin order, adapted from the historical Assassins of Alamut, and the franchise's namesake."
+      "notes": "The central maxim of the Assassin order, adapted from the historical Assassins of Alamut, and the franchise's namesake.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-011",
@@ -118,7 +129,8 @@
       "quoteDate": "2011",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The name of Solaire's signature gesture, embraced by the community as the game's rallying cry."
+      "notes": "The name of Solaire's signature gesture, embraced by the community as the game's rallying cry.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1985",
       "verificationStatus": "unverified",
       "sourceType": "game",
-      "notes": "Exact-wording axis fails: the game named the traveler ('[Name] has died of dysentery'); lead designer Philip Bouchard confirms the second-person phrasing is a popular misremembering."
+      "notes": "Exact-wording axis fails: the game named the traveler ('[Name] has died of dysentery'); lead designer Philip Bouchard confirms the second-person phrasing is a popular misremembering.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1991",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The mistranslated villain line from the 1991 Sega Mega Drive port of Toaplan's arcade game; a foundational internet meme."
+      "notes": "The mistranslated villain line from the 1991 Sega Mega Drive port of Toaplan's arcade game; a foundational internet meme.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-014",
@@ -148,7 +162,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The G-Man's opening monologue as he wakes Gordon Freeman from stasis."
+      "notes": "The G-Man's opening monologue as he wakes Gordon Freeman from stasis.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-015",
@@ -158,7 +173,8 @@
       "quoteDate": "2011",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "A procedurally spoken guard idle line written by Emil Pagliarulo that became 2011's breakout gaming meme."
+      "notes": "A procedurally spoken guard idle line written by Emil Pagliarulo that became 2011's breakout gaming meme.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1992",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Scorpion's shout as he harpoons opponents with his rope spear; voiced by co-creator Ed Boon."
+      "notes": "Scorpion's shout as he harpoons opponents with his rope spear; voiced by co-creator Ed Boon.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1992",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The announcer's cue prompting the player to perform a Fatality on a defeated opponent."
+      "notes": "The announcer's cue prompting the player to perform a Fatality on a defeated opponent.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Protoss warning when supply is capped; a long-running strategy-game meme."
+      "notes": "The Protoss warning when supply is capped; a long-running strategy-game meme.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-019",
@@ -198,7 +217,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The escalating Game Over cry from Snake's codec allies, most memorably Colonel Campbell."
+      "notes": "The escalating Game Over cry from Snake's codec allies, most memorably Colonel Campbell.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1996",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Duke's signature catchphrase, voiced by Jon St. John (itself a nod to Army of Darkness)."
+      "notes": "Duke's signature catchphrase, voiced by Jon St. John (itself a nod to Army of Darkness).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-021",
@@ -218,7 +239,8 @@
       "quoteDate": "1996",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Barry's line after Jill narrowly escapes a descending-ceiling trap; emblematic of the game's stilted voice acting."
+      "notes": "Barry's line after Jill narrowly escapes a descending-ceiling trap; emblematic of the game's stilted voice acting.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2015",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Snake's reveal line and the game's central tagline; the phrase first appeared in Metal Gear Solid 2 (2001)."
+      "notes": "Snake's reveal line and the game's central tagline; the phrase first appeared in Metal Gear Solid 2 (2001).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-023",
@@ -238,7 +261,8 @@
       "quoteDate": "2011",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Adam Jensen's lament over his forced cybernetic augmentations, heavily featured in the game's marketing."
+      "notes": "Adam Jensen's lament over his forced cybernetic augmentations, heavily featured in the game's marketing.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-024",
@@ -248,7 +272,8 @@
       "quoteDate": "2015",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Sans's warning to a murderous player before the Snowdin confrontation on a genocide route."
+      "notes": "Sans's warning to a murderous player before the Snowdin confrontation on a genocide route.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-025",
@@ -258,7 +283,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The opening lines of GLaDOS's end-credits song 'Still Alive,' written by Jonathan Coulton and sung by Ellen McLain."
+      "notes": "The opening lines of GLaDOS's end-credits song 'Still Alive,' written by Jonathan Coulton and sung by Ellen McLain.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-026",
@@ -268,7 +294,8 @@
       "quoteDate": "2011",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The opening of Cave Johnson's 'combustible lemon' rant, one of Portal 2's most-quoted monologues."
+      "notes": "The opening of Cave Johnson's 'combustible lemon' rant, one of Portal 2's most-quoted monologues.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-027",
@@ -278,7 +305,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Priest's chant while converting enemy units, sampled from a world-music library and now a series in-joke."
+      "notes": "The Priest's chant while converting enemy units, sampled from a world-music library and now a series in-joke.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-028",
@@ -288,7 +316,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "Master Chief's terse reply aboard Cairo Station as the Covenant attack begins."
+      "notes": "Master Chief's terse reply aboard Cairo Station as the Covenant attack begins.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-029",
@@ -298,7 +327,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The combat message for a type-advantaged hit; this English phrasing debuted in the 1998 North American release."
+      "notes": "The combat message for a type-advantaged hit; this English phrasing debuted in the 1998 North American release.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-030",
@@ -308,7 +338,8 @@
       "quoteDate": "1995",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Orc Peon's acknowledgment when given an order, voiced by Bill Roper and reused across the Warcraft series."
+      "notes": "The Orc Peon's acknowledgment when given an order, voiced by Bill Roper and reused across the Warcraft series.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "game-031",
@@ -318,7 +349,8 @@
       "quoteDate": "1996",
       "verificationStatus": "verified",
       "sourceType": "game",
-      "notes": "The Butcher's greeting when the player enters his room, a jump-scare moment burned into players' memories."
+      "notes": "The Butcher's greeting when the player enters his room, a jump-scare moment burned into players' memories.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

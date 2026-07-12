@@ -8,6 +8,7 @@
   "colorDarkHex": "#4790FB",
   "iconName": "scroll.fill",
   "category": "Faith",
+  "addedAt": "2026-07-01T01:58:18Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "c. 30 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Hillel's threefold call to self-responsibility, concern for others, and urgent action, from the Ethics of the Fathers."
+      "notes": "Hillel's threefold call to self-responsibility, concern for others, and urgent action, from the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 30 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Hillel's reply to a would-be convert who asked to be taught the whole Torah while standing on one foot; the Golden Rule in its negative form."
+      "notes": "Hillel's reply to a would-be convert who asked to be taught the whole Torah while standing on one foot; the Golden Rule in its negative form.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 200 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the Mishnah's teaching on the infinite worth of a single human being; rendered from the standard text of the Babylonian Talmud."
+      "notes": "From the Mishnah's teaching on the infinite worth of a single human being; rendered from the standard text of the Babylonian Talmud.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 100 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Rabbi Tarfon on perseverance in the endless labor of Torah and good deeds, from the Ethics of the Fathers."
+      "notes": "Rabbi Tarfon on perseverance in the endless labor of Torah and good deeds, from the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 200 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A foundational teaching of Shimon the Righteous, one of the last of the Great Assembly, on the pillars that sustain the world."
+      "notes": "A foundational teaching of Shimon the Righteous, one of the last of the Great Assembly, on the pillars that sustain the world.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-006",
@@ -68,7 +74,8 @@
       "quoteDate": "c. 30 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Hillel holds up Aaron the High Priest as the model peacemaker in the Ethics of the Fathers."
+      "notes": "Hillel holds up Aaron the High Priest as the model peacemaker in the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 30 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Shammai, Hillel's great contemporary, on humility of speech and warmth toward others."
+      "notes": "Shammai, Hillel's great contemporary, on humility of speech and warmth toward others.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-008",
@@ -88,7 +96,8 @@
       "quoteDate": "c. 100 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The first of Ben Zoma's four questions in the Ethics of the Fathers, redefining wisdom as openness to learning."
+      "notes": "The first of Ben Zoma's four questions in the Ethics of the Fathers, redefining wisdom as openness to learning.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 100 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Ben Zoma redefines wealth as contentment rather than possession, in the Ethics of the Fathers."
+      "notes": "Ben Zoma redefines wealth as contentment rather than possession, in the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-010",
@@ -108,7 +118,8 @@
       "quoteDate": "c. 100 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Ben Zoma locates true strength in self-mastery over one's inclinations, in the Ethics of the Fathers."
+      "notes": "Ben Zoma locates true strength in self-mastery over one's inclinations, in the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 100 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The last of Ben Zoma's four questions, teaching that honor is earned by giving it, in the Ethics of the Fathers."
+      "notes": "The last of Ben Zoma's four questions, teaching that honor is earned by giving it, in the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 100 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Yehoshua ben Perachiah on giving others the benefit of the doubt, from the Ethics of the Fathers."
+      "notes": "Yehoshua ben Perachiah on giving others the benefit of the doubt, from the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-013",
@@ -138,7 +151,8 @@
       "quoteDate": "c. 30 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Hillel on solidarity and empathy, from the Ethics of the Fathers."
+      "notes": "Hillel on solidarity and empathy, from the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-014",
@@ -148,7 +162,8 @@
       "quoteDate": "c. 1st century",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Ben Bag Bag's praise of endless study of the Torah, which he says contains everything, from the Ethics of the Fathers."
+      "notes": "Ben Bag Bag's praise of endless study of the Torah, which he says contains everything, from the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-015",
@@ -158,7 +173,8 @@
       "quoteDate": "c. 1st century",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Akavya ben Mahalalel's meditation on origin, destiny, and accountability, from the Ethics of the Fathers."
+      "notes": "Akavya ben Mahalalel's meditation on origin, destiny, and accountability, from the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-016",
@@ -168,7 +184,8 @@
       "quoteDate": "c. 110 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Ben Azzai on how good deeds beget good deeds, from the Ethics of the Fathers."
+      "notes": "Ben Azzai on how good deeds beget good deeds, from the Ethics of the Fathers.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-017",
@@ -178,7 +195,8 @@
       "quoteDate": "c. 200 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A Talmudic teaching on how teaching deepens the teacher's own understanding."
+      "notes": "A Talmudic teaching on how teaching deepens the teacher's own understanding.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-018",
@@ -188,7 +206,8 @@
       "quoteDate": "c. 500 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The Talmud's diagnosis that sinat chinam, hatred without cause, brought down the Second Temple; rendered from the standard text."
+      "notes": "The Talmud's diagnosis that sinat chinam, hatred without cause, brought down the Second Temple; rendered from the standard text.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-019",
@@ -198,7 +217,8 @@
       "quoteDate": "c. 700 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Micah's celebrated summary of what God asks of humanity, quoted verbatim from the 1917 Jewish Publication Society translation."
+      "notes": "Micah's celebrated summary of what God asks of humanity, quoted verbatim from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-020",
@@ -208,7 +228,8 @@
       "quoteDate": "c. 6th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The commandment Rabbi Akiva called a great principle of the Torah, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "The commandment Rabbi Akiva called a great principle of the Torah, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 6th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The core verse of the Shema, recited daily in Jewish prayer, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "The core verse of the Shema, recited daily in Jewish prayer, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-022",
@@ -228,7 +250,8 @@
       "quoteDate": "c. 6th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The doubled call for justice, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "The doubled call for justice, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-023",
@@ -238,7 +261,8 @@
       "quoteDate": "c. 6th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Moses' charge to Israel to choose life, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "Moses' charge to Israel to choose life, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 6th century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The verse grounding human dignity in the divine image, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "The verse grounding human dignity in the divine image, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 300 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening of the famous meditation on time in Ecclesiastes, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "The opening of the famous meditation on time in Ecclesiastes, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 700 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Isaiah's vision of universal peace, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "Isaiah's vision of universal peace, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 500 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A verse in praise of wisdom and Torah, recited when the Torah scroll is returned to the ark; quoted from the 1917 Jewish Publication Society translation."
+      "notes": "A verse in praise of wisdom and Torah, recited when the Torah scroll is returned to the ark; quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-028",
@@ -288,7 +316,8 @@
       "quoteDate": "c. 500 BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A short psalm celebrating harmony, quoted from the 1917 Jewish Publication Society translation."
+      "notes": "A short psalm celebrating harmony, quoted from the 1917 Jewish Publication Society translation.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 1180",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Maimonides' highest of eight levels of tzedakah, condensed from his code of law the Mishneh Torah, Laws of Gifts to the Poor."
+      "notes": "Maimonides' highest of eight levels of tzedakah, condensed from his code of law the Mishneh Torah, Laws of Gifts to the Poor.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-030",
@@ -308,7 +338,8 @@
       "quoteDate": "1951",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Heschel's central thesis in The Sabbath, that Judaism builds cathedrals in time rather than space."
+      "notes": "Heschel's central thesis in The Sabbath, that Judaism builds cathedrals in time rather than space.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-031",
@@ -318,7 +349,8 @@
       "quoteDate": "1951",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Heschel's image of the Sabbath as sacred architecture built in time, from The Sabbath."
+      "notes": "Heschel's image of the Sabbath as sacred architecture built in time, from The Sabbath.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-032",
@@ -328,7 +360,8 @@
       "quoteDate": "1955",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Heschel on radical amazement and the sanctity of existence, from God in Search of Man."
+      "notes": "Heschel on radical amazement and the sanctity of existence, from God in Search of Man.",
+      "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "jewish-033",
@@ -338,7 +371,8 @@
       "quoteDate": "1965",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Heschel's much-quoted description of marching for civil rights alongside Dr. Martin Luther King Jr. in Selma, Alabama."
+      "notes": "Heschel's much-quoted description of marching for civil rights alongside Dr. Martin Luther King Jr. in Selma, Alabama.",
+      "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
 }

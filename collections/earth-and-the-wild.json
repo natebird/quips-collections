@@ -8,6 +8,7 @@
   "colorDarkHex": "#2DD3DA",
   "iconName": "globe.americas.fill",
   "category": "Nature",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1962",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The closing indictment of Carson's landmark book that launched the modern environmental movement."
+      "notes": "The closing indictment of Carson's landmark book that launched the modern environmental movement.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-002",
@@ -28,7 +30,8 @@
       "quoteDate": "1962",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Carson's core ecological principle: every organism is bound to the web of the whole."
+      "notes": "Carson's core ecological principle: every organism is bound to the web of the whole.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-003",
@@ -38,7 +41,8 @@
       "quoteDate": "1965",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Carson's posthumously published meditation on nurturing a child's sense of wonder."
+      "notes": "From Carson's posthumously published meditation on nurturing a child's sense of wonder.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-004",
@@ -48,7 +52,8 @@
       "quoteDate": "1952",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Delivered on receiving the John Burroughs Medal; later reprinted in reflections on wonder."
+      "notes": "Delivered on receiving the John Burroughs Medal; later reprinted in reflections on wonder.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-005",
@@ -58,7 +63,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The foundational maxim of Leopold's land ethic."
+      "notes": "The foundational maxim of Leopold's land ethic.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The moment of conversion that taught Leopold to see the land as a whole."
+      "notes": "The moment of conversion that taught Leopold to see the land as a whole.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-007",
@@ -78,7 +85,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the foreword Leopold completed shortly before his death in 1948."
+      "notes": "From the foreword Leopold completed shortly before his death in 1948.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The opening lines of the book's foreword."
+      "notes": "The opening lines of the book's foreword.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-009",
@@ -98,7 +107,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Leopold's spare definition of conservation as relationship rather than resource management."
+      "notes": "Leopold's spare definition of conservation as relationship rather than resource management.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1949",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Why Leopold believed conservation depends on love and direct contact with the land."
+      "notes": "Why Leopold believed conservation depends on love and direct contact with the land.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-011",
@@ -118,7 +129,8 @@
       "quoteDate": "1990",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The famous closing question of Oliver's grasshopper poem."
+      "notes": "The famous closing question of Oliver's grasshopper poem.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-012",
@@ -128,7 +140,8 @@
       "quoteDate": "1986",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The opening lines of one of Oliver's most beloved poems."
+      "notes": "The opening lines of one of Oliver's most beloved poems.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1986",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "The closing lines of \"Wild Geese,\" placing every reader within the living world."
+      "notes": "The closing lines of \"Wild Geese,\" placing every reader within the living world.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-014",
@@ -148,7 +162,8 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Oliver's distilled creed of attentiveness to the world."
+      "notes": "Oliver's distilled creed of attentiveness to the world.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-015",
@@ -158,7 +173,8 @@
       "quoteDate": "1992",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "From the poem in the collection that won the National Book Award for Poetry."
+      "notes": "From the poem in the collection that won the National Book Award for Poetry.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-016",
@@ -168,7 +184,8 @@
       "quoteDate": "1836",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the passage preceding Emerson's famous 'transparent eyeball' vision."
+      "notes": "From the passage preceding Emerson's famous 'transparent eyeball' vision.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-017",
@@ -178,7 +195,8 @@
       "quoteDate": "1836",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Emerson's claim that we meet in nature the mood we bring to it."
+      "notes": "Emerson's claim that we meet in nature the mood we bring to it.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-018",
@@ -188,7 +206,8 @@
       "quoteDate": "1836",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The founding essay of American Transcendentalism on keeping a childlike openness to the world."
+      "notes": "The founding essay of American Transcendentalism on keeping a childlike openness to the world.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-019",
@@ -198,7 +217,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Kimmerer's summary of reciprocity, drawn from how forest trees share resources underground."
+      "notes": "Kimmerer's summary of reciprocity, drawn from how forest trees share resources underground.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-020",
@@ -208,7 +228,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "On reciprocity between people and the living land, blending Indigenous wisdom and botany."
+      "notes": "On reciprocity between people and the living land, blending Indigenous wisdom and botany.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-021",
@@ -218,7 +239,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Kimmerer argues that gratitude for the earth's gifts is itself a form of resistance."
+      "notes": "Kimmerer argues that gratitude for the earth's gifts is itself a form of resistance.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Attention as the first act of care we can offer the natural world."
+      "notes": "Attention as the first act of care we can offer the natural world.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-023",
@@ -238,7 +261,8 @@
       "quoteDate": "1968",
       "verificationStatus": "verified",
       "sourceType": "poem",
-      "notes": "Berry's poem of finding release from human dread among untroubled wild creatures."
+      "notes": "Berry's poem of finding release from human dread among untroubled wild creatures.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-024",
@@ -248,7 +272,8 @@
       "quoteDate": "1977",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Berry's critique of industrial agriculture and its rupture from the land."
+      "notes": "From Berry's critique of industrial agriculture and its rupture from the land.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-025",
@@ -258,7 +283,8 @@
       "quoteDate": "1991",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Williams's memoir braiding her mother's illness with the flooding of a bird refuge."
+      "notes": "From Williams's memoir braiding her mother's illness with the flooding of a bird refuge.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-026",
@@ -268,7 +294,8 @@
       "quoteDate": "c. 1994",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified on the source axis: widely quoted but attributed inconsistently across her books (Refuge and Red)."
+      "notes": "Unverified on the source axis: widely quoted but attributed inconsistently across her books (Refuge and Red).",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 1956",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified on the source axis: attributed both to The Singing Wilderness and to Olson's 1946 essay 'We Need Wilderness'; primary text unconfirmed."
+      "notes": "Unverified on the source axis: attributed both to The Singing Wilderness and to Olson's 1946 essay 'We Need Wilderness'; primary text unconfirmed.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-028",
@@ -288,7 +316,8 @@
       "quoteDate": "2020",
       "verificationStatus": "verified",
       "sourceType": "documentary",
-      "notes": "Attenborough's framing of the biodiversity crisis in his filmed 'witness statement.'"
+      "notes": "Attenborough's framing of the biodiversity crisis in his filmed 'witness statement.'",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "earth-029",
@@ -298,7 +327,8 @@
       "quoteDate": "c. 1913",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Unverified on the source axis: attributed variously to The Summit of the Years (1913) and Time and Change (1912); primary text unconfirmed."
+      "notes": "Unverified on the source axis: attributed variously to The Summit of the Years (1913) and Time and Change (1912); primary text unconfirmed.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

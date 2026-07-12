@@ -8,6 +8,7 @@
   "colorDarkHex": "#2BD66A",
   "iconName": "figure.american.football",
   "category": "Sports",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "quoteDate": "1961",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "From Lombardi's documented 1961 address on building a winning habit."
+      "notes": "From Lombardi's documented 1961 address on building a winning habit.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-002",
@@ -28,7 +30,8 @@
       "quoteDate": "c. 1967",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Lombardi's summary of teamwork, preserved by the official Lombardi estate."
+      "notes": "Lombardi's summary of teamwork, preserved by the official Lombardi estate.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-003",
@@ -38,7 +41,8 @@
       "quoteDate": "c. 1962",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "Lombardi's definition of mental toughness, preserved by the official Lombardi estate."
+      "notes": "Lombardi's definition of mental toughness, preserved by the official Lombardi estate.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-004",
@@ -48,7 +52,8 @@
       "quoteDate": "c. 1965",
       "verificationStatus": "verified",
       "sourceType": "speech",
-      "notes": "A signature Lombardi line on resilience, preserved by the official Lombardi estate."
+      "notes": "A signature Lombardi line on resilience, preserved by the official Lombardi estate.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-005",
@@ -58,7 +63,8 @@
       "quoteDate": "c. 1970",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Drawn from Lombardi's speeches as compiled by his son in the estate-authorized volume."
+      "notes": "Drawn from Lombardi's speeches as compiled by his son in the estate-authorized volume.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-006",
@@ -68,7 +74,8 @@
       "quoteDate": "1962",
       "verificationStatus": "verified",
       "sourceType": "magazine",
-      "notes": "Lombardi's own preferred phrasing; the more famous 'it's the only thing' version originated with coach Red Sanders and was one Lombardi said he regretted repeating."
+      "notes": "Lombardi's own preferred phrasing; the more famous 'it's the only thing' version originated with coach Red Sanders and was one Lombardi said he regretted repeating.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-007",
@@ -78,7 +85,8 @@
       "quoteDate": "c. 1960",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Iconic but sourcing axis fails: no primary speech transcript or dated recording anchors this line."
+      "notes": "Iconic but sourcing axis fails: no primary speech transcript or dated recording anchors this line.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-008",
@@ -88,7 +96,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Wooden's own definition of success, the apex of his Pyramid of Success."
+      "notes": "Wooden's own definition of success, the apex of his Pyramid of Success.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-009",
@@ -98,7 +107,8 @@
       "quoteDate": "c. 1970",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Wooden's core coaching maxim, later the title of Andrew Hill's book on Wooden."
+      "notes": "Wooden's core coaching maxim, later the title of Andrew Hill's book on Wooden.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-010",
@@ -108,7 +118,8 @@
       "quoteDate": "1997",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "A recurring 'Woodenism' from his book warning against busyness without progress."
+      "notes": "A recurring 'Woodenism' from his book warning against busyness without progress.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-011",
@@ -118,7 +129,8 @@
       "quoteDate": "c. 1970",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Wooden on the block of 'Skill' in his Pyramid of Success."
+      "notes": "Wooden on the block of 'Skill' in his Pyramid of Success.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-012",
@@ -128,7 +140,8 @@
       "quoteDate": "c. 1970",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Wooden on the block of 'Self-Control' in his Pyramid of Success."
+      "notes": "Wooden on the block of 'Self-Control' in his Pyramid of Success.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-013",
@@ -138,7 +151,8 @@
       "quoteDate": "1980-02-22",
       "verificationStatus": "unverified",
       "sourceType": "speech",
-      "notes": "Iconic but wording axis fails: no recording exists; the text survives via player recollection and the 2004 film Miracle, which Brooks consulted on."
+      "notes": "Iconic but wording axis fails: no recording exists; the text survives via player recollection and the 2004 film Miracle, which Brooks consulted on.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-014",
@@ -148,7 +162,8 @@
       "quoteDate": "1998",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Summitt's foundational principle from her leadership book."
+      "notes": "Summitt's foundational principle from her leadership book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-015",
@@ -158,7 +173,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The mantra Summitt used facing early-onset Alzheimer's, recounted in her memoir."
+      "notes": "The mantra Summitt used facing early-onset Alzheimer's, recounted in her memoir.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-016",
@@ -168,7 +184,8 @@
       "quoteDate": "2009",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Walsh's central thesis that standards must come before wins."
+      "notes": "Walsh's central thesis that standards must come before wins.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-017",
@@ -178,7 +195,8 @@
       "quoteDate": "2009",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Walsh describing his 'Standard of Performance' philosophy."
+      "notes": "Walsh describing his 'Standard of Performance' philosophy.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-018",
@@ -188,7 +206,8 @@
       "quoteDate": "2009",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Walsh on the necessity of setbacks on the way to success."
+      "notes": "Walsh on the necessity of setbacks on the way to success.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-019",
@@ -198,7 +217,8 @@
       "quoteDate": "2013",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jackson on his Zen-influenced approach to coaching."
+      "notes": "Jackson on his Zen-influenced approach to coaching.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-020",
@@ -208,7 +228,8 @@
       "quoteDate": "1995",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Jackson on selfless team play in his first book."
+      "notes": "Jackson on selfless team play in his first book.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-021",
@@ -218,7 +239,8 @@
       "quoteDate": "c. 1995",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Sourcing axis fails: appears only on quote aggregators, not traced to a specific Jackson book or interview."
+      "notes": "Sourcing axis fails: appears only on quote aggregators, not traced to a specific Jackson book or interview.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-022",
@@ -228,7 +250,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Dungy on leadership by influence rather than force."
+      "notes": "Dungy on leadership by influence rather than force.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-023",
@@ -238,7 +261,8 @@
       "quoteDate": "2007",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Dungy's team creed on taking ownership."
+      "notes": "Dungy's team creed on taking ownership.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-024",
@@ -248,7 +272,8 @@
       "quoteDate": "c. 2005",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Wording axis fails: a paraphrase distilled from many talks, not a single verbatim press-conference transcript."
+      "notes": "Wording axis fails: a paraphrase distilled from many talks, not a single verbatim press-conference transcript.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-025",
@@ -258,7 +283,8 @@
       "quoteDate": "c. 1970",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Sourcing axis fails: consistent with Bryant's philosophy but traced only to later quote compilations, not a dated primary source."
+      "notes": "Sourcing axis fails: consistent with Bryant's philosophy but traced only to later quote compilations, not a dated primary source.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-026",
@@ -268,7 +294,8 @@
       "quoteDate": "2004",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Smith's three-part mission statement for his North Carolina teams."
+      "notes": "Smith's three-part mission statement for his North Carolina teams.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-027",
@@ -278,7 +305,8 @@
       "quoteDate": "c. 1985",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Sourcing axis fails: attributed to Auerbach's books but the specific volume and wording could not be confirmed against a primary edition."
+      "notes": "Sourcing axis fails: attributed to Auerbach's books but the specific volume and wording could not be confirmed against a primary edition.",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "coach-028",
@@ -288,7 +316,8 @@
       "quoteDate": "2014-09-29",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Belichick's repeated deflection after a lopsided loss became a team rallying cry en route to a Super Bowl title."
+      "notes": "Belichick's repeated deflection after a lopsided loss became a team rallying cry en route to a Super Bowl title.",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

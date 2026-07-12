@@ -8,6 +8,7 @@
   "colorDarkHex": "#DE56F3",
   "iconName": "moon.stars.fill",
   "category": "Wellness",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the Roman poet; a widely used rendering on the necessity of rest.",
       "quoteDate": "c. 10 CE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-002",
@@ -28,7 +30,8 @@
       "sourceType": "play",
       "notes": "Macbeth's anguished praise of the sleep he has murdered.",
       "quoteDate": "c. 1606",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "notes": "One of the best-known maxims from Franklin's annual almanac.",
       "quoteDate": "1735",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-004",
@@ -48,7 +52,8 @@
       "sourceType": "book",
       "notes": "From the English polymath's book of practical wisdom.",
       "quoteDate": "1894",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-005",
@@ -58,7 +63,8 @@
       "sourceType": "poem",
       "notes": "Odysseus's words in Homer's epic; wording varies by translation.",
       "quoteDate": "c. 8th century BCE",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-006",
@@ -68,7 +74,8 @@
       "sourceType": "book",
       "notes": "From Steinbeck's novel; the origin of the phrase 'the committee of sleep.'",
       "quoteDate": "1954",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-007",
@@ -78,7 +85,8 @@
       "sourceType": "book",
       "notes": "From the minister and therapist's meditation on the lost practice of rest.",
       "quoteDate": "1999",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-008",
@@ -88,7 +96,8 @@
       "sourceType": "book",
       "notes": "From the poet and activist's essays written during her illness.",
       "quoteDate": "1988",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-009",
@@ -98,7 +107,8 @@
       "sourceType": "book",
       "notes": "From the media founder's book redefining success beyond money and power.",
       "quoteDate": "2014",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-010",
@@ -108,7 +118,8 @@
       "sourceType": "book",
       "notes": "Another of Franklin's maxims on the value of rest over conquest.",
       "quoteDate": "c. 1750s",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-011",
@@ -118,7 +129,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the English dramatist, often linked to his pamphlet The Gull's Hornbook.",
       "quoteDate": "c. 1609",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-012",
@@ -128,7 +140,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to Gandhi on renewal and the daily cycle of rest.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-013",
@@ -138,7 +151,8 @@
       "sourceType": "book",
       "notes": "From the author's collection of essays.",
       "quoteDate": "1950",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-014",
@@ -148,7 +162,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to da Vinci; a saying often drawn from his notebooks.",
       "quoteDate": "c. 1500",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-015",
@@ -158,7 +173,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to the 14th Dalai Lama.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-016",
@@ -168,7 +184,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the American comedian.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "notes": "From the writer behind the long-running Daily Motivator column.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-018",
@@ -188,7 +206,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the Dutch writer whose wartime diaries were published as An Interrupted Life.",
       "quoteDate": "c. 1941-1943",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-019",
@@ -198,7 +217,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the Greek biographer and essayist.",
       "quoteDate": "c. 100 CE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-020",
@@ -208,7 +228,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the author of Jane Eyre.",
       "quoteDate": "c. 1850s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-021",
@@ -218,7 +239,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to Hemingway; a primary source has not been confirmed.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-022",
@@ -228,7 +250,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the author; the closing line is frequently quoted on its own.",
       "quoteDate": "c. 2010s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-023",
@@ -238,7 +261,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the comedian and actress.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-024",
@@ -248,7 +272,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the author of The Single Woman, on setting healthy boundaries.",
       "quoteDate": "c. 2010s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-025",
@@ -258,7 +283,8 @@
       "sourceType": "letter",
       "notes": "Attributed to Emerson; a favorite passage on letting the day go.",
       "quoteDate": "1854",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-026",
@@ -268,7 +294,8 @@
       "sourceType": "book",
       "notes": "From Troly-Curtin's novel; often misattributed to Bertrand Russell or John Lennon.",
       "quoteDate": "1912",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-027",
@@ -278,7 +305,8 @@
       "sourceType": "book",
       "notes": "From the philosopher's book on the causes of, and cures for, unhappiness.",
       "quoteDate": "1930",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "rest-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "notes": "A traditional Spanish saying ('Qué bonito es no hacer nada, y luego descansar').",
       "quoteDate": null,
-      "verificationStatus": "folk-wisdom"
+      "verificationStatus": "folk-wisdom",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }

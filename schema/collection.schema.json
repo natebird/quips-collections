@@ -4,7 +4,7 @@
   "title": "Quips collection file",
   "description": "Shape of a single collections/<id>.json file. Enforced in CI by scripts/validate_collections.py, which performs additional cross-file checks this schema cannot express.",
   "type": "object",
-  "required": ["id", "name", "description", "author", "colorName", "iconName", "category", "lastUpdated", "quotes"],
+  "required": ["id", "name", "description", "author", "colorName", "iconName", "category", "addedAt", "lastUpdated", "quotes"],
   "additionalProperties": true,
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
@@ -16,6 +16,7 @@
     "colorDarkHex": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$", "description": "Dark-appearance hex for colorName's Palette 2.0 token." },
     "iconName": { "type": "string" },
     "category": { "type": "string" },
+    "addedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$", "description": "ISO-8601 UTC timestamp of when this collection first entered the dataset. Powers recency-based dynamic collections (e.g. Recently Added)." },
     "lastUpdated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$" },
     "quotes": {
       "type": "array",
@@ -25,7 +26,7 @@
   "definitions": {
     "quote": {
       "type": "object",
-      "required": ["id", "content", "authorName", "source", "verificationStatus", "notes"],
+      "required": ["id", "content", "authorName", "source", "verificationStatus", "notes", "addedAt"],
       "additionalProperties": true,
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9]+-\\d{3,}$" },
@@ -46,7 +47,8 @@
             "play", "lecture", "documentary"
           ]
         },
-        "quoteDate": { "type": "string" }
+        "quoteDate": { "type": "string" },
+        "addedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$", "description": "ISO-8601 UTC timestamp of when this quote was added to the dataset. A quote added with its collection shares the collection's addedAt." }
       }
     }
   }

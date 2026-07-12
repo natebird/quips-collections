@@ -8,6 +8,7 @@
   "colorDarkHex": "#FDA260",
   "iconName": "hands.sparkles.fill",
   "category": "Wellness",
+  "addedAt": "2026-07-01T12:47:46Z",
   "lastUpdated": "2026-06-30T12:00:00Z",
   "quotes": [
     {
@@ -18,7 +19,8 @@
       "sourceType": "speech",
       "notes": "A common English rendering of Cicero's line on gratia from his defense oration Pro Plancio; wording varies by translation.",
       "quoteDate": "c. 54 BCE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-002",
@@ -28,7 +30,8 @@
       "sourceType": "book",
       "notes": "From Beattie's daily meditation book on codependency and recovery.",
       "quoteDate": "1990",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-003",
@@ -38,7 +41,8 @@
       "sourceType": "book",
       "notes": "From Chapter 6 of Chesterton's history, on the medieval spirit of thankfulness.",
       "quoteDate": "1917",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-004",
@@ -48,7 +52,8 @@
       "sourceType": "play",
       "notes": "Spoken by King Henry on being reunited with Queen Margaret.",
       "quoteDate": "c. 1591",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-005",
@@ -58,7 +63,8 @@
       "sourceType": "book",
       "notes": "From Wilder's novel reflecting on how gratitude for what we have gives life its meaning.",
       "quoteDate": "1930",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-006",
@@ -68,7 +74,8 @@
       "sourceType": "letter",
       "notes": "Epicurus's counsel on contentment, preserved by Seneca in his ninth moral letter.",
       "quoteDate": "c. 65 CE",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-007",
@@ -78,7 +85,8 @@
       "sourceType": "speech",
       "notes": "From one of Kennedy's final proclamations, issued weeks before his assassination.",
       "quoteDate": "1963-11",
-      "verificationStatus": "verified"
+      "verificationStatus": "verified",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-008",
@@ -88,7 +96,8 @@
       "sourceType": "unspecified",
       "notes": "From the American inspirational writer known for his aphorisms on thankfulness.",
       "quoteDate": "c. 1960s-1970s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-009",
@@ -98,7 +107,8 @@
       "sourceType": "unspecified",
       "notes": "A Stoic maxim traditionally attributed to Epictetus on being content with what one possesses.",
       "quoteDate": "c. 100 CE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-010",
@@ -108,7 +118,8 @@
       "sourceType": "unspecified",
       "notes": "A frequently cited reflection from Winfrey on the abundance mindset of gratitude.",
       "quoteDate": "c. 1990s-2000s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-011",
@@ -118,7 +129,8 @@
       "sourceType": "book",
       "notes": "From a collection of sayings gathered from Beecher's sermons at Plymouth Church.",
       "quoteDate": "1858",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-012",
@@ -128,7 +140,8 @@
       "sourceType": "unspecified",
       "notes": "Widely attributed to the medieval mystic, though it does not appear verbatim in his surviving sermons.",
       "quoteDate": "c. 14th century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-013",
@@ -138,7 +151,8 @@
       "sourceType": "unspecified",
       "notes": "Long attributed to Proust in translation; the exact French source is uncertain.",
       "quoteDate": "c. 1900s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-014",
@@ -148,7 +162,8 @@
       "sourceType": "book",
       "notes": "From Dickens's early collection of sketches, in the piece 'A Christmas Dinner.'",
       "quoteDate": "1836",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-015",
@@ -158,7 +173,8 @@
       "sourceType": "book",
       "notes": "From the physician and Nobel laureate's reflections on the people who shaped him.",
       "quoteDate": "1924",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-016",
@@ -168,7 +184,8 @@
       "sourceType": "unspecified",
       "notes": "Often cited from Angelou's talks and interviews on faith and thankfulness.",
       "quoteDate": "c. 1990s-2000s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-017",
@@ -178,7 +195,8 @@
       "sourceType": "unspecified",
       "notes": "From the motivational speaker and author's talks on a positive mental attitude.",
       "quoteDate": "c. 1980s-1990s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-018",
@@ -188,7 +206,8 @@
       "sourceType": "unspecified",
       "notes": "A widely circulated proverb of uncertain origin, sometimes expanded to 'and more.'",
       "quoteDate": null,
-      "verificationStatus": "folk-wisdom"
+      "verificationStatus": "folk-wisdom",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-019",
@@ -198,7 +217,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the English novelist Gladys Bronwyn Stern.",
       "quoteDate": "c. 20th century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-020",
@@ -208,7 +228,8 @@
       "sourceType": "unspecified",
       "notes": "From the Dutch priest and writer's reflections on the spiritual life of thankfulness.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-021",
@@ -218,7 +239,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the musician, echoing the theme of his song 'Count Your Blessings.'",
       "quoteDate": "c. 2000s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-022",
@@ -228,7 +250,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the author of The Color Purple in interviews on gratitude.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-023",
@@ -238,7 +261,8 @@
       "sourceType": "poem",
       "notes": "A verse of thanks widely attributed to Emerson; the attribution is traditional.",
       "quoteDate": "c. 19th century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-024",
@@ -248,7 +272,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the American essayist and novelist.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-025",
@@ -258,7 +283,8 @@
       "sourceType": "unspecified",
       "notes": "Attributed to the writer and fitness columnist Kristin Armstrong.",
       "quoteDate": "c. 2000s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-026",
@@ -268,7 +294,8 @@
       "sourceType": "unspecified",
       "notes": "A moral traditionally drawn from Aesop's fables; wording varies by translation.",
       "quoteDate": "c. 6th century BCE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-027",
@@ -278,7 +305,8 @@
       "sourceType": "unspecified",
       "notes": "From the motivational author and speaker on the psychology of winning.",
       "quoteDate": "c. 1980s-1990s",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-028",
@@ -288,7 +316,8 @@
       "sourceType": "unspecified",
       "notes": "A maxim drawn from Seneca's treatise 'On Benefits,' his extended study of giving and gratitude.",
       "quoteDate": "c. 60 CE",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-029",
@@ -298,7 +327,8 @@
       "sourceType": "poem",
       "notes": "Attributed to the Persian poet and Sufi mystic; a popular rendering rather than a fixed translation.",
       "quoteDate": "c. 13th century",
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     },
     {
       "id": "grat-030",
@@ -308,7 +338,8 @@
       "sourceType": "unspecified",
       "notes": "Popularly attributed to the Buddha; the source is a modern paraphrase rather than a canonical text.",
       "quoteDate": null,
-      "verificationStatus": "attributed"
+      "verificationStatus": "attributed",
+      "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
 }
