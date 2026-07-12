@@ -2,24 +2,19 @@
 """Generate recently-added.json — a standalone "Recently Added" collection of
 the N most recently added quotes across all collections.
 
-"Recently added" cannot come from the data itself: quotes carry only quoteDate
-(when the quote was *said*), and a collection's lastUpdated reflects its last
-edit, not its creation. So recency is derived from git history:
+Recency comes straight from the data: every quote carries an `addedAt` timestamp
+(see scripts/backfill_added_at.py and the add-quotes skill). A quote whose
+`addedAt` equals its collection's `addedAt` arrived when the collection was
+created — those are excluded, so a brand-new collection's bulk import doesn't
+swamp the feed. The rest are sorted newest-first and the top N are kept.
 
-  - For each collections/<id>.json, the commit that *created* the file defines
-    that collection's initial batch of quotes. Those are excluded — they are
-    "quotes from a newly added collection", not incremental additions.
-  - A quote whose id first appears in a *later* commit was added to an
-    already-existing collection. That commit's author date is its "added" date.
+This file is intentionally NOT registered in collections.json and lives outside
+collections/: it reuses other collections' quote ids/text, which would violate
+the one-prefix-per-collection and cross-collection-uniqueness rules enforced by
+validate_collections.py.
 
-We then take the N newest such quotes (default 25), youngest first, and emit them
-as a collection-shaped JSON file. This file is intentionally NOT registered in
-collections.json and lives outside collections/: it reuses other collections'
-quote ids/text, which would violate the one-prefix-per-collection and
-cross-collection-uniqueness rules enforced by validate_collections.py.
-
-Output is deterministic (lastUpdated = the newest included quote's added date),
-so re-running with no new quotes produces no diff. Stdlib only.
+Output is deterministic (lastUpdated = the newest included quote's addedAt), so
+re-running with no new quotes produces no diff. Stdlib only.
 
 Usage: build_recently_added.py [--root ROOT] [--limit N] [--out PATH]
 """
@@ -27,7 +22,6 @@ Usage: build_recently_added.py [--root ROOT] [--limit N] [--out PATH]
 import argparse
 import json
 import os
-import subprocess
 import sys
 
 # Presentation for the generated collection (new-palette color; see the token
@@ -45,42 +39,6 @@ META = {
 }
 
 
-def git(root, *args):
-    return subprocess.run(
-        ["git", "-C", root, *args],
-        capture_output=True, text=True, check=True,
-    ).stdout
-
-
-def quote_ids(blob):
-    """Ids of the quotes in a raw collection-file blob (empty on any failure —
-    e.g. a historical revision that didn't parse)."""
-    try:
-        data = json.loads(blob)
-    except json.JSONDecodeError:
-        return set()
-    return {q.get("id") for q in data.get("quotes", []) if q.get("id")}
-
-
-def added_events(root, rel_path):
-    """Yield (quote_id, added_date_iso) for quotes added to rel_path *after* the
-    file was created. Walks the file's commits oldest→newest, tracking the set of
-    ids seen so far; the first commit seeds the set (initial batch, excluded)."""
-    log = git(root, "log", "--reverse", "--format=%H|%aI", "--", rel_path).strip()
-    if not log:
-        return
-    commits = [line.split("|", 1) for line in log.splitlines()]
-    seen = set()
-    for i, (sha, date) in enumerate(commits):
-        ids = quote_ids(git(root, "show", f"{sha}:{rel_path}"))
-        if i == 0:
-            seen = ids                      # creation commit → initial batch
-            continue
-        for qid in ids - seen:              # ids new in this revision
-            yield qid, date
-        seen |= ids
-
-
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--root", default=".")
@@ -91,39 +49,32 @@ def main():
     coll_dir = os.path.join(args.root, "collections")
     files = sorted(fn for fn in os.listdir(coll_dir) if fn.endswith(".json"))
 
-    # Current quote objects, keyed by id, plus their owning collection.
-    current = {}
+    # (addedAt, collection_id, quote) for every quote added *after* its
+    # collection's creation — i.e. an incremental addition, not part of a
+    # newly added collection's initial batch.
+    events = []
     for fn in files:
-        cid = fn[:-5]
         data = json.load(open(os.path.join(coll_dir, fn), encoding="utf-8"))
+        cid, created = data["id"], data.get("addedAt")
         for q in data.get("quotes", []):
-            if q.get("id"):
-                current[q["id"]] = (cid, q)
+            added = q.get("addedAt")
+            if added and added != created:
+                events.append((added, cid, q))
 
-    # Collect add-events across all files; keep only quotes that still exist.
-    events = {}  # quote_id -> added_date (first time it was added post-creation)
-    for fn in files:
-        for qid, date in added_events(args.root, f"collections/{fn}"):
-            if qid in current and qid not in events:
-                events[qid] = date
+    # Newest first; tie-break by quote id for stable, deterministic ordering.
+    events.sort(key=lambda e: (e[0], e[2].get("id", "")), reverse=True)
+    picked = events[: args.limit]
 
-    # Newest first; tie-break by id for stable ordering.
-    ranked = sorted(events.items(), key=lambda kv: (kv[1], kv[0]), reverse=True)
-    picked = ranked[: args.limit]
+    quotes = [{**q, "sourceCollection": cid} for _, cid, q in picked]
+    newest = picked[0][0] if picked else ""
 
-    quotes = []
-    for qid, date in picked:
-        cid, q = current[qid]
-        quotes.append({**q, "sourceCollection": cid, "addedDate": date})
-
-    newest = picked[0][1] if picked else None
     collection = {
         **META,
         "description": (
             f"The {len(quotes)} most recently added quotes across the Quips "
             "collections, excluding quotes introduced with brand-new collections."
         ),
-        "lastUpdated": newest or "",
+        "lastUpdated": newest,
         "quotes": quotes,
     }
 

@@ -20,8 +20,8 @@
       "verificationStatus": "verified",
       "sourceType": "unspecified",
       "notes": "Photographed on Feynman's blackboard after his death, alongside the line 'Know how to solve every problem that has been solved'; documented by Caltech Archives and cited by science historians.",
-      "sourceCollection": "great-scientists",
-      "addedDate": "2026-07-09T12:40:13Z"
+      "addedAt": "2026-07-09T12:40:13Z",
+      "sourceCollection": "great-scientists"
     },
     {
       "id": "poem-035",
@@ -32,8 +32,8 @@
       "quoteDate": "1917",
       "verificationStatus": "verified",
       "notes": "The closing indictment of Horace's maxim ('it is sweet and fitting to die for one's country'), drafted at Craiglockhart War Hospital and published posthumously.",
-      "sourceCollection": "great-poems",
-      "addedDate": "2026-07-09T12:40:13Z"
+      "addedAt": "2026-07-09T12:40:13Z",
+      "sourceCollection": "great-poems"
     },
     {
       "id": "cosmos-032",
@@ -44,8 +44,8 @@
       "verificationStatus": "verified",
       "sourceType": "radio",
       "notes": "Cernan's closing remarks as the last person to walk on the Moon, recorded in NASA's air-to-ground transcript.",
-      "sourceCollection": "cosmos-space",
-      "addedDate": "2026-07-09T12:40:13Z"
+      "addedAt": "2026-07-09T12:40:13Z",
+      "sourceCollection": "cosmos-space"
     },
     {
       "id": "cosmos-031",
@@ -56,8 +56,8 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Collins's reflection on his roughly 48 minutes of solitude aboard the Apollo 11 command module, alone on the far side of the Moon during Armstrong and Aldrin's descent.",
-      "sourceCollection": "cosmos-space",
-      "addedDate": "2026-07-09T12:40:13Z"
+      "addedAt": "2026-07-09T12:40:13Z",
+      "sourceCollection": "cosmos-space"
     },
     {
       "id": "poem-034",
@@ -68,8 +68,8 @@
       "quoteDate": "c. 1861",
       "verificationStatus": "verified",
       "notes": "The poem's famous opening couplet; only these two lines are quoted since a later line has a disputed manuscript-vs-published wording.",
-      "sourceCollection": "great-poems",
-      "addedDate": "2026-07-06T12:25:35Z"
+      "addedAt": "2026-07-06T12:25:35Z",
+      "sourceCollection": "great-poems"
     },
     {
       "id": "invest-033",
@@ -80,8 +80,8 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Klarman's summary of the temperament value investing demands; the long-out-of-print book now sells for thousands of dollars used.",
-      "sourceCollection": "money-investing",
-      "addedDate": "2026-07-06T12:25:35Z"
+      "addedAt": "2026-07-06T12:25:35Z",
+      "sourceCollection": "money-investing"
     },
     {
       "id": "invest-032",
@@ -92,8 +92,8 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Often misattributed to Taleb's later Skin in the Game; the aphorism originates in this 2010 collection.",
-      "sourceCollection": "money-investing",
-      "addedDate": "2026-07-06T12:25:35Z"
+      "addedAt": "2026-07-06T12:25:35Z",
+      "sourceCollection": "money-investing"
     },
     {
       "id": "invest-031",
@@ -104,8 +104,8 @@
       "verificationStatus": "verified",
       "sourceType": "book",
       "notes": "Marks's maxim from the book's chapters on risk, on why hard markets teach the lessons easy ones cannot.",
-      "sourceCollection": "money-investing",
-      "addedDate": "2026-07-06T12:25:35Z"
+      "addedAt": "2026-07-06T12:25:35Z",
+      "sourceCollection": "money-investing"
     },
     {
       "id": "scifi-047",
@@ -116,8 +116,8 @@
       "quoteDate": "2021-12-22",
       "verificationStatus": "verified",
       "notes": "Trinity (as 'Tiffany') mulling free will vs. conditioning during a coffee-shop conversation with Thomas Anderson.",
-      "sourceCollection": "scifi-screen",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "scifi-screen"
     },
     {
       "id": "scifi-046",
@@ -128,8 +128,8 @@
       "quoteDate": "2021-12-22",
       "verificationStatus": "verified",
       "notes": "Bugs explaining how the Matrix weaponizes and trivializes important ideas by burying them in fiction.",
-      "sourceCollection": "scifi-screen",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "scifi-screen"
     },
     {
       "id": "scifi-045",
@@ -140,8 +140,8 @@
       "quoteDate": "2003-11-05",
       "verificationStatus": "verified",
       "notes": "Smith recalling the Oracle's words during the climactic rain-soaked duel with Neo.",
-      "sourceCollection": "scifi-screen",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "scifi-screen"
     },
     {
       "id": "scifi-044",
@@ -152,8 +152,8 @@
       "quoteDate": "2003-05-15",
       "verificationStatus": "verified",
       "notes": "The Merovingian's determinist counter-argument to Morpheus at Le Vrai restaurant.",
-      "sourceCollection": "scifi-screen",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "scifi-screen"
     },
     {
       "id": "scifi-043",
@@ -164,8 +164,8 @@
       "quoteDate": "2003-05-15",
       "verificationStatus": "verified",
       "notes": "Morpheus's rebuttal to the Merovingian during their philosophical clash over free will.",
-      "sourceCollection": "scifi-screen",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "scifi-screen"
     },
     {
       "id": "scifi-042",
@@ -176,8 +176,8 @@
       "quoteDate": "1999-03-31",
       "verificationStatus": "verified",
       "notes": "Smith's dismissive line just before ordering sentinels deployed instead of relying on human agents to hunt Morpheus's crew.",
-      "sourceCollection": "scifi-screen",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "scifi-screen"
     },
     {
       "id": "disney-052",
@@ -188,8 +188,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Pacha's leverage line while guiding llama-Kuzco through the jungle, refusing to help him home unless he spares the village.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-051",
@@ -200,8 +200,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Pacha describing his home right before Kuzco reveals he plans to demolish it for his pool resort.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-050",
@@ -212,8 +212,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Kronk's flat response to Yzma's shock that Kuzco is now a talking llama instead of dead.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-049",
@@ -224,8 +224,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Kronk's deadpan excuse after the poison mix-up turns Kuzco into a llama instead of killing him.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-048",
@@ -236,8 +236,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Kronk's oblivious answer when Yzma asks if the poison is ready for dinner.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-047",
@@ -248,8 +248,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Yzma realizing the assassination attempt on Kuzco used the wrong potion.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-046",
@@ -260,8 +260,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Yzma's exasperated complaint immediately after the wrong-lever fall.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-045",
@@ -272,8 +272,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Yzma's command en route to her secret lab — Kronk pulls the wrong one and she falls into the alligator pit.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-044",
@@ -284,8 +284,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Kuzco recoiling when Kronk suggests testing whether Yzma is a robot.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-043",
@@ -296,8 +296,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Kuzco's narrated introduction of Yzma early in the film.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     },
     {
       "id": "disney-042",
@@ -308,8 +308,8 @@
       "quoteDate": "2000-12-15",
       "verificationStatus": "verified",
       "notes": "Said after an old man bumps into Kuzco during his imperial strut, kicking off the film's running gag.",
-      "sourceCollection": "disney-animated",
-      "addedDate": "2026-07-04T23:48:30-04:00"
+      "addedAt": "2026-07-05T03:48:30Z",
+      "sourceCollection": "disney-animated"
     }
   ]
 }
