@@ -13,14 +13,13 @@ the contract is below.
 
 ## 1. What these are
 
-Four feeds, each a **single JSON document** served from the same versioned base
+Three feeds, each a **single JSON document** served from the same versioned base
 as the index (`https://data.quipsapp.com/v<version>/`):
 
 | Feed | File | Shape | What it holds |
 |------|------|-------|---------------|
 | Recently Added | `recently-added.json` | collection-shaped (`quotes[]`) | 25 newest quotes added to existing collections |
 | On This Day | `on-this-day.json` | **day-keyed** (`days{}`) | quotes grouped by the calendar day they were said |
-| Short & Shareable | `short-and-shareable.json` | collection-shaped (`quotes[]`) | quotes ≤ 80 chars, shortest first (widget/lock-screen fodder) |
 | Newsletter Picks | `newsletter-picks.json` | collection-shaped (`quotes[]`) | collection quotes featured in the Quote Unquote newsletter |
 
 **These are NOT in `collections.json`.** They reuse quotes (and their ids/text)
@@ -44,10 +43,9 @@ them and don't expect their ids to be globally unique.
   "indexUrl":  "https://data.quipsapp.com/v1.9.0/collections.json",
   "indexHash": "sha256-…",
   "generated": {
-    "recentlyAdded":     { "url": "https://data.quipsapp.com/v1.9.0/recently-added.json",      "hash": "sha256-…", "bytes": 14036 },
-    "onThisDay":         { "url": "https://data.quipsapp.com/v1.9.0/on-this-day.json",          "hash": "sha256-…", "bytes": 401445 },
-    "shortAndShareable": { "url": "https://data.quipsapp.com/v1.9.0/short-and-shareable.json",  "hash": "sha256-…", "bytes": 737478 },
-    "newsletterPicks":   { "url": "https://data.quipsapp.com/v1.9.0/newsletter-picks.json",     "hash": "sha256-…", "bytes": 3242 }
+    "recentlyAdded":   { "url": "https://data.quipsapp.com/v1.9.0/recently-added.json",  "hash": "sha256-…", "bytes": 14036 },
+    "onThisDay":       { "url": "https://data.quipsapp.com/v1.9.0/on-this-day.json",      "hash": "sha256-…", "bytes": 401445 },
+    "newsletterPicks": { "url": "https://data.quipsapp.com/v1.9.0/newsletter-picks.json", "hash": "sha256-…", "bytes": 3242 }
   }
 }
 ```
@@ -134,13 +132,6 @@ To render "today": compute the user's **local** date, format `MM-DD`, and look u
 - Decide your policy for **Feb 29** (`"02-29"` exists) on non-leap years — e.g.
   fall through to `03-01` or hide.
 
-### Short & Shareable — `short-and-shareable.json`
-Collection-shaped, `quotes[]` sorted **shortest-first**; carries a `maxLength`
-field (the character cap, currently 80). Built for lock-screen / home-screen
-widgets and share cards. It's large (~700 KB, ~1,500 quotes) — stream/decode off
-the main thread, and consider taking a slice (e.g. first N) for a widget rather
-than holding all of it.
-
 ### Newsletter Picks — `newsletter-picks.json`
 Collection-shaped. Each quote carries `newsletterIssue`. Render an "As seen in
 Quote Unquote #N" badge and, if you surface the newsletter, deep-link to that
@@ -187,8 +178,8 @@ intentionally omitted).
 ## 7. Regenerating (data-repo side, for reference)
 
 The feeds are produced by `scripts/build_recently_added.py`,
-`build_on_this_day.py`, `build_short_and_shareable.py`, and
-`build_newsletter_picks.py`, and the release workflow regenerates all four from
-the released data and uploads them under `v<version>/` — so the published feeds
-always match the released collections. Consumers never need to run these; they
-only read the published JSON named in the manifest.
+`build_on_this_day.py`, and `build_newsletter_picks.py`. They are **build
+artifacts, not committed** to the repo — the release workflow regenerates all of
+them from the released data and uploads them under `v<version>/`, so the published
+feeds always match the released collections. Consumers never need to run these;
+they only read the published JSON named in the manifest.

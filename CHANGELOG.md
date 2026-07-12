@@ -13,23 +13,22 @@ used verbatim as that release's notes.
 
 ## [1.9.0] - 2026-07-11
 ### Added
-Three more generated collections, joining Recently Added, each published as a
+Two more generated collections, joining Recently Added, each published as a
 standalone feed under `v<version>/` and listed in `manifest.json`'s new
 `generated` block (url/hash/bytes, same contract as the index):
 - **On This Day** (`on-this-day.json`) — quotes grouped by the calendar day they
   were said (`days` keyed by `MM-DD`); the client indexes by today's date. Only
   quotes with a full `YYYY-MM-DD` date qualify (~700 across ~222 days).
-- **Short & Shareable** (`short-and-shareable.json`) — quotes ≤ 80 chars,
-  shortest first, for widgets and lock screens.
 - **Newsletter Picks** (`newsletter-picks.json`) — collection quotes featured in
   the Quote Unquote newsletter, tagged with `newsletterIssue`.
 
-Generators: `scripts/build_on_this_day.py`, `build_short_and_shareable.py`,
-`build_newsletter_picks.py`. `build_manifest.py` now advertises every present
-feed; the release workflow regenerates all feeds from the released data and
-uploads them, so published feeds always match the release. The consumer contract
-is documented in `docs/consuming-generated-collections.md`. All feeds are
-additive: a client that ignores `manifest.generated` is unaffected.
+Generators: `scripts/build_on_this_day.py`, `build_newsletter_picks.py` (plus the
+existing `build_recently_added.py`). The generated feeds are **build artifacts** —
+regenerated from the released data and uploaded by the release workflow, not
+committed to the repo. `build_manifest.py` advertises every present feed, so
+published feeds always match the release. The consumer contract is documented in
+`docs/consuming-generated-collections.md`. All feeds are additive: a client that
+ignores `manifest.generated` is unaffected.
 
 ## [1.8.0] - 2026-07-11
 ### Added

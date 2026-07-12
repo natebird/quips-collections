@@ -23,7 +23,6 @@ BASE = "https://data.quipsapp.com"
 GENERATED_FEEDS = [
     ("recentlyAdded", "recently-added.json"),
     ("onThisDay", "on-this-day.json"),
-    ("shortAndShareable", "short-and-shareable.json"),
     ("newsletterPicks", "newsletter-picks.json"),
 ]
 
