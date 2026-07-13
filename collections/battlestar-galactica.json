@@ -9,7 +9,7 @@
   "iconName": "tv.fill",
   "category": "Television",
   "addedAt": "2026-06-27T22:01:13Z",
-  "lastUpdated": "2026-07-06T12:00:00Z",
+  "lastUpdated": "2026-07-13T12:00:00Z",
   "quotes": [
     {
       "id": "bsg-001",
@@ -123,7 +123,7 @@
     },
     {
       "id": "bsg-011",
-      "content": "Pilots call me Starbuck, you may refer to me as God.",
+      "content": "Pilots call me Starbuck, but you may refer to me as God.",
       "authorName": "Kara \"Starbuck\" Thrace (Katee Sackhoff)",
       "source": "Battlestar Galactica, S1E4 'Act of Contrition' (2004)",
       "sourceType": "television",

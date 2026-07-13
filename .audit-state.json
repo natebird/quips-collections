@@ -16,23 +16,23 @@
     "leadership-vision", "legend-of-zelda", "legendary-coaches",
     "lego-movies", "literary-classics", "love-and-romance",
     "mark-twain-wit", "marriage-and-weddings", "marvel-movies",
-    "mindfulness", "money-investing", "naruto", "on-leadership",
-    "one-liners", "one-piece", "oscar-wilde", "quran", "resilience",
-    "rest-balance", "rpg-wisdom", "rumi", "scifi-screen", "seinfeld",
-    "self-compassion", "shakespeare", "sherlock-holmes", "sikh-wisdom",
-    "standup-legends", "star-wars", "starcraft", "stoic-wisdom",
-    "studio-ghibli", "tao-te-ching", "tech-visionaries", "teen-movies",
-    "the-beatles", "thoreau-walden", "warcraft", "western-movies",
-    "words-of-jesus", "yogi-berra", "zen-wisdom"
+    "michael-jordan", "mindfulness", "money-investing", "naruto",
+    "on-leadership", "one-liners", "one-piece", "oscar-wilde", "quran",
+    "resilience", "rest-balance", "rpg-wisdom", "rumi", "scifi-screen",
+    "seinfeld", "self-compassion", "shakespeare", "sherlock-holmes",
+    "sikh-wisdom", "standup-legends", "star-wars", "starcraft",
+    "stoic-wisdom", "studio-ghibli", "tao-te-ching", "tech-visionaries",
+    "teen-movies", "the-beatles", "thoreau-walden", "warcraft",
+    "western-movies", "words-of-jesus", "yogi-berra", "zen-wisdom"
   ],
   "cursor": {
     "fileIndex": 0,
     "file": "battlestar-galactica",
-    "quoteIndex": 10,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at battlestar-galactica quotes[10] (bsg-011)."
+    "quoteIndex": 20,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at battlestar-galactica quotes[20] (bsg-021)."
   },
-  "totalQuotes": 2588,
-  "totalQuotesAudited": 10,
+  "totalQuotes": 2640,
+  "totalQuotesAudited": 20,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -47,6 +47,19 @@
       "issue": "misquote (incomplete opening narration text)",
       "resolution": "fixed in this run's PR; content corrected to full Season 1 title-card text",
       "reportedIn": "see GitHub issue created this run"
+    },
+    {
+      "runDate": "2026-07-13",
+      "file": "battlestar-galactica",
+      "quoteRange": "bsg-011..bsg-020",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": ["bsg-011"],
+      "issue": "minor misquote (dropped the word 'but'); two other candidates initially flagged by first-pass research were re-verified and confirmed correct, not changed",
+      "resolution": "fixed in this run's PR; content corrected to full line per closed-caption archive of the S1E4 clip",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "discovered 'michael-jordan' collection (52 quotes, added 2026-07-08) was missing from the order[] list and would never have been audited; added it to order[] and totalQuotes"
     }
   ]
 }
