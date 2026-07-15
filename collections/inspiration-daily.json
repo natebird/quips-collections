@@ -9,7 +9,7 @@
   "iconName": "sunrise.fill",
   "category": "Inspiration",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-13T12:00:00Z",
   "quotes": [
     {
       "id": "di-001",
@@ -136,11 +136,11 @@
       "id": "di-012",
       "content": "Whether you think you can or you think you can't, you're right.",
       "authorName": "Henry Ford",
-      "source": "Attributed (c. 1930s)",
+      "source": "Widely attributed to Ford; earliest documented appearance is The Reader's Digest, September 1947 (five months after Ford's death, uncited)",
       "sourceType": "unspecified",
-      "quoteDate": "c. 1930s",
-      "verificationStatus": "attributed",
-      "notes": "Consistently attributed to Ford and aligns with his philosophy on self-belief. Found in various collections of his quotes, though exact original context varies.",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
+      "notes": "No occurrence found in Ford's own writing or speeches (e.g. My Life and Work, 1922). First traceable link to Ford's name is an uncited Reader's Digest item, Sept. 1947, months after his death — a likely magnet-quote misattribution. True origin untraceable to a single author (attribution axis fails).",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
