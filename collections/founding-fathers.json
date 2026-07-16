@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-16T12:00:00Z",
   "quotes": [
     {
       "id": "found-001",
@@ -340,6 +340,17 @@
       "sourceType": "unspecified",
       "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford.",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "found-031",
+      "content": "I cannot live without books; but fewer will suffice where amusement, and not use, is the only future object.",
+      "authorName": "Thomas Jefferson",
+      "source": "Letter to John Adams, 10 June 1815",
+      "quoteDate": "1815-06-10",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Written soon after Jefferson sold his personal library to Congress to rebuild the collection burned when the British razed Washington; confirmed against Founders Online (National Archives) and Monticello's own quote-history page.",
+      "addedAt": "2026-07-16T12:00:00Z"
     }
   ]
 }
