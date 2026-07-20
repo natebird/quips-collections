@@ -9,7 +9,7 @@
   "iconName": "heart.circle.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-20T12:00:00Z",
   "quotes": [
     {
       "id": "sc-001",
@@ -246,11 +246,11 @@
       "id": "sc-022",
       "content": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
       "authorName": "Maya Angelou",
-      "source": "Attributed (c. 1970s)",
-      "sourceType": "unspecified",
-      "notes": "Long associated with Angelou; the exact original source is contested.",
-      "quoteDate": "c. 1970s",
-      "verificationStatus": "attributed",
+      "source": "Widely attributed to Angelou; earliest documented wording is Carl W. Buehner, quoted in Richard Evans' Quote Book, compiled by Richard L. Evans (1971), p. 244: \"They may forget what you said — but they will never forget how you made them feel.\"",
+      "sourceType": "book",
+      "notes": "Attribution axis fails: the shorter two-clause original traces to Buehner (1971), not Angelou; the three-clause version above is undocumented before the early 2000s (earliest found print attribution to Angelou is 2003). Angelou is separately documented as circulating her own similar \"I've learned...\" aphorisms, but no record credits Buehner. Research for Quote Unquote #16.",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
