@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-16T12:00:00Z",
+  "lastUpdated": "2026-07-20T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -438,9 +438,9 @@
       "iconName": "heart.circle.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-fO6UnmgdK6QFTtuoXGUPZgETIGQ1awezOuDYvrQBxy0=",
-      "bytes": 14559
+      "lastUpdated": "2026-07-20T12:00:00Z",
+      "contentHash": "sha256-7Ta42MqPuC09m6HdQ2QKlnjJqwD1bc8AWZvptsqf3VA=",
+      "bytes": 15081
     },
     {
       "id": "rest-balance",
