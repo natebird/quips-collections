@@ -67,12 +67,12 @@
       "quoteRange": "bsg-021..bsg-025, gita-001..gita-005",
       "count": 10,
       "passed": 8,
-      "flagged": 2,
-      "flaggedIds": ["bsg-023", "bsg-025"],
-      "issue": "bsg-023: wrong episode cited (source said S3E1 'Occupation'; line is actually from S3E4 'Exodus, Part 2'). bsg-025: dropped leading word 'No,' from Starbuck's line. A third candidate, bsg-024, was flagged by an initial pass for possibly dropping the word 'our' before 'democracy', but could not be confirmed against a primary transcript (episode transcript sites returned 403s; only secondary paraphrases were available) -- left unchanged and noted as needing manual re-check.",
-      "resolution": "bsg-023 and bsg-025 fixed in this run's PR; battlestar-galactica finishes this pass (25/25 quotes now audited). gita-001..gita-005 all passed with no issues (Edwin Arnold's public-domain 'Song Celestial' translation, verse-cited -- a strong primary source).",
+      "flagged": 3,
+      "flaggedIds": ["bsg-023", "bsg-024", "bsg-025"],
+      "issue": "bsg-023: wrong episode cited (source said S3E1 'Occupation'; line is actually from S3E4 'Exodus, Part 2'). bsg-025: dropped leading word 'No,' from Starbuck's line. bsg-024: dropped the word 'our' before 'democracy' -- automated pass couldn't confirm this against a primary transcript (episode transcript sites returned 403s), but the user watched the episode and independently confirmed via the closed captions that the line includes 'our'.",
+      "resolution": "bsg-023 and bsg-025 fixed in this run's PR. bsg-024 fixed in a same-day follow-up commit to the same PR after user confirmation via direct episode viewing + captions. battlestar-galactica finishes this pass (25/25 quotes now audited). gita-001..gita-005 all passed with no issues (Edwin Arnold's public-domain 'Song Celestial' translation, verse-cited -- a strong primary source).",
       "reportedIn": "see GitHub issue created this run",
-      "unresolvedNote": "bsg-024 needs a follow-up manual check against a primary transcript for the possible missing word 'our' -- not fixed this run due to insufficient confidence."
+      "processNote": "bsg-024 is a case where the automated pass correctly detected a real issue but couldn't clear its own confidence bar without primary-source access; user-in-the-loop confirmation resolved it same-day rather than leaving it open to the next run."
     }
   ]
 }
