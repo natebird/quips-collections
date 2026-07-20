@@ -9,7 +9,7 @@
   "iconName": "tv.fill",
   "category": "Television",
   "addedAt": "2026-06-27T22:01:13Z",
-  "lastUpdated": "2026-07-13T12:00:00Z",
+  "lastUpdated": "2026-07-20T12:00:00Z",
   "quotes": [
     {
       "id": "bsg-001",
@@ -257,11 +257,11 @@
       "id": "bsg-023",
       "content": "Blood for blood has to stop one day.",
       "authorName": "Gaius Baltar (James Callis)",
-      "source": "Battlestar Galactica, S3E1 'Occupation' (2006)",
+      "source": "Battlestar Galactica, S3E4 'Exodus, Part 2' (2006)",
       "sourceType": "television",
       "quoteDate": "c. 2006",
       "verificationStatus": "verified",
-      "notes": "Baltar on the cycle of reprisals during the occupation.",
+      "notes": "Baltar to D'Anna, arguing the cycle of vengeance between humans and Cylons has to end; corrected episode citation from 'Occupation' (S3E1), which does not contain this exchange.",
       "addedAt": "2026-06-27T22:01:13Z"
     },
     {
@@ -277,13 +277,13 @@
     },
     {
       "id": "bsg-025",
-      "content": "You love me. You can't take it back.",
+      "content": "No, you love me. You can't take it back.",
       "authorName": "Kara \"Starbuck\" Thrace (Katee Sackhoff)",
       "source": "Battlestar Galactica, S2E6 'Home, Part 1' (2005)",
       "sourceType": "television",
       "quoteDate": "c. 2005",
       "verificationStatus": "verified",
-      "notes": "Starbuck to Lee, a rare unguarded moment in their long, fraught relationship.",
+      "notes": "Starbuck to Lee, a rare unguarded moment in their long, fraught relationship; restored the dropped leading \"No,\".",
       "addedAt": "2026-06-27T22:01:13Z"
     }
   ]

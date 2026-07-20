@@ -26,13 +26,13 @@
     "western-movies", "words-of-jesus", "yogi-berra", "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 0,
-    "file": "battlestar-galactica",
-    "quoteIndex": 20,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at battlestar-galactica quotes[20] (bsg-021)."
+    "fileIndex": 1,
+    "file": "bhagavad-gita",
+    "quoteIndex": 5,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bhagavad-gita quotes[5] (gita-006)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 20,
+  "totalQuotesAudited": 30,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -60,6 +60,19 @@
       "resolution": "fixed in this run's PR; content corrected to full line per closed-caption archive of the S1E4 clip",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "discovered 'michael-jordan' collection (52 quotes, added 2026-07-08) was missing from the order[] list and would never have been audited; added it to order[] and totalQuotes"
+    },
+    {
+      "runDate": "2026-07-20",
+      "file": "battlestar-galactica + bhagavad-gita",
+      "quoteRange": "bsg-021..bsg-025, gita-001..gita-005",
+      "count": 10,
+      "passed": 8,
+      "flagged": 2,
+      "flaggedIds": ["bsg-023", "bsg-025"],
+      "issue": "bsg-023: wrong episode cited (source said S3E1 'Occupation'; line is actually from S3E4 'Exodus, Part 2'). bsg-025: dropped leading word 'No,' from Starbuck's line. A third candidate, bsg-024, was flagged by an initial pass for possibly dropping the word 'our' before 'democracy', but could not be confirmed against a primary transcript (episode transcript sites returned 403s; only secondary paraphrases were available) -- left unchanged and noted as needing manual re-check.",
+      "resolution": "bsg-023 and bsg-025 fixed in this run's PR; battlestar-galactica finishes this pass (25/25 quotes now audited). gita-001..gita-005 all passed with no issues (Edwin Arnold's public-domain 'Song Celestial' translation, verse-cited -- a strong primary source).",
+      "reportedIn": "see GitHub issue created this run",
+      "unresolvedNote": "bsg-024 needs a follow-up manual check against a primary transcript for the possible missing word 'our' -- not fixed this run due to insufficient confidence."
     }
   ]
 }
