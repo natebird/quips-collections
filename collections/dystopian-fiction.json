@@ -9,7 +9,7 @@
   "iconName": "eye.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-07-23T12:00:00Z",
   "quotes": [
     {
       "id": "dystopia-001",
@@ -329,6 +329,17 @@
       "verificationStatus": "verified",
       "notes": "Kathy H., the narrator and a clone raised for organ donation, clings to memory against loss.",
       "addedAt": "2026-06-28T02:20:43Z"
+    },
+    {
+      "id": "dystopia-030",
+      "content": "So it goes.",
+      "authorName": "Kurt Vonnegut",
+      "source": "Slaughterhouse-Five (1969)",
+      "sourceType": "book",
+      "quoteDate": "1969",
+      "verificationStatus": "verified",
+      "notes": "The novel's recurring three-word refrain, repeated after every mention of death, reflecting the Tralfamadorian view of time.",
+      "addedAt": "2026-07-23T12:00:00Z"
     }
   ]
 }
