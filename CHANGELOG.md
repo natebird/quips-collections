@@ -17,14 +17,9 @@ Backfilled `quoteDate` on 123 of the 125 quotes that had none, across 22
 collections. Where the quote is misattributed or has no primary source, the date
 is that of the *earliest documented appearance* rather than the named speaker's
 era, and every such quote's `notes` now says so:
-- **Traced to a primary source** — `sc-030` Booker T. Washington to *Up from
-  Slavery* (1901), `grit-023` Stowe to *Oldtown Folks* (1869), `grit-018` Curie
-  to *Pierre Curie: With Autobiographical Notes* (1923), `courage-022` C. S.
-  Lewis to *The Screwtape Letters* Letter 29 (1942), `lead-027` King to *Where Do
-  We Go From Here* ch. 4 (1967), `res-022` Frost to a *This Week Magazine*
-  interview (1954-09-05), `courage-021` Redmoon to *Gnosis* #21 (1991),
-  `courage-023` Malala to her UN address (2013-07-12), `di-008` to Haskins's
-  *Meditations in Wall Street* (1940), `sci-018` to Teller in *LIFE* (1954).
+- **Traced to a primary source** — see the seven verified below, plus `di-008`
+  to Haskins's *Meditations in Wall Street* (1940) and `sci-018` to Teller in
+  *LIFE* (1954).
 - **Dated to a documented origin that is not the named author** — e.g. `di-027`
   "Lincoln" to a 1947 Stieglitz book advertisement, `lead-023` "Lincoln" to
   Ingersoll's 1883 address, `sc-021` "Twain" to Bovee (1857), `di-026` "Whitman"
@@ -38,7 +33,7 @@ era, and every such quote's `notes` now says so:
 Two traditional proverbs (`res-020` Japanese, `rest-028` Spanish) are left
 undated: their origins are genuinely unfixable and no estimate would be honest.
 
-Five of the newly sourced quotes were then checked word-for-word against the
+Seven of the newly sourced quotes were then checked word-for-word against the
 source text and promoted to `verificationStatus: "verified"`, with `source` and
 `sourceType` replaced by the real citation:
 - `sc-030` Booker T. Washington — *Up from Slavery* (1901), ch. 4
@@ -47,21 +42,33 @@ source text and promoted to `verificationStatus: "verified"`, with `source` and
 - `res-022` Robert Frost — Ray Josephs interview, *This Week Magazine*, 1954-09-05
 - `grit-018` Marie Curie — letter to her brother Józef, 1894-03-18, printed in
   Eve Curie's *Madame Curie*
+- `grit-023` Harriet Beecher Stowe — *Oldtown Folks* (1869), ch. 39, p. 507
+- `courage-021` Ambrose Redmoon — 'No Peaceful Warriors!', *Gnosis* #21 (1991)
 
-Checking the wording also overturned three citations:
-- `grit-018` was dated 1923 to *Pierre Curie: With Autobiographical Notes*. The
-  passage is not in that book; it is the 1894 letter above, so `quoteDate` moves
-  to `1894-03-18`.
-- `courage-023` Malala Yousafzai was dated `2013-07-12` to her UN Youth Assembly
-  address. The line is not in that speech — its nearest sentence is "I speak not
-  for myself, but for those without a voice" — so it drops back to `c. 2013` and
-  stays unverified.
-- `grit-023` Stowe and `courage-021` Redmoon now carry exact citations
-  (*Oldtown Folks* ch. 39 p. 507; *Gnosis* #21) but stay unverified: the stored
-  text reads "as though" for Stowe's "as if", and drops the "one's" from
-  Redmoon's "more important than one's fear".
+### Fixed
+Two quotes carried the popular drift rather than what the author wrote. Both
+are corrected to the source text (the only quote-text changes in this release):
+- `grit-023` — the 1869 first edition reads "as **if** you could n't hold on…
+  that's just the place and time that the tide 'll turn", spoken by the
+  schoolmaster Jonathan Rossiter. The stored text had "as though" and had
+  expanded every contraction.
+- `courage-021` — Redmoon wrote "more important than **one's** fear". The
+  circulating version drops the possessive that makes the judgment personal.
 
-No quote text or `authorName` changed.
+Reading the source texts also disproved two commonly repeated citations:
+- `grit-018` is *not* in *Pierre Curie: With Autobiographical Notes* (1923),
+  which is where it is usually placed — the words appear nowhere in that book.
+  It is the 1894 letter above.
+- `courage-023` Malala Yousafzai is *not* in her United Nations Youth Assembly
+  address of 12 July 2013, though it is near-universally cited to it. That
+  speech's nearest sentence is "I speak not for myself, but for those without a
+  voice." The quote is dated `c. 2013` and stays unverified.
+Still short of the bar and left `unverified`: `sci-018` (Bohr only via Teller's
+secondhand account) and `di-008` (written by Henry Stanley Haskins but filed
+under `authorName: "Ralph Waldo Emerson"`, so the attribution is the part that
+is wrong).
+
+No `authorName` changed.
 
 ## [1.9.0] - 2026-07-11
 ### Added

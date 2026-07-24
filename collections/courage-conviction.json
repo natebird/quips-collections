@@ -233,13 +233,13 @@
     },
     {
       "id": "courage-021",
-      "content": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
+      "content": "Courage is not the absence of fear, but rather the judgment that something else is more important than one's fear.",
       "authorName": "Ambrose Redmoon",
       "source": "'No Peaceful Warriors!', Gnosis magazine #21 (Fall 1991)",
       "sourceType": "article",
       "quoteDate": "1991",
-      "verificationStatus": "attributed",
-      "notes": "The essay is the real source, but the wording axis fails: Redmoon wrote 'more important than one's fear,' not 'more important than fear.'",
+      "verificationStatus": "verified",
+      "notes": "Verified against the essay text; the popular version drops the 'one's', which is the word that makes the judgment a personal one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {

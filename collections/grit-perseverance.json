@@ -255,13 +255,13 @@
     },
     {
       "id": "grit-023",
-      "content": "When you get into a tight place and everything goes against you, till it seems as though you could not hold on a minute longer, never give up then, for that is just the place and time that the tide will turn.",
+      "content": "When you get into a tight place, and everything goes against you till it seems as if you couldn't hold on a minute longer, never give up then, for that's just the place and time that the tide'll turn.",
       "authorName": "Harriet Beecher Stowe",
       "source": "Oldtown Folks (1869), ch. 39 'Last Days in Cloudland', p. 507",
       "sourceType": "book",
       "quoteDate": "1869",
-      "verificationStatus": "attributed",
-      "notes": "The passage is in Oldtown Folks, but the wording axis fails: the original reads 'till it seems as if you could n't hold on a minute longer... that's just the place and time that the tide 'll turn,' where this version has 'as though' and expands the contractions.",
+      "verificationStatus": "verified",
+      "notes": "Verified against the 1869 first edition, where Mr. Rossiter gives this as parting advice to his students. The widely circulated version softens it to 'as though' and expands the contractions.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
