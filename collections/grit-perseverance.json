@@ -9,7 +9,7 @@
   "iconName": "flame.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "grit-001",
@@ -149,9 +149,9 @@
       "authorName": "Thomas Edison",
       "source": "Attributed; paraphrased from accounts in Edison biographies",
       "sourceType": "book",
-      "quoteDate": null,
+      "quoteDate": "c. 1915",
       "verificationStatus": "attributed",
-      "notes": "Consistent with Edison's documented attitude toward failed experiments, but this is a compressed paraphrase whose exact wording is unverified (wording axis).",
+      "notes": "Consistent with Edison's documented attitude toward failed experiments, but this is a compressed paraphrase whose exact wording is unverified (wording axis). Date is estimated from the earliest documented version, Francis Rolt-Wheeler's 1915 biography ('I know several thousand things that won't work'); the '10,000 ways' phrasing is a later compression.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -160,9 +160,9 @@
       "authorName": "Calvin Coolidge",
       "source": "Attributed 'Press On' statement, circulated after his death",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1881",
       "verificationStatus": "attributed",
-      "notes": "Firmly credited to Coolidge and printed on memorial cards, but the exact primary occasion is undocumented (attribution axis).",
+      "notes": "Firmly credited to Coolidge and printed on memorial cards, but the exact primary occasion is undocumented (attribution axis). Date is estimated from the earliest documented appearance, Rev. Theodore T. Munger's On the Threshold (1881); the passage was in print under Coolidge's name by 1929 but did not originate with him.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -171,9 +171,9 @@
       "authorName": "Vince Lombardi",
       "source": "Attributed to Lombardi's talks and writings",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1960s",
       "verificationStatus": "attributed",
-      "notes": "Long associated with Lombardi's coaching philosophy, but no single primary source pins the exact wording (attribution axis).",
+      "notes": "Long associated with Lombardi's coaching philosophy, but no single primary source pins the exact wording (attribution axis). Date is a broad estimate spanning Lombardi's years coaching the Green Bay Packers, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -182,9 +182,9 @@
       "authorName": "Muhammad Ali",
       "source": "Attributed interview remark",
       "sourceType": "interview",
-      "quoteDate": null,
+      "quoteDate": "c. 1970s",
       "verificationStatus": "attributed",
-      "notes": "Widely credited to Ali and in keeping with his training ethos, but the original interview is not cleanly documented (attribution axis).",
+      "notes": "Widely credited to Ali and in keeping with his training ethos, but the original interview is not cleanly documented (attribution axis). Date is a broad estimate spanning Ali's championship years, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -193,9 +193,9 @@
       "authorName": "Babe Ruth",
       "source": "Attributed to Babe Ruth",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1920s-1940s",
       "verificationStatus": "attributed",
-      "notes": "Commonly credited to Ruth without a traceable primary source (attribution axis).",
+      "notes": "Commonly credited to Ruth without a traceable primary source (attribution axis). Date is a broad estimate spanning Ruth's career and later life, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -204,9 +204,9 @@
       "authorName": "Marie Curie",
       "source": "Attributed; quoted in biographies of Curie",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "1923",
       "verificationStatus": "attributed",
-      "notes": "Frequently cited to Curie and consistent with her recorded outlook, but the exact original context is unconfirmed (attribution axis).",
+      "notes": "Frequently cited to Curie and consistent with her recorded outlook, but the exact original context is unconfirmed (attribution axis). Traced to Pierre Curie: With Autobiographical Notes by Marie Curie (1923), where the passage appears in her autobiographical notes.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -215,9 +215,9 @@
       "authorName": "Nelson Mandela",
       "source": "Attributed to Nelson Mandela",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1990s-2000s",
       "verificationStatus": "attributed",
-      "notes": "Widely attributed to Mandela; consistent with his life but lacking a verified primary source (attribution axis).",
+      "notes": "Widely attributed to Mandela; consistent with his life but lacking a verified primary source (attribution axis). Date is a broad estimate spanning Mandela's post-release public life, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -226,9 +226,9 @@
       "authorName": "Wilma Rudolph",
       "source": "Attributed to Wilma Rudolph",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1970s-1990s",
       "verificationStatus": "attributed",
-      "notes": "Credited to the Olympic sprinter and echoing her comeback from childhood polio, but the primary source is not firmly established (attribution axis).",
+      "notes": "Credited to the Olympic sprinter and echoing her comeback from childhood polio, but the primary source is not firmly established (attribution axis). Date is a broad estimate spanning Rudolph's years as a speaker and author after her athletic career, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -237,9 +237,9 @@
       "authorName": "Amelia Earhart",
       "source": "Attributed to Amelia Earhart",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1930s",
       "verificationStatus": "attributed",
-      "notes": "Commonly credited to Earhart without a documented primary source (attribution axis).",
+      "notes": "Commonly credited to Earhart without a documented primary source (attribution axis). Date is a broad estimate spanning Earhart's flying and writing years, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -259,9 +259,9 @@
       "authorName": "Harriet Beecher Stowe",
       "source": "Attributed to Harriet Beecher Stowe",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "1869",
       "verificationStatus": "attributed",
-      "notes": "Long credited to Stowe, but the specific work it comes from is not reliably confirmed (attribution axis).",
+      "notes": "Long credited to Stowe, but the specific work it comes from is not reliably confirmed (attribution axis). Traced to Stowe's novel Oldtown Folks (1869), chapter 39.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -270,9 +270,9 @@
       "authorName": "Franklin D. Roosevelt",
       "source": "Attributed to Franklin D. Roosevelt",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1919",
       "verificationStatus": "attributed",
-      "notes": "Popularly credited to FDR, though no documented speech or writing confirms it (attribution axis).",
+      "notes": "Popularly credited to FDR, though no documented speech or writing confirms it (attribution axis). Date is estimated from the earliest documented appearance, LIFE magazine of 3 April 1919, where it is presented as anonymous folk wisdom.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -281,9 +281,9 @@
       "authorName": "Bruce Lee",
       "source": "Attributed to Bruce Lee",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1886",
       "verificationStatus": "attributed",
-      "notes": "Widely circulated under Lee's name without a verified primary source (attribution axis).",
+      "notes": "Widely circulated under Lee's name without a verified primary source (attribution axis). Date is estimated from the earliest documented source of the idea, Phillips Brooks's sermon 'Going Up to Jerusalem' in Twenty Sermons (1886).",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -292,9 +292,9 @@
       "authorName": "Walter Elliot",
       "source": "Attributed to Walter Elliot",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1920s-1950s",
       "verificationStatus": "attributed",
-      "notes": "Commonly attributed to the Scottish politician Walter Elliot without a confirmed primary source (attribution axis).",
+      "notes": "Commonly attributed to the Scottish politician Walter Elliot without a confirmed primary source (attribution axis). Date is a broad estimate spanning Elliot's public career, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -303,9 +303,9 @@
       "authorName": "William Feather",
       "source": "Attributed to William Feather",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1940s",
       "verificationStatus": "attributed",
-      "notes": "Credited to the American publisher and aphorist; the exact original printing is not pinned down (attribution axis).",
+      "notes": "Credited to the American publisher and aphorist; the exact original printing is not pinned down (attribution axis). Date is a broad estimate from the period of Feather's published aphorisms, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -314,9 +314,9 @@
       "authorName": "Ovid",
       "source": "Epistulae ex Ponto (c. 13 CE), commonly quoted translation",
       "sourceType": "poem",
-      "quoteDate": null,
+      "quoteDate": "c. 13 CE",
       "verificationStatus": "attributed",
-      "notes": "The sentiment traces to Ovid's Latin verse, but this smooth English wording is a loose translation that varies (wording axis).",
+      "notes": "The sentiment traces to Ovid's Latin verse, but this smooth English wording is a loose translation that varies (wording axis). Date reflects the composition of Ovid's Epistulae ex Ponto in exile, c. 13 CE.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -325,9 +325,9 @@
       "authorName": "Confucius",
       "source": "Attributed to Confucius",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
-      "notes": "Popularly credited to Confucius but not found in the Analects or other genuine texts (attribution axis fails).",
+      "notes": "Popularly credited to Confucius but not found in the Analects or other genuine texts (attribution axis fails). The century is a broad estimate for the line's modern English circulation; no pre-modern source exists.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -336,9 +336,9 @@
       "authorName": "Epictetus",
       "source": "Attributed to Epictetus",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
-      "notes": "A modern Stoic-flavored paraphrase not found verbatim in the Enchiridion or Discourses (attribution axis fails).",
+      "notes": "A modern Stoic-flavored paraphrase not found verbatim in the Enchiridion or Discourses (attribution axis fails). The century is a broad estimate for the paraphrase's modern English circulation, not a documented date.",
       "addedAt": "2026-07-01T01:53:56Z"
     }
   ]

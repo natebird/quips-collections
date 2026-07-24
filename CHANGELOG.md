@@ -11,6 +11,35 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.9.1] - 2026-07-24
+### Changed
+Backfilled `quoteDate` on 123 of the 125 quotes that had none, across 22
+collections. Where the quote is misattributed or has no primary source, the date
+is that of the *earliest documented appearance* rather than the named speaker's
+era, and every such quote's `notes` now says so:
+- **Traced to a primary source** — `sc-030` Booker T. Washington to *Up from
+  Slavery* (1901), `grit-023` Stowe to *Oldtown Folks* (1869), `grit-018` Curie
+  to *Pierre Curie: With Autobiographical Notes* (1923), `courage-022` C. S.
+  Lewis to *The Screwtape Letters* Letter 29 (1942), `lead-027` King to *Where Do
+  We Go From Here* ch. 4 (1967), `res-022` Frost to a *This Week Magazine*
+  interview (1954-09-05), `courage-021` Redmoon to *Gnosis* #21 (1991),
+  `courage-023` Malala to her UN address (2013-07-12), `di-008` to Haskins's
+  *Meditations in Wall Street* (1940), `sci-018` to Teller in *LIFE* (1954).
+- **Dated to a documented origin that is not the named author** — e.g. `di-027`
+  "Lincoln" to a 1947 Stieglitz book advertisement, `lead-023` "Lincoln" to
+  Ingersoll's 1883 address, `sc-021` "Twain" to Bovee (1857), `di-026` "Whitman"
+  to an anonymous 1862 newspaper item, `grit-014` "Coolidge" to Munger (1881),
+  `grit-025` "Bruce Lee" to Phillips Brooks (1886), `dream-028`/`di-023`
+  "C. S. Lewis" to Les Brown (1992), `dream-019` "Walt Disney" to EPCOT's
+  Horizons (1983).
+- **Estimated** — the remainder carry a `c. YYYY` / decade-range / century value
+  with a note stating the estimate's basis and that the full source is unverified.
+
+Two traditional proverbs (`res-020` Japanese, `rest-028` Spanish) are left
+undated: their origins are genuinely unfixable and no estimate would be honest.
+
+No quote text, author, or `verificationStatus` changed.
+
 ## [1.9.0] - 2026-07-11
 ### Added
 Two more generated collections, joining Recently Added, each published as a

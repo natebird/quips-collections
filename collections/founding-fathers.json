@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "found-001",
@@ -324,10 +324,10 @@
       "content": "Dissent is the highest form of patriotism.",
       "authorName": "Thomas Jefferson",
       "source": "Commonly misattributed; not found in Jefferson's papers",
-      "quoteDate": null,
+      "quoteDate": "c. 1961",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: the Monticello staff classify this as spurious. It appears nowhere in Jefferson's writings and likely entered circulation during the Vietnam era.",
+      "notes": "Source axis fails: the Monticello staff classify this as spurious. It appears nowhere in Jefferson's writings and likely entered circulation during the Vietnam era. Date is estimated from the earliest documented appearance, the 1961 volume The Use of Force in International Affairs, which posed it as a question.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -335,10 +335,10 @@
       "content": "A government big enough to give you everything you want is a government big enough to take away everything that you have.",
       "authorName": "Thomas Jefferson",
       "source": "Commonly misattributed; not found in Jefferson's papers",
-      "quoteDate": null,
+      "quoteDate": "c. 1952",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford.",
+      "notes": "Source axis fails: listed as spurious by Monticello, with no primary-source basis; versions have also been attributed to Gerald Ford. Date is estimated from the first known appearance in print in 1952, after which it circulated unattributed in 1950s newspapers.",
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

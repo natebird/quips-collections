@@ -9,7 +9,7 @@
   "iconName": "mountain.2.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "res-001",
@@ -215,8 +215,8 @@
       "authorName": "Nelson Mandela",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Mandela; a fixed original source has not been established.",
-      "quoteDate": null,
+      "notes": "Widely attributed to Mandela; a fixed original source has not been established. Date is estimated from the earliest documented attribution to Mandela, an Australian newspaper in 2001.",
+      "quoteDate": "c. 2001",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -248,8 +248,8 @@
       "authorName": "Robert Frost",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to the poet, though it does not appear in his published verse.",
-      "quoteDate": null,
+      "notes": "Widely attributed to the poet, though it does not appear in his published verse. Traced to Ray Josephs's interview 'Robert Frost's Secret' in This Week Magazine, 5 September 1954, published for Frost's 80th birthday.",
+      "quoteDate": "1954-09-05",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -281,8 +281,8 @@
       "authorName": "Seneca",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Commonly attributed to Seneca; the same image also circulates as a Chinese proverb.",
-      "quoteDate": null,
+      "notes": "Commonly attributed to Seneca; the same image also circulates as a Chinese proverb. The century is a broad estimate for the line's modern English circulation; no Seneca source has been located for this wording.",
+      "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },

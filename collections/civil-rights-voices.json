@@ -9,7 +9,7 @@
   "iconName": "figure.walk.motion",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "rights-001",
@@ -280,10 +280,10 @@
       "content": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
       "authorName": "Malcolm X",
       "source": "Attributed; primary source not established",
-      "quoteDate": null,
+      "quoteDate": "c. 1964",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: ubiquitous on aggregator sites but not located in any documented Malcolm X speech, interview, or writing.",
+      "notes": "Source axis fails: ubiquitous on aggregator sites but not located in any documented Malcolm X speech, interview, or writing. Date is estimated from the earliest documented source of the underlying line, Malcolm X's address at the founding rally of the Organization of Afro-American Unity on 28 June 1964: 'Education is our passport to the future, for tomorrow belongs only to the people who prepare for it today.'",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {

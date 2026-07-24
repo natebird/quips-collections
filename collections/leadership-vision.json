@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "lead-001",
@@ -94,9 +94,9 @@
       "authorName": "Lao Tzu",
       "source": "Tao Te Ching, Chapter 17 (c. 4th century BC)",
       "sourceType": "book",
-      "quoteDate": null,
+      "quoteDate": "c. 4th century BCE",
       "verificationStatus": "attributed",
-      "notes": "A widely used English rendering of Chapter 17; exact wording (the attribution axis is sound) varies substantially across translations.",
+      "notes": "A widely used English rendering of Chapter 17; exact wording (the attribution axis is sound) varies substantially across translations. Date reflects the traditional composition period of the Tao Te Ching.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -105,9 +105,9 @@
       "authorName": "Peter Drucker",
       "source": "Widely quoted in management literature",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1985",
       "verificationStatus": "attributed",
-      "notes": "Commonly credited to Drucker and also to Warren Bennis; genuinely associated with both but not pinned to a single primary text.",
+      "notes": "Commonly credited to Drucker and also to Warren Bennis; genuinely associated with both but not pinned to a single primary text. Date is estimated from the earliest documented printing, Warren Bennis and Burt Nanus's Leaders (1985), p. 21; the underlying distinction goes back to Drucker's The Effective Executive (1967).",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -116,9 +116,9 @@
       "authorName": "Dwight D. Eisenhower",
       "source": "Attributed to Eisenhower in speeches and interviews",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1950s",
       "verificationStatus": "attributed",
-      "notes": "Long and consistently credited to Eisenhower, matching his views, but the exact original occasion is not firmly documented.",
+      "notes": "Long and consistently credited to Eisenhower, matching his views, but the exact original occasion is not firmly documented. Date is a broad estimate spanning Eisenhower's presidency, when the remark is usually placed, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -138,9 +138,9 @@
       "authorName": "Warren Bennis",
       "source": "Attributed to Warren Bennis, leadership scholar",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1985",
       "verificationStatus": "attributed",
-      "notes": "Consistently credited to Bennis and true to his body of work, but not tied here to a specific book or page.",
+      "notes": "Consistently credited to Bennis and true to his body of work, but not tied here to a specific book or page. Date is a broad estimate from Bennis's leadership books beginning with Leaders (1985), not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -149,9 +149,9 @@
       "authorName": "Rosalynn Carter",
       "source": "Attributed to Rosalynn Carter",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1980s",
       "verificationStatus": "attributed",
-      "notes": "Widely and specifically credited to the former First Lady; a precise original source is not established.",
+      "notes": "Widely and specifically credited to the former First Lady; a precise original source is not established. Date is a broad estimate from Carter's post-White House speaking and writing, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -160,9 +160,9 @@
       "authorName": "Jack Welch",
       "source": "Attributed to Jack Welch, former GE CEO",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 2005",
       "verificationStatus": "attributed",
-      "notes": "Frequently credited to Welch and consistent with his writing on developing people, but not pinned to a specific text.",
+      "notes": "Frequently credited to Welch and consistent with his writing on developing people, but not pinned to a specific text. Date is a broad estimate from Welch's book Winning (2005) and the talks around it, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -182,9 +182,9 @@
       "authorName": "Theodore Roosevelt",
       "source": "Attributed to Theodore Roosevelt",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1900s",
       "verificationStatus": "attributed",
-      "notes": "Long associated with Roosevelt and matching his views on delegation; a firm primary citation is not established here.",
+      "notes": "Long associated with Roosevelt and matching his views on delegation; a firm primary citation is not established here. Date is a broad estimate spanning Roosevelt's presidency, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -193,9 +193,9 @@
       "authorName": "John C. Maxwell",
       "source": "Attributed to John C. Maxwell, leadership author",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1998",
       "verificationStatus": "attributed",
-      "notes": "A frequently repeated Maxwell line from his talks and writing; not tied here to a single book or page.",
+      "notes": "A frequently repeated Maxwell line from his talks and writing; not tied here to a single book or page. Date is a broad estimate from Maxwell's The 21 Irrefutable Laws of Leadership (1998) and the talks around it, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -204,9 +204,9 @@
       "authorName": "Grace Hopper",
       "source": "Attributed to Rear Admiral Grace Hopper",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1982",
       "verificationStatus": "attributed",
-      "notes": "Consistently credited to Hopper, who often distinguished managing things from leading people; exact original wording varies.",
+      "notes": "Consistently credited to Hopper, who often distinguished managing things from leading people; exact original wording varies. Date is estimated from the earliest documented appearances of Hopper making this distinction in the early 1980s; it was printed in the OCLC Newsletter in 1987.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -215,9 +215,9 @@
       "authorName": "Ronald Reagan",
       "source": "Attributed to Ronald Reagan",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1980s",
       "verificationStatus": "attributed",
-      "notes": "Widely credited to Reagan and echoing a broader leadership adage; a precise original occasion is not documented.",
+      "notes": "Widely credited to Reagan and echoing a broader leadership adage; a precise original occasion is not documented. Date is a broad estimate spanning Reagan's presidency, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -226,9 +226,9 @@
       "authorName": "Ken Blanchard",
       "source": "Attributed to Ken Blanchard, management author",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 2000s",
       "verificationStatus": "attributed",
-      "notes": "A recurring Blanchard theme across his books and talks; not fixed here to one primary source.",
+      "notes": "A recurring Blanchard theme across his books and talks; not fixed here to one primary source. Date is a broad estimate from the period of Blanchard's books and talks, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -237,9 +237,9 @@
       "authorName": "Harry S. Truman",
       "source": "Attributed to Harry S. Truman",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1960s",
       "verificationStatus": "attributed",
-      "notes": "Popularly credited to Truman, who is said to have kept the sentiment on his desk, though the line predates him and is attributed to several people.",
+      "notes": "Popularly credited to Truman, who is said to have kept the sentiment on his desk, though the line predates him and is attributed to several people. Date is estimated from the decade in which this exact wording circulated widely; Truman was first credited only in 1988, and the idea traces to a 19th-century saying.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -248,9 +248,9 @@
       "authorName": "Antoine de Saint-Exupery",
       "source": "Popularly attributed to Citadelle / The Wisdom of the Sands (1948)",
       "sourceType": "book",
-      "quoteDate": null,
+      "quoteDate": "c. 1948",
       "verificationStatus": "unverified",
-      "notes": "The wording axis fails: this is a popular paraphrase that does not match any exact passage in Saint-Exupery's text, though the sentiment derives from Citadelle.",
+      "notes": "The wording axis fails: this is a popular paraphrase that does not match any exact passage in Saint-Exupery's text, though the sentiment derives from Citadelle. Date reflects the posthumous publication of Citadelle in 1948, from which the sentiment derives.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -259,9 +259,9 @@
       "authorName": "Abraham Lincoln",
       "source": "Attributed to Abraham Lincoln",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1883",
       "verificationStatus": "unverified",
-      "notes": "The attribution axis fails: no primary Lincoln source exists for this line and it is widely regarded as a misattribution.",
+      "notes": "The attribution axis fails: no primary Lincoln source exists for this line and it is widely regarded as a misattribution. Date is estimated from the earliest documented appearance, Robert G. Ingersoll's Washington address of 16 January 1883, where he said it about Lincoln; the Lincoln ascription appears only by 1931.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -270,9 +270,9 @@
       "authorName": "John Quincy Adams",
       "source": "Attributed to John Quincy Adams",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
-      "notes": "The attribution axis fails: this line has no basis in Adams's writings and is a modern quotation without a documented primary source.",
+      "notes": "The attribution axis fails: this line has no basis in Adams's writings and is a modern quotation without a documented primary source. The century is a broad estimate for the line's modern circulation, not a documented date.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -281,9 +281,9 @@
       "authorName": "Ralph Nader",
       "source": "Attributed to Ralph Nader",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
-      "notes": "Consistently credited to Nader and in line with his public statements, but not tied here to a specific speech or text.",
+      "notes": "Consistently credited to Nader and in line with his public statements, but not tied here to a specific speech or text. Date is a broad estimate from the period of Nader's public statements on leadership, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -292,9 +292,9 @@
       "authorName": "Bill Gates",
       "source": "Attributed to Bill Gates",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
-      "notes": "Widely credited to Gates and matching his stated views on organizations; a precise original source is not established.",
+      "notes": "Widely credited to Gates and matching his stated views on organizations; a precise original source is not established. Date is a broad estimate from the decade in which Gates was writing and speaking about the coming century, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -303,9 +303,9 @@
       "authorName": "Martin Luther King Jr.",
       "source": "Attributed to Martin Luther King Jr.",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "1967",
       "verificationStatus": "attributed",
-      "notes": "Genuinely credited to King and consistent with his speeches, but the exact original occasion is not firmly pinned here.",
+      "notes": "Genuinely credited to King and consistent with his speeches, but the exact original occasion is not firmly pinned here. Traced to King's Where Do We Go From Here: Chaos or Community? (1967), chapter 4: 'Ultimately a genuine leader is not a searcher for consensus but a molder of consensus.'",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -314,9 +314,9 @@
       "authorName": "Vince Lombardi",
       "source": "Attributed to Vince Lombardi",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1960s",
       "verificationStatus": "attributed",
-      "notes": "Long associated with the Packers coach and true to his philosophy; not tied here to a single verified transcript.",
+      "notes": "Long associated with the Packers coach and true to his philosophy; not tied here to a single verified transcript. Date is a broad estimate spanning Lombardi's years coaching the Green Bay Packers, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -325,9 +325,9 @@
       "authorName": "Margaret Thatcher",
       "source": "Attributed to Margaret Thatcher",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1975",
       "verificationStatus": "attributed",
-      "notes": "Famously credited to Thatcher, who repeated it; she presented it as a borrowed line, so the exact origin is uncertain.",
+      "notes": "Famously credited to Thatcher, who repeated it; she presented it as a borrowed line, so the exact origin is uncertain. Date is estimated from the earliest documented appearance, an October 1975 Fairbanks Daily News-Miner item crediting the union leader Jesse Carr; Thatcher repeated it by 1988.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -336,9 +336,9 @@
       "authorName": "Indra Nooyi",
       "source": "Attributed to Indra Nooyi, former PepsiCo CEO",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 2000s",
       "verificationStatus": "attributed",
-      "notes": "Credited to Nooyi from her interviews and talks on leadership; not fixed here to a single primary transcript.",
+      "notes": "Credited to Nooyi from her interviews and talks on leadership; not fixed here to a single primary transcript. Date is a broad estimate spanning Nooyi's years leading PepsiCo, when she gave the interviews it comes from, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     }
   ]

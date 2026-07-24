@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-11T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -18,9 +18,9 @@
       "iconName": "sunrise.fill",
       "category": "Inspiration",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-9sBr04n7c4CXpLhNDitBliZHciEvgl5fBpIHf0EAy8c=",
-      "bytes": 15684
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-EKjy1bmhHNKyPI/17pP+rZaOZxyfA9Daf/u1g7SOgqU=",
+      "bytes": 17017
     },
     {
       "id": "grit-perseverance",
@@ -38,9 +38,9 @@
       "iconName": "flame.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-AEn2D43kcdEjVlqa63cBoPnlNUhfMu6oX1dOIRRfb/k=",
-      "bytes": 16919
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-aPAvqBTOlnX+965ZuyrapXHgwSqOqAP8fZwrJ5h7RIA=",
+      "bytes": 18955
     },
     {
       "id": "leadership-vision",
@@ -58,9 +58,9 @@
       "iconName": "flag.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-AM3FVoAtz/ZNdUcEAZIbMeTpqnESg1WpNsFqIV79IrE=",
-      "bytes": 16575
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-yKPsrybsBITtYxdLeij7QYK3hDK4+6C5bmxMkQomPwU=",
+      "bytes": 19313
     },
     {
       "id": "courage-conviction",
@@ -78,9 +78,9 @@
       "iconName": "shield.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-w4ny/VevmORsppzYn3VOr/UCP/yNWtJRJ39GWO1AOBo=",
-      "bytes": 16877
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-0UfN2jdzDtAhTUvGmupMZQ4nXjfEZXNYLcxt8Ymwe8U=",
+      "bytes": 18560
     },
     {
       "id": "dream-big",
@@ -98,9 +98,9 @@
       "iconName": "moon.stars.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-kvHZxRF13/tw00gW4NqoeLtM+DCVbvk/UuemBTqWlPc=",
-      "bytes": 15925
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-v8rVW7nUWrhe9uEtLpwAoXKzEM180NrmSdmdx6DnpWA=",
+      "bytes": 17131
     },
     {
       "id": "stoic-wisdom",
@@ -118,9 +118,9 @@
       "iconName": "building.columns.fill",
       "category": "Philosophy",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-aMKFkkmvGQEwRM4o5AYluLuMdFugzUt5RmKMdITh+N4=",
-      "bytes": 15670
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-3t2y8d4Vg42CqlyFnhXTUkjmR4+EMf6VR75sMnhOfPM=",
+      "bytes": 15788
     },
     {
       "id": "creative-minds",
@@ -138,9 +138,9 @@
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-7dHl4scKUg/F/54JG5Ek9dZzEW+l2PDVZX/IXP96ieI=",
-      "bytes": 14847
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-Fp5yCA+1IHettULAoMa8Qvz8fdlmW52HTiOJETbKN1E=",
+      "bytes": 15600
     },
     {
       "id": "tech-visionaries",
@@ -378,9 +378,9 @@
       "iconName": "leaf.fill",
       "category": "Wellness",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-PBJvU85zO/Z42upsP3H3EcbOQ/1WkUL2G1fioxddcrw=",
-      "bytes": 14735
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-2ZwpeWIRSFj9uPEFeUNIYbeHOHxUfZg1aB3JUBVtJNg=",
+      "bytes": 15153
     },
     {
       "id": "gratitude",
@@ -398,9 +398,9 @@
       "iconName": "hands.sparkles.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-LS6TT292AfRYGjqq90r8os5NQDVCMsoQB/FcItMB9xE=",
-      "bytes": 15140
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-E2KdDyXvzjSD6cTk+6x5h55iSCG/ITE6KRmAFoeD7DI=",
+      "bytes": 15787
     },
     {
       "id": "resilience",
@@ -418,9 +418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-v1iwjIcsnUuv19jnNjFCcWKLaRZgSwgrLnfczagLAhQ=",
-      "bytes": 13732
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-khlfh/dyrVFEVbIfTKx78Cs07D0woDTlVW5nT+XKQ+M=",
+      "bytes": 14125
     },
     {
       "id": "self-compassion",
@@ -438,9 +438,9 @@
       "iconName": "heart.circle.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-fO6UnmgdK6QFTtuoXGUPZgETIGQ1awezOuDYvrQBxy0=",
-      "bytes": 14559
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-/9fzgsUpYqs6Xcah9wRGljo63auuuUd7dvyx3AaZWk4=",
+      "bytes": 15562
     },
     {
       "id": "rest-balance",
@@ -458,9 +458,9 @@
       "iconName": "moon.stars.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-l/uBjZd3SezUznVX3LW1BpI2Icnw89BwqLPuN6sxAWI=",
-      "bytes": 13141
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-Aze5dnsgpsyC69r/XApzTxqDRRcANrx4aI02ee2l02k=",
+      "bytes": 13757
     },
     {
       "id": "marvel-movies",
@@ -498,9 +498,9 @@
       "iconName": "shield.fill",
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-Vn+ehrI/ne9I0taeGIbtXmGo9suLy8MbyRapNMMSf2M=",
-      "bytes": 16437
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-kaZAMHS+nQ/0Jd85L7tK+K1wHQiBohT0tLa8jQouryI=",
+      "bytes": 16593
     },
     {
       "id": "lds-general-conference",
@@ -618,9 +618,9 @@
       "iconName": "sun.dust.fill",
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-8M5j/Gbb1UM9BF/X6LGvnJlfUU8Il8ckQEen79HEbIA=",
-      "bytes": 13875
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-20+o5umZeZ9DEHz6/Mo7B1/yDecoABG17lgKbOKROmQ=",
+      "bytes": 13958
     },
     {
       "id": "scifi-screen",
@@ -638,9 +638,9 @@
       "iconName": "sparkles",
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-YXZitVI0QfC9TaGxFIs2zeTpIE07uTu0gUi25gOUz18=",
-      "bytes": 20746
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-9zESqa+OBDLlMasXNfqJg7EwFlwYXo3b2UCKF23m5J0=",
+      "bytes": 20846
     },
     {
       "id": "star-wars",
@@ -1138,9 +1138,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-vZ0yDFkUBUDd+e0PSRhf3aXdS4jOcETBN3BMGyatC4U=",
-      "bytes": 17544
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-B0Y6y6ApNpOHZjzYyovTf14V5nk5K9UZMZA04wvP2Hk=",
+      "bytes": 17830
     },
     {
       "id": "civil-rights-voices",
@@ -1158,9 +1158,9 @@
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-tU6JR4VX9gZRmInJpkKvddfMBWGApv7Ywa+owPSu2dg=",
-      "bytes": 16215
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-AFy8s/10zgdcMOJ4c9mKoD8+U0o6J+0Oxxcf8agiF9Q=",
+      "bytes": 16509
     },
     {
       "id": "cosmos-space",
@@ -1178,9 +1178,9 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-IUjrfrfbdm4GCqsSZLjOGMxK+Ae8NYtRgPzapN6Qog0=",
-      "bytes": 16637
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-AtU9wfy2One6IxzzL4Y0MFsrrYEEFNejGcrsjAQteJA=",
+      "bytes": 16826
     },
     {
       "id": "great-scientists",
@@ -1198,9 +1198,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-FwCbTLkK1CQFQWSuuZQvlKTLWv8jNePTBsPEofXlwvo=",
-      "bytes": 17554
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-mXy6SSSBnK4Hl1PG2u+mK5zdR7mTI4VIq4wCox8hmh4=",
+      "bytes": 18201
     },
     {
       "id": "curiosity-discovery",
@@ -1278,9 +1278,9 @@
       "iconName": "guitars",
       "category": "Music",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-JRVFjxSTmqt1ZB2DY9u0UdFYtgJf6mQ0jnL92hPfgWM=",
-      "bytes": 13275
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-HIl/UsngvB9/bqFNBMZFARrlv7IRrPPA7CvAqpOAkJg=",
+      "bytes": 13912
     },
     {
       "id": "one-liners",
@@ -1378,9 +1378,9 @@
       "iconName": "person.2.fill",
       "category": "Love & Relationships",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-pAKtAF1pF5NSHYP9gMD1iMDr94NzYWvaXziP3Af2r0Y=",
-      "bytes": 14528
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-xF7RUGINIz+ifIAC//1YEli7VxLPLWgiTZC8/2xvZK8=",
+      "bytes": 14730
     },
     {
       "id": "marriage-and-weddings",
@@ -1418,9 +1418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Nature",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-K/5dk80dmTi/l5AQqKr9NpbKi7tL0wV+FV/mPCMVkPc=",
-      "bytes": 17790
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-/yHqFgusYoknSgntBZnX9n78GEp9K3OV2Ph7xYi1BY0=",
+      "bytes": 17936
     },
     {
       "id": "thoreau-walden",
