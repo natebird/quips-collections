@@ -235,22 +235,22 @@
       "id": "courage-021",
       "content": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
       "authorName": "Ambrose Redmoon",
-      "source": "Attributed to the writer James Neil Hollingworth (pen name Ambrose Redmoon)",
-      "sourceType": "unspecified",
+      "source": "'No Peaceful Warriors!', Gnosis magazine #21 (Fall 1991)",
+      "sourceType": "article",
       "quoteDate": "1991",
       "verificationStatus": "attributed",
-      "notes": "Credited to Redmoon, reportedly from a 1991 magazine essay, but the original publication is difficult to confirm; wording axis is uncertain. Traced to Redmoon's essay 'No Peaceful Warriors!' in Gnosis magazine #21 (Fall 1991), whose original reads 'more important than one's fear.'",
+      "notes": "The essay is the real source, but the wording axis fails: Redmoon wrote 'more important than one's fear,' not 'more important than fear.'",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-022",
       "content": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "authorName": "C. S. Lewis",
-      "source": "Attributed to Lewis; often quoted from The Screwtape Letters",
+      "source": "The Screwtape Letters (1942), Letter 29",
       "sourceType": "book",
       "quoteDate": "1942",
-      "verificationStatus": "attributed",
-      "notes": "Reliably credited to Lewis, but the exact source passage is disputed, so the attribution/source axis is uncertain. The passage is in fact Letter 29 of The Screwtape Letters (1942): 'Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.'",
+      "verificationStatus": "verified",
+      "notes": "Verified in Letter 29, where the full sentence runs 'Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.'",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -259,9 +259,9 @@
       "authorName": "Malala Yousafzai",
       "source": "Attributed to Yousafzai in speeches and interviews on girls' education",
       "sourceType": "unspecified",
-      "quoteDate": "2013-07-12",
+      "quoteDate": "c. 2013",
       "verificationStatus": "attributed",
-      "notes": "Consistent with Malala's advocacy and widely credited to her, but a single primary source is hard to fix; attribution axis is uncertain. Dated to her address to the United Nations Youth Assembly on 12 July 2013; it also appears in her 2013 memoir I Am Malala.",
+      "notes": "Widely cited to her United Nations Youth Assembly address of 12 July 2013, but the line does not appear in that speech, whose closest sentence is 'I speak not for myself, but for those without a voice.' Date is estimated from the year the wording began circulating; the source axis fails.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {

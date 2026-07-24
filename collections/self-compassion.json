@@ -334,11 +334,11 @@
       "id": "sc-030",
       "content": "Those who are happiest are those who do the most for others.",
       "authorName": "Booker T. Washington",
-      "source": "Attributed",
-      "sourceType": "unspecified",
-      "notes": "Attributed to the educator and author of Up from Slavery. Traced to Up from Slavery (1901), chapter 4: 'I began learning that those who are happiest are those who do the most for others.'",
+      "source": "Up from Slavery (1901), ch. 4 'Helping Others'",
+      "sourceType": "book",
+      "notes": "Verified against the text: 'Before the end of the year, I think I began learning that those who are happiest are those who do the most for others.' Washington is describing the unselfishness of his teachers at Hampton.",
       "quoteDate": "1901",
-      "verificationStatus": "attributed",
+      "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

@@ -246,11 +246,11 @@
       "id": "res-022",
       "content": "In three words I can sum up everything I've learned about life: it goes on.",
       "authorName": "Robert Frost",
-      "source": "Attributed",
-      "sourceType": "unspecified",
-      "notes": "Widely attributed to the poet, though it does not appear in his published verse. Traced to Ray Josephs's interview 'Robert Frost's Secret' in This Week Magazine, 5 September 1954, published for Frost's 80th birthday.",
+      "source": "Interview by Ray Josephs, 'Robert Frost's Secret,' This Week Magazine, 5 September 1954",
+      "sourceType": "interview",
+      "notes": "Given to Ray Josephs for Frost's 80th birthday and printed as 'In three words, I can sum up everything I've learned about life. It goes on.'",
       "quoteDate": "1954-09-05",
-      "verificationStatus": "attributed",
+      "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {

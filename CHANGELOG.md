@@ -38,7 +38,30 @@ era, and every such quote's `notes` now says so:
 Two traditional proverbs (`res-020` Japanese, `rest-028` Spanish) are left
 undated: their origins are genuinely unfixable and no estimate would be honest.
 
-No quote text, author, or `verificationStatus` changed.
+Five of the newly sourced quotes were then checked word-for-word against the
+source text and promoted to `verificationStatus: "verified"`, with `source` and
+`sourceType` replaced by the real citation:
+- `sc-030` Booker T. Washington — *Up from Slavery* (1901), ch. 4
+- `courage-022` C. S. Lewis — *The Screwtape Letters* (1942), Letter 29
+- `lead-027` Martin Luther King Jr. — *Where Do We Go From Here* (1967), ch. 4
+- `res-022` Robert Frost — Ray Josephs interview, *This Week Magazine*, 1954-09-05
+- `grit-018` Marie Curie — letter to her brother Józef, 1894-03-18, printed in
+  Eve Curie's *Madame Curie*
+
+Checking the wording also overturned three citations:
+- `grit-018` was dated 1923 to *Pierre Curie: With Autobiographical Notes*. The
+  passage is not in that book; it is the 1894 letter above, so `quoteDate` moves
+  to `1894-03-18`.
+- `courage-023` Malala Yousafzai was dated `2013-07-12` to her UN Youth Assembly
+  address. The line is not in that speech — its nearest sentence is "I speak not
+  for myself, but for those without a voice" — so it drops back to `c. 2013` and
+  stays unverified.
+- `grit-023` Stowe and `courage-021` Redmoon now carry exact citations
+  (*Oldtown Folks* ch. 39 p. 507; *Gnosis* #21) but stay unverified: the stored
+  text reads "as though" for Stowe's "as if", and drops the "one's" from
+  Redmoon's "more important than one's fear".
+
+No quote text or `authorName` changed.
 
 ## [1.9.0] - 2026-07-11
 ### Added

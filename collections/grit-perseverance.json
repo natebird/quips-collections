@@ -202,11 +202,11 @@
       "id": "grit-018",
       "content": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
       "authorName": "Marie Curie",
-      "source": "Attributed; quoted in biographies of Curie",
-      "sourceType": "unspecified",
-      "quoteDate": "1923",
-      "verificationStatus": "attributed",
-      "notes": "Frequently cited to Curie and consistent with her recorded outlook, but the exact original context is unconfirmed (attribution axis). Traced to Pierre Curie: With Autobiographical Notes by Marie Curie (1923), where the passage appears in her autobiographical notes.",
+      "source": "Letter to her brother Jozef, 18 March 1894, in Eve Curie, Madame Curie (trans. Vincent Sheean)",
+      "sourceType": "letter",
+      "quoteDate": "1894-03-18",
+      "verificationStatus": "verified",
+      "notes": "Verified against the letter as printed in Eve Curie's biography, where the passage opens 'It seems that life is not easy for any of us.' Marie was 27 and studying in Paris.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -257,11 +257,11 @@
       "id": "grit-023",
       "content": "When you get into a tight place and everything goes against you, till it seems as though you could not hold on a minute longer, never give up then, for that is just the place and time that the tide will turn.",
       "authorName": "Harriet Beecher Stowe",
-      "source": "Attributed to Harriet Beecher Stowe",
-      "sourceType": "unspecified",
+      "source": "Oldtown Folks (1869), ch. 39 'Last Days in Cloudland', p. 507",
+      "sourceType": "book",
       "quoteDate": "1869",
       "verificationStatus": "attributed",
-      "notes": "Long credited to Stowe, but the specific work it comes from is not reliably confirmed (attribution axis). Traced to Stowe's novel Oldtown Folks (1869), chapter 39.",
+      "notes": "The passage is in Oldtown Folks, but the wording axis fails: the original reads 'till it seems as if you could n't hold on a minute longer... that's just the place and time that the tide 'll turn,' where this version has 'as though' and expands the contractions.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
