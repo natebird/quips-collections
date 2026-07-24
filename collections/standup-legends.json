@@ -9,7 +9,7 @@
   "iconName": "mic.fill",
   "category": "Comedy",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-16T12:00:00Z",
   "quotes": [
     {
       "id": "standup-001",
@@ -285,6 +285,17 @@
       "sourceType": "unspecified",
       "notes": "A signature Hedberg one-liner with stable wording, but a specific released album or special could not be pinned down. Source axis unconfirmed.",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "standup-026",
+      "content": "The world is like a ride at an amusement park, and when you choose to go on it, you think it's real, cause that's how powerful our minds are. And the ride goes up and down and round and round; it has thrills and chills and it's very brightly colored and it's very loud and it's fun... for a while.",
+      "authorName": "Bill Hicks",
+      "source": "Bill Hicks: Revelations (TV special, recorded live at the Dominion Theatre, London)",
+      "quoteDate": "c. 1992",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "The opening of Hicks's signature closing bit, 'It's Just a Ride,' from his final special; wording confirmed consistently across independent full transcripts of the recording.",
+      "addedAt": "2026-07-16T12:00:00Z"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "iconName": "book.closed.fill",
   "category": "Faith",
   "addedAt": "2026-07-01T01:58:18Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-16T12:00:00Z",
   "quotes": [
     {
       "id": "sikh-001",
@@ -208,6 +208,17 @@
       "sourceType": "book",
       "notes": "A salok of the Sufi saint Sheikh Farid, whose verses are enshrined in the Guru Granth Sahib; verified on SriGranth.org against Sant Singh Khalsa's translation.",
       "addedAt": "2026-07-01T01:58:18Z"
+    },
+    {
+      "id": "sikh-019",
+      "content": "When all has been tried, yet justice is not in sight, it is then right to pick up the sword, it is then right to fight.",
+      "authorName": "Guru Gobind Singh",
+      "source": "Zafarnama (Epistle of Victory), verse 22, trans. Navtej Sarna (Penguin, 2011)",
+      "quoteDate": "c. 1705",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "From the tenth Guru's Persian epistle to Emperor Aurangzeb, arguing that force is justified only as an absolute last resort; wording matches Navtej Sarna's published translation of verse 22, distinguishing it from other renderings.",
+      "addedAt": "2026-07-16T12:00:00Z"
     }
   ]
 }

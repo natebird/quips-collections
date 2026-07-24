@@ -13,7 +13,7 @@ used verbatim as that release's notes.
 
 ## [1.9.1] - 2026-07-24
 ### Changed
-Backfilled `quoteDate` on 123 of the 125 quotes that had none, across 22
+Backfilled `quoteDate` on 124 of the 126 quotes that had none, across 22
 collections. Where the quote is misattributed or has no primary source, the date
 is that of the *earliest documented appearance* rather than the named speaker's
 era, and every such quote's `notes` now says so:
@@ -29,6 +29,10 @@ era, and every such quote's `notes` now says so:
   Horizons (1983).
 - **Estimated** — the remainder carry a `c. YYYY` / decade-range / century value
   with a note stating the estimate's basis and that the full source is unverified.
+
+This includes `di-012` (Henry Ford), whose date was cleared earlier in this
+release cycle: the same note that cleared it pins the earliest documented
+appearance to *Reader's Digest*, September 1947, so it is dated `c. 1947`.
 
 Two traditional proverbs (`res-020` Japanese, `rest-028` Spanish) are left
 undated: their origins are genuinely unfixable and no estimate would be honest.

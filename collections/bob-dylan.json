@@ -9,7 +9,7 @@
   "iconName": "guitars.fill",
   "category": "Music",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-16T12:00:00Z",
   "quotes": [
     {
       "id": "dylan-001",
@@ -296,6 +296,17 @@
       "sourceType": "book",
       "notes": "Widely attributed to Chronicles, but exact wording not confirmed against the primary text (wording axis).",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "dylan-027",
+      "content": "You can write a song anywhere, in a railroad compartment, on a boat, on horseback — it helps to be moving. Sometimes people who have the greatest talent for writing songs never write any because they are not moving.",
+      "authorName": "Bob Dylan",
+      "source": "Chronicles: Volume One (2004)",
+      "quoteDate": "2004",
+      "verificationStatus": "unverified",
+      "sourceType": "book",
+      "notes": "Wording is consistent across independent secondary sources discussing Chronicles, but could not be confirmed against the primary text directly (wording axis) — same caution applied to this collection's other Chronicles-sourced entry.",
+      "addedAt": "2026-07-16T12:00:00Z"
     }
   ]
 }
