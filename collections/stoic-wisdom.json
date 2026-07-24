@@ -9,7 +9,7 @@
   "iconName": "building.columns.fill",
   "category": "Philosophy",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "sw-001",
@@ -193,9 +193,9 @@
       "authorName": "Seneca",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1912",
       "verificationStatus": "attributed",
-      "notes": "Often attributed to Seneca but the exact source is uncertain. The sentiment aligns with Stoic views on preparation and seizing moments.",
+      "notes": "Often attributed to Seneca but the exact source is uncertain. The sentiment aligns with Stoic views on preparation and seizing moments. Date is estimated from the earliest documented appearance, an unattributed line in The Youth's Companion (1912).",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {

@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Movies",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "dc-001",
@@ -380,9 +380,9 @@
       "authorName": "Sinestro Corps Oath",
       "source": "Green Lantern Corps (Comics)",
       "sourceType": "comic",
-      "quoteDate": null,
+      "quoteDate": "2007",
       "verificationStatus": "verified",
-      "notes": "The Yellow Lantern oath, counterpart to the Green Lantern oath. Fear-based power source.",
+      "notes": "The Yellow Lantern oath, counterpart to the Green Lantern oath. Fear-based power source. The Sinestro Corps oath was introduced in DC's 2007 Sinestro Corps War storyline (Green Lantern: Sinestro Corps Special and Green Lantern vol. 4 #21-25).",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {

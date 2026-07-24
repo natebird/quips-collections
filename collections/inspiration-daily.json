@@ -9,7 +9,7 @@
   "iconName": "sunrise.fill",
   "category": "Inspiration",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-07-13T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "di-001",
@@ -39,9 +39,9 @@
       "authorName": "Theodore Roosevelt",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1900s",
       "verificationStatus": "attributed",
-      "notes": "Commonly attributed to Roosevelt but no verified primary source exists. Consistent with his philosophy of the 'strenuous life' and self-belief.",
+      "notes": "Commonly attributed to Roosevelt but no verified primary source exists. Consistent with his philosophy of the 'strenuous life' and self-belief. Date is a broad estimate spanning Roosevelt's presidency, not a documented one.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -94,9 +94,9 @@
       "authorName": "Ralph Waldo Emerson",
       "source": "Attributed (often misattributed)",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "1940",
       "verificationStatus": "unverified",
-      "notes": "Frequently attributed to Emerson but not found in his published works. May have originated from Henry Stanley Haskins' 'Meditations in Wall Street' (1940) or similar sources.",
+      "notes": "Frequently attributed to Emerson but not found in his published works. May have originated from Henry Stanley Haskins' 'Meditations in Wall Street' (1940) or similar sources. Dated to that 1940 volume, the earliest documented appearance; researchers credit the line to Haskins himself.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -105,9 +105,9 @@
       "authorName": "Winston Churchill",
       "source": "Attributed (often misattributed)",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1930s",
       "verificationStatus": "unverified",
-      "notes": "Widely attributed to Churchill but no verified source in his speeches or writings. The sentiment aligns with his wartime rhetoric about perseverance.",
+      "notes": "Widely attributed to Churchill but no verified source in his speeches or writings. The sentiment aligns with his wartime rhetoric about perseverance. Date is estimated from the earliest documented appearances, an Anheuser-Busch advertising series of the 1930s.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -116,9 +116,9 @@
       "authorName": "Chinese Proverb",
       "source": "Traditional",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 20th century",
       "verificationStatus": "folk-wisdom",
-      "notes": "Traditional Chinese proverb. Exact origin unknown but the wisdom about taking action has been passed down for generations.",
+      "notes": "Traditional Chinese proverb. Exact origin unknown but the wisdom about taking action has been passed down for generations. The century is a broad estimate for the saying's circulation in English, not a documented date.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -138,9 +138,9 @@
       "authorName": "Henry Ford",
       "source": "Widely attributed to Ford; earliest documented appearance is The Reader's Digest, September 1947 (five months after Ford's death, uncited)",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1947",
       "verificationStatus": "unverified",
-      "notes": "No occurrence found in Ford's own writing or speeches (e.g. My Life and Work, 1922). First traceable link to Ford's name is an uncited Reader's Digest item, Sept. 1947, months after his death — a likely magnet-quote misattribution. True origin untraceable to a single author (attribution axis fails).",
+      "notes": "No occurrence found in Ford's own writing or speeches (e.g. My Life and Work, 1922). First traceable link to Ford's name is an uncited Reader's Digest item, Sept. 1947, months after his death — a likely magnet-quote misattribution. True origin untraceable to a single author (attribution axis fails). Date is estimated from that 1947 Reader's Digest item, the earliest documented appearance.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -171,9 +171,9 @@
       "authorName": "Ralph Waldo Emerson",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
-      "notes": "Widely attributed to Emerson and consistent with his transcendentalist philosophy of self-reliance and personal choice.",
+      "notes": "Widely attributed to Emerson and consistent with his transcendentalist philosophy of self-reliance and personal choice. The century is a broad estimate for the line's modern circulation; it does not appear in Emerson's published work.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -259,9 +259,9 @@
       "authorName": "C.S. Lewis",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1992",
       "verificationStatus": "unverified",
-      "notes": "Widely attributed to C.S. Lewis but no verified source in his published works. The sentiment is consistent with his later life writings on hope and renewal.",
+      "notes": "Widely attributed to C.S. Lewis but no verified source in his published works. The sentiment is consistent with his later life writings on hope and renewal. Date is estimated from the earliest documented appearance, Les Brown's 1992 book Live Your Dreams; the Lewis ascription surfaces only from 2006.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -292,9 +292,9 @@
       "authorName": "Walt Whitman",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1862",
       "verificationStatus": "unverified",
-      "notes": "Commonly attributed to Whitman though not found in his published poetry collections. May be a paraphrase of his optimistic philosophy.",
+      "notes": "Commonly attributed to Whitman though not found in his published poetry collections. May be a paraphrase of his optimistic philosophy. Date is estimated from the earliest documented appearance, an anonymous saying in West Virginia's Daily Intelligencer in 1862; the Whitman ascription dates only from 1919.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -303,9 +303,9 @@
       "authorName": "Abraham Lincoln",
       "source": "Attributed (often misattributed)",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1947",
       "verificationStatus": "unverified",
-      "notes": "Frequently attributed to Lincoln but likely originated from an advertisement by Edward J. Stieglitz in the 1940s. No verified Lincoln source.",
+      "notes": "Frequently attributed to Lincoln but likely originated from an advertisement by Edward J. Stieglitz in the 1940s. No verified Lincoln source. Date is estimated from the earliest documented appearance, a 1947 Chicago Tribune advertisement for Stieglitz's book The Second Forty Years.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -325,9 +325,9 @@
       "authorName": "Mark Twain",
       "source": "Attributed (often misattributed)",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1968",
       "verificationStatus": "unverified",
-      "notes": "Widely attributed to Twain but no verified source in his writings. The sentiment aligns with his pragmatic humor and philosophy.",
+      "notes": "Widely attributed to Twain but no verified source in his writings. The sentiment aligns with his pragmatic humor and philosophy. Date is estimated from the earliest documented appearance of this exact wording, unattributed, in Evan Esar's 20,000 Quips and Quotes (1968); a partial version ran in a 1923 newspaper advertisement.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -336,9 +336,9 @@
       "authorName": "C.S. Lewis",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
-      "notes": "Commonly attributed to Lewis but not verified in his published works. The sentiment is consistent with themes in his Christian apologetics and Narnia series.",
+      "notes": "Commonly attributed to Lewis but not verified in his published works. The sentiment is consistent with themes in his Christian apologetics and Narnia series. The century is a broad estimate for the line's modern circulation, not a documented date.",
       "addedAt": "2026-06-27T20:29:50Z"
     }
   ]

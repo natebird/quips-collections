@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -171,9 +171,9 @@
       "authorName": "Maya Angelou",
       "source": "Repeated by Angelou in interviews and public talks",
       "sourceType": "interview",
-      "quoteDate": null,
+      "quoteDate": "c. 2008",
       "verificationStatus": "attributed",
-      "notes": "Angelou said versions of this many times, but the wording varies across appearances and no single primary source is definitive.",
+      "notes": "Angelou said versions of this many times, but the wording varies across appearances and no single primary source is definitive. Date is estimated from a documented instance, her May 2008 Cornell University convocation address; an earlier origin is likely.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -193,9 +193,9 @@
       "authorName": "Desmond Tutu",
       "source": "Attributed to Tutu in speeches and writings on apartheid",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1984",
       "verificationStatus": "attributed",
-      "notes": "Genuinely and consistently credited to Tutu, but a specific primary source and exact wording are hard to pin down; attribution axis is the uncertain one.",
+      "notes": "Genuinely and consistently credited to Tutu, but a specific primary source and exact wording are hard to pin down; attribution axis is the uncertain one. Date is estimated from the earliest documented appearance, Robert McAfee Brown's Unexpected News (1984).",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -204,9 +204,9 @@
       "authorName": "Confucius",
       "source": "The Analects, Book II",
       "sourceType": "book",
-      "quoteDate": null,
+      "quoteDate": "c. 5th century BCE",
       "verificationStatus": "attributed",
-      "notes": "The sentiment is from the Analects, but English wording depends entirely on the translator; the wording axis is uncertain.",
+      "notes": "The sentiment is from the Analects, but English wording depends entirely on the translator; the wording axis is uncertain. Date reflects the traditional composition period of the Analects and is therefore approximate.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -215,9 +215,9 @@
       "authorName": "Thucydides",
       "source": "Pericles' Funeral Oration, History of the Peloponnesian War",
       "sourceType": "book",
-      "quoteDate": null,
+      "quoteDate": "c. 431 BCE",
       "verificationStatus": "attributed",
-      "notes": "As rendered from Thucydides' account of Pericles; the phrasing varies substantially by translation, so the wording axis is uncertain.",
+      "notes": "As rendered from Thucydides' account of Pericles; the phrasing varies substantially by translation, so the wording axis is uncertain. Date is that of Pericles' funeral oration in the winter of 431/430 BCE as recorded by Thucydides.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -226,31 +226,31 @@
       "authorName": "Georgia O'Keeffe",
       "source": "Attributed to O'Keeffe in accounts of her life and work",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1977",
       "verificationStatus": "attributed",
-      "notes": "Long associated with O'Keeffe, but a firm primary source has not been located; attribution axis is uncertain.",
+      "notes": "Long associated with O'Keeffe, but a firm primary source has not been located; attribution axis is uncertain. Date is estimated from a 1977 recorded interview with the Museum of Modern Art, the earliest documented source located.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-021",
-      "content": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
+      "content": "Courage is not the absence of fear, but rather the judgment that something else is more important than one's fear.",
       "authorName": "Ambrose Redmoon",
-      "source": "Attributed to the writer James Neil Hollingworth (pen name Ambrose Redmoon)",
-      "sourceType": "unspecified",
-      "quoteDate": null,
-      "verificationStatus": "attributed",
-      "notes": "Credited to Redmoon, reportedly from a 1991 magazine essay, but the original publication is difficult to confirm; wording axis is uncertain.",
+      "source": "'No Peaceful Warriors!', Gnosis magazine #21 (Fall 1991)",
+      "sourceType": "article",
+      "quoteDate": "1991",
+      "verificationStatus": "verified",
+      "notes": "Verified against the essay text; the popular version drops the 'one's', which is the word that makes the judgment a personal one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
       "id": "courage-022",
       "content": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
       "authorName": "C. S. Lewis",
-      "source": "Attributed to Lewis; often quoted from The Screwtape Letters",
+      "source": "The Screwtape Letters (1942), Letter 29",
       "sourceType": "book",
-      "quoteDate": null,
-      "verificationStatus": "attributed",
-      "notes": "Reliably credited to Lewis, but the exact source passage is disputed, so the attribution/source axis is uncertain.",
+      "quoteDate": "1942",
+      "verificationStatus": "verified",
+      "notes": "Verified in Letter 29, where the full sentence runs 'Courage is not simply one of the virtues but the form of every virtue at the testing point, which means at the point of highest reality.'",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -259,9 +259,9 @@
       "authorName": "Malala Yousafzai",
       "source": "Attributed to Yousafzai in speeches and interviews on girls' education",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 2013",
       "verificationStatus": "attributed",
-      "notes": "Consistent with Malala's advocacy and widely credited to her, but a single primary source is hard to fix; attribution axis is uncertain.",
+      "notes": "Widely cited to her United Nations Youth Assembly address of 12 July 2013, but the line does not appear in that speech, whose closest sentence is 'I speak not for myself, but for those without a voice.' Date is estimated from the year the wording began circulating; the source axis fails.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -270,9 +270,9 @@
       "authorName": "Susan B. Anthony",
       "source": "Attributed to Anthony in her speeches and writings on suffrage",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1860",
       "verificationStatus": "attributed",
-      "notes": "Long credited to Anthony, but the exact original occasion is not firmly documented; attribution axis is uncertain.",
+      "notes": "Long credited to Anthony, but the exact original occasion is not firmly documented; attribution axis is uncertain. Date is estimated from her 1860 statement on the campaign for divorce law reform, the earliest documented context.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -314,9 +314,9 @@
       "authorName": "Aristotle",
       "source": "Commonly attributed to Aristotle, echoing the Nicomachean Ethics",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 4th century BCE",
       "verificationStatus": "attributed",
-      "notes": "A paraphrase in the spirit of Aristotle's ethics rather than a literal line from any text; wording axis is uncertain.",
+      "notes": "A paraphrase in the spirit of Aristotle's ethics rather than a literal line from any text; wording axis is uncertain. Date reflects the composition period of the Nicomachean Ethics that the paraphrase echoes.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -325,9 +325,9 @@
       "authorName": "Winston Churchill",
       "source": "Popularly attributed to Churchill",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1964",
       "verificationStatus": "unverified",
-      "notes": "No primary source has ever been found in Churchill's speeches or writings; the attribution axis fails.",
+      "notes": "No primary source has ever been found in Churchill's speeches or writings; the attribution axis fails. Date is estimated from the earliest documented appearance, a 1964 issue of Quote: The Weekly Digest crediting the American writer William Arthur Ward; the Churchill ascription appears only by 1976.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -336,9 +336,9 @@
       "authorName": "E. E. Cummings",
       "source": "Popularly attributed to Cummings",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1955",
       "verificationStatus": "unverified",
-      "notes": "Widely circulated online but absent from Cummings's published work; the attribution axis fails.",
+      "notes": "Widely circulated online but absent from Cummings's published work; the attribution axis fails. Date is estimated from Cummings's 1955 'A Poet's Advice to Students,' whose genuine line ('to be nobody-but-yourself... means to fight the hardest battle') this appears to compress.",
       "addedAt": "2026-07-01T01:53:56Z"
     }
   ]

@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -50,8 +50,8 @@
       "authorName": "Pablo Picasso",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to Picasso. Reflects his rebellious approach to artistic convention and willingness to break rules.",
-      "quoteDate": null,
+      "notes": "Attributed to Picasso. Reflects his rebellious approach to artistic convention and willingness to break rules. Date is estimated from Christian Zervos's 'Conversation avec Picasso' in Cahiers d'Art (1935), the source usually cited for it.",
+      "quoteDate": "c. 1935",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -116,8 +116,8 @@
       "authorName": "Albert Einstein",
       "source": "Attributed (unverified)",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Einstein but no verified source exists. The sentiment aligns with his playful approach to science and thought experiments.",
-      "quoteDate": null,
+      "notes": "Widely attributed to Einstein but no verified source exists. The sentiment aligns with his playful approach to science and thought experiments. Date is estimated from the earliest documented appearance, the closing sentence of a March 1984 'Mindplay' article in Harvard Magazine.",
+      "quoteDate": "c. 1984",
       "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -171,8 +171,8 @@
       "authorName": "Pablo Picasso",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Picasso though unverified. Reflects his journey from classical training to revolutionary modernism.",
-      "quoteDate": null,
+      "notes": "Widely attributed to Picasso though unverified. Reflects his journey from classical training to revolutionary modernism. Date is a broad estimate spanning Picasso's working life, not a documented one.",
+      "quoteDate": "c. 1900s-1970s",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -259,8 +259,8 @@
       "authorName": "Pablo Picasso",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "One of Picasso's most famous quotes about the creative process. Emphasizes discipline over waiting for inspiration.",
-      "quoteDate": null,
+      "notes": "One of Picasso's most famous quotes about the creative process. Emphasizes discipline over waiting for inspiration. Date is estimated from the 1930s conversations with Christian Zervos that this line is usually traced to.",
+      "quoteDate": "c. 1930s",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -270,8 +270,8 @@
       "authorName": "Michelangelo",
       "source": "Attributed (Renaissance era)",
       "sourceType": "unspecified",
-      "notes": "Frequently attributed to Michelangelo regarding his sculpture process. No contemporary source, but consistent with Renaissance artistic philosophy.",
-      "quoteDate": null,
+      "notes": "Frequently attributed to Michelangelo regarding his sculpture process. No contemporary source, but consistent with Renaissance artistic philosophy. Date is estimated from the earliest appearance attributing the anecdote to Michelangelo (Ambition magazine, January 1916); a version told of an unnamed sculptor appears by 1884.",
+      "quoteDate": "c. 1916",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -314,8 +314,8 @@
       "authorName": "Pablo Picasso",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Picasso. Reflects his surrealist connections and belief in the reality of imaginative experience.",
-      "quoteDate": null,
+      "notes": "Widely attributed to Picasso. Reflects his surrealist connections and belief in the reality of imaginative experience. Date is a broad estimate spanning Picasso's working life, not a documented one.",
+      "quoteDate": "c. 1900s-1970s",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
