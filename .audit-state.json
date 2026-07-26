@@ -28,11 +28,11 @@
   "cursor": {
     "fileIndex": 1,
     "file": "bhagavad-gita",
-    "quoteIndex": 5,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bhagavad-gita quotes[5] (gita-006)."
+    "quoteIndex": 25,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bhagavad-gita quotes[25] (gita-026)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 30,
+  "totalQuotesAudited": 50,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -73,6 +73,32 @@
       "resolution": "bsg-023 and bsg-025 fixed in this run's PR. bsg-024 fixed in a same-day follow-up commit to the same PR after user confirmation via direct episode viewing + captions. battlestar-galactica finishes this pass (25/25 quotes now audited). gita-001..gita-005 all passed with no issues (Edwin Arnold's public-domain 'Song Celestial' translation, verse-cited -- a strong primary source).",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "bsg-024 is a case where the automated pass correctly detected a real issue but couldn't clear its own confidence bar without primary-source access; user-in-the-loop confirmation resolved it same-day rather than leaving it open to the next run."
+    },
+    {
+      "runDate": "2026-07-25",
+      "file": "bhagavad-gita",
+      "quoteRange": "gita-006..gita-015",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- all verified verbatim against Edwin Arnold's public-domain 'Song Celestial' translation with correct verse citations (2:47, 2:58, 2:62-63, 2:70, 3:8, 3:19, 3:21, 3:35, 4:7-8, 4:18)",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/26",
+      "processNote": "this run's report (issue #26) was filed correctly, including a PR review of #22/#23/#24, but this cursor/runs update was never committed afterward -- apparently the workflow only pushed a state-update commit when a fix PR was also needed, and this was the first fully-clean batch (no fix PR to carry it). Recovered one day late by the next scheduled run (2026-07-26), which found issue #26 already covering this exact batch before doing any new work."
+    },
+    {
+      "runDate": "2026-07-26",
+      "file": "bhagavad-gita",
+      "quoteRange": "gita-016..gita-025",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- all verified verbatim against Edwin Arnold's public-domain 'Song Celestial' translation with correct verse citations (4:37, 6:5, 6:19, 6:35, 6:36, 6:40, 9:22, 9:26, 9:29, 9:30)",
+      "resolution": "no fixes needed",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "re-checked open PRs #22, #23, #24: all unchanged since issue #26 reviewed them (no new commits); prior findings (all pass, no aggregator sourcing, PR #22 itself a positive correction) still hold. No re-review write-up repeated in this run's issue beyond a status note."
     }
   ]
 }
