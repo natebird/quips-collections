@@ -9,7 +9,7 @@
   "iconName": "scroll.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-07-09T12:00:00Z",
+  "lastUpdated": "2026-07-27T12:00:00Z",
   "quotes": [
     {
       "id": "poem-001",
@@ -395,6 +395,17 @@
       "verificationStatus": "verified",
       "notes": "The closing indictment of Horace's maxim ('it is sweet and fitting to die for one's country'), drafted at Craiglockhart War Hospital and published posthumously.",
       "addedAt": "2026-07-09T12:40:13Z"
+    },
+    {
+      "id": "poem-036",
+      "content": "He says the best way out is always through.\nAnd I agree to that, or in so far\nAs that I can see no way out but through—\nLeastways for me—and then they'll be convinced.",
+      "authorName": "Robert Frost",
+      "source": "A Servant to Servants, in North of Boston (David Nutt, London / Henry Holt, New York, 1914)",
+      "sourceType": "poem",
+      "quoteDate": "1914",
+      "verificationStatus": "verified",
+      "notes": "The line is spoken by the exhausted farm-wife narrator's husband Len, not asserted as the poem's own moral — she only half-agrees, fearing her own breakdown. The underlying adage predates Frost: Quote Investigator traces \"the only way out is through\" to an 1870 Harper's Weekly editorial by George William Curtis. Featured in Quote Unquote #18.",
+      "addedAt": "2026-07-27T12:00:00Z"
     }
   ]
 }
