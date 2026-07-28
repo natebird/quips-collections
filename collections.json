@@ -287,7 +287,7 @@
       "name": "Great Poems",
       "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
       "author": "Quips Editorial",
-      "quoteCount": 35,
+      "quoteCount": 36,
       "previewQuotes": [
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
@@ -298,9 +298,9 @@
       "iconName": "scroll.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-HZcF/avkdAULY/Y7DsfCRFrp7XCh4BhkmWGsT3Yu3Vk=",
-      "bytes": 16543
+      "lastUpdated": "2026-07-27T12:00:00Z",
+      "contentHash": "sha256-u1kmkGccKH9GBz5sbWMA8hnxn79BvgrEcHGs2SbmFkk=",
+      "bytes": 17424
     },
     {
       "id": "dystopian-fiction",
