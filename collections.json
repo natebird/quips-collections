@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-27T12:00:00Z",
+  "lastUpdated": "2026-07-30T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -167,7 +167,7 @@
       "name": "Literary Classics",
       "description": "Memorable lines from the greatest works of literature throughout history.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "It was the best of times, it was the worst of times.",
         "All happy families are alike; each unhappy family is unhappy in its own way."
@@ -178,9 +178,9 @@
       "iconName": "book.fill",
       "category": "Literature",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-kHSOwuZNobSr6WW4cO/Oz+n3sOJT4MDXyFgdBIxTu80=",
-      "bytes": 14943
+      "lastUpdated": "2026-07-30T12:00:00Z",
+      "contentHash": "sha256-Eq0S1ebrJa7SHPprHtYbQAIbSAik1pRVKP878i27BBM=",
+      "bytes": 15466
     },
     {
       "id": "shakespeare",
@@ -287,7 +287,7 @@
       "name": "Great Poems",
       "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
       "author": "Quips Editorial",
-      "quoteCount": 36,
+      "quoteCount": 37,
       "previewQuotes": [
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
@@ -298,9 +298,9 @@
       "iconName": "scroll.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-07-27T12:00:00Z",
-      "contentHash": "sha256-u1kmkGccKH9GBz5sbWMA8hnxn79BvgrEcHGs2SbmFkk=",
-      "bytes": 17424
+      "lastUpdated": "2026-07-30T12:00:00Z",
+      "contentHash": "sha256-9uRqk1tYtmp6gKI0M731zLM0/4WY7m0ZqMQ9yoCTxQU=",
+      "bytes": 18091
     },
     {
       "id": "dystopian-fiction",
@@ -347,7 +347,7 @@
       "name": "First Lines",
       "description": "The unforgettable opening sentences that pull readers into the world's most beloved novels.",
       "author": "Quips Editorial",
-      "quoteCount": 39,
+      "quoteCount": 40,
       "previewQuotes": [
         "Call me Ishmael.",
         "Mother died today."
@@ -358,9 +358,9 @@
       "iconName": "book.pages.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-nhYM/+wcvas7fHLBWTWytbrR1VVtQCP+ohyO5PMQ4/A=",
-      "bytes": 19015
+      "lastUpdated": "2026-07-30T12:00:00Z",
+      "contentHash": "sha256-67OivW+W8PYNTG2pT6Vaq4OeNrO4f/Jykz2VgaV9ReM=",
+      "bytes": 19479
     },
     {
       "id": "mindfulness",
@@ -1147,7 +1147,7 @@
       "name": "Civil Rights Voices",
       "description": "Courage and conscience from the leaders who marched for freedom and equality.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "Nobody's free until everybody's free.",
         "I am sick and tired of being sick and tired."
@@ -1158,9 +1158,9 @@
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-AFy8s/10zgdcMOJ4c9mKoD8+U0o6J+0Oxxcf8agiF9Q=",
-      "bytes": 16509
+      "lastUpdated": "2026-07-30T12:00:00Z",
+      "contentHash": "sha256-4EaJICWU7RyS/e98eY/us6NF3uhqXUlwcDV68pMHCaA=",
+      "bytes": 17150
     },
     {
       "id": "cosmos-space",
