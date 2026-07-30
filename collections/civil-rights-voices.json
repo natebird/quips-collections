@@ -9,7 +9,7 @@
   "iconName": "figure.walk.motion",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-07-30T12:00:00Z",
   "quotes": [
     {
       "id": "rights-001",
@@ -318,6 +318,17 @@
       "sourceType": "unspecified",
       "notes": "The guiding slogan of Bridges's own foundation, stated by her in public remarks and on its official site; minor wording variants exist.",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "rights-029",
+      "content": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+      "authorName": "James Baldwin",
+      "source": "\"As Much Truth as One Can Bear,\" New York Times Book Review (January 14, 1962)",
+      "quoteDate": "1962-01-14",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "From the concluding paragraph of Baldwin's essay on American writers' duty to confront reality; attribution and wording confirmed by Snopes and Quote Investigator against the original review.",
+      "addedAt": "2026-07-30T12:00:00Z"
     }
   ]
 }
