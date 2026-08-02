@@ -28,11 +28,11 @@
   "cursor": {
     "fileIndex": 2,
     "file": "bible-wisdom",
-    "quoteIndex": 15,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bible-wisdom quotes[15] (bible-016)."
+    "quoteIndex": 25,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bible-wisdom quotes[25] (bible-026)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 70,
+  "totalQuotesAudited": 80,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -125,6 +125,19 @@
       "resolution": "no fixes needed",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "WebSearch worked this run and spot-checked two of the ten quotes (Psalm 46:10, Matthew 5:9) against multiple independent KJV reference sites (BibleHub, KingJamesBibleOnline, BlueLetterBible); wording matched exactly. Remaining eight are extremely well-known, unambiguous KJV text confirmed by direct knowledge. Re-checked open PRs: #22 no longer open (closed/merged since last review); #23 and #24 remain open with zero new commits since the 2026-07-29 review -- prior findings (both well-sourced to primary texts: Plato's Apology via Perseus Digital Library for #23; BBC interview transcript and Slaughterhouse-Five text for #24) still hold, nothing new to flag."
+    },
+    {
+      "runDate": "2026-08-02",
+      "file": "bible-wisdom",
+      "quoteRange": "bible-016..bible-025",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- all verified verbatim against the King James Version (public domain, standard text) with correct citations (John 3:16, John 8:32, Romans 8:28, 1 Corinthians 13:4, 1 Corinthians 13:13, Philippians 4:13, Isaiah 40:31, Micah 6:8, Jeremiah 29:11, Joshua 1:9)",
+      "resolution": "no fixes needed",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "spot-checked two of the ten quotes (Micah 6:8, Jeremiah 29:11) via WebSearch against independent KJV reference sites (BibleHub, KingJamesBibleOnline); wording matched exactly. Remaining eight are among the most widely-cited KJV verses, confirmed by direct knowledge. Re-checked open PRs #23 and #24: both unchanged (identical single commit as the last review, no new activity), prior findings (Plato's Apology via Perseus Digital Library for #23; BBC Horizon interview transcript + Slaughterhouse-Five for #24) still hold, nothing new to flag."
     }
   ]
 }
