@@ -26,13 +26,13 @@
     "western-movies", "words-of-jesus", "yogi-berra", "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 2,
-    "file": "bible-wisdom",
-    "quoteIndex": 25,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bible-wisdom quotes[25] (bible-026)."
+    "fileIndex": 3,
+    "file": "bob-dylan",
+    "quoteIndex": 4,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bob-dylan quotes[4] (dylan-005)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 80,
+  "totalQuotesAudited": 90,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -138,6 +138,19 @@
       "resolution": "no fixes needed",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "spot-checked two of the ten quotes (Micah 6:8, Jeremiah 29:11) via WebSearch against independent KJV reference sites (BibleHub, KingJamesBibleOnline); wording matched exactly. Remaining eight are among the most widely-cited KJV verses, confirmed by direct knowledge. Re-checked open PRs #23 and #24: both unchanged (identical single commit as the last review, no new activity), prior findings (Plato's Apology via Perseus Digital Library for #23; BBC Horizon interview transcript + Slaughterhouse-Five for #24) still hold, nothing new to flag."
+    },
+    {
+      "runDate": "2026-08-03",
+      "file": "bible-wisdom + bob-dylan",
+      "quoteRange": "bible-026..bible-031, dylan-001..dylan-004",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- bible-026..031 verified verbatim against the King James Version (public domain, standard text) with correct citations (Proverbs 15:1, 22:6, 27:17, Psalm 30:5, Numbers 6:24-25, 1 Thessalonians 5:16-18); bible-wisdom collection now finishes this pass (31/31 quotes audited). dylan-001..004 verified verbatim (via WebSearch snippet matching against the official nobelprize.org transcript and independent press reprints) against Dylan's Nobel Prize banquet speech, Stockholm, 2016-12-10 -- a primary/authoritative source; direct WebFetch of nobelprize.org returned 403.",
+      "resolution": "no fixes needed",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Noted in passing (not part of this batch's audit range, no action needed): bob-dylan already carries two self-flagged 'unverified' entries further down the file (dylan-026, dylan-027) with honest notes that their exact wording against the Chronicles: Volume One primary text couldn't be confirmed -- good practice already in place, will be reached and re-attempted with primary-text access when the cursor gets there. Re-checked open PRs #23 and #24 via get_commits: both still exactly one commit each (64dd46a for #23, b25f20e for #24), byte-identical to every prior review since 2026-07-20/23 -- confirmed no new activity. Prior findings (#23: Plato's Apology 38a via Perseus Digital Library, cross-checked against Xenophon's independent Apology; #24: Feynman/great-scientists and Vonnegut/dystopian-fiction, both primary-sourced, with 5 duplicate/paraphrase candidates and 3 apocryphal/misattributed candidates correctly rejected in the same sweep) still hold, nothing new to flag."
     }
   ]
 }
