@@ -9,7 +9,7 @@
   "iconName": "atom",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-08-03T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -340,6 +340,17 @@
       "sourceType": "unspecified",
       "notes": "Photographed on Feynman's blackboard after his death, alongside the line 'Know how to solve every problem that has been solved'; documented by Caltech Archives and cited by science historians.",
       "addedAt": "2026-07-09T12:40:13Z"
+    },
+    {
+      "id": "sci-031",
+      "content": "It is not the strongest of the species that survives, but the most adaptable to change.",
+      "authorName": "Charles Darwin",
+      "source": "Widely attributed; traced to Leon C. Megginson, \"Lessons from Europe for American Business,\" Southwestern Social Science Quarterly, Vol. 44, No. 1 (June 1963), p. 4",
+      "quoteDate": "c. 1963",
+      "verificationStatus": "unverified",
+      "sourceType": "unspecified",
+      "notes": "Fails both axes: no such sentence appears in On the Origin of Species or Darwin's correspondence, per Quote Investigator and Cambridge's Darwin Correspondence Project. It derives from a 1963 paraphrase of Darwinian theory by management professor Leon C. Megginson ('...the species that survives is the one that is able best to adapt and adjust...'), later stripped of attribution and reassigned directly to Darwin.",
+      "addedAt": "2026-08-03T12:00:00Z"
     }
   ]
 }
