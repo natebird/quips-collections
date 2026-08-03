@@ -9,7 +9,7 @@
   "iconName": "person.3.fill",
   "category": "Business & Leadership",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-08-03T12:00:00Z",
   "quotes": [
     {
       "id": "ldr-001",
@@ -318,6 +318,17 @@
       "sourceType": "unspecified",
       "notes": "Unverified — source axis: appears only on aggregator sites with no documented speech, book, or interview behind it.",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "ldr-029",
+      "content": "They may forget what you said — but they will never forget how you made them feel.",
+      "authorName": "Carl W. Buehner",
+      "source": "Quoted in Richard L. Evans (comp.), Richard Evans' Quote Book (Publishers Press, 1971), p. 244",
+      "quoteDate": "1971",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Long misattributed to Maya Angelou in an elaborated three-clause form (\"forget what you said... what you did... how you made them feel\") that does not appear in any Angelou book, speech, or interview. Per Quote Investigator, the earliest documented source is this 1971 quote book, crediting Carl W. Buehner, a leader in the LDS Church's Presiding Bishopric; the Angelou attribution traces only to early-2000s quote compilations.",
+      "addedAt": "2026-08-03T12:00:00Z"
     }
   ]
 }

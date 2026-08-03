@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-30T12:00:00Z",
+  "lastUpdated": "2026-08-03T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1067,7 +1067,7 @@
       "name": "On Leadership",
       "description": "What it takes to lead — insight on trust, vision, and service from those who led.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "Leadership belongs to those who take it.",
         "Perpetual optimism is a force multiplier."
@@ -1078,9 +1078,9 @@
       "iconName": "person.3.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-eEW7Drf7Y2BbD0uVjgQF3w8NzQBThHAdc1kgdsHURss=",
-      "bytes": 15637
+      "lastUpdated": "2026-08-03T12:00:00Z",
+      "contentHash": "sha256-ISTAbhvvJPGPoKtdOi71Yh6fO5afLkepXWlcJmr+OZE=",
+      "bytes": 16515
     },
     {
       "id": "money-investing",
