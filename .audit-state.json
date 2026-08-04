@@ -26,13 +26,13 @@
     "western-movies", "words-of-jesus", "yogi-berra", "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 2,
-    "file": "bible-wisdom",
-    "quoteIndex": 25,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bible-wisdom quotes[25] (bible-026)."
+    "fileIndex": 3,
+    "file": "bob-dylan",
+    "quoteIndex": 14,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bob-dylan quotes[14] (dylan-015)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 80,
+  "totalQuotesAudited": 100,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -138,6 +138,32 @@
       "resolution": "no fixes needed",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "spot-checked two of the ten quotes (Micah 6:8, Jeremiah 29:11) via WebSearch against independent KJV reference sites (BibleHub, KingJamesBibleOnline); wording matched exactly. Remaining eight are among the most widely-cited KJV verses, confirmed by direct knowledge. Re-checked open PRs #23 and #24: both unchanged (identical single commit as the last review, no new activity), prior findings (Plato's Apology via Perseus Digital Library for #23; BBC Horizon interview transcript + Slaughterhouse-Five for #24) still hold, nothing new to flag."
+    },
+    {
+      "runDate": "2026-08-03",
+      "file": "bible-wisdom + bob-dylan",
+      "quoteRange": "bible-026..bible-031, dylan-001..dylan-004",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- bible-026..031 verified verbatim against the King James Version (public domain, standard text) with correct citations (Proverbs 15:1, 22:6, 27:17, Psalm 30:5, Numbers 6:24-25, 1 Thessalonians 5:16-18); bible-wisdom collection finishes this pass (31/31 quotes audited). dylan-001..004 verified verbatim against Dylan's Nobel Prize banquet speech, Stockholm, 2016-12-10 (official nobelprize.org transcript) -- a primary/authoritative source.",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/43",
+      "processNote": "originally landed in PR #44 on a separate branch (claude/charming-brown-uixc7p), which was still open and unmerged when the 2026-08-04 run started; that run independently re-derived the identical batch/findings before discovering #44 already covered it. Recorded here (and cursor advanced past it) so this state file reflects full progress even if #44 sits unmerged; #44 should be closed as superseded once this run's PR merges, or merged first and this entry treated as a duplicate no-op -- either order is safe since the findings are identical."
+    },
+    {
+      "runDate": "2026-08-04",
+      "file": "bob-dylan",
+      "quoteRange": "dylan-005..dylan-014",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": ["dylan-014"],
+      "issue": "dylan-014: truncated quote. Stored content was \"I welcome them—with open arms.\" but the full line, confirmed via multiple independent transcript/press sources of the 1965 KQED San Francisco press conference, is \"I welcome them with open arms and my bank account also welcomes them.\" The dropped clause is the actual punchline of Dylan's ironic answer about people who analyze his songs -- the stored version read as a sincere answer instead of the joke it was.",
+      "resolution": "fixed in this run's PR; content corrected to the full line, notes updated to record the correction. dylan-005..013 all verified verbatim (Nobel banquet speech, Nobel Lecture 2017, MusiCares 2015 speech, and the same 1965 KQED press conference, all primary/authoritative sources) -- no changes needed.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "PRs #46 (poem-038, Muriel Strode) and #47 (ldr-029, Carl W. Buehner) reviewed: both well-sourced to primary/documented print sources (The Open Court, 1903; Richard Evans' Quote Book, 1971) and both correctly flag long-standing misattributions (to Emerson and Maya Angelou respectively) per Quote Investigator cross-checks -- positive corrections, no issues. Re-checked open PRs #23 and #24 via get_commits: both still exactly one commit each, unchanged since prior reviews, findings still hold."
     }
   ]
 }
