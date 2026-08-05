@@ -26,13 +26,13 @@
     "western-movies", "words-of-jesus", "yogi-berra", "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 2,
-    "file": "bible-wisdom",
-    "quoteIndex": 25,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at bible-wisdom quotes[25] (bible-026)."
+    "fileIndex": 4,
+    "file": "champions-mindset",
+    "quoteIndex": 0,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at champions-mindset quotes[0] (champ-001). bob-dylan finishes this pass (27/27)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 80,
+  "totalQuotesAudited": 113,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -138,6 +138,45 @@
       "resolution": "no fixes needed",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "spot-checked two of the ten quotes (Micah 6:8, Jeremiah 29:11) via WebSearch against independent KJV reference sites (BibleHub, KingJamesBibleOnline); wording matched exactly. Remaining eight are among the most widely-cited KJV verses, confirmed by direct knowledge. Re-checked open PRs #23 and #24: both unchanged (identical single commit as the last review, no new activity), prior findings (Plato's Apology via Perseus Digital Library for #23; BBC Horizon interview transcript + Slaughterhouse-Five for #24) still hold, nothing new to flag."
+    },
+    {
+      "runDate": "2026-08-03",
+      "file": "bible-wisdom + bob-dylan",
+      "quoteRange": "bible-026..bible-031, dylan-001..dylan-004",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- bible-026..031 verified verbatim against the King James Version (public domain, standard text) with correct citations (Proverbs 15:1, 22:6, 27:17, Psalm 30:5, Numbers 6:24-25, 1 Thessalonians 5:16-18); bible-wisdom collection finishes this pass (31/31 quotes audited). dylan-001..004 verified verbatim against Dylan's Nobel Prize banquet speech, Stockholm, 2016-12-10 (official nobelprize.org transcript) -- a primary/authoritative source.",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/43",
+      "processNote": "carried forward from the still-unmerged PR #44 (branch claude/charming-brown-uixc7p) so the state file reflects progress regardless of merge order; findings independently corroborated by the 2026-08-04 and 2026-08-05 runs, which each re-verified this same batch before discovering it was already covered."
+    },
+    {
+      "runDate": "2026-08-04",
+      "file": "bob-dylan",
+      "quoteRange": "dylan-005..dylan-014",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": ["dylan-014"],
+      "issue": "dylan-014: truncated quote. Stored content was \"I welcome them—with open arms.\" but the full line, confirmed via multiple independent transcript/press sources of the 1965 KQED San Francisco press conference, is \"I welcome them with open arms and my bank account also welcomes them.\" The dropped clause is the actual punchline of Dylan's ironic answer about people who analyze his songs -- the stored version read as a sincere answer instead of the joke it was.",
+      "resolution": "fixed in PR #49 (still unmerged as of the 2026-08-05 run, which independently re-confirmed the same wording via WebSearch). dylan-005..013 all verified verbatim (Nobel banquet speech, Nobel Lecture 2017, MusiCares 2015 speech, and the same 1965 KQED press conference, all primary/authoritative sources) -- no changes needed.",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/48",
+      "processNote": "carried forward from the still-unmerged PR #49 (branch claude/charming-brown-3r07nr) so the state file reflects progress regardless of merge order. PRs #46 (poem-038) and #47 (ldr-029) reviewed: well-sourced, positive corrections, no issues."
+    },
+    {
+      "runDate": "2026-08-05",
+      "file": "bob-dylan",
+      "quoteRange": "dylan-015..dylan-027",
+      "count": 13,
+      "passed": 11,
+      "flagged": 2,
+      "flaggedIds": ["dylan-026", "dylan-027"],
+      "issue": "dylan-015..025 all verified verbatim against primary sources (1965 KQED press conference transcript/footage, 60 Minutes 2004, Chronicles: Volume One) -- no issues. dylan-026 and dylan-027 were already self-flagged 'unverified' in the data going into this run; this run dug further. dylan-027's wording is now corroborated by several convergent independent secondary sources quoting the same Chronicles passage verbatim, though still not checked against the primary text directly (WebFetch is non-functional this run, 403 on all URLs including nobelprize.org and en.wikiquote.org) -- left as unverified since that's a primary-source-access gap, not a resolved check. dylan-026 is a deeper problem than the existing note captured: its exact wording doesn't appear in Chronicles' actual 'destiny' passage (which reads differently), the wording is heavily circulated via aggregator sites (Goodreads, AZQuotes) citing Chronicles without any traceable primary hit, and it may actually originate from Dylan's 1985 Biograph liner notes/interview instead (unconfirmed). Updated dylan-026's note in this run to describe the attribution-axis doubt precisely, but did NOT change verificationStatus or authorName/source, since no confirmed correct source was found to fix it to.",
+      "resolution": "note refined for dylan-026 (attribution doubt now described accurately); no other content changes. bob-dylan collection finishes this pass (27/27 quotes audited).",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Housekeeping backlog is worsening: as of this run there are 2 still-unmerged audit-state PRs (#44, #49) and 11 open audit-report issues going back to 2026-07-25, none closed. This run did not merge or close anything (out of scope), but flags it again -- third consecutive run to hit duplicate-verification risk from unmerged state. Re-checked open content PRs #23, #24, #46, #47: all unchanged (same single commit each) since the 2026-08-04 review, findings still hold, nothing new to flag. #49 also modifies a quote (dylan-014 fix) -- independently re-verified its proposed replacement wording via WebSearch, confirms the fix is accurate."
     }
   ]
 }
