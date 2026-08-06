@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-30T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1127,7 +1127,7 @@
       "name": "Founding Fathers",
       "description": "Liberty, virtue, and self-government in the words of America's founders.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 33,
       "previewQuotes": [
         "Well done is better than well said.",
         "My country is the world, and my religion is to do good."
@@ -1138,9 +1138,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-24T12:00:00Z",
-      "contentHash": "sha256-DYjCgYdsIaHxBWUS+6L7VpGP8dCXqTYJ14f5eWrd9WM=",
-      "bytes": 18482
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-ankfMzpSTMWYwiyDUBmDHqVt5mO35ItjycDYVmx2dBM=",
+      "bytes": 20129
     },
     {
       "id": "civil-rights-voices",
@@ -1167,7 +1167,7 @@
       "name": "Cosmos & Space",
       "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "Magnificent desolation.",
         "I touch the future. I teach."
@@ -1178,16 +1178,16 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-AtU9wfy2One6IxzzL4Y0MFsrrYEEFNejGcrsjAQteJA=",
-      "bytes": 16826
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-S1fTpDLhdC8c0wEEbUe/hQ8SHTYEZ1eGzXjXSLX323I=",
+      "bytes": 17359
     },
     {
       "id": "great-scientists",
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 32,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1198,9 +1198,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-mXy6SSSBnK4Hl1PG2u+mK5zdR7mTI4VIq4wCox8hmh4=",
-      "bytes": 18201
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-YikkzwLUDrT112l28FSUbPGibprzhw1UyAo2bCIaHuY=",
+      "bytes": 19262
     },
     {
       "id": "curiosity-discovery",
