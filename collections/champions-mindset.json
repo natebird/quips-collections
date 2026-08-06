@@ -9,7 +9,7 @@
   "iconName": "trophy.fill",
   "category": "Sports",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "champ-001",
@@ -17,9 +17,9 @@
       "authorName": "Muhammad Ali",
       "source": "Ringside interview after defeating Sonny Liston for the heavyweight title, Miami Beach (broadcast footage), February 25, 1964",
       "quoteDate": "1964-02-25",
-      "verificationStatus": "verified",
+      "verificationStatus": "unverified",
       "sourceType": "television",
-      "notes": "Ali's (then Cassius Clay) live reaction after Liston quit on his stool; preserved on broadcast footage.",
+      "notes": "Ali's (then Cassius Clay) live reaction after Liston quit on his stool; preserved on broadcast footage. Attribution-axis doubt flagged 2026-08-06: independent sourcing corroborates \"I shook up the world!\" and \"I am the greatest!\" both being shouted at ringside that night (some sources give the reverse order, \"I shook up the world! I am the greatest!\"), but the \"I'm the prettiest thing that ever lived\" clause -- a genuine, separately-documented Ali catchphrase -- could not be confirmed as part of this same ringside moment rather than stitched in from another occasion. Left verificationStatus as unverified pending a check against primary broadcast footage; content/source not changed since no confirmed correct wording was found to fix it to.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -92,11 +92,11 @@
       "id": "champ-008",
       "content": "To sum up what mamba mentality is, it means to be able to constantly try to be the best version of yourself. It's a constant quest to try to be better today than you were yesterday.",
       "authorName": "Kobe Bryant",
-      "source": "Bryant's own remarks defining the 'Mamba Mentality,' c. 2016",
-      "quoteDate": "c. 2016",
+      "source": "The Mamba Mentality: How I Play (MCD/Farrar, Straus and Giroux, 2018)",
+      "quoteDate": "2018",
       "verificationStatus": "verified",
-      "sourceType": "interview",
-      "notes": "His most-cited self-definition of the concept, in his own words.",
+      "sourceType": "book",
+      "notes": "His most-cited self-definition of the concept, in his own words. Corrected 2026-08-06: previously cited as vague, undated \"c. 2016\" remarks; the passage is from his 2018 book The Mamba Mentality: How I Play.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
