@@ -9,7 +9,7 @@
   "iconName": "atom",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -340,6 +340,28 @@
       "sourceType": "unspecified",
       "notes": "Photographed on Feynman's blackboard after his death, alongside the line 'Know how to solve every problem that has been solved'; documented by Caltech Archives and cited by science historians.",
       "addedAt": "2026-07-09T12:40:13Z"
+    },
+    {
+      "id": "sci-032",
+      "content": "I have no special talents. I am only passionately curious.",
+      "authorName": "Albert Einstein",
+      "source": "Letter to Carl Seelig (11 March 1952), Einstein Archives 39-013",
+      "quoteDate": "1952-03-11",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Einstein's reply to his biographer on the source of his achievements; catalogued in Alice Calaprice's The Ultimate Quotable Einstein.",
+      "addedAt": "2026-08-06T12:00:00Z"
+    },
+    {
+      "id": "sci-033",
+      "content": "Now I am become Death, the destroyer of worlds.",
+      "authorName": "J. Robert Oppenheimer",
+      "source": "NBC television documentary 'The Decision to Drop the Bomb' (1965)",
+      "quoteDate": "1965",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Oppenheimer, in filmed interview footage, recalls this line from the Bhagavad Gita as his reaction on witnessing the 1945 Trinity test.",
+      "addedAt": "2026-08-06T12:00:00Z"
     }
   ]
 }

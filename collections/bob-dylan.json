@@ -9,7 +9,7 @@
   "iconName": "guitars.fill",
   "category": "Music",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-16T12:00:00Z",
+  "lastUpdated": "2026-08-04T12:00:00Z",
   "quotes": [
     {
       "id": "dylan-001",
@@ -156,13 +156,13 @@
     },
     {
       "id": "dylan-014",
-      "content": "I welcome them—with open arms.",
+      "content": "I welcome them with open arms, and my bank account also welcomes them.",
       "authorName": "Bob Dylan",
       "source": "San Francisco KQED press conference (1965)",
       "quoteDate": "1965-12-03",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Reply when asked what he thinks of people who analyze his songs.",
+      "notes": "Reply when asked what he thinks of people who analyze his songs. Corrected 2026-08-04: was truncated to \"I welcome them—with open arms,\" dropping the ironic punchline about his bank account that is the actual point of the joke.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-30T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -38,9 +38,9 @@
       "iconName": "flame.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-07-27T12:00:00Z",
-      "contentHash": "sha256-Bc1V/g0+VP5vlVg3Xi1P8W5UWxBuZ5aszxQ13bH5pRI=",
-      "bytes": 21404
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-A01NWxJxou16jfkxbgFgIMhGUnpU8zr54utCC1b3LjY=",
+      "bytes": 21373
     },
     {
       "id": "leadership-vision",
@@ -298,9 +298,9 @@
       "iconName": "scroll.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-07-30T12:00:00Z",
-      "contentHash": "sha256-9uRqk1tYtmp6gKI0M731zLM0/4WY7m0ZqMQ9yoCTxQU=",
-      "bytes": 18091
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-Wt90vGCQco9bW3swL2Ac1uJH1fRwo6Dskj/pMjREjQs=",
+      "bytes": 18060
     },
     {
       "id": "dystopian-fiction",
@@ -418,9 +418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-27T12:00:00Z",
-      "contentHash": "sha256-6Vp67Osj4XhFcQs8ZeKAhyNIVz8p8w+Yk1JXFg7UgOM=",
-      "bytes": 15121
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-a8xALGmRBGOhqGSatBzJu4V1W0/fIbXFV0iXGcTPlJs=",
+      "bytes": 15090
     },
     {
       "id": "self-compassion",
@@ -1019,7 +1019,7 @@
       "category": "Sports",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-vZRs8N4GlZmfkE7jDHKPMnu7gaJvRroJrLiLacKK2ZM=",
+      "contentHash": "sha256-Y9H8d23VbJmK2Z/oiBomzZqTUxyilGgqKdwhL1Nwa4U=",
       "bytes": 17992
     },
     {
@@ -1127,7 +1127,7 @@
       "name": "Founding Fathers",
       "description": "Liberty, virtue, and self-government in the words of America's founders.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 33,
       "previewQuotes": [
         "Well done is better than well said.",
         "My country is the world, and my religion is to do good."
@@ -1138,9 +1138,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-24T12:00:00Z",
-      "contentHash": "sha256-DYjCgYdsIaHxBWUS+6L7VpGP8dCXqTYJ14f5eWrd9WM=",
-      "bytes": 18482
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-ankfMzpSTMWYwiyDUBmDHqVt5mO35ItjycDYVmx2dBM=",
+      "bytes": 20129
     },
     {
       "id": "civil-rights-voices",
@@ -1167,7 +1167,7 @@
       "name": "Cosmos & Space",
       "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "Magnificent desolation.",
         "I touch the future. I teach."
@@ -1178,16 +1178,16 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-AtU9wfy2One6IxzzL4Y0MFsrrYEEFNejGcrsjAQteJA=",
-      "bytes": 16826
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-S1fTpDLhdC8c0wEEbUe/hQ8SHTYEZ1eGzXjXSLX323I=",
+      "bytes": 17359
     },
     {
       "id": "great-scientists",
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 32,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1198,9 +1198,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-mXy6SSSBnK4Hl1PG2u+mK5zdR7mTI4VIq4wCox8hmh4=",
-      "bytes": 18201
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-YikkzwLUDrT112l28FSUbPGibprzhw1UyAo2bCIaHuY=",
+      "bytes": 19262
     },
     {
       "id": "curiosity-discovery",
@@ -1239,8 +1239,8 @@
       "category": "Music",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-9+8Jr7QwV75lMZ/TT01Aej2PqqIV779mxZXe6u64cuA=",
-      "bytes": 13779
+      "contentHash": "sha256-54gb2nYEi+/bxC/kwjG3JfVNbnpH2FVezRxing/YpNI=",
+      "bytes": 13984
     },
     {
       "id": "the-beatles",

@@ -9,7 +9,7 @@
   "iconName": "mountain.2.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-27T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "res-001",
@@ -327,7 +327,7 @@
       "sourceType": "speech",
       "quoteDate": "1859-09-30",
       "verificationStatus": "verified",
-      "notes": "Lincoln retells this parable as folklore (\"It is said\"), without naming Persia, Sufism, or Solomon; those popular \"ancient proverb\" framings are unsourced and could not be traced to any primary text. Lincoln himself then argues against the sentiment. Featured in Quote Unquote #17.",
+      "notes": "Lincoln retells this parable as folklore (\"It is said\"), without naming Persia, Sufism, or Solomon; those popular \"ancient proverb\" framings are unsourced and could not be traced to any primary text. Lincoln himself then argues against the sentiment.",
       "addedAt": "2026-07-27T12:00:00Z"
     }
   ]
