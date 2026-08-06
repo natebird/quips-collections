@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "found-001",
@@ -351,6 +351,28 @@
       "sourceType": "letter",
       "notes": "Written soon after Jefferson sold his personal library to Congress to rebuild the collection burned when the British razed Washington; confirmed against Founders Online (National Archives) and Monticello's own quote-history page.",
       "addedAt": "2026-07-16T12:00:00Z"
+    },
+    {
+      "id": "found-032",
+      "content": "That all men are by nature equally free and independent, and have certain inherent rights, of which, when they enter into a state of society, they cannot, by any compact, deprive or divest their posterity; namely, the enjoyment of life and liberty, with the means of acquiring and possessing property, and pursuing and obtaining happiness and safety.",
+      "authorName": "George Mason",
+      "source": "Virginia Declaration of Rights, Article I (12 June 1776)",
+      "quoteDate": "1776-06-12",
+      "verificationStatus": "verified",
+      "sourceType": "unspecified",
+      "notes": "Mason's opening article, adopted unanimously by the Fifth Virginia Convention; its language of natural rights directly shaped Jefferson's Declaration of Independence weeks later. Confirmed against the Avalon Project's text of the ratified document.",
+      "addedAt": "2026-08-06T12:00:00Z"
+    },
+    {
+      "id": "found-033",
+      "content": "I wish to see all unjust and unnecessary Discriminations every where abolished; and that the Time may soon come when all our Inhabitants of every Color and Denomination shall be free, and equal partakers of our political Liberty.",
+      "authorName": "John Jay",
+      "source": "Letter to Benjamin Rush (24 March 1785)",
+      "quoteDate": "1785-03-24",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Jay, later the first Chief Justice and a founder of the New York Manumission Society, on his hope for the abolition of slavery; confirmed on Founders Online (Jay Papers).",
+      "addedAt": "2026-08-06T12:00:00Z"
     }
   ]
 }
