@@ -9,7 +9,7 @@
   "iconName": "moon.stars.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "dream-001",
@@ -182,9 +182,9 @@
       "authorName": "Carl Sagan",
       "source": "Attributed to Carl Sagan; frequently cited but primary source not established",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1977",
       "verificationStatus": "attributed",
-      "notes": "Commonly and consistently credited to Sagan, but the attribution axis is uncertain because no exact book, article, or broadcast source has been pinned down.",
+      "notes": "Commonly and consistently credited to Sagan, but the attribution axis is uncertain because no exact book, article, or broadcast source has been pinned down. Date is estimated from the earliest documented appearance: the closing line of Sharon Begley's Newsweek profile of Sagan, 15 August 1977, which Begley has confirmed she wrote herself.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -193,9 +193,9 @@
       "authorName": "Eleanor Roosevelt",
       "source": "Attributed to Eleanor Roosevelt; no primary source located",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1978",
       "verificationStatus": "attributed",
-      "notes": "A magnet quote widely tied to Roosevelt; the attribution axis is uncertain since no speech or writing of hers has been confirmed as the source.",
+      "notes": "A magnet quote widely tied to Roosevelt; the attribution axis is uncertain since no speech or writing of hers has been confirmed as the source. Date is estimated from the earliest documented appearance, a 1978 classified advertisement in The Surrey Leader of British Columbia.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -204,9 +204,9 @@
       "authorName": "Harriet Tubman",
       "source": "Attributed to Harriet Tubman; no documentary source",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 20th century",
       "verificationStatus": "unverified",
-      "notes": "The attribution axis fails: Tubman left few writings and this popular line has no documented origin in her recorded words.",
+      "notes": "The attribution axis fails: Tubman left few writings and this popular line has no documented origin in her recorded words. The century is a broad estimate; no documented appearance has been located in or after Tubman's lifetime.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -215,9 +215,9 @@
       "authorName": "Walt Disney",
       "source": "Popularly attributed to Walt Disney; associated with EPCOT",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1983",
       "verificationStatus": "unverified",
-      "notes": "The attribution axis fails: this phrase was coined by Disney Imagineer Tom Fitzgerald for the EPCOT ride Horizons, not spoken or written by Walt Disney himself.",
+      "notes": "The attribution axis fails: this phrase was coined by Disney Imagineer Tom Fitzgerald for the EPCOT ride Horizons, not spoken or written by Walt Disney himself. Date is estimated from the October 1983 opening of the EPCOT ride Horizons, for which Fitzgerald wrote the line.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -226,9 +226,9 @@
       "authorName": "Nelson Mandela",
       "source": "Attributed to Nelson Mandela",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 2001",
       "verificationStatus": "attributed",
-      "notes": "Genuinely and widely credited to Mandela and consistent with his rhetoric, but an exact primary speech or text has not been pinned down.",
+      "notes": "Genuinely and widely credited to Mandela and consistent with his rhetoric, but an exact primary speech or text has not been pinned down. Date is estimated from the earliest documented attribution to Mandela, an Australian newspaper in 2001; a comparable notion appears in Pliny the Elder.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -237,9 +237,9 @@
       "authorName": "Les Brown",
       "source": "Attributed to Les Brown; also credited to Norman Vincent Peale",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
-      "notes": "Both the wording and attribution vary; the line is credited to motivational speaker Les Brown and, elsewhere, to Norman Vincent Peale, with no settled primary source.",
+      "notes": "Both the wording and attribution vary; the line is credited to motivational speaker Les Brown and, elsewhere, to Norman Vincent Peale, with no settled primary source. Date is a broad estimate from Les Brown's motivational books and talks of the 1990s, not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -281,9 +281,9 @@
       "authorName": "Oprah Winfrey",
       "source": "Attributed to Oprah Winfrey (speeches and O, The Oprah Magazine)",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 2000s",
       "verificationStatus": "attributed",
-      "notes": "Widely and consistently credited to Winfrey, but not tied here to a single dated speech or column, so the exact source is unconfirmed.",
+      "notes": "Widely and consistently credited to Winfrey, but not tied here to a single dated speech or column, so the exact source is unconfirmed. Date is a broad estimate from the era of her speeches and O, The Oprah Magazine (launched 2000), not a documented one.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -314,9 +314,9 @@
       "authorName": "C. S. Lewis",
       "source": "Popularly attributed to C. S. Lewis",
       "sourceType": "unspecified",
-      "quoteDate": null,
+      "quoteDate": "c. 1992",
       "verificationStatus": "unverified",
-      "notes": "The attribution axis fails: this line does not appear in Lewis's published works and is regarded by scholars as a misattribution.",
+      "notes": "The attribution axis fails: this line does not appear in Lewis's published works and is regarded by scholars as a misattribution. Date is estimated from the earliest documented appearance, Les Brown's 1992 book Live Your Dreams; the Lewis ascription surfaces only from 2006.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -325,9 +325,9 @@
       "authorName": "Pamela Vaull Starr",
       "source": "Poem \"Reach\" (mid-20th century)",
       "sourceType": "poem",
-      "quoteDate": null,
+      "quoteDate": "c. 1950s",
       "verificationStatus": "attributed",
-      "notes": "Genuinely credited to poet Pamela Vaull Starr, though a precise first-publication date and text are difficult to confirm.",
+      "notes": "Genuinely credited to poet Pamela Vaull Starr, though a precise first-publication date and text are difficult to confirm. Date is a mid-century estimate for Starr's poem 'Reach,' not a confirmed publication date.",
       "addedAt": "2026-07-01T01:53:56Z"
     }
   ]

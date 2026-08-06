@@ -9,7 +9,7 @@
   "iconName": "hands.sparkles.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "grat-001",
@@ -204,8 +204,8 @@
       "authorName": "Unknown",
       "source": "Common saying",
       "sourceType": "unspecified",
-      "notes": "A widely circulated proverb of uncertain origin, sometimes expanded to 'and more.'",
-      "quoteDate": null,
+      "notes": "A widely circulated proverb of uncertain origin, sometimes expanded to 'and more.'. Date is estimated from the earliest documented source: Melody Beattie's The Language of Letting Go (1990), where it reads 'Gratitude unlocks the fullness of life. It turns what we have into enough, and more.'",
+      "quoteDate": "c. 1990",
       "verificationStatus": "folk-wisdom",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -226,8 +226,8 @@
       "authorName": "Henri Nouwen",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "From the Dutch priest and writer's reflections on the spiritual life of thankfulness.",
-      "quoteDate": null,
+      "notes": "From the Dutch priest and writer's reflections on the spiritual life of thankfulness. Date is a broad estimate spanning Nouwen's published writing on gratitude up to his death in 1996, not a documented one.",
+      "quoteDate": "c. 1970s-1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -248,8 +248,8 @@
       "authorName": "Alice Walker",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to the author of The Color Purple in interviews on gratitude.",
-      "quoteDate": null,
+      "notes": "Attributed to the author of The Color Purple in interviews on gratitude. Date is a broad estimate from the period of those interviews, not a documented one.",
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -270,8 +270,8 @@
       "authorName": "Cynthia Ozick",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to the American essayist and novelist.",
-      "quoteDate": null,
+      "notes": "Attributed to the American essayist and novelist. Date is a broad estimate from the period of Ozick's essay collections, not a documented one.",
+      "quoteDate": "c. 1980s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -336,8 +336,8 @@
       "authorName": "Buddha",
       "source": "Attributed (traditional Buddhist teaching)",
       "sourceType": "unspecified",
-      "notes": "Popularly attributed to the Buddha; the source is a modern paraphrase rather than a canonical text.",
-      "quoteDate": null,
+      "notes": "Popularly attributed to the Buddha; the source is a modern paraphrase rather than a canonical text. The century is a broad estimate for the English paraphrase's circulation, not a documented date.",
+      "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     }

@@ -9,7 +9,7 @@
   "iconName": "sun.dust.fill",
   "category": "Movies",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "western-001",
@@ -138,8 +138,8 @@
       "authorName": "John Wayne",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Often attributed to Wayne though not from a specific film. Captures his screen persona's philosophy.",
-      "quoteDate": null,
+      "notes": "Often attributed to Wayne though not from a specific film. Captures his screen persona's philosophy. Date is a broad estimate spanning Wayne's late career, not a documented one.",
+      "quoteDate": "c. 1970s",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },

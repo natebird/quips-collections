@@ -9,7 +9,7 @@
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-20T12:00:00Z",
   "quotes": [
     {
       "id": "speech-001",
@@ -351,6 +351,17 @@
       "sourceType": "speech",
       "notes": "Wiesel's call to universal moral responsibility upon accepting the Nobel Peace Prize.",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "speech-032",
+      "content": "The unexamined life is not worth living for a human being.",
+      "authorName": "Socrates",
+      "source": "Plato, Apology, 38a (composed shortly after 399 BC)",
+      "quoteDate": "c. 399 BCE",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Socrates's defense speech at his trial in Athens, spoken during the penalty phase after the jury's guilty verdict, explaining why he won't propose exile or silence as his counter-penalty. Recorded by Plato, a student of Socrates, not a transcript; Xenophon's independent Apology of the same trial differs in detail.",
+      "addedAt": "2026-07-20T12:00:00Z"
     }
   ]
 }

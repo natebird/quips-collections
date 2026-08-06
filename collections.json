@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-23T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -18,16 +18,16 @@
       "iconName": "sunrise.fill",
       "category": "Inspiration",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-07-13T12:00:00Z",
-      "contentHash": "sha256-8YocAPNxrOBplIsWlqcDlmC6maxxBL/6NULEDs9nH/s=",
-      "bytes": 15937
+      "lastUpdated": "2026-07-24T12:00:00Z",
+      "contentHash": "sha256-OD9RKGPy3qMCzz4DeUi5+E9d+osiM3IrAkeXQ0jQtqI=",
+      "bytes": 17366
     },
     {
       "id": "grit-perseverance",
       "name": "Grit & Perseverance",
       "description": "Words for pushing through hardship, failing forward, and refusing to quit.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 32,
       "previewQuotes": [
         "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
         "Grit is passion and perseverance for very long-term goals."
@@ -38,9 +38,9 @@
       "iconName": "flame.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-07-13T12:00:00Z",
-      "contentHash": "sha256-vE16AK4RBVqKtMCBCRKo0aaM1J+vxyf8tBGNhytjHrE=",
-      "bytes": 18275
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-A01NWxJxou16jfkxbgFgIMhGUnpU8zr54utCC1b3LjY=",
+      "bytes": 21373
     },
     {
       "id": "leadership-vision",
@@ -59,8 +59,8 @@
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-AM3FVoAtz/ZNdUcEAZIbMeTpqnESg1WpNsFqIV79IrE=",
-      "bytes": 16575
+      "contentHash": "sha256-8axv2C6TLue12ejEWx4kAMZkxiQqmgnFUcKKYHaWCp0=",
+      "bytes": 19173
     },
     {
       "id": "courage-conviction",
@@ -79,8 +79,8 @@
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-w4ny/VevmORsppzYn3VOr/UCP/yNWtJRJ39GWO1AOBo=",
-      "bytes": 16877
+      "contentHash": "sha256-zApUu+yicYykDMhLl/XhnAIidNShsTLcsTXuo6CMMDU=",
+      "bytes": 18263
     },
     {
       "id": "dream-big",
@@ -99,8 +99,8 @@
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-kvHZxRF13/tw00gW4NqoeLtM+DCVbvk/UuemBTqWlPc=",
-      "bytes": 15925
+      "contentHash": "sha256-v8rVW7nUWrhe9uEtLpwAoXKzEM180NrmSdmdx6DnpWA=",
+      "bytes": 17131
     },
     {
       "id": "stoic-wisdom",
@@ -119,8 +119,8 @@
       "category": "Philosophy",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-aMKFkkmvGQEwRM4o5AYluLuMdFugzUt5RmKMdITh+N4=",
-      "bytes": 15670
+      "contentHash": "sha256-3t2y8d4Vg42CqlyFnhXTUkjmR4+EMf6VR75sMnhOfPM=",
+      "bytes": 15788
     },
     {
       "id": "creative-minds",
@@ -139,8 +139,8 @@
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-7dHl4scKUg/F/54JG5Ek9dZzEW+l2PDVZX/IXP96ieI=",
-      "bytes": 14847
+      "contentHash": "sha256-Fp5yCA+1IHettULAoMa8Qvz8fdlmW52HTiOJETbKN1E=",
+      "bytes": 15600
     },
     {
       "id": "tech-visionaries",
@@ -167,7 +167,7 @@
       "name": "Literary Classics",
       "description": "Memorable lines from the greatest works of literature throughout history.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "It was the best of times, it was the worst of times.",
         "All happy families are alike; each unhappy family is unhappy in its own way."
@@ -178,9 +178,9 @@
       "iconName": "book.fill",
       "category": "Literature",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-kHSOwuZNobSr6WW4cO/Oz+n3sOJT4MDXyFgdBIxTu80=",
-      "bytes": 14943
+      "lastUpdated": "2026-07-30T12:00:00Z",
+      "contentHash": "sha256-Eq0S1ebrJa7SHPprHtYbQAIbSAik1pRVKP878i27BBM=",
+      "bytes": 15466
     },
     {
       "id": "shakespeare",
@@ -287,7 +287,7 @@
       "name": "Great Poems",
       "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
       "author": "Quips Editorial",
-      "quoteCount": 35,
+      "quoteCount": 37,
       "previewQuotes": [
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
@@ -298,9 +298,9 @@
       "iconName": "scroll.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-HZcF/avkdAULY/Y7DsfCRFrp7XCh4BhkmWGsT3Yu3Vk=",
-      "bytes": 16543
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-Wt90vGCQco9bW3swL2Ac1uJH1fRwo6Dskj/pMjREjQs=",
+      "bytes": 18060
     },
     {
       "id": "dystopian-fiction",
@@ -347,7 +347,7 @@
       "name": "First Lines",
       "description": "The unforgettable opening sentences that pull readers into the world's most beloved novels.",
       "author": "Quips Editorial",
-      "quoteCount": 39,
+      "quoteCount": 40,
       "previewQuotes": [
         "Call me Ishmael.",
         "Mother died today."
@@ -358,9 +358,9 @@
       "iconName": "book.pages.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-nhYM/+wcvas7fHLBWTWytbrR1VVtQCP+ohyO5PMQ4/A=",
-      "bytes": 19015
+      "lastUpdated": "2026-07-30T12:00:00Z",
+      "contentHash": "sha256-67OivW+W8PYNTG2pT6Vaq4OeNrO4f/Jykz2VgaV9ReM=",
+      "bytes": 19479
     },
     {
       "id": "mindfulness",
@@ -379,8 +379,8 @@
       "category": "Wellness",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-PBJvU85zO/Z42upsP3H3EcbOQ/1WkUL2G1fioxddcrw=",
-      "bytes": 14735
+      "contentHash": "sha256-2ZwpeWIRSFj9uPEFeUNIYbeHOHxUfZg1aB3JUBVtJNg=",
+      "bytes": 15153
     },
     {
       "id": "gratitude",
@@ -399,15 +399,15 @@
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-LS6TT292AfRYGjqq90r8os5NQDVCMsoQB/FcItMB9xE=",
-      "bytes": 15140
+      "contentHash": "sha256-E2KdDyXvzjSD6cTk+6x5h55iSCG/ITE6KRmAFoeD7DI=",
+      "bytes": 15787
     },
     {
       "id": "resilience",
       "name": "Resilience & Grit",
       "description": "Words for the hard days — on enduring adversity, bouncing back, and finding strength in the struggle.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "What does not kill me makes me stronger.",
         "Fall seven times, stand up eight."
@@ -418,9 +418,9 @@
       "iconName": "mountain.2.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-v1iwjIcsnUuv19jnNjFCcWKLaRZgSwgrLnfczagLAhQ=",
-      "bytes": 13732
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-a8xALGmRBGOhqGSatBzJu4V1W0/fIbXFV0iXGcTPlJs=",
+      "bytes": 15090
     },
     {
       "id": "self-compassion",
@@ -439,8 +439,8 @@
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-fO6UnmgdK6QFTtuoXGUPZgETIGQ1awezOuDYvrQBxy0=",
-      "bytes": 14559
+      "contentHash": "sha256-Fs4zHS7pKofqi7a0pVXPfbdkvxHb5y48Xza4oTmKyKo=",
+      "bytes": 15620
     },
     {
       "id": "rest-balance",
@@ -459,8 +459,8 @@
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-l/uBjZd3SezUznVX3LW1BpI2Icnw89BwqLPuN6sxAWI=",
-      "bytes": 13141
+      "contentHash": "sha256-Aze5dnsgpsyC69r/XApzTxqDRRcANrx4aI02ee2l02k=",
+      "bytes": 13757
     },
     {
       "id": "marvel-movies",
@@ -499,8 +499,8 @@
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-Vn+ehrI/ne9I0taeGIbtXmGo9suLy8MbyRapNMMSf2M=",
-      "bytes": 16437
+      "contentHash": "sha256-kaZAMHS+nQ/0Jd85L7tK+K1wHQiBohT0tLa8jQouryI=",
+      "bytes": 16593
     },
     {
       "id": "lds-general-conference",
@@ -619,8 +619,8 @@
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-8M5j/Gbb1UM9BF/X6LGvnJlfUU8Il8ckQEen79HEbIA=",
-      "bytes": 13875
+      "contentHash": "sha256-20+o5umZeZ9DEHz6/Mo7B1/yDecoABG17lgKbOKROmQ=",
+      "bytes": 13958
     },
     {
       "id": "scifi-screen",
@@ -639,8 +639,8 @@
       "category": "Movies",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-07-04T12:00:00Z",
-      "contentHash": "sha256-YXZitVI0QfC9TaGxFIs2zeTpIE07uTu0gUi25gOUz18=",
-      "bytes": 20746
+      "contentHash": "sha256-9zESqa+OBDLlMasXNfqJg7EwFlwYXo3b2UCKF23m5J0=",
+      "bytes": 20846
     },
     {
       "id": "star-wars",
@@ -1018,9 +1018,9 @@
       "iconName": "trophy.fill",
       "category": "Sports",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Z+BoYRQD+siIsXYqtUsEU86vnXcxvrJquZt1hErE4Nc=",
-      "bytes": 17191
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-Y9H8d23VbJmK2Z/oiBomzZqTUxyilGgqKdwhL1Nwa4U=",
+      "bytes": 17992
     },
     {
       "id": "yogi-berra",
@@ -1107,7 +1107,7 @@
       "name": "Great Speeches",
       "description": "The lines that changed history, drawn from the world's most powerful addresses.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 32,
       "previewQuotes": [
         "I have nothing to offer but blood, toil, tears and sweat.",
         "Free at last! Free at last! Thank God Almighty, we are free at last!"
@@ -1118,16 +1118,16 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-HtfYq0wzht5ABK/NitIqiWhIjnvrMkJP9q9YUEQTMw4=",
-      "bytes": 17948
+      "lastUpdated": "2026-07-20T12:00:00Z",
+      "contentHash": "sha256-6W6g8mivhlBZqle25c8QYoJJKs5FBmJQ/HwUeJLKdbA=",
+      "bytes": 18651
     },
     {
       "id": "founding-fathers",
       "name": "Founding Fathers",
       "description": "Liberty, virtue, and self-government in the words of America's founders.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 33,
       "previewQuotes": [
         "Well done is better than well said.",
         "My country is the world, and my religion is to do good."
@@ -1138,16 +1138,16 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-6QS1lp++QTPfPFeZ4GSFRBuaHr+91Tyc4GAbMHbWDbU=",
-      "bytes": 18196
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-ankfMzpSTMWYwiyDUBmDHqVt5mO35ItjycDYVmx2dBM=",
+      "bytes": 20129
     },
     {
       "id": "civil-rights-voices",
       "name": "Civil Rights Voices",
       "description": "Courage and conscience from the leaders who marched for freedom and equality.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "Nobody's free until everybody's free.",
         "I am sick and tired of being sick and tired."
@@ -1158,16 +1158,16 @@
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-tU6JR4VX9gZRmInJpkKvddfMBWGApv7Ywa+owPSu2dg=",
-      "bytes": 16215
+      "lastUpdated": "2026-07-30T12:00:00Z",
+      "contentHash": "sha256-4EaJICWU7RyS/e98eY/us6NF3uhqXUlwcDV68pMHCaA=",
+      "bytes": 17150
     },
     {
       "id": "cosmos-space",
       "name": "Cosmos & Space",
       "description": "Wonder at the universe and the drive to explore it, from astronomers and astronauts.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "Magnificent desolation.",
         "I touch the future. I teach."
@@ -1178,16 +1178,16 @@
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-09T12:00:00Z",
-      "contentHash": "sha256-IUjrfrfbdm4GCqsSZLjOGMxK+Ae8NYtRgPzapN6Qog0=",
-      "bytes": 16637
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-S1fTpDLhdC8c0wEEbUe/hQ8SHTYEZ1eGzXjXSLX323I=",
+      "bytes": 17359
     },
     {
       "id": "great-scientists",
       "name": "Great Scientists",
       "description": "Curiosity, doubt, and discovery in the words of history's great scientific minds.",
       "author": "Quips Editorial",
-      "quoteCount": 31,
+      "quoteCount": 33,
       "previewQuotes": [
         "The secret is comprised in three words—Work, Finish, Publish.",
         "I think I can safely say that nobody understands quantum mechanics."
@@ -1198,9 +1198,9 @@
       "iconName": "atom",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-23T12:00:00Z",
-      "contentHash": "sha256-9azHCwsgILyG/byF/yDgPgIt1UqUNX7ZnnS8QkfErxg=",
-      "bytes": 18178
+      "lastUpdated": "2026-08-06T12:00:00Z",
+      "contentHash": "sha256-FOrJh+GpqUZFv9B5ffQoZbxABEzSyJEt+e2g3lHS/0M=",
+      "bytes": 19886
     },
     {
       "id": "curiosity-discovery",
@@ -1239,8 +1239,8 @@
       "category": "Music",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-ZccX6nRtMyACq1WX8AeNrWdVsZeJAP4j7NHiVZlJ1Wo=",
-      "bytes": 13374
+      "contentHash": "sha256-54gb2nYEi+/bxC/kwjG3JfVNbnpH2FVezRxing/YpNI=",
+      "bytes": 13984
     },
     {
       "id": "the-beatles",
@@ -1279,8 +1279,8 @@
       "category": "Music",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-JRVFjxSTmqt1ZB2DY9u0UdFYtgJf6mQ0jnL92hPfgWM=",
-      "bytes": 13275
+      "contentHash": "sha256-HIl/UsngvB9/bqFNBMZFARrlv7IRrPPA7CvAqpOAkJg=",
+      "bytes": 13912
     },
     {
       "id": "one-liners",
@@ -1379,8 +1379,8 @@
       "category": "Love & Relationships",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-pAKtAF1pF5NSHYP9gMD1iMDr94NzYWvaXziP3Af2r0Y=",
-      "bytes": 14528
+      "contentHash": "sha256-xF7RUGINIz+ifIAC//1YEli7VxLPLWgiTZC8/2xvZK8=",
+      "bytes": 14730
     },
     {
       "id": "marriage-and-weddings",
@@ -1419,8 +1419,8 @@
       "category": "Nature",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-K/5dk80dmTi/l5AQqKr9NpbKi7tL0wV+FV/mPCMVkPc=",
-      "bytes": 17790
+      "contentHash": "sha256-/yHqFgusYoknSgntBZnX9n78GEp9K3OV2Ph7xYi1BY0=",
+      "bytes": 17936
     },
     {
       "id": "thoreau-walden",

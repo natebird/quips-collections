@@ -9,7 +9,7 @@
   "iconName": "sparkles",
   "category": "Movies",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-07-04T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "scifi-001",
@@ -116,9 +116,9 @@
       "authorName": "Captain Kirk",
       "source": "Star Trek (attributed)",
       "sourceType": "television",
-      "quoteDate": null,
+      "quoteDate": "c. 1960s",
       "verificationStatus": "unverified",
-      "notes": "Never actually said in this exact form. A cultural condensation of various transport requests.",
+      "notes": "Never actually said in this exact form. A cultural condensation of various transport requests. Date reflects the original run of Star Trek (1966-1969), from which the phrase was condensed.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {

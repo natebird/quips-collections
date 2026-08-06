@@ -9,7 +9,7 @@
   "iconName": "guitars",
   "category": "Music",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "cash-001",
@@ -225,10 +225,10 @@
       "content": "Sometimes I am two people. Johnny is the nice one. Cash causes all the trouble. They fight.",
       "authorName": "Johnny Cash",
       "source": "Widely attributed; primary source unconfirmed",
-      "quoteDate": null,
+      "quoteDate": "c. 1970s-1990s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: circulates widely without a documented primary source (source axis).",
+      "notes": "Unverified: circulates widely without a documented primary source (source axis). Date is a broad estimate spanning Cash's later career, not a documented one.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -236,10 +236,10 @@
       "content": "This morning, with her, having coffee.",
       "authorName": "Johnny Cash",
       "source": "Attributed reply about his definition of paradise; disputed",
-      "quoteDate": null,
+      "quoteDate": "c. 1990s-2000s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified and likely apocryphal: no reliable primary source documents Cash saying it (source axis).",
+      "notes": "Unverified and likely apocryphal: no reliable primary source documents Cash saying it (source axis). Date is a broad estimate spanning Cash's final decades with June Carter Cash, not a documented one.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -247,10 +247,10 @@
       "content": "Success is having to worry about every damn thing in the world, except money.",
       "authorName": "Johnny Cash",
       "source": "Widely attributed; primary source unconfirmed",
-      "quoteDate": null,
+      "quoteDate": "c. 1970s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: no documented interview or writing located for this line (source axis).",
+      "notes": "Unverified: no documented interview or writing located for this line (source axis). Date is a broad estimate from Cash's peak-fame years, not a documented one.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -258,10 +258,10 @@
       "content": "People call me wild. Not really though, I'm not. I guess I've never been normal, not what you call Establishment. I'm country.",
       "authorName": "Johnny Cash",
       "source": "Widely attributed; primary source unconfirmed",
-      "quoteDate": null,
+      "quoteDate": "c. 1960s-1970s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: attribution rests on aggregator sites with no primary citation (source axis).",
+      "notes": "Unverified: attribution rests on aggregator sites with no primary citation (source axis). Date is a broad estimate spanning the outlaw-country years the remark reflects, not a documented one.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -269,10 +269,10 @@
       "content": "No matter how much you've sinned, no matter how much you've stumbled, no matter how far you've got from God, don't give up. You can still be redeemed.",
       "authorName": "Johnny Cash",
       "source": "Attributed spoken remark; primary source unconfirmed",
-      "quoteDate": null,
+      "quoteDate": "c. 1990s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: paraphrased across sources with no fixed wording or documented origin (source axis).",
+      "notes": "Unverified: paraphrased across sources with no fixed wording or documented origin (source axis). Date is a broad estimate from Cash's late-life statements on faith and redemption, not a documented one.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -280,10 +280,10 @@
       "content": "I honestly thought it was a gift from God, these pills.",
       "authorName": "Johnny Cash",
       "source": "Attributed interview remark on addiction; wording unconfirmed",
-      "quoteDate": null,
+      "quoteDate": "c. 1990s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Unverified: reflects his documented view of amphetamines but exact wording could not be confirmed (exact-wording axis).",
+      "notes": "Unverified: reflects his documented view of amphetamines but exact wording could not be confirmed (exact-wording axis). Date is a broad estimate from the period of Cash's autobiographical accounts of his amphetamine use, not a documented one.",
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]
