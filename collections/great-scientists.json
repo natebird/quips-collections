@@ -342,6 +342,17 @@
       "addedAt": "2026-07-09T12:40:13Z"
     },
     {
+      "id": "sci-031",
+      "content": "I can live with doubt, and uncertainty, and not knowing. I think it's much more interesting to live not knowing than to have answers which might be wrong.",
+      "authorName": "Richard Feynman",
+      "source": "BBC Horizon interview, 'The Pleasure of Finding Things Out' (1981)",
+      "quoteDate": "1981",
+      "verificationStatus": "verified",
+      "sourceType": "interview",
+      "notes": "Feynman on being comfortable with uncertainty rather than false certainty, from the same filmed BBC Horizon interview as sci-003.",
+      "addedAt": "2026-07-23T12:00:00Z"
+    },
+    {
       "id": "sci-032",
       "content": "I have no special talents. I am only passionately curious.",
       "authorName": "Albert Einstein",
