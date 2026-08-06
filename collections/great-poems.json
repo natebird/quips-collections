@@ -9,7 +9,7 @@
   "iconName": "scroll.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-07-30T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "poem-001",
@@ -404,7 +404,7 @@
       "sourceType": "poem",
       "quoteDate": "1914",
       "verificationStatus": "verified",
-      "notes": "The line is spoken by the exhausted farm-wife narrator's husband Len, not asserted as the poem's own moral — she only half-agrees, fearing her own breakdown. The underlying adage predates Frost: Quote Investigator traces \"the only way out is through\" to an 1870 Harper's Weekly editorial by George William Curtis. Featured in Quote Unquote #18.",
+      "notes": "The line is spoken by the exhausted farm-wife narrator's husband Len, not asserted as the poem's own moral — she only half-agrees, fearing her own breakdown. The underlying adage predates Frost: Quote Investigator traces \"the only way out is through\" to an 1870 Harper's Weekly editorial by George William Curtis.",
       "addedAt": "2026-07-27T12:00:00Z"
     },
     {
@@ -417,6 +417,17 @@
       "verificationStatus": "verified",
       "notes": "The poem's distinctive line-final \"We\" enjambment is preserved as originally set; Brooks said the trailing \"We\" evokes the boys' fragile, faltering identity.",
       "addedAt": "2026-07-30T12:00:00Z"
+    },
+    {
+      "id": "poem-038",
+      "content": "I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.",
+      "authorName": "Muriel Strode",
+      "source": "\"Wind-Wafted Wild Flowers,\" The Open Court, Vol. 1903, Iss. 8 (August 1903)",
+      "sourceType": "poem",
+      "quoteDate": "1903-08",
+      "verificationStatus": "verified",
+      "notes": "Long misattributed to Ralph Waldo Emerson in the shortened imperative form \"Do not go where the path may lead...\" — a wording that appears nowhere in Emerson's works, per Quote Investigator and Jeffrey S. Cramer, editor of The Portable Emerson. The line is Strode's own, published two decades after Emerson's death; the Emerson attribution itself only surfaces around 1992.",
+      "addedAt": "2026-08-03T12:00:00Z"
     }
   ]
 }
