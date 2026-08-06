@@ -9,7 +9,7 @@
   "iconName": "moon.stars.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "rest-001",
@@ -138,8 +138,8 @@
       "authorName": "Mahatma Gandhi",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to Gandhi on renewal and the daily cycle of rest.",
-      "quoteDate": null,
+      "notes": "Attributed to Gandhi on renewal and the daily cycle of rest. Date is a broad estimate spanning Gandhi's public life, not a documented one.",
+      "quoteDate": "c. 1920s-1940s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -171,8 +171,8 @@
       "authorName": "Dalai Lama XIV",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to the 14th Dalai Lama.",
-      "quoteDate": null,
+      "notes": "Widely attributed to the 14th Dalai Lama. Date is a broad estimate from the period of his widely published talks, not a documented one.",
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -182,8 +182,8 @@
       "authorName": "Carrie Snow",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to the American comedian.",
-      "quoteDate": null,
+      "notes": "Attributed to the American comedian. Date is a broad estimate spanning Snow's stand-up career, not a documented one.",
+      "quoteDate": "c. 1980s-1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -193,8 +193,8 @@
       "authorName": "Ralph Marston",
       "source": "Attributed (The Daily Motivator)",
       "sourceType": "unspecified",
-      "notes": "From the writer behind the long-running Daily Motivator column.",
-      "quoteDate": null,
+      "notes": "From the writer behind the long-running Daily Motivator column. Date is a broad estimate from The Daily Motivator, which Marston began publishing in 1995; the specific entry is not pinned down.",
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -237,8 +237,8 @@
       "authorName": "Ernest Hemingway",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Hemingway; a primary source has not been confirmed.",
-      "quoteDate": null,
+      "notes": "Widely attributed to Hemingway; a primary source has not been confirmed. Date is a broad estimate spanning Hemingway's writing life, not a documented one.",
+      "quoteDate": "c. 1920s-1950s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -259,8 +259,8 @@
       "authorName": "Lily Tomlin",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to the comedian and actress.",
-      "quoteDate": null,
+      "notes": "Attributed to the comedian and actress. Date is a broad estimate spanning Tomlin's stage and television work, not a documented one.",
+      "quoteDate": "c. 1970s-1980s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },

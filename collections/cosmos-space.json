@@ -9,7 +9,7 @@
   "iconName": "moon.stars.fill",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-09T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "cosmos-001",
@@ -93,10 +93,10 @@
       "content": "Somewhere, something incredible is waiting to be known.",
       "authorName": "Carl Sagan",
       "source": "Widely attributed; no primary source located",
-      "quoteDate": null,
+      "quoteDate": "c. 1977",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: popularly attributed to Sagan but not traced to any of his documented writings or broadcasts.",
+      "notes": "Source axis fails: popularly attributed to Sagan but not traced to any of his documented writings or broadcasts. Date is estimated from the earliest documented appearance: the closing line of Sharon Begley's Newsweek profile of Sagan, 15 August 1977, which Begley has confirmed she wrote herself.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -362,6 +362,17 @@
       "sourceType": "radio",
       "notes": "Cernan's closing remarks as the last person to walk on the Moon, recorded in NASA's air-to-ground transcript.",
       "addedAt": "2026-07-09T12:40:13Z"
+    },
+    {
+      "id": "cosmos-033",
+      "content": "Scientists too seldom stress the enormity of our ignorance.",
+      "authorName": "Vera Rubin",
+      "source": "Preface to Bright Galaxies, Dark Matters (1997)",
+      "quoteDate": "1997",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Rubin, whose observations of galaxy rotation provided key evidence for dark matter, on the humility science requires; from the preface to her collected papers.",
+      "addedAt": "2026-08-06T12:00:00Z"
     }
   ]
 }

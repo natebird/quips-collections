@@ -9,7 +9,7 @@
   "iconName": "atom",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-09T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "sci-001",
@@ -71,10 +71,10 @@
       "content": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
       "authorName": "Marie Curie",
       "source": "Widely attributed; earliest traceable to Glenn T. Seaborg's 1967 account of a Curie centenary address",
-      "quoteDate": null,
+      "quoteDate": "c. 1967",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Fails both axes: no primary Curie source, and the second sentence appears to be Seaborg's own addition, not Curie's words.",
+      "notes": "Fails both axes: no primary Curie source, and the second sentence appears to be Seaborg's own addition, not Curie's words. Date is estimated from the earliest traceable appearance, Glenn T. Seaborg's 1967 account of a Curie centenary address.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -104,10 +104,10 @@
       "content": "I love fools' experiments. I am always making them.",
       "authorName": "Charles Darwin",
       "source": "Recollection by E. Ray Lankester, in Library of the World's Best Literature (1896)",
-      "quoteDate": null,
+      "quoteDate": "c. 1896",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Fails the wording/source axis: a secondhand recollection recorded years after Darwin's death, not from his own writing.",
+      "notes": "Fails the wording/source axis: a secondhand recollection recorded years after Darwin's death, not from his own writing. Date is estimated from the earliest documented appearance, E. Ray Lankester's recollection printed in Library of the World's Best Literature (1896).",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -137,10 +137,10 @@
       "content": "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.",
       "authorName": "Isaac Newton",
       "source": "Attributed; recorded posthumously in Spence's Anecdotes and Brewster's Memoirs of Newton (1855)",
-      "quoteDate": null,
+      "quoteDate": "c. 1727",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Fails the source axis: traced only to secondhand anecdotes gathered after Newton's death, with no primary source in his own hand.",
+      "notes": "Fails the source axis: traced only to secondhand anecdotes gathered after Newton's death, with no primary source in his own hand. Date is estimated from Newton's last year, when the remark is said to have been made; it survives only through Spence's Anecdotes and Brewster's 1855 Memoirs.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -203,10 +203,10 @@
       "content": "An expert is a man who has made all the mistakes which can be made, in a very narrow field.",
       "authorName": "Niels Bohr",
       "source": "Attributed to Bohr by Edward Teller, LIFE magazine (1954)",
-      "quoteDate": null,
+      "quoteDate": "1954",
       "verificationStatus": "unverified",
       "sourceType": "article",
-      "notes": "Fails the source axis: attributed secondhand via Teller and part of an older family of similar sayings; no primary Bohr source.",
+      "notes": "Fails the source axis: attributed secondhand via Teller and part of an older family of similar sayings; no primary Bohr source. Dated to Edward Teller's account in LIFE magazine (1954), the earliest documented appearance.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -324,10 +324,10 @@
       "content": "Only if we understand, will we care. Only if we care, will we help. Only if we help, shall all be saved.",
       "authorName": "Jane Goodall",
       "source": "Attributed; associated with Jane Goodall: 40 Years at Gombe (1999)",
-      "quoteDate": null,
+      "quoteDate": "c. 1999",
       "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "Fails the wording axis: a genuine Goodall theme, but phrasing varies across sources ('can we care' vs 'will we care') with no single confirmed primary text.",
+      "notes": "Fails the wording axis: a genuine Goodall theme, but phrasing varies across sources ('can we care' vs 'will we care') with no single confirmed primary text. Date is estimated from Jane Goodall: 40 Years at Gombe (1999), the work it is usually associated with.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -340,6 +340,28 @@
       "sourceType": "unspecified",
       "notes": "Photographed on Feynman's blackboard after his death, alongside the line 'Know how to solve every problem that has been solved'; documented by Caltech Archives and cited by science historians.",
       "addedAt": "2026-07-09T12:40:13Z"
+    },
+    {
+      "id": "sci-032",
+      "content": "I have no special talents. I am only passionately curious.",
+      "authorName": "Albert Einstein",
+      "source": "Letter to Carl Seelig (11 March 1952), Einstein Archives 39-013",
+      "quoteDate": "1952-03-11",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Einstein's reply to his biographer on the source of his achievements; catalogued in Alice Calaprice's The Ultimate Quotable Einstein.",
+      "addedAt": "2026-08-06T12:00:00Z"
+    },
+    {
+      "id": "sci-033",
+      "content": "Now I am become Death, the destroyer of worlds.",
+      "authorName": "J. Robert Oppenheimer",
+      "source": "NBC television documentary 'The Decision to Drop the Bomb' (1965)",
+      "quoteDate": "1965",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Oppenheimer, in filmed interview footage, recalls this line from the Bhagavad Gita as his reaction on witnessing the 1945 Trinity test.",
+      "addedAt": "2026-08-06T12:00:00Z"
     }
   ]
 }

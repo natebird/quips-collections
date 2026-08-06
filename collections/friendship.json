@@ -9,7 +9,7 @@
   "iconName": "person.2.fill",
   "category": "Love & Relationships",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "friend-001",
@@ -291,10 +291,10 @@
       "content": "Walking with a friend in the dark is better than walking alone in the light.",
       "authorName": "Helen Keller",
       "source": "Attributed; no located primary work",
-      "quoteDate": null,
+      "quoteDate": "c. 1980",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: widely attributed to Keller across aggregators but no book, essay, or letter has been located.",
+      "notes": "Source axis fails: widely attributed to Keller across aggregators but no book, essay, or letter has been located. Date is estimated from the earliest documented appearance, Joseph P. Lash's 1980 biography Helen and Teacher.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -302,10 +302,10 @@
       "content": "Friendship is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.",
       "authorName": "Muhammad Ali",
       "source": "Attributed; no located primary work",
-      "quoteDate": null,
+      "quoteDate": "c. 1960s-1990s",
       "verificationStatus": "unverified",
       "sourceType": "unspecified",
-      "notes": "Source axis fails: circulates only on quote aggregators with no cited speech, interview, or book.",
+      "notes": "Source axis fails: circulates only on quote aggregators with no cited speech, interview, or book. Date is a broad estimate spanning Ali's public life, not a documented one.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {

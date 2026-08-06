@@ -9,7 +9,7 @@
   "iconName": "book.fill",
   "category": "Literature",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-30T12:00:00Z",
   "quotes": [
     {
       "id": "lc-001",
@@ -340,6 +340,17 @@
       "verificationStatus": "verified",
       "notes": "Narrator Frederic Henry's reflection on suffering and resilience; the 1929 Scribner's first edition spells 'every one' as two words, modernized here per common transcription convention.",
       "addedAt": "2026-06-27T20:29:50Z"
+    },
+    {
+      "id": "lc-031",
+      "content": "There are years that ask questions and years that answer.",
+      "authorName": "Zora Neale Hurston",
+      "source": "Their Eyes Were Watching God, Chapter 2 (1937)",
+      "sourceType": "book",
+      "quoteDate": "1937",
+      "verificationStatus": "verified",
+      "notes": "Introduces young Janie's questioning of what marriage owes her; distinct from the novel's famous opening line already in the first-lines collection.",
+      "addedAt": "2026-07-30T12:00:00Z"
     }
   ]
 }

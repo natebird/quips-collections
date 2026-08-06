@@ -9,7 +9,7 @@
   "iconName": "book.pages.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-07-30T12:00:00Z",
   "quotes": [
     {
       "id": "opening-001",
@@ -439,6 +439,17 @@
       "verificationStatus": "verified",
       "notes": "Banks's darkly comic hook (a forgotten pacemaker meets a crematorium) is a perennial favorite on best-openings lists.",
       "addedAt": "2026-06-28T02:20:43Z"
+    },
+    {
+      "id": "opening-040",
+      "content": "We tell ourselves stories in order to live.",
+      "authorName": "Joan Didion",
+      "source": "\"The White Album,\" in The White Album (1979)",
+      "sourceType": "book",
+      "quoteDate": "1979",
+      "verificationStatus": "verified",
+      "notes": "Opening line of the title essay; the phrase later became the title of Didion's 2006 collected nonfiction.",
+      "addedAt": "2026-07-30T12:00:00Z"
     }
   ]
 }

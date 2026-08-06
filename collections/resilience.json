@@ -9,7 +9,7 @@
   "iconName": "mountain.2.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-08-06T12:00:00Z",
   "quotes": [
     {
       "id": "res-001",
@@ -215,8 +215,8 @@
       "authorName": "Nelson Mandela",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Mandela; a fixed original source has not been established.",
-      "quoteDate": null,
+      "notes": "Widely attributed to Mandela; a fixed original source has not been established. Date is estimated from the earliest documented attribution to Mandela, an Australian newspaper in 2001.",
+      "quoteDate": "c. 2001",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -246,11 +246,11 @@
       "id": "res-022",
       "content": "In three words I can sum up everything I've learned about life: it goes on.",
       "authorName": "Robert Frost",
-      "source": "Attributed",
-      "sourceType": "unspecified",
-      "notes": "Widely attributed to the poet, though it does not appear in his published verse.",
-      "quoteDate": null,
-      "verificationStatus": "attributed",
+      "source": "Interview by Ray Josephs, 'Robert Frost's Secret,' This Week Magazine, 5 September 1954",
+      "sourceType": "interview",
+      "notes": "Given to Ray Josephs for Frost's 80th birthday and printed as 'In three words, I can sum up everything I've learned about life. It goes on.'",
+      "quoteDate": "1954-09-05",
+      "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -281,8 +281,8 @@
       "authorName": "Seneca",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Commonly attributed to Seneca; the same image also circulates as a Chinese proverb.",
-      "quoteDate": null,
+      "notes": "Commonly attributed to Seneca; the same image also circulates as a Chinese proverb. The century is a broad estimate for the line's modern English circulation; no Seneca source has been located for this wording.",
+      "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -318,6 +318,17 @@
       "quoteDate": "2008",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "res-029",
+      "content": "It is said an Eastern monarch once charged his wise men to invent him a sentence, to be ever in view, and which should be true and appropriate in all times and situations. They presented him the words: \"And this, too, shall pass away.\"",
+      "authorName": "Abraham Lincoln",
+      "source": "Address before the Wisconsin State Agricultural Society, Milwaukee, September 30, 1859; collected in The Collected Works of Abraham Lincoln, ed. Roy P. Basler (Rutgers University Press, 1953), Vol. 3",
+      "sourceType": "speech",
+      "quoteDate": "1859-09-30",
+      "verificationStatus": "verified",
+      "notes": "Lincoln retells this parable as folklore (\"It is said\"), without naming Persia, Sufism, or Solomon; those popular \"ancient proverb\" framings are unsourced and could not be traced to any primary text. Lincoln himself then argues against the sentiment.",
+      "addedAt": "2026-07-27T12:00:00Z"
     }
   ]
 }

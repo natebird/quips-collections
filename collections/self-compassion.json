@@ -9,7 +9,7 @@
   "iconName": "heart.circle.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "sc-001",
@@ -127,8 +127,8 @@
       "authorName": "Buddha",
       "source": "Attributed (traditional Buddhist teaching)",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to the Buddha; the phrasing is a modern rendering rather than a canonical text.",
-      "quoteDate": null,
+      "notes": "Widely attributed to the Buddha; the phrasing is a modern rendering rather than a canonical text. The century is a broad estimate for this modern English rendering; the sentiment echoes Udana 5.1.",
+      "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -138,8 +138,8 @@
       "authorName": "Dalai Lama XIV",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to the 14th Dalai Lama in talks and interviews.",
-      "quoteDate": null,
+      "notes": "Widely attributed to the 14th Dalai Lama in talks and interviews. Date is a broad estimate from the period of his widely published talks and interviews, not a documented one.",
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -149,8 +149,8 @@
       "authorName": "Dalai Lama XIV",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "A frequently cited expression of the Dalai Lama's emphasis on kindness.",
-      "quoteDate": null,
+      "notes": "A frequently cited expression of the Dalai Lama's emphasis on kindness. Date is estimated from The Dalai Lama: A Policy of Kindness (1990), the compilation it is usually quoted from.",
+      "quoteDate": "c. 1990",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -237,8 +237,8 @@
       "authorName": "Mark Twain",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Popularly attributed to Twain, but no primary source in his writings has been found.",
-      "quoteDate": null,
+      "notes": "Popularly attributed to Twain, but no primary source in his writings has been found. Date is estimated from the earliest documented appearance, Christian Nestell Bovee's Thoughts, Feelings, and Fancies (1857); the Twain ascription dates only from a 1942 Walter Winchell column.",
+      "quoteDate": "c. 1857",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -259,8 +259,8 @@
       "authorName": "Pema Chödrön",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Widely attributed to Chödrön; a fixed published source is uncertain.",
-      "quoteDate": null,
+      "notes": "Widely attributed to Chödrön; a fixed published source is uncertain. Date is a broad estimate from the period of Chodron's principal books, not a documented one.",
+      "quoteDate": "c. 1990s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -270,8 +270,8 @@
       "authorName": "Jack Kornfield",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to the meditation teacher and author, sometimes framed as a Buddhist teaching.",
-      "quoteDate": null,
+      "notes": "Attributed to the meditation teacher and author, sometimes framed as a Buddhist teaching. Date is estimated from Buddha's Little Instruction Book (1994), the work it is usually credited to.",
+      "quoteDate": "c. 1994",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -314,8 +314,8 @@
       "authorName": "Kahlil Gibran",
       "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Attributed to the Lebanese-American poet and author of The Prophet.",
-      "quoteDate": null,
+      "notes": "Attributed to the Lebanese-American poet and author of The Prophet. Date is a broad estimate spanning Gibran's principal English works, including The Prophet (1923), not a documented one.",
+      "quoteDate": "c. 1920s",
       "verificationStatus": "attributed",
       "addedAt": "2026-07-01T12:47:46Z"
     },
@@ -334,11 +334,11 @@
       "id": "sc-030",
       "content": "Those who are happiest are those who do the most for others.",
       "authorName": "Booker T. Washington",
-      "source": "Attributed",
-      "sourceType": "unspecified",
-      "notes": "Attributed to the educator and author of Up from Slavery.",
-      "quoteDate": null,
-      "verificationStatus": "attributed",
+      "source": "Up from Slavery (1901), ch. 4 'Helping Others'",
+      "sourceType": "book",
+      "notes": "Verified against the text: 'Before the end of the year, I think I began learning that those who are happiest are those who do the most for others.' Washington is describing the unselfishness of his teachers at Hampton.",
+      "quoteDate": "1901",
+      "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
     }
   ]

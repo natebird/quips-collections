@@ -9,7 +9,7 @@
   "iconName": "leaf.fill",
   "category": "Wellness",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-06-20T12:00:00Z",
+  "lastUpdated": "2026-07-24T12:00:00Z",
   "quotes": [
     {
       "id": "mp-001",
@@ -28,8 +28,8 @@
       "authorName": "Buddha",
       "source": "Attributed (traditional Buddhist teaching)",
       "sourceType": "unspecified",
-      "notes": "Traditional Buddhist teaching. While the exact origin is uncertain, the sentiment aligns with core Buddhist philosophy about inner peace.",
-      "quoteDate": null,
+      "notes": "Traditional Buddhist teaching. While the exact origin is uncertain, the sentiment aligns with core Buddhist philosophy about inner peace. The century is a broad estimate for this modern English rendering, not a documented date.",
+      "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -39,8 +39,8 @@
       "authorName": "Buddha",
       "source": "Attributed (based on Dhammapada)",
       "sourceType": "unspecified",
-      "notes": "Paraphrased from the Dhammapada. The opening verses discuss how the mind shapes our experience and destiny.",
-      "quoteDate": null,
+      "notes": "Paraphrased from the Dhammapada. The opening verses discuss how the mind shapes our experience and destiny. Date reflects the traditional compilation of the Dhammapada; the English wording here is modern.",
+      "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -127,8 +127,8 @@
       "authorName": "Unknown",
       "source": "Mindfulness tradition",
       "sourceType": "unspecified",
-      "notes": "Common mindfulness teaching. Origin unclear but widely used in meditation and therapy contexts.",
-      "quoteDate": null,
+      "notes": "Common mindfulness teaching. Origin unclear but widely used in meditation and therapy contexts. The century is a broad estimate for the saying's circulation, not a documented date.",
+      "quoteDate": "c. 20th century",
       "verificationStatus": "folk-wisdom",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -303,8 +303,8 @@
       "authorName": "Buddha",
       "source": "Attributed (traditional Buddhist teaching)",
       "sourceType": "unspecified",
-      "notes": "Paraphrased from Buddhist teachings on impermanence and present-moment action. Each day offers a fresh start.",
-      "quoteDate": null,
+      "notes": "Paraphrased from Buddhist teachings on impermanence and present-moment action. Each day offers a fresh start. The century is a broad estimate for this modern English paraphrase, not a documented date.",
+      "quoteDate": "c. 20th century",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
