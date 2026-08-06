@@ -28,11 +28,11 @@
   "cursor": {
     "fileIndex": 4,
     "file": "champions-mindset",
-    "quoteIndex": 0,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at champions-mindset quotes[0] (champ-001). bob-dylan finishes this pass (27/27)."
+    "quoteIndex": 10,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at champions-mindset quotes[10] (champ-011)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 113,
+  "totalQuotesAudited": 123,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -177,6 +177,19 @@
       "resolution": "note refined for dylan-026 (attribution doubt now described accurately); no other content changes. bob-dylan collection finishes this pass (27/27 quotes audited).",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "Housekeeping backlog is worsening: as of this run there are 2 still-unmerged audit-state PRs (#44, #49) and 11 open audit-report issues going back to 2026-07-25, none closed. This run did not merge or close anything (out of scope), but flags it again -- third consecutive run to hit duplicate-verification risk from unmerged state. Re-checked open content PRs #23, #24, #46, #47: all unchanged (same single commit each) since the 2026-08-04 review, findings still hold, nothing new to flag. #49 also modifies a quote (dylan-014 fix) -- independently re-verified its proposed replacement wording via WebSearch, confirms the fix is accurate."
+    },
+    {
+      "runDate": "2026-08-06",
+      "file": "champions-mindset",
+      "quoteRange": "champ-001..champ-010",
+      "count": 10,
+      "passed": 8,
+      "flagged": 2,
+      "flaggedIds": ["champ-001", "champ-008"],
+      "issue": "champ-002..007, 009, 010 all verified against primary/authoritative sources (filmed press conferences, a dated Playboy interview cross-checked by Quote Investigator, the archived 1997 Nike ad transcript, Jordan's own 1994 book, an on-camera Last Dance line, a videoed presser, and a dated FIFA.com/SI piece) -- no issues. champ-008 (Kobe Bryant Mamba Mentality definition): was sourced as vague, undated 'Bryant's own remarks... c. 2016' (sourceType interview) -- multiple independent, non-aggregator sources (SI.com book-excerpt piece, publisher listing) converge on this actually being from his 2018 book The Mamba Mentality: How I Play; confidently corrected source/quoteDate/sourceType to the book. champ-001 (Muhammad Ali post-Liston outburst): independent sourcing corroborates 'I shook up the world!' and 'I am the greatest!' both being shouted ringside that night (order varies by source), but the third clause, 'I'm the prettiest thing that ever lived' -- a real but separately-documented Ali catchphrase -- could not be confirmed as part of this same moment rather than stitched in from elsewhere; flagged as unverified pending primary-footage confirmation, content not changed since no confirmed correct wording was found.",
+      "resolution": "champ-008 fixed in this run's PR (source corrected to the 2018 book). champ-001 downgraded to verificationStatus unverified with a note describing the doubt; no content/source rewrite proposed since not confident enough in a specific correction.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "MAJOR: this run found three consecutive unmerged audit-state PRs (#44, #49, #51) all still open, each built on stale main because none had been merged, causing three straight runs to independently re-verify overlapping batches before discovering the duplication. To stop compounding this, this run's branch was reset to the tip of PR #51 (claude/charming-brown-yme6ae, the most complete of the three) rather than to stale main, so this run's PR is a strict superset of #44+#49+#51's changes plus this run's new champions-mindset batch -- merging this PR alone is sufficient, and #44/#49/#51 can then be closed as superseded. Flagged prominently to the user via notification given 3 unmerged PRs + 12 open untriaged issues is no longer a minor housekeeping note. Re-checked open content PRs #23, #24, #46, #47: all unchanged (same single commit each), findings still hold, nothing new to flag."
     }
   ]
 }
