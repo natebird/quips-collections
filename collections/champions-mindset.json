@@ -9,7 +9,7 @@
   "iconName": "trophy.fill",
   "category": "Sports",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-06T12:00:00Z",
+  "lastUpdated": "2026-08-07T12:00:00Z",
   "quotes": [
     {
       "id": "champ-001",
@@ -211,13 +211,13 @@
     },
     {
       "id": "champ-019",
-      "content": "The way I see it, I should have had 30-plus Grand Slams. Maybe I thought about it too much, and that didn't help.",
+      "content": "Maybe I thought about it too much, and that didn't help. The way I see it, I should have had 30-plus Grand Slams.",
       "authorName": "Serena Williams",
       "source": "Vogue essay, 'Serena Williams Says Farewell to Tennis On Her Own Terms,' August 9, 2022",
       "quoteDate": "2022",
       "verificationStatus": "verified",
       "sourceType": "magazine",
-      "notes": "On the drive for greatness and the mental cost of chasing records.",
+      "notes": "On the drive for greatness and the mental cost of chasing records. Sentence order corrected 2026-08-07 audit to match original essay order (previously reversed).",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
