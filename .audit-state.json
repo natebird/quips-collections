@@ -88,11 +88,11 @@
   "cursor": {
     "fileIndex": 4,
     "file": "champions-mindset",
-    "quoteIndex": 10,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at champions-mindset quotes[10] (champ-011)."
+    "quoteIndex": 20,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at champions-mindset quotes[20] (champ-021)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 123,
+  "totalQuotesAudited": 133,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -266,6 +266,21 @@
       "resolution": "champ-008 fixed in this run's PR (source corrected to the 2018 book). champ-001 downgraded to verificationStatus unverified with a note describing the doubt; no content/source rewrite proposed since not confident enough in a specific correction.",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "MAJOR: this run found three consecutive unmerged audit-state PRs (#44, #49, #51) all still open, each built on stale main because none had been merged, causing three straight runs to independently re-verify overlapping batches before discovering the duplication. To stop compounding this, this run's branch was reset to the tip of PR #51 (claude/charming-brown-yme6ae, the most complete of the three) rather than to stale main, so this run's PR is a strict superset of #44+#49+#51's changes plus this run's new champions-mindset batch -- merging this PR alone is sufficient, and #44/#49/#51 can then be closed as superseded. Flagged prominently to the user via notification given 3 unmerged PRs + 12 open untriaged issues is no longer a minor housekeeping note. Re-checked open content PRs #23, #24, #46, #47: all unchanged (same single commit each), findings still hold, nothing new to flag. CORRECTION (applied 2026-08-06 during PR review): the 'strict superset' claim above is FALSE. This branch was reset from PR #51's tip, but #51 was never built on #49 -- git merge-base confirms #51 is an ancestor of this branch while #44 and #49 are not. #49's dylan-014 content fix (the truncated-quote correction) was therefore NOT carried over, and closing #49 as superseded would have silently dropped it while this file continued to record it as fixed. Resolved by merging #49 into main FIRST, then merging main into this branch. #44 and #51 are genuinely superseded here (both state-file-only, and their run entries are carried forward above); #49 was not. PROCESS LESSON for future runs: do not assume a branch reset from another run's tip inherits every earlier run's changes. Verify with `git merge-base --is-ancestor <other-branch> HEAD` for EACH PR claimed as superseded, and diff the actual quote content -- not just the state file -- before recommending anything be closed."
+    },
+    {
+      "runDate": "2026-08-07",
+      "file": "champions-mindset",
+      "quoteRange": "champ-011..champ-020",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "champ-019"
+      ],
+      "issue": "champ-011 (Gretzky), champ-012/013 (Jackie Robinson, I Never Had It Made), champ-014 (Jesse Owens, 1936 Landon campaign speech, corroborated by Schaap's Triumph), champ-015..017 (Federer, Dartmouth 2024 commencement, official transcript), champ-018 (Serena Williams Vogue essay) and champ-020 (Serena, Australian Open QF presser, confirmed the match was indeed the quarterfinal round vs. Pliskova on 2019-01-22, matching the stored date) all verified verbatim against primary/authoritative sources -- no issues. champ-019 (Serena Williams, same Vogue essay as champ-018): the two sentences were stored in reverse order from the original essay -- primary source reads 'Maybe I thought about it too much, and that didn't help. The way I see it, I should have had 30-plus Grand Slams.' but the collection had them flipped, presenting the summary line before its lead-in. Not a fabrication (both sentences are genuinely hers, adjacent in the source) but a real verbatim-accuracy defect once flagged as 'verified'.",
+      "resolution": "champ-019 fixed in this run's PR: content field reordered to match the original essay sentence order; note field annotated with the correction. No other changes needed.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "0 open PRs and 0 unmerged audit-state branches found at the start of this run -- the multi-week unmerged-PR backlog flagged in the 2026-08-05 and 2026-08-06 runs appears resolved. However, 13 open audit-report issues remain from 2026-07-25 through 2026-08-06, none closed -- flagged in this run's report as a separate, still-open housekeeping item; left untouched since closing issues is outside this run's explicit task scope (audit + PR review + report + fix PR + state update)."
     }
   ]
 }
