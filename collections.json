@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-07T12:00:00Z",
+  "lastUpdated": "2026-08-08T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1641,6 +1641,26 @@
       "lastUpdated": "2026-07-07T12:00:00Z",
       "contentHash": "sha256-y7luVkb/dDXUFAvbiSFpqJzf9ayni3wIvOKu7MXLi3Q=",
       "bytes": 27652
+    },
+    {
+      "id": "avatar-last-airbender",
+      "name": "Avatar: The Last Airbender",
+      "description": "Balance, humility, and hard-won hope — lines from Aang, Uncle Iroh, and the rest of Team Avatar.",
+      "author": "Quips Editorial",
+      "quoteCount": 41,
+      "previewQuotes": [
+        "My first girlfriend turned into the moon.",
+        "Life happens wherever you are, whether you make it or not."
+      ],
+      "colorName": "teal",
+      "colorLightHex": "#27A98A",
+      "colorDarkHex": "#2BD1AA",
+      "iconName": "tornado",
+      "category": "Television",
+      "addedAt": "2026-08-08T12:00:00Z",
+      "lastUpdated": "2026-08-08T12:00:00Z",
+      "contentHash": "sha256-YUFZ1DuQNtYzddbFdUb2+lSfGeDZH2X3PgUO73nuz80=",
+      "bytes": 22293
     }
   ]
 }
