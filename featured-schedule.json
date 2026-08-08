@@ -1,0 +1,65 @@
+{
+  "description": "The featured-collection rotation: which collection is featured in which ISO week. Hand-editable and append-only — published weeks have already been shipped in a release, so change them only to fix a mistake. scripts/suggest_featured.py proposes new weeks (never-featured first, category spacing, seasonal hints) and scripts/build_featured.py turns this file into the published featured-collections.json.",
+  "weeks": [
+    {
+      "weekStart": "2026-08-03",
+      "collectionId": "michael-jordan",
+      "note": "Michael Jordan — seasonal: matches sport for August"
+    },
+    {
+      "weekStart": "2026-08-10",
+      "collectionId": "how-i-met-your-mother",
+      "note": "How I Met Your Mother — never featured"
+    },
+    {
+      "weekStart": "2026-08-17",
+      "collectionId": "star-wars",
+      "note": "Star Wars — never featured"
+    },
+    {
+      "weekStart": "2026-08-24",
+      "collectionId": "lds-general-conference",
+      "note": "LDS General Conference — never featured"
+    },
+    {
+      "weekStart": "2026-08-31",
+      "collectionId": "champions-mindset",
+      "note": "Champion's Mindset — seasonal: matches sport for August"
+    },
+    {
+      "weekStart": "2026-09-07",
+      "collectionId": "shakespeare",
+      "note": "Shakespeare — never featured"
+    },
+    {
+      "weekStart": "2026-09-14",
+      "collectionId": "teen-movies",
+      "note": "Teen Movie Classics — seasonal: matches school for September"
+    },
+    {
+      "weekStart": "2026-09-21",
+      "collectionId": "jewish-wisdom",
+      "note": "Jewish Wisdom — seasonal: matches learning for September"
+    },
+    {
+      "weekStart": "2026-09-28",
+      "collectionId": "cosmos-space",
+      "note": "Cosmos & Space — never featured"
+    },
+    {
+      "weekStart": "2026-10-05",
+      "collectionId": "edgar-allan-poe",
+      "note": "Edgar Allan Poe — seasonal: matches mystery for October"
+    },
+    {
+      "weekStart": "2026-10-12",
+      "collectionId": "courage-conviction",
+      "note": "Courage & Conviction — seasonal: matches fear for October"
+    },
+    {
+      "weekStart": "2026-10-19",
+      "collectionId": "disney-animated",
+      "note": "Disney Animated — never featured"
+    }
+  ]
+}

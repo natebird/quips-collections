@@ -13,14 +13,16 @@ the contract is below.
 
 ## 1. What these are
 
-Three feeds, each a **single JSON document** served from the same versioned base
-as the index (`https://data.quipsapp.com/v<version>/`):
+Four feeds plus one ancillary index, each a **single JSON document** served from
+the same versioned base as the index (`https://data.quipsapp.com/v<version>/`):
 
 | Feed | File | Shape | What it holds |
 |------|------|-------|---------------|
 | Recently Added | `recently-added.json` | collection-shaped (`quotes[]`) | 25 newest quotes added to existing collections |
 | On This Day | `on-this-day.json` | **day-keyed** (`days{}`) | quotes grouped by the calendar day they were said |
 | Newsletter Picks | `newsletter-picks.json` | collection-shaped (`quotes[]`) | collection quotes featured in the Quote Unquote newsletter |
+| Featured Collections | `featured-collections.json` | **week-keyed** (`weeks[]`) | one featured collection per ISO week, with a quote and an editorial note |
+| Search Index | `search-index.json` | **flat** (`quotes[]` + `authors[]`) | every quote in the dataset, for offline search — **not a shelf** |
 
 **These are NOT in `collections.json`.** They reuse quotes (and their ids/text)
 from the real collections, so they deliberately break the index's
@@ -43,12 +45,21 @@ them and don't expect their ids to be globally unique.
   "indexUrl":  "https://data.quipsapp.com/v1.9.0/collections.json",
   "indexHash": "sha256-…",
   "generated": {
-    "recentlyAdded":   { "url": "https://data.quipsapp.com/v1.9.0/recently-added.json",  "hash": "sha256-…", "bytes": 14036 },
-    "onThisDay":       { "url": "https://data.quipsapp.com/v1.9.0/on-this-day.json",      "hash": "sha256-…", "bytes": 401445 },
-    "newsletterPicks": { "url": "https://data.quipsapp.com/v1.9.0/newsletter-picks.json", "hash": "sha256-…", "bytes": 3242 }
-  }
+    "recentlyAdded":       { "url": "https://data.quipsapp.com/v1.9.0/recently-added.json",      "hash": "sha256-…", "bytes": 14036 },
+    "onThisDay":           { "url": "https://data.quipsapp.com/v1.9.0/on-this-day.json",          "hash": "sha256-…", "bytes": 401445 },
+    "newsletterPicks":     { "url": "https://data.quipsapp.com/v1.9.0/newsletter-picks.json",     "hash": "sha256-…", "bytes": 3242 },
+    "featuredCollections": { "url": "https://data.quipsapp.com/v1.9.0/featured-collections.json", "hash": "sha256-…", "bytes": 10547 }
+  },
+  "searchIndex":           { "url": "https://data.quipsapp.com/v1.9.0/search-index.json",         "hash": "sha256-…", "bytes": 1048912 }
 }
 ```
+
+**`searchIndex` sits at the top level, not inside `generated`** — deliberately.
+`generated` is a map of things you *render*, and the rule for it is "iterate the
+map, show the shelves you support". A one-megabyte search index is not a shelf,
+and a consumer walking `generated` should never meet it. It uses the same
+`url`/`hash`/`bytes` contract, so fetching and verifying it is identical; you just
+have to ask for it by name.
 
 Each entry has the **exact same `url` / `hash` / `bytes` contract as the index**:
 
@@ -139,6 +150,86 @@ issue. Small (only quotes with a verified match in the collections appear —
 currently 5; misattribution/paraphrase issues have no verified quote and are
 intentionally omitted).
 
+### Featured Collections — `featured-collections.json`  ⚠️ different shape
+**No `quotes[]`.** A `weeks[]` array, ascending by `weekStart`, one entry per ISO
+week (weeks start **Monday**):
+
+```jsonc
+{
+  "id": "featured-collections", "name": "Featured Collections", "generated": true,
+  "iconName": "star.fill", "category": "Featured",
+  "weekCount": 12,
+  "weeks": [
+    {
+      "weekStart": "2026-08-03",
+      "weekEnd":   "2026-08-09",
+      "collectionId": "michael-jordan",
+      "note": "Michael Jordan — seasonal: matches sport for August",
+      "quote": { "id": "mj-001", "content": "…", "authorName": "Michael Jordan", "sourceCollection": "michael-jordan", … }
+    }
+  ]
+}
+```
+
+To render "this week": compute the user's **local** date and find the entry where
+`weekStart <= today <= weekEnd`. Notes:
+
+- **Presentation is not in this feed.** There is no name, colour, or icon here —
+  join `collectionId` to `collections.json`. That is the point: a rename or a
+  palette change ships in the index alone and this file cannot contradict it. If
+  the join fails (a collection was removed), skip the week.
+- **Every** scheduled week is published, past ones included, and the file does not
+  change with the clock — the same contract as On This Day, so regenerating it
+  produces no diff and the week a reader sees depends on the date, not on when the
+  release was cut.
+- **The schedule can run out.** It is maintained about 12 weeks ahead, but a long
+  gap between releases can outrun it. **No matching week is a normal state** —
+  fall back to whatever your surface shows otherwise (On This Day, or nothing).
+  Never show a stale week as if it were current.
+- `note` is editorial prose written for a reader and is safe to display. It is
+  optional — treat it as decoration, not as the reason the collection is there.
+- `quote` is the collection's hook, already stamped with `sourceCollection`. It is
+  optional too (a collection with no quotes yields none).
+
+### Search Index — `search-index.json`  ⚠️ not a shelf
+Every quote in the dataset flattened into one document, plus the author roster
+derived from it. It exists because `collections.json` carries only two
+`previewQuotes` per collection — 166 of 2,711, about 6% of the corpus — so a client searching
+what it already has would both miss most quotes and return different results
+depending on what happened to be cached.
+
+```jsonc
+{
+  "id": "search-index", "generated": true,
+  "quoteCount": 2711, "authorCount": 941,
+  "quotes": [
+    { "id": "mj-001", "content": "…", "authorName": "Michael Jordan",
+      "source": "…", "quoteDate": "1994", "verificationStatus": "verified",
+      "sourceCollection": "michael-jordan" }
+  ],
+  "authors": [
+    { "name": "C. S. Lewis", "quoteCount": 38, "collectionCount": 5, "variants": ["C.S. Lewis"] }
+  ]
+}
+```
+
+- **Entries use the same field names as a collection quote**, so an existing quote
+  DTO decodes them unchanged — `sourceCollection` is the only addition, and it is
+  the join back to `collections.json` for presentation.
+- **It is big**: ~1 MB raw, ~186 KB over the wire gzipped. Fetch it **lazily** —
+  on first search, not at launch — and verify/cache it by hash like everything
+  else. Holding it in memory for the life of a search session is fine; holding it
+  for the life of the app is not.
+- **`authors` is folded, `quotes` are not.** A roster entry groups spellings of
+  one name (case, accents, and punctuation ignored), displays the dominant one,
+  and lists the rest in `variants`; the quote entries keep whatever spelling their
+  collection file uses. To go from a quote to its roster entry, match `authorName`
+  against `name` and then `variants`.
+- **Sorted** by `sourceCollection`, then quote id. Do not depend on it for
+  relevance — ranking is the client's job.
+- Absent `verificationStatus` means the field was missing upstream, not that the
+  quote is unverified.
+
 ---
 
 ## 5. Integrity, caching, versioning — recap
@@ -159,12 +250,14 @@ intentionally omitted).
 **iOS**
 - [ ] Extend the manifest DTO with an optional `generated: [String: FeedRef]`
       (`FeedRef { url, hash, bytes }`); iterate it, don't hardcode keys.
+- [ ] Add an optional top-level `searchIndex: FeedRef` — same shape, read by name.
 - [ ] Reuse the existing quote DTO; add optional `sourceCollection` /
       `newsletterIssue`. Keep lenient decoding.
 - [ ] Model On This Day separately (`days: [String: [Quote]]`) — it is *not*
-      `quotes[]`.
+      `quotes[]`. Same for Featured Collections (`weeks: [FeaturedWeek]`).
 - [ ] Verify each feed with `ContentHash` before caching; key cache by hash.
 - [ ] Route taps through `sourceCollection` into the existing collection detail.
+- [ ] Load the search index lazily, on first search, and let it go afterwards.
 
 **Website (quipsapp.com)**
 - [ ] After pinning `.data-version`, fetch `generated.*` from the manifest and
@@ -172,14 +265,26 @@ intentionally omitted).
 - [ ] Verify `hash`; treat versioned URLs as immutable (cache-control is already
       `immutable`).
 - [ ] On This Day: index `days` by the visitor's local `MM-DD`.
+- [ ] Featured: find the week containing today; render nothing if the schedule has
+      run out.
+- [ ] Search index: fetch on first keystroke, not on page load.
 
 ---
 
 ## 7. Regenerating (data-repo side, for reference)
 
 The feeds are produced by `scripts/build_recently_added.py`,
-`build_on_this_day.py`, and `build_newsletter_picks.py`. They are **build
-artifacts, not committed** to the repo — the release workflow regenerates all of
-them from the released data and uploads them under `v<version>/`, so the published
-feeds always match the released collections. Consumers never need to run these;
-they only read the published JSON named in the manifest.
+`build_on_this_day.py`, `build_newsletter_picks.py`, `build_featured.py`, and
+`build_search_index.py`. They are **build artifacts, not committed** to the repo —
+the release workflow regenerates all of them from the released data and uploads
+them under `v<version>/`, so the published feeds always match the released
+collections. Consumers never need to run these; they only read the published JSON
+named in the manifest.
+
+The one exception is **`featured-schedule.json`**, which *is* committed: it is the
+hand-edited input the featured feed is built from, not an output. Which collection
+is featured in which week is an editorial decision, so it lives in git where it can
+be reviewed, not in a generator where it would be re-derived. `scripts/suggest_featured.py`
+proposes new weeks (never-featured collections first, category spacing, seasonal
+hints) and a monthly agent extends the schedule by ~4 weeks via pull request, so the
+rotation keeps reaching collections added after it was first drawn up.

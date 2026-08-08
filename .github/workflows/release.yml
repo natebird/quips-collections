@@ -24,6 +24,9 @@ jobs:
       - name: Check index hashes are current (gate the release)
         run: python3 scripts/compute_hashes.py --check
 
+      - name: Check the featured schedule (gate the release)
+        run: python3 scripts/build_featured.py --check
+
       - name: Build dist + manifest
         env:
           TAG: ${{ github.ref_name }}        # e.g. v1.0.0
@@ -51,12 +54,16 @@ jobs:
           python3 scripts/build_recently_added.py
           python3 scripts/build_on_this_day.py
           python3 scripts/build_newsletter_picks.py
+          python3 scripts/build_featured.py
+          python3 scripts/build_search_index.py
           mkdir -p dist/collections
           cp collections.json dist/
           cp collections/*.json dist/collections/
-          cp recently-added.json on-this-day.json newsletter-picks.json dist/
+          cp recently-added.json on-this-day.json newsletter-picks.json \
+             featured-collections.json search-index.json dist/
           ( cd dist && zip -qr "quips-collections-${TAG}.zip" collections.json collections \
-              recently-added.json on-this-day.json newsletter-picks.json )
+              recently-added.json on-this-day.json newsletter-picks.json \
+              featured-collections.json search-index.json )
           python3 scripts/build_manifest.py "$VER" > dist/manifest.json
           echo "Manifest:"; cat dist/manifest.json
 

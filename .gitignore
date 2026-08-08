@@ -3,9 +3,13 @@ dist/
 
 # Generated feeds — build artifacts regenerated and published at release
 # (see scripts/build_*.py). Not committed; served from the CDN per the manifest.
+# featured-schedule.json is NOT here: it is the hand-edited source the featured
+# feed is built *from*, not an output.
 recently-added.json
 on-this-day.json
 newsletter-picks.json
+featured-collections.json
+search-index.json
 
 # macOS
 .DS_Store
