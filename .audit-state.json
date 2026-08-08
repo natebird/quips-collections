@@ -86,13 +86,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 4,
-    "file": "champions-mindset",
-    "quoteIndex": 20,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at champions-mindset quotes[20] (champ-021)."
+    "fileIndex": 5,
+    "file": "childrens-literature",
+    "quoteIndex": 0,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at childrens-literature quotes[0] (kidlit-001)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 133,
+  "totalQuotesAudited": 143,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -281,6 +281,19 @@
       "resolution": "champ-019 fixed in this run's PR: content field reordered to match the original essay sentence order; note field annotated with the correction. No other changes needed.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/56",
       "processNote": "0 open PRs and 0 unmerged audit-state branches found at the start of this run -- the multi-week unmerged-PR backlog flagged in the 2026-08-05 and 2026-08-06 runs appears resolved. However, 13 open audit-report issues remain from 2026-07-25 through 2026-08-06, none closed -- flagged in this run's report as a separate, still-open housekeeping item; left untouched since closing issues is outside this run's explicit task scope (audit + PR review + report + fix PR + state update)."
+    },
+    {
+      "runDate": "2026-08-08",
+      "file": "champions-mindset",
+      "quoteRange": "champ-021..champ-030",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- champ-021/022 (Billie Jean King, 'Pressure Is a Privilege' 2008 book title and 'All In' 2021 autobiography) verified verbatim; champ-023/024/025 (Simone Biles, Tokyo 2020 post-withdrawal press conference, 2021-07-27) verified verbatim against NPR's published transcript; champ-026/027/028 (Usain Bolt, Beijing 2008 / London 2012 / Rio 2016 post-race remarks) verified verbatim via wire coverage, World Athletics' own event report, and ESPN; champ-029 (Arnold Palmer, 'A Life Well Played', 2016) verified verbatim; champ-030 (Babe Ruth, The Rotarian 'Bat It Out!', July 1940, p.14) confirmed as a genuine primary-source citation via Quote Investigator's independent research into the same bylined article, matching the collection's page citation exactly -- not an aggregator repackaging despite the quote's heavy circulation on BrainyQuote/Goodreads/AZQuotes. champions-mindset collection finishes this pass (30/30 quotes audited).",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/58",
+      "processNote": "0 open PRs found at the start of this run -- nothing to review, and the open-PR-backlog issue that dogged 2026-08-05/06 remains resolved. 14 open audit-report issues remain from 2026-07-25 through 2026-08-07, none closed -- flagged again in this run's report as a still-open housekeeping item; left untouched since closing issues is outside this run's explicit task scope. Pass 1 now moves past champions-mindset into childrens-literature (kidlit-001) next run."
     }
   ]
 }
