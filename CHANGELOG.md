@@ -11,6 +11,81 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.11.0] - 2026-08-08
+### Added
+Two new published artifacts, both discovered through `latest/manifest.json` with
+the existing `url`/`hash`/`bytes` contract:
+
+- **`search-index.json`** — every quote in the dataset (2,711) flattened for
+  search, plus the author roster derived from them (941, with spelling variants
+  folded). The index ships only two `previewQuotes` per collection — about 6% of
+  the corpus — so quote- and author-level search could not be answered from it
+  without downloading all 83 collection files. ~1 MB raw, ~186 KB gzipped;
+  consumers should fetch it lazily on first search. Named at the **top level** of
+  the manifest as `searchIndex` rather than inside `generated`, because
+  `generated` is a map of renderable shelves and this is not one.
+- **`featured-collections.json`** — one featured collection per ISO week, each
+  with a quote and an editorial note, built from the new committed
+  `featured-schedule.json`. Every scheduled week is published and the client picks
+  the one containing today, so the file is deterministic and independent of when a
+  release is cut. Presentation is not duplicated: join `collectionId` to
+  `collections.json`.
+
+### Changed
+- `scripts/build_manifest.py` publishes both, and gained an `ANCILLARY_ASSETS`
+  list for assets that are published like a feed but are not one.
+- The release workflow regenerates both before building `dist/`, and both the
+  release and the PR validation workflows now gate on
+  `scripts/build_featured.py --check` — a scheduled week that names a renamed or
+  deleted collection fails CI instead of shipping as a blank week.
+- PR validation now also *runs* every feed builder and the manifest builder, not
+  just the validators. A change that breaks a builder used to pass CI and fail at
+  release time, after the tag was already pushed.
+
+### Notes
+`scripts/build_search_index.py` reports author-name spelling collisions it had to
+fold — currently five, all initials spacing (`C. S. Lewis` / `C.S. Lewis`,
+`J.R.R. Tolkien` / `J. R. R. Tolkien`, and three more). The folding keeps the
+published roster correct; normalising the underlying `authorName` values in the
+collection files is still worth doing separately.
+
+## [1.10.0] - 2026-08-08
+Notes backfilled after the fact: this version was tagged without a CHANGELOG
+section, so its GitHub Release shipped with the workflow's fallback body.
+
+### Added
+- **Avatar: The Last Airbender** (41 quotes) — the 83rd collection.
+- 17 quotes across 12 existing collections: Great Poems and Great Scientists
+  (3 each), Founding Fathers (2), and one each to Civil Rights Voices, Cosmos &
+  Space, Dystopian Fiction, First Lines, Great Speeches, Grit & Perseverance,
+  Literary Classics, On Leadership, and Resilience & Grit. Several are
+  misattribution corrections carrying their real origin — the "Darwin" adaptability
+  line to Leon C. Megginson (1963), "this too shall pass" to Lincoln (1859).
+- Quote Unquote issues 16–18 recorded in `published-quotes.json` (Megginson,
+  Lincoln, Frost). Hand-written issue references were dropped from the collection
+  files in favour of that one record.
+
+The dataset goes from 82 collections / 2,653 quotes to 83 / 2,711.
+
+### Changed
+Sourcing audit continued through 113 quotes in 11 runs, completing Bhagavad Gita
+and Bible Wisdom and working through Bob Dylan and Champion's Mindset. Four
+substantive fixes:
+- `dylan-014` — restored a truncated quote. The stored text ended at "I welcome
+  them with open arms," dropping the punchline about his bank account that is the
+  point of the joke.
+- `champ-008` — sourced to *The Mamba Mentality: How I Play* (2018), replacing a
+  vague, undated "c. 2016 remarks" citation.
+- `champ-019` — sentence order restored to match the original essay.
+- `dylan-026` — downgraded to `unverified`. The *Chronicles* citation is doubtful
+  on the attribution axis, not merely the wording one: the book's actual passage
+  reads differently, and some sources trace this wording to the 1985 *Biograph*
+  notes instead.
+
+`champ-001` (Ali's ringside reaction) is flagged but unchanged — the "prettiest
+thing that ever lived" clause could not be confirmed as part of that moment, and
+no confirmed correct wording was found to fix it to.
+
 ## [1.9.1] - 2026-07-24
 ### Changed
 Backfilled `quoteDate` on 124 of the 126 quotes that had none, across 22

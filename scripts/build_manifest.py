@@ -24,6 +24,16 @@ GENERATED_FEEDS = [
     ("recentlyAdded", "recently-added.json"),
     ("onThisDay", "on-this-day.json"),
     ("newsletterPicks", "newsletter-picks.json"),
+    ("featuredCollections", "featured-collections.json"),
+]
+
+# Assets that are published like a feed but are not one. `generated` is documented
+# as a map of presentation feeds — "a missing key just means don't show that
+# shelf" — so an index nobody renders is named at the top level instead, where a
+# consumer has to ask for it by name rather than meet it while iterating shelves.
+# Same url/hash/bytes contract either way.
+ANCILLARY_ASSETS = [
+    ("searchIndex", "search-index.json"),
 ]
 
 
@@ -64,21 +74,29 @@ def main():
         "bundleUrl": f"{base}/quips-collections-v{version}.zip",
     }
 
+    def reference(fname):
+        """The url/hash/bytes triple for a published file, or None if absent."""
+        if not os.path.exists(fname):
+            return None
+        with open(fname, "rb") as f:
+            raw = f.read()
+        return {"url": f"{base}/{fname}", "hash": sri_hash(raw), "bytes": len(raw)}
+
     # Generated feeds (Recently Added, On This Day, …). Same url/hash/bytes
     # contract as the index, so a client discovers and integrity-checks them
     # the same way, and skips a feed whose hash matches its cached copy.
     generated = {}
     for key, fname in GENERATED_FEEDS:
-        if os.path.exists(fname):
-            with open(fname, "rb") as f:
-                raw = f.read()
-            generated[key] = {
-                "url": f"{base}/{fname}",
-                "hash": sri_hash(raw),
-                "bytes": len(raw),
-            }
+        ref = reference(fname)
+        if ref:
+            generated[key] = ref
     if generated:
         manifest["generated"] = generated
+
+    for key, fname in ANCILLARY_ASSETS:
+        ref = reference(fname)
+        if ref:
+            manifest[key] = ref
 
     json.dump(manifest, sys.stdout, indent=2)
     print()

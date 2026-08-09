@@ -21,3 +21,21 @@ jobs:
       # disk, or progressive-download clients fetch the wrong deltas.
       - name: Check index hashes are current
         run: python3 scripts/compute_hashes.py --check
+      # The featured rotation names collections and quotes by id; a rename or a
+      # removed quote turns a scheduled week into a blank one at release time.
+      - name: Check the featured schedule
+        run: python3 scripts/build_featured.py --check
+      # The release regenerates every feed before it builds dist/, so a change
+      # that breaks a builder would otherwise pass PR CI and fail at release —
+      # after the tag is pushed, which is the expensive place to find out. Note
+      # this also covers build_featured.py's *write* path: --check above returns
+      # before it writes anything. Outputs are gitignored build artifacts.
+      - name: Build the generated feeds and manifest
+        run: |
+          set -euo pipefail
+          python3 scripts/build_recently_added.py
+          python3 scripts/build_on_this_day.py
+          python3 scripts/build_newsletter_picks.py
+          python3 scripts/build_featured.py
+          python3 scripts/build_search_index.py
+          python3 scripts/build_manifest.py 0.0.0 > /dev/null
