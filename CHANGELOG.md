@@ -11,7 +11,7 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [Unreleased]
+## [1.11.1] - 2026-08-08
 ### Changed
 Normalised author initials to one house style — a period and a space between
 each initial (`J. R. R. Tolkien`, not `J.R.R. Tolkien`), following Chicago 10.12
