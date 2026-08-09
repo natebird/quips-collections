@@ -11,7 +11,16 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [Unreleased]
+## [1.11.2] - 2026-08-09
+### Added
+Six quotes to **Avatar: The Last Airbender** (41 → 47), each traced to the
+episode transcript rather than a quote aggregator: Iroh's "Whatever makes you
+happy" (S1E18), Sokka's "You're just a jerk without a soul, no offense!" and
+Zuko's "You rise with the moon. I rise with the sun." (both S1E19), Katara's
+"Too bad you can't see them, Toph!" (S2E8), Azula's sharp-outfit line to Chan
+(S3E5), and Zuko's Iroh impression about saving yourself from your other self
+(S3E12). All `verified`.
+
 ### Changed
 Recoloured 23 collections so each token matches what the collection is actually
 about. Some assignments were plainly wrong for the subject — Edgar Allan Poe was
