@@ -88,11 +88,11 @@
   "cursor": {
     "fileIndex": 5,
     "file": "childrens-literature",
-    "quoteIndex": 0,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at childrens-literature quotes[0] (kidlit-001)."
+    "quoteIndex": 10,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at childrens-literature quotes[10] (kidlit-011)."
   },
   "totalQuotes": 2640,
-  "totalQuotesAudited": 143,
+  "totalQuotesAudited": 153,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -294,6 +294,19 @@
       "resolution": "no fixes needed",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/58",
       "processNote": "0 open PRs found at the start of this run -- nothing to review, and the open-PR-backlog issue that dogged 2026-08-05/06 remains resolved. 14 open audit-report issues remain from 2026-07-25 through 2026-08-07, none closed -- flagged again in this run's report as a still-open housekeeping item; left untouched since closing issues is outside this run's explicit task scope. Pass 1 now moves past champions-mindset into childrens-literature (kidlit-001) next run."
+    },
+    {
+      "runDate": "2026-08-09",
+      "file": "childrens-literature",
+      "quoteRange": "kidlit-001..kidlit-010",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- all verified verbatim against the original book texts, which this collection cites directly as source rather than aggregators (Dr. Seuss: Oh, the Places You'll Go!, The Lorax, Horton Hears a Who!; A. A. Milne: The House at Pooh Corner, Winnie-the-Pooh; Roald Dahl: Charlie and the Chocolate Factory). Two positive sourcing notes: kidlit-007's Pooh/Piglet breakfast exchange is misattributed on AZQuotes to Benjamin Hoff (author of The Tao of Pooh, which merely quotes it) -- confirmed it is genuinely Milne's text and our attribution is correct. kidlit-008's stream quote ('There is no hurry. We shall get there some day.') is often paraphrased on quote sites with an added 'Rivers know this:' preamble that isn't in the book -- our stored text is the real wording, not the popular paraphrase.",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/65",
+      "processNote": "0 open audit-state PRs and 0 open audit-report issues found at the start of this run -- all 18 prior audit issues (#4-#58) are now closed, fully clearing the multi-week backlog flagged in 2026-08-05 through 2026-08-08 runs. 2 open content PRs reviewed: #63 (6 new Avatar: The Last Airbender quotes, sourced to the show itself, one line independently re-confirmed verbatim via transcript search) -- no issues; #64 (collection color changes only, no quote content) -- out of scope, skipped. This run's designated branch (claude/charming-brown-z5kyq9) did not yet exist on the remote, so it was created fresh from the current tip of main."
     }
   ]
 }
