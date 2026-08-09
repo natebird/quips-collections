@@ -461,6 +461,72 @@
       "sourceType": "television",
       "notes": "Aang's objection to Yangchen, stating the Air Nomad principle he refuses to abandon in defeating Ozai.",
       "addedAt": "2026-08-08T12:00:00Z"
+    },
+    {
+      "id": "atla-042",
+      "content": "It's a lovely night for a walk. Why don't you join me? It would clear your head. Or just stay in your room and sit in the dark. Whatever makes you happy.",
+      "authorName": "Uncle Iroh (Mako)",
+      "source": "Avatar: The Last Airbender, S1E18 'The Waterbending Master' (2005)",
+      "quoteDate": "2005-11-18",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Iroh leaning into Zuko's cabin after the crew mutiny, answering his nephew's sulking with an open invitation and a shrug.",
+      "addedAt": "2026-08-08T12:00:00Z"
+    },
+    {
+      "id": "atla-043",
+      "content": "You're just a jerk without a soul, no offense!",
+      "authorName": "Sokka (Jack DeSena)",
+      "source": "Avatar: The Last Airbender, S1E19 'The Siege of the North, Part 1' (2005)",
+      "quoteDate": "2005-12-02",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Sokka tackling Hahn after he brags that marrying Princess Yue comes with 'perks'; it gets Sokka thrown off the mission.",
+      "addedAt": "2026-08-08T12:00:00Z"
+    },
+    {
+      "id": "atla-044",
+      "content": "You rise with the moon. I rise with the sun.",
+      "authorName": "Prince Zuko (Dante Basco)",
+      "source": "Avatar: The Last Airbender, S1E19 'The Siege of the North, Part 1' (2005)",
+      "quoteDate": "2005-12-02",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Zuko to Katara in the Spirit Oasis at daybreak, after the sunrise melts the ice she trapped him in and their duel turns.",
+      "addedAt": "2026-08-08T12:00:00Z"
+    },
+    {
+      "id": "atla-045",
+      "content": "The stars sure are beautiful tonight. Too bad you can't see them, Toph!",
+      "authorName": "Katara (Mae Whitman)",
+      "source": "Avatar: The Last Airbender, S2E8 'The Chase' (2006)",
+      "quoteDate": "2006-05-26",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Katara's mocking jab at Toph from her sleeping bag, at the height of their feud over camp chores.",
+      "addedAt": "2026-08-08T12:00:00Z"
+    },
+    {
+      "id": "atla-046",
+      "content": "That's a sharp outfit, Chan. Careful. You could puncture the hull of an empire-class Fire Nation battleship, leaving thousands to drown at sea, because it's so sharp.",
+      "authorName": "Azula (Grey DeLisle)",
+      "source": "Avatar: The Last Airbender, S3E5 'The Beach' (2007)",
+      "quoteDate": "2007-10-19",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Azula's attempt at flirting at Chan's Ember Island party, delivered with a straight face and no idea why it lands badly.",
+      "addedAt": "2026-08-08T12:00:00Z"
+    },
+    {
+      "id": "atla-047",
+      "content": "Zuko, you have to look within yourself to save yourself from your other self. Only then will your true self reveal itself.",
+      "authorName": "Prince Zuko (Dante Basco)",
+      "source": "Avatar: The Last Airbender, S3E12 'The Western Air Temple' (2008)",
+      "quoteDate": "2008-07-14",
+      "verificationStatus": "verified",
+      "sourceType": "television",
+      "notes": "Zuko impersonating Uncle Iroh while rehearsing his pitch to Team Avatar, then admitting he can't figure out what it means.",
+      "addedAt": "2026-08-08T12:00:00Z"
     }
   ]
 }
