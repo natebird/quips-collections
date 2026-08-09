@@ -11,6 +11,22 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [Unreleased]
+### Changed
+Recoloured 23 collections so each token matches what the collection is actually
+about. Some assignments were plainly wrong for the subject — Edgar Allan Poe was
+a bright purple, Jane Austen a highlighter yellow, Zen wisdom purple, Johnny Cash
+("the man in black") blue — and the palette was also badly unbalanced: 31 of 83
+collections were amber or blue while six of Palette 2.0's sixteen tokens (rose,
+lime, sky, indigo, violet, gray) were unused entirely. Notable moves: Poe, Stoic
+wisdom, Zen wisdom, Battlestar Galactica and Johnny Cash to `gray`; Jane Austen,
+Studio Ghibli and Leadership & Vision to `sky`; Great Poems, Rumi, Self-Compassion
+and Marriage & Weddings to `rose`; Star Wars to `yellow` (the opening crawl);
+Oscar Wilde to `green` (the green carnation); Sikh Wisdom to `orange` (saffron).
+Every token is now in use and the largest bucket is 11 rather than 16. Only
+`colorName` / `colorLightHex` / `colorDarkHex` changed — no quote, name, icon or
+category was touched. Per-collection `contentHash`/`bytes` recomputed.
+
 ## [1.11.1] - 2026-08-08
 ### Changed
 Normalised author initials to one house style — a period and a space between
