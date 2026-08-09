@@ -52,15 +52,15 @@
         "Plans are worthless, but planning is everything.",
         "The price of greatness is responsibility."
       ],
-      "colorName": "blue",
-      "colorLightHex": "#116BDF",
-      "colorDarkHex": "#4790FB",
+      "colorName": "sky",
+      "colorLightHex": "#1F9ED4",
+      "colorDarkHex": "#45C2FC",
       "iconName": "flag.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-8axv2C6TLue12ejEWx4kAMZkxiQqmgnFUcKKYHaWCp0=",
-      "bytes": 19173
+      "contentHash": "sha256-Wcb+9saYV9kpKbiJxBdrcU4iGYjo0xl6HjkLArc9GQ4=",
+      "bytes": 19172
     },
     {
       "id": "courage-conviction",
@@ -92,14 +92,14 @@
         "Stay hungry. Stay foolish.",
         "Hitch your wagon to a star."
       ],
-      "colorName": "purple",
-      "colorLightHex": "#B632CA",
-      "colorDarkHex": "#DE56F3",
+      "colorName": "indigo",
+      "colorLightHex": "#494BEC",
+      "colorDarkHex": "#6A7BF3",
       "iconName": "moon.stars.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-v8rVW7nUWrhe9uEtLpwAoXKzEM180NrmSdmdx6DnpWA=",
+      "contentHash": "sha256-DbRbfl4TZ0vk7Hj1+lOvVzMebIX6OIISZOE76FUeUCM=",
       "bytes": 17131
     },
     {
@@ -112,14 +112,14 @@
         "You have power over your mind - not outside events. Realize this, and you will find strength.",
         "We suffer more often in imagination than in reality."
       ],
-      "colorName": "blue",
-      "colorLightHex": "#116BDF",
-      "colorDarkHex": "#4790FB",
+      "colorName": "gray",
+      "colorLightHex": "#8A8D90",
+      "colorDarkHex": "#9CA0A3",
       "iconName": "building.columns.fill",
       "category": "Philosophy",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-3t2y8d4Vg42CqlyFnhXTUkjmR4+EMf6VR75sMnhOfPM=",
+      "contentHash": "sha256-hD0+wl62hQyuJhAdK7LzsrV9CsmsTyzlNfxq3Wc3P3Q=",
       "bytes": 15788
     },
     {
@@ -192,15 +192,15 @@
         "To be, or not to be, that is the question.",
         "All the world's a stage, and all the men and women merely players."
       ],
-      "colorName": "amber",
-      "colorLightHex": "#E2A520",
-      "colorDarkHex": "#FBB620",
+      "colorName": "violet",
+      "colorLightHex": "#8839E9",
+      "colorDarkHex": "#A174F0",
       "iconName": "theatermasks.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-FQawYiK6wdMZGN/6qu3iko9HqBoDrTgmPXSq+0LFm3k=",
-      "bytes": 24335
+      "contentHash": "sha256-uUwpAId1qXouwgGZmPn4IGF2zA8EG7TNiSdK+tMLY+U=",
+      "bytes": 24336
     },
     {
       "id": "oscar-wilde",
@@ -212,15 +212,15 @@
         "We are all in the gutter, but some of us are looking at the stars.",
         "I can resist everything except temptation."
       ],
-      "colorName": "magenta",
-      "colorLightHex": "#D72D97",
-      "colorDarkHex": "#F762B7",
+      "colorName": "green",
+      "colorLightHex": "#27AE57",
+      "colorDarkHex": "#2BD66A",
       "iconName": "quote.bubble.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-P3Te3MGNBTXeieqGPMXPOnVLv3D7/wrh2aBdwjqol3U=",
-      "bytes": 21108
+      "contentHash": "sha256-ZJ636MbW1t5T8+O5P9+gpOstIy3XmPPmCm6nqkgyxYw=",
+      "bytes": 21106
     },
     {
       "id": "sherlock-holmes",
@@ -252,15 +252,15 @@
         "Quoth the Raven, \"Nevermore.\"",
         "All that we see or seem Is but a dream within a dream."
       ],
-      "colorName": "purple",
-      "colorLightHex": "#B632CA",
-      "colorDarkHex": "#DE56F3",
+      "colorName": "gray",
+      "colorLightHex": "#8A8D90",
+      "colorDarkHex": "#9CA0A3",
       "iconName": "bird.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-gYdZ354fNYHKPUW6Yvxi0F9uYUsyCfwwLhlA9BgV9/w=",
-      "bytes": 14203
+      "contentHash": "sha256-rIPU962V9/k57DFfQJTd+RSHq99goYy+EzU2os2hFSY=",
+      "bytes": 14201
     },
     {
       "id": "jane-austen",
@@ -272,15 +272,15 @@
         "You pierce my soul. I am half agony, half hope.",
         "If I loved you less, I might be able to talk about it more."
       ],
-      "colorName": "yellow",
-      "colorLightHex": "#F7E120",
-      "colorDarkHex": "#DAC720",
+      "colorName": "sky",
+      "colorLightHex": "#1F9ED4",
+      "colorDarkHex": "#45C2FC",
       "iconName": "heart.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-3G/zI/CFL6kMIdZyVzBBaIGUUdHQOOGZhhVpSm+LB98=",
-      "bytes": 16291
+      "contentHash": "sha256-LfURIMomuqvBdwZGRVVsk8zANd26tlvzcjjpeQIHbBU=",
+      "bytes": 16288
     },
     {
       "id": "great-poems",
@@ -292,15 +292,15 @@
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
       ],
-      "colorName": "green",
-      "colorLightHex": "#27AE57",
-      "colorDarkHex": "#2BD66A",
+      "colorName": "rose",
+      "colorLightHex": "#E03063",
+      "colorDarkHex": "#F66E89",
       "iconName": "scroll.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-9wnR9D9mqf0FBsFR6DjafZLXhxUd2iO/erHCI6EOx0k=",
-      "bytes": 18892
+      "contentHash": "sha256-iFU+FO170f17S3crOkSYlsShqwXRJdIUQ57wIUsWxq8=",
+      "bytes": 18891
     },
     {
       "id": "dystopian-fiction",
@@ -332,14 +332,14 @@
         "A person's a person, no matter how small.",
         "And the tree was happy."
       ],
-      "colorName": "cyan",
-      "colorLightHex": "#29ACB2",
-      "colorDarkHex": "#2DD3DA",
+      "colorName": "lime",
+      "colorLightHex": "#9EDB2A",
+      "colorDarkHex": "#9DDC21",
       "iconName": "teddybear.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-s5hkB71pVLRY4qiY3wYKnPKA9OIHDzsqiPeS+avV4EM=",
+      "contentHash": "sha256-RQHUYRBg7WLDxUHjtHyiEtRXgPCW8/hhCaffs+aaPHg=",
       "bytes": 14212
     },
     {
@@ -432,15 +432,15 @@
         "Talk to yourself like you would to someone you love.",
         "Be kind whenever possible. It is always possible."
       ],
-      "colorName": "magenta",
-      "colorLightHex": "#D72D97",
-      "colorDarkHex": "#F762B7",
+      "colorName": "rose",
+      "colorLightHex": "#E03063",
+      "colorDarkHex": "#F66E89",
       "iconName": "heart.circle.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Fs4zHS7pKofqi7a0pVXPfbdkvxHb5y48Xza4oTmKyKo=",
-      "bytes": 15620
+      "contentHash": "sha256-2tB7LvINZqxlgvwbqG9SqrFlToCmS0k8M+zVmzLFUUM=",
+      "bytes": 15617
     },
     {
       "id": "rest-balance",
@@ -452,14 +452,14 @@
         "Early to bed and early to rise makes a man healthy, wealthy, and wise.",
         "Sleep is the best meditation."
       ],
-      "colorName": "purple",
-      "colorLightHex": "#B632CA",
-      "colorDarkHex": "#DE56F3",
+      "colorName": "violet",
+      "colorLightHex": "#8839E9",
+      "colorDarkHex": "#A174F0",
       "iconName": "moon.stars.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Aze5dnsgpsyC69r/XApzTxqDRRcANrx4aI02ee2l02k=",
+      "contentHash": "sha256-piG9qEO5e0nVBpHLGOZeosKYXtJbcCwutRWic59EQNY=",
       "bytes": 13757
     },
     {
@@ -592,15 +592,15 @@
         "Not all those who wander are lost.",
         "Winter is coming."
       ],
-      "colorName": "green",
-      "colorLightHex": "#27AE57",
-      "colorDarkHex": "#2BD66A",
+      "colorName": "violet",
+      "colorLightHex": "#8839E9",
+      "colorDarkHex": "#A174F0",
       "iconName": "flame.fill",
       "category": "Literature",
       "addedAt": "2026-06-27T20:29:50Z",
       "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-c2KF5ekZBBg05vW94ir1RA6EMnnXVp9L1krwIg/R2FU=",
-      "bytes": 16907
+      "contentHash": "sha256-QwZd9/jfoKD00x8A7Nhf6sWpuvNXrqQZCdBBiP9hAkU=",
+      "bytes": 16908
     },
     {
       "id": "western-movies",
@@ -652,15 +652,15 @@
         "Do. Or do not. There is no try.",
         "I find your lack of faith disturbing."
       ],
-      "colorName": "amber",
-      "colorLightHex": "#E2A520",
-      "colorDarkHex": "#FBB620",
+      "colorName": "yellow",
+      "colorLightHex": "#F7E120",
+      "colorDarkHex": "#DAC720",
       "iconName": "star.fill",
       "category": "Movies",
       "addedAt": "2026-06-27T22:04:48Z",
       "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-ftMACUIs6Ta5yHj/WQAc5svRSl6kHerGzYNubE9mRmw=",
-      "bytes": 26956
+      "contentHash": "sha256-rg+dWezT89/EBfSs0aEtCHKN07FVO16yHD/5eoFOYdY=",
+      "bytes": 26957
     },
     {
       "id": "lego-movies",
@@ -712,14 +712,14 @@
         "So say we all.",
         "All of this has happened before, and all of this will happen again."
       ],
-      "colorName": "blue",
-      "colorLightHex": "#116BDF",
-      "colorDarkHex": "#4790FB",
+      "colorName": "gray",
+      "colorLightHex": "#8A8D90",
+      "colorDarkHex": "#9CA0A3",
       "iconName": "tv.fill",
       "category": "Television",
       "addedAt": "2026-06-27T22:01:13Z",
       "lastUpdated": "2026-07-20T12:00:00Z",
-      "contentHash": "sha256-EcZI8RNNji0kizGZu25CBH3AO9BlNhCb4sZx2gIRlZM=",
+      "contentHash": "sha256-XQaDnWF6x6X/0urQ0d+KuJ5k5TQcxMx3npLOKujiOic=",
       "bytes": 13465
     },
     {
@@ -832,15 +832,15 @@
         "Listen to this reed how it complains, telling a tale of separations—",
         "The lover's ailment is separate from all other ailments: love is the astrolabe of the mysteries of God."
       ],
-      "colorName": "magenta",
-      "colorLightHex": "#D72D97",
-      "colorDarkHex": "#F762B7",
+      "colorName": "rose",
+      "colorLightHex": "#E03063",
+      "colorDarkHex": "#F66E89",
       "iconName": "heart.circle.fill",
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-aMhZyjZA1rslSb/TrDxJA4kufyLac8LPJUnyU49S/0g=",
-      "bytes": 12189
+      "contentHash": "sha256-hAqw6zTaI7m4Z0MAYrRLOUymmqaecfjFjGt82Ah6hx8=",
+      "bytes": 12186
     },
     {
       "id": "hadith",
@@ -932,15 +932,15 @@
         "The purpose of our lives is to be happy.",
         "No mud, no lotus."
       ],
-      "colorName": "purple",
-      "colorLightHex": "#B632CA",
-      "colorDarkHex": "#DE56F3",
+      "colorName": "gray",
+      "colorLightHex": "#8A8D90",
+      "colorDarkHex": "#9CA0A3",
       "iconName": "leaf.fill",
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-C/UdY+4ltfK+V5hiDDKN8qYXhUuDtrEh8QccX/fTCX0=",
-      "bytes": 14105
+      "contentHash": "sha256-h2pFJzluU43HrEBMBWREw0F1mu0BOdtJOzi+q/oql1c=",
+      "bytes": 14103
     },
     {
       "id": "jewish-wisdom",
@@ -972,15 +972,15 @@
         "Truth is higher than everything; but higher still is truthful living.",
         "So why call her bad? From her, kings are born."
       ],
-      "colorName": "amber",
-      "colorLightHex": "#E2A520",
-      "colorDarkHex": "#FBB620",
+      "colorName": "orange",
+      "colorLightHex": "#E1791C",
+      "colorDarkHex": "#FDA260",
       "iconName": "book.closed.fill",
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-07-16T12:00:00Z",
-      "contentHash": "sha256-xCTIvmbivHsRn6prWThlJEH1YMUkOnOY793gxskPEA4=",
-      "bytes": 11758
+      "contentHash": "sha256-Fd+WVJbA99P6Ql4fZ9Cii6NM/UFSPkG5MW8bfSM+TdA=",
+      "bytes": 11759
     },
     {
       "id": "legendary-coaches",
@@ -1152,15 +1152,15 @@
         "Nobody's free until everybody's free.",
         "I am sick and tired of being sick and tired."
       ],
-      "colorName": "amber",
-      "colorLightHex": "#E2A520",
-      "colorDarkHex": "#FBB620",
+      "colorName": "indigo",
+      "colorLightHex": "#494BEC",
+      "colorDarkHex": "#6A7BF3",
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-07-30T12:00:00Z",
-      "contentHash": "sha256-4EaJICWU7RyS/e98eY/us6NF3uhqXUlwcDV68pMHCaA=",
-      "bytes": 17150
+      "contentHash": "sha256-UaJOy8M3KjcQN7PRa8dBPq1jVxj6FuNeCn67lpXGUj0=",
+      "bytes": 17151
     },
     {
       "id": "cosmos-space",
@@ -1172,15 +1172,15 @@
         "Magnificent desolation.",
         "I touch the future. I teach."
       ],
-      "colorName": "blue",
-      "colorLightHex": "#116BDF",
-      "colorDarkHex": "#4790FB",
+      "colorName": "indigo",
+      "colorLightHex": "#494BEC",
+      "colorDarkHex": "#6A7BF3",
       "iconName": "moon.stars.fill",
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-S1fTpDLhdC8c0wEEbUe/hQ8SHTYEZ1eGzXjXSLX323I=",
-      "bytes": 17359
+      "contentHash": "sha256-hoTrh4mvbwKcYtpnj1emWzY/LliN+f1vgNmlbMZFT7w=",
+      "bytes": 17361
     },
     {
       "id": "great-scientists",
@@ -1272,14 +1272,14 @@
         "Any talent is a gift of God.",
         "Give God's temple back to Him. The alternative is death."
       ],
-      "colorName": "blue",
-      "colorLightHex": "#116BDF",
-      "colorDarkHex": "#4790FB",
+      "colorName": "gray",
+      "colorLightHex": "#8A8D90",
+      "colorDarkHex": "#9CA0A3",
       "iconName": "guitars",
       "category": "Music",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-HIl/UsngvB9/bqFNBMZFARrlv7IRrPPA7CvAqpOAkJg=",
+      "contentHash": "sha256-RoqFQDXtNH0TQKNmlUyvRJLoOYaL6lclnnSxscWu5OQ=",
       "bytes": 13912
     },
     {
@@ -1292,15 +1292,15 @@
         "Take my wife... please.",
         "What fresh hell can this be?"
       ],
-      "colorName": "amber",
-      "colorLightHex": "#E2A520",
-      "colorDarkHex": "#FBB620",
+      "colorName": "yellow",
+      "colorLightHex": "#F7E120",
+      "colorDarkHex": "#DAC720",
       "iconName": "text.bubble.fill",
       "category": "Comedy",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-UR4VzzepgivPzs554zf7O+ZnyISreGgzTDy9iSD7Q2Y=",
-      "bytes": 13078
+      "contentHash": "sha256-3LgR20wzdf5qwtEJSbdUjYII1hiCh3Fj6xEnqNvGnRI=",
+      "bytes": 13079
     },
     {
       "id": "mark-twain-wit",
@@ -1392,15 +1392,15 @@
         "Whatever our souls are made of, his and mine are the same.",
         "You must allow me to tell you how ardently I admire and love you."
       ],
-      "colorName": "magenta",
-      "colorLightHex": "#D72D97",
-      "colorDarkHex": "#F762B7",
+      "colorName": "rose",
+      "colorLightHex": "#E03063",
+      "colorDarkHex": "#F66E89",
       "iconName": "heart.text.square.fill",
       "category": "Love & Relationships",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-oACsVyMz3FPQF+oYtgX0I6X8UZ9mc2VWL7FpMOy4TIY=",
-      "bytes": 13579
+      "contentHash": "sha256-2+9HY2Fzw8Namw3dInOt5wa2h78KZ2moHMMDTgQuPl0=",
+      "bytes": 13576
     },
     {
       "id": "john-muir",
@@ -1472,15 +1472,15 @@
         "Ponyo wants ham!",
         "May all your bacon burn!"
       ],
-      "colorName": "cyan",
-      "colorLightHex": "#29ACB2",
-      "colorDarkHex": "#2DD3DA",
+      "colorName": "sky",
+      "colorLightHex": "#1F9ED4",
+      "colorDarkHex": "#45C2FC",
       "iconName": "wind",
       "category": "Anime & Manga",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-z0YQhM8GroTqNAJCXpeed4qKEZ373W4uEnT0xw7NpJo=",
-      "bytes": 13589
+      "contentHash": "sha256-6iQ+5se2da3wXBUUyNzXLqOTx3khuFNDJsk9QyJ5X28=",
+      "bytes": 13588
     },
     {
       "id": "naruto",
