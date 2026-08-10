@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-08T12:00:00Z",
+  "lastUpdated": "2026-08-10T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -338,9 +338,9 @@
       "iconName": "teddybear.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-RQHUYRBg7WLDxUHjtHyiEtRXgPCW8/hhCaffs+aaPHg=",
-      "bytes": 14212
+      "lastUpdated": "2026-08-10T12:00:00Z",
+      "contentHash": "sha256-MCEpBWKwJC4eYxH0Z6qqiCKm7KAzDZsLa2TA1SOcwL8=",
+      "bytes": 14532
     },
     {
       "id": "first-lines",

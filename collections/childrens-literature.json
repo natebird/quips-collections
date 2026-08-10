@@ -9,7 +9,7 @@
   "iconName": "teddybear.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-08-10T12:00:00Z",
   "quotes": [
     {
       "id": "kidlit-001",
@@ -81,11 +81,11 @@
       "id": "kidlit-007",
       "content": "\"When you wake up in the morning, Pooh,\" said Piglet at last, \"what's the first thing you say to yourself?\" \"What's for breakfast?\" said Pooh. \"What do you say, Piglet?\" \"I say, I wonder what's going to happen exciting today?\" said Piglet. Pooh nodded thoughtfully. \"It's the same thing,\" he said.",
       "authorName": "A. A. Milne",
-      "source": "The House at Pooh Corner (1928)",
+      "source": "Winnie-the-Pooh (1926)",
       "sourceType": "book",
-      "quoteDate": "1928",
+      "quoteDate": "1926",
       "verificationStatus": "verified",
-      "notes": "An exchange between Pooh and Piglet from Milne's actual text, not a Disney addition.",
+      "notes": "Piglet and Pooh walking home together in Chapter 10, 'In Which Christopher Robin Gives Pooh a Party, and We Say Goodbye' -- the closing chapter of the first Pooh book, not The House at Pooh Corner as previously cited here. Genuinely Milne's text (the AZQuotes attribution of this same passage to Benjamin Hoff, author of The Tao of Pooh, is itself an aggregator misattribution, not a legitimate alternate source).",
       "addedAt": "2026-06-28T02:20:43Z"
     },
     {
