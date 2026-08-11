@@ -2,6 +2,7 @@
   "version": 1,
   "description": "Tracks progress of the recurring quote-sourcing audit so each run covers the next unaudited batch instead of re-checking randomly. Order is the alphabetically sorted list of collections/*.json filenames (without extension); within a file, quotes are walked in their existing array order.",
   "order": [
+    "avatar-last-airbender",
     "battlestar-galactica",
     "bhagavad-gita",
     "bible-wisdom",
@@ -86,13 +87,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 5,
+    "fileIndex": 6,
     "file": "childrens-literature",
-    "quoteIndex": 10,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at childrens-literature quotes[10] (kidlit-011)."
+    "quoteIndex": 20,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at childrens-literature quotes[20] (kidlit-021). fileIndex now accounts for avatar-last-airbender being inserted at order[0] this run."
   },
-  "totalQuotes": 2640,
-  "totalQuotesAudited": 153,
+  "totalQuotes": 2687,
+  "totalQuotesAudited": 163,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -309,6 +310,19 @@
       "resolution": "kidlit-007 fixed in this run's PR: source corrected from 'The House at Pooh Corner (1928)' to 'Winnie-the-Pooh (1926)', quoteDate to 1926, notes updated with the chapter citation and a note debunking the AZQuotes/Hoff misattribution so it isn't rediscovered as a false lead by a future run. authorName (A. A. Milne) unchanged -- it was already correct.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/67",
       "processNote": "WebFetch was non-functional this run (EGRESS_BLOCKED on gutenberg.org, archive.org, wikisource.org, goodreads.com, r.jina.ai, and every other non-search domain tried), so verification relied entirely on WebSearch snippet triangulation. This run initially drafted a fix misattributing kidlit-007 to Benjamin Hoff based on an AZQuotes snippet, before finding issue #65's prior finding (via list_issues) that had already investigated and rejected that exact lead -- caught the error before publishing and re-verified from scratch, which surfaced the real issue (wrong book citation) instead. Lesson for future runs: an aggregator's attribution (AZQuotes, Goodreads, etc.) is exactly the kind of source this audit exists to distrust -- it should never be the sole basis for a 'correction' even when it looks like a clean lead; check for a prior audit finding on the same quote ID before trusting it. 0 open PRs and 0 open issues found at the start of this run -- the housekeeping backlog flagged in the 2026-08-05..08 runs is fully resolved (issue #65 is the most recent closed one)."
+    },
+    {
+      "runDate": "2026-08-11",
+      "file": "childrens-literature",
+      "quoteRange": "kidlit-011..kidlit-020",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- kidlit-011 (Roald Dahl, Matilda, 1988), kidlit-012/013 (Roald Dahl, The BFG, 1982 -- 'human beans...schnozzles' and 'don't gobblefunk around with words' both corroborated with fully consistent wording across independent secondary sources, including a publisher-affiliated source (Oxford University Press's 'Teaching English with Oxford' blog), with no variant wording found anywhere; BFG is not public domain so no primary text was directly fetchable, but consistency across independent tellings plus the collection's own sourceType:book citation gave sufficient confidence), kidlit-014/015 (E. B. White, Charlotte's Web, 1952), kidlit-016..019 (Lewis Carroll, Alice's Adventures in Wonderland, 1865, public domain), and kidlit-020 (L. Frank Baum, The Wonderful Wizard of Oz, 1900) all verified verbatim. kidlit-020 in particular was checked against a full-paragraph quote from a Gutenberg-derived mirror (fulltextarchive.com, via WebSearch since gutenberg.org itself was EGRESS_BLOCKED) confirming exact wording and that it is indeed addressed to the Scarecrow in Chapter 4, matching the collection's note.",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/70",
+      "processNote": "Found a coverage gap while preparing this run: the 'avatar-last-airbender' collection (47 quotes, added 2026-08-08 via PR #63) existed in collections/ but was missing from order[], meaning it would never have been picked up by the audit rotation -- same class of bug as the michael-jordan gap caught 2026-07-13. Added it to order[] as the alphabetically-first entry (before battlestar-galactica) and to totalQuotes (2640 -> 2687); it has not yet been audited and will be the very next collection after childrens-literature finishes this pass. WebFetch remained EGRESS_BLOCKED on gutenberg.org, wikisource.org, and other non-search domains this run; all verification relied on WebSearch snippet triangulation, consistent with the pattern noted in several recent runs. PR review: only 1 open PR (#69, 'Add Burke misattribution quote to courage-conviction') -- it is a positive example of correct misattribution handling (adds the popular 'good men do nothing' quote with authorName kept as Edmund Burke per the popular attribution, verificationStatus explicitly 'unverified', and detailed notes tracing the real lineage through Mill 1867 and a 1920 Hyslop misattribution); explicitly marked 'not for merge yet' by its author for manual review, so no action taken, nothing to flag. Only 1 open audit-report issue (#67) remained at the start of this run -- the housekeeping backlog is essentially clear."
     }
   ]
 }
