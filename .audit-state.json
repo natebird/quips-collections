@@ -87,13 +87,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 6,
-    "file": "childrens-literature",
-    "quoteIndex": 20,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at childrens-literature quotes[20] (kidlit-021). fileIndex now accounts for avatar-last-airbender being inserted at order[0] this run."
+    "fileIndex": 7,
+    "file": "christian-saints",
+    "quoteIndex": 0,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. childrens-literature finished this pass (31/31). Next run starts at christian-saints quotes[0]."
   },
   "totalQuotes": 2687,
-  "totalQuotesAudited": 163,
+  "totalQuotesAudited": 174,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -323,6 +323,19 @@
       "resolution": "no fixes needed",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/70",
       "processNote": "Found a coverage gap while preparing this run: the 'avatar-last-airbender' collection (47 quotes, added 2026-08-08 via PR #63) existed in collections/ but was missing from order[], meaning it would never have been picked up by the audit rotation -- same class of bug as the michael-jordan gap caught 2026-07-13. Added it to order[] as the alphabetically-first entry (before battlestar-galactica) and to totalQuotes (2640 -> 2687); it has not yet been audited and will be the very next collection after childrens-literature finishes this pass. WebFetch remained EGRESS_BLOCKED on gutenberg.org, wikisource.org, and other non-search domains this run; all verification relied on WebSearch snippet triangulation, consistent with the pattern noted in several recent runs. PR review: only 1 open PR (#69, 'Add Burke misattribution quote to courage-conviction') -- it is a positive example of correct misattribution handling (adds the popular 'good men do nothing' quote with authorName kept as Edmund Burke per the popular attribution, verificationStatus explicitly 'unverified', and detailed notes tracing the real lineage through Mill 1867 and a 1920 Hyslop misattribution); explicitly marked 'not for merge yet' by its author for manual review, so no action taken, nothing to flag. Only 1 open audit-report issue (#67) remained at the start of this run -- the housekeeping backlog is essentially clear."
+    },
+    {
+      "runDate": "2026-08-12",
+      "file": "childrens-literature",
+      "quoteRange": "kidlit-021..kidlit-031",
+      "count": 11,
+      "passed": 11,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- kidlit-021 (Shel Silverstein, The Giving Tree, 1964, confirmed as the book's actual final line/recurring refrain), kidlit-022/023/024 (Maurice Sendak, Where the Wild Things Are, 1963, all three lines confirmed verbatim including the exact final line 'And it was still hot.'), kidlit-025..029 (Antoine de Saint-Exupery, The Little Prince, 1943, Katherine Woods translation -- the heart/essential-invisible line, the fox's 'responsible forever' and 'wasted for your rose' lines both confirmed against Chapter 21 text, the dedication's 'although few of them remember it' wording confirmed exact rather than the commonly-miswritten 'but few of them remember it', and the desert/well line), and kidlit-030/031 (Margery Williams, The Velveteen Rabbit, 1922 -- confirmed the Skin Horse's opening 'It's a thing that happens to you... then you become Real' exchange is a distinct, correctly-sequenced passage from the book's later 'It doesn't happen all at once... You become' exchange, which several secondary sources conflate into one quote; the collection's version does not make that conflation error) all verified verbatim against primary/authoritative text. childrens-literature collection finishes this pass (31/31 quotes audited).",
+      "resolution": "no fixes needed",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "WebFetch was EGRESS_BLOCKED again this run (digital.library.upenn.edu), consistent with the pattern in recent runs; verification relied on WebSearch snippet triangulation, including catching one case (kidlit-030) where a WebSearch-generated summary itself conflated two separate Skin Horse passages into one quote -- cross-checked against a more targeted search before concluding the collection's wording was correct and the summary was the error, not the source. PR review: only 1 open PR (#69, Burke misattribution candidate) -- unchanged since the 2026-08-11 review (same commit, still explicitly marked 'not for merge yet'), prior finding still holds, nothing new to flag. 2 open audit-report issues remained at the start of this run (#67 from 2026-08-10 and #70 from 2026-08-11, neither closed yet) -- flagged again as a still-open housekeeping item; left untouched since closing issues is outside this run's explicit task scope. Pass 1 now moves from childrens-literature into christian-saints (order[7]) next run."
     }
   ]
 }
