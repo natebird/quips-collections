@@ -87,13 +87,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 6,
-    "file": "childrens-literature",
-    "quoteIndex": 20,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at childrens-literature quotes[20] (kidlit-021). fileIndex now accounts for avatar-last-airbender being inserted at order[0] this run."
+    "fileIndex": 7,
+    "file": "christian-saints",
+    "quoteIndex": 10,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at christian-saints quotes[10] (saint-011)."
   },
   "totalQuotes": 2687,
-  "totalQuotesAudited": 163,
+  "totalQuotesAudited": 184,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -323,6 +323,33 @@
       "resolution": "no fixes needed",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/70",
       "processNote": "Found a coverage gap while preparing this run: the 'avatar-last-airbender' collection (47 quotes, added 2026-08-08 via PR #63) existed in collections/ but was missing from order[], meaning it would never have been picked up by the audit rotation -- same class of bug as the michael-jordan gap caught 2026-07-13. Added it to order[] as the alphabetically-first entry (before battlestar-galactica) and to totalQuotes (2640 -> 2687); it has not yet been audited and will be the very next collection after childrens-literature finishes this pass. WebFetch remained EGRESS_BLOCKED on gutenberg.org, wikisource.org, and other non-search domains this run; all verification relied on WebSearch snippet triangulation, consistent with the pattern noted in several recent runs. PR review: only 1 open PR (#69, 'Add Burke misattribution quote to courage-conviction') -- it is a positive example of correct misattribution handling (adds the popular 'good men do nothing' quote with authorName kept as Edmund Burke per the popular attribution, verificationStatus explicitly 'unverified', and detailed notes tracing the real lineage through Mill 1867 and a 1920 Hyslop misattribution); explicitly marked 'not for merge yet' by its author for manual review, so no action taken, nothing to flag. Only 1 open audit-report issue (#67) remained at the start of this run -- the housekeeping backlog is essentially clear."
+    },
+    {
+      "runDate": "2026-08-12",
+      "file": "childrens-literature",
+      "quoteRange": "kidlit-021..kidlit-031",
+      "count": 11,
+      "passed": 11,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- kidlit-021 (Shel Silverstein, The Giving Tree, 1964), kidlit-022/023/024 (Maurice Sendak, Where the Wild Things Are, 1963), kidlit-025..029 (Antoine de Saint-Exupery, The Little Prince, 1943, Katherine Woods translation), and kidlit-030/031 (Margery Williams, The Velveteen Rabbit, 1922) all verified verbatim -- no issues. childrens-literature collection finishes this pass (31/31 quotes audited across issues #67, #70, and this batch).",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/72",
+      "processNote": "RECOVERED LATE by the 2026-08-13 run: this batch was fully audited and its report issue (#72) filed on 2026-08-12, but -- same class of gap first described in the 2026-07-25 run entry above -- the .audit-state.json cursor/runs update that issue #72 itself describes ('cursor advances to christian-saints, quoteIndex 0... Pass 1 total: 174/2687') was never actually committed to main; main's state file was still sitting at the pre-2026-08-12 cursor (childrens-literature quoteIndex 20) when the 2026-08-13 run started. The 2026-08-13 run found issue #72 already covering this exact batch before doing any new work, recovered the cursor to christian-saints per issue #72's own stated advance, and backfilled this run entry from issue #72's report text so the history stays complete. No re-verification was performed for this entry since issue #72's audit already stands.",
+      "note": "This entry is a same-day backfill by the 2026-08-13 run of a report that was already published; audit work for this batch was performed and reported on 2026-08-12, not by the run that wrote this JSON entry."
+    },
+    {
+      "runDate": "2026-08-13",
+      "file": "christian-saints",
+      "quoteRange": "saint-001..saint-010",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- saint-001..006 (St. Augustine of Hippo: Confessions Book 1 Ch. 1, Book 10 Ch. 27, Book 8 Ch. 7; Homilies on the First Epistle of John, Homily 7; The City of God, Book 14, Ch. 28; Sermon 43) and saint-007 (St. Thomas Aquinas, Summa Theologica I, Q.1, A.8, ad 2 -- 'gratia non tollit naturam, sed perficit', confirmed exact article/reply location via New Advent's Summa text) all verified verbatim with correct citations. saint-008/009/010 (Thomas a Kempis, The Imitation of Christ, Book 1 Ch. 19 'Man proposes, but God disposes', Book 1 Ch. 3 'Day of Judgment... what we have done', Book 3 Ch. 5 'Love feels no burden') verified against primary-text mirrors (worldinvisible.com full-text, Wikisource Book III Ch. V) with matching book/chapter citations; saint-009's exact phrasing is one of several standard English renderings of the Latin original (multiple public-domain translations exist) but the citation location and substance match.",
+      "resolution": "no fixes needed",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "WebFetch was EGRESS_BLOCKED again this run (newadvent.org), consistent with the pattern in prior runs; verification relied on WebSearch snippet triangulation against primary-text archives (New Advent Church Fathers/Summa text, worldinvisible.com, Wikisource) rather than aggregator sites. PR review: only 1 open PR (#69, 'Add Burke misattribution quote to courage-conviction'), unchanged since the 2026-08-11/08-12 reviews (same single commit, same head sha), remains a well-handled positive example, nothing new to flag. 3 open audit-report issues remained at the start of this run (#67, #70, #72), none closed -- flagged again as a housekeeping item; left untouched since closing issues is outside this run's explicit scope."
     }
   ]
 }
