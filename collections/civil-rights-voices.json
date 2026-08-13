@@ -9,7 +9,7 @@
   "iconName": "figure.walk.motion",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-30T12:00:00Z",
+  "lastUpdated": "2026-08-13T12:00:00Z",
   "quotes": [
     {
       "id": "rights-001",
@@ -329,6 +329,17 @@
       "sourceType": "article",
       "notes": "From the concluding paragraph of Baldwin's essay on American writers' duty to confront reality; attribution and wording confirmed by Snopes and Quote Investigator against the original review.",
       "addedAt": "2026-07-30T12:00:00Z"
+    },
+    {
+      "id": "rights-030",
+      "content": "Hope is a song in a weary throat.",
+      "authorName": "Pauli Murray",
+      "source": "\"Dark Testament,\" in Dark Testament and Other Poems (1970)",
+      "quoteDate": "c. 1970",
+      "verificationStatus": "verified",
+      "sourceType": "poem",
+      "notes": "Closing line of Murray's poem 'Dark Testament'; later used as the title of her posthumously published autobiography, Song in a Weary Throat (1987). Murray was a civil rights lawyer, poet, and priest whose legal theories underpinned Brown v. Board and later gender-discrimination law.",
+      "addedAt": "2026-08-13T12:00:00Z"
     }
   ]
 }

@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-08-13T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -340,6 +340,28 @@
       "quoteDate": "c. 1960s",
       "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
+    },
+    {
+      "id": "cm-031",
+      "content": "We will need writers who can remember freedom—poets, visionaries—realists of a larger reality.",
+      "authorName": "Ursula K. Le Guin",
+      "source": "National Book Foundation Medal for Distinguished Contribution to American Letters, acceptance speech (November 19, 2014)",
+      "sourceType": "speech",
+      "notes": "From Le Guin's National Book Award acceptance speech arguing that writers and artists, not just profit-driven publishers, define the future of literature. Wording confirmed against the official transcript on ursulakleguin.com and independent video/transcript sources.",
+      "quoteDate": "2014-11-19",
+      "verificationStatus": "verified",
+      "addedAt": "2026-08-13T12:00:00Z"
+    },
+    {
+      "id": "cm-032",
+      "content": "Oppressive language does more than represent violence; it is violence; does more than represent the limits of knowledge; it limits knowledge.",
+      "authorName": "Toni Morrison",
+      "source": "Nobel Lecture in Literature (December 7, 1993)",
+      "sourceType": "speech",
+      "notes": "From Morrison's Nobel Lecture, delivered as a parable on the power and danger of language. Text confirmed against the official Nobel Prize lecture record.",
+      "quoteDate": "1993-12-07",
+      "verificationStatus": "verified",
+      "addedAt": "2026-08-13T12:00:00Z"
     }
   ]
 }

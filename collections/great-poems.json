@@ -9,7 +9,7 @@
   "iconName": "scroll.fill",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-08-06T12:00:00Z",
+  "lastUpdated": "2026-08-13T12:00:00Z",
   "quotes": [
     {
       "id": "poem-001",
@@ -428,6 +428,17 @@
       "verificationStatus": "verified",
       "notes": "Long misattributed to Ralph Waldo Emerson in the shortened imperative form \"Do not go where the path may lead...\" — a wording that appears nowhere in Emerson's works, per Quote Investigator and Jeffrey S. Cramer, editor of The Portable Emerson. The line is Strode's own, published two decades after Emerson's death; the Emerson attribution itself only surfaces around 1992.",
       "addedAt": "2026-08-03T12:00:00Z"
+    },
+    {
+      "id": "poem-039",
+      "content": "Remember, Christians, Negros, black as Cain,\nMay be refin'd, and join th' angelic train.",
+      "authorName": "Phillis Wheatley",
+      "source": "On Being Brought from Africa to America, in Poems on Various Subjects, Religious and Moral (1773)",
+      "sourceType": "poem",
+      "quoteDate": "1773",
+      "verificationStatus": "verified",
+      "notes": "Closing couplet of Wheatley's best-known poem, first published African American poet in America; text confirmed against the Gilder Lehrman Institute's transcription of the 1773 collection.",
+      "addedAt": "2026-08-13T12:00:00Z"
     }
   ]
 }
