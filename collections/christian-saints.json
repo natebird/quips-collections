@@ -9,7 +9,7 @@
   "iconName": "cross.circle.fill",
   "category": "Faith",
   "addedAt": "2026-07-01T01:58:18Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-08-14T12:00:00Z",
   "quotes": [
     {
       "id": "saint-001",
@@ -222,13 +222,13 @@
     },
     {
       "id": "saint-020",
-      "content": "The bread in your cupboard belongs to the hungry; the coat unused in your closet belongs to the one who needs it.",
+      "content": "The bread you are holding back is for the hungry; the clothes you keep put away are for the naked.",
       "authorName": "St. Basil the Great",
-      "source": "Homily 'I Will Tear Down My Barns' (c. 368)",
+      "source": "Homily 6, \"I Will Tear Down My Barns\" (c. 368), trans. C. Paul Schroeder, in St. Basil the Great: On Social Justice (St. Vladimir's Seminary Press, 2009)",
       "quoteDate": "c. 368 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From Basil's homily on Luke 12:18 against hoarding wealth; standard English translation of the Greek homily.",
+      "notes": "From Basil's homily on Luke 12:16-21 against hoarding wealth. The collection's prior wording ('the coat unused in your closet belongs to the one who needs it') traced only to popular aggregator/inspirational-quote sites (passiton.com, Goodreads, AZQuotes, QuoteFancy), not to any identifiable scholarly translation, even though it cited this same real, correctly-titled homily. Corrected to match the Schroeder translation (SVS Press, 2009) -- the only full published English translation of this homily -- corroborated by independent citations (WIST Quotations, Mystagogy Resource Center).",
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
