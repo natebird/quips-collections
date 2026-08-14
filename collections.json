@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-10T12:00:00Z",
+  "lastUpdated": "2026-08-13T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1101,6 +1101,26 @@
       "lastUpdated": "2026-07-06T12:00:00Z",
       "contentHash": "sha256-VtLXi/qTeemO7OrB+YNkGWZEL+MGL1UQB4DQscNyPEk=",
       "bytes": 16670
+    },
+    {
+      "id": "great-economists",
+      "name": "Great Economists",
+      "description": "Sharp thinking on markets, money, and human choice from the economists who shaped how we see the world.",
+      "author": "Quips Editorial",
+      "quoteCount": 40,
+      "previewQuotes": [
+        "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.",
+        "If something cannot go on forever, it will stop."
+      ],
+      "colorName": "teal",
+      "colorLightHex": "#27A98A",
+      "colorDarkHex": "#2BD1AA",
+      "iconName": "chart.line.uptrend.xyaxis",
+      "category": "Business & Leadership",
+      "addedAt": "2026-08-13T12:00:00Z",
+      "lastUpdated": "2026-08-13T12:00:00Z",
+      "contentHash": "sha256-0+6S0wdxrsjAypytg9I5a1CzvJljfbBGmrfW3xtMK1c=",
+      "bytes": 23339
     },
     {
       "id": "great-speeches",
