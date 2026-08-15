@@ -27,6 +27,9 @@ payload it can't render. It's a top-N rather than a time window, so no wall
 clock is consulted and the output stays a pure function of the data.
 
 ## [1.13.0] - 2026-08-15
+Notes backfilled after the fact: this version was tagged without a CHANGELOG
+section, so its GitHub Release shipped with the workflow's fallback body.
+
 ### Added
 **Spider-Man** — 40 quotes across the live-action Marvel films and the animated
 Spider-Verse: the Raimi trilogy (Uncle Ben's "with great power", Aunt May's
@@ -48,6 +51,9 @@ the required `compute_hashes.py` step in CONTRIBUTING.md, which had never
 mentioned the script, and added a CLAUDE.md so agent sessions pick up the rule.
 
 ## [1.12.0] - 2026-08-13
+Notes backfilled after the fact: this version was tagged without a CHANGELOG
+section, so its GitHub Release shipped with the workflow's fallback body.
+
 ### Added
 **Great Economists** — 40 quotes from the figures who shaped economic thought.
 
