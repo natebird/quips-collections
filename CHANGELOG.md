@@ -11,7 +11,7 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [Unreleased]
+## [1.14.0] - 2026-08-15
 ### Added
 `new-collections.json`, a generated feed listing the 12 most recently published
 collections, newest first by `addedAt`. "What's new" had two answers and only
