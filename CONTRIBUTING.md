@@ -3,17 +3,40 @@
 Thanks for helping improve the Quips collections. This repo holds data only —
 quotes and their metadata — validated in CI.
 
-## Validate before opening a PR
+## After every data edit
+
+Any change to `collections.json` **or** to a `collections/<id>.json` file needs
+both of these, in this order, before you commit:
 
 ```sh
-python3 scripts/validate_collections.py            # full check
+python3 scripts/compute_hashes.py                  # refresh contentHash + bytes
 python3 scripts/validate_collections.py --strict   # warnings fail too (CI uses this)
+```
+
+`compute_hashes.py` is not optional and it is easy to forget, because editing a
+collection file quietly invalidates the index that points at it. Each index
+entry stores a `contentHash` and `bytes` for its collection file; clients use
+them to re-download only what changed. Touch the file without refreshing the
+index and those two fields silently describe the *old* file. CI runs
+`compute_hashes.py --check` and fails on the mismatch — including on pushes to
+`main`, where a miss turns the branch red for everyone until someone notices.
+
+Writing is idempotent: if nothing changed, the script produces no diff, so
+running it when you didn't need it costs nothing. Run it whenever you're unsure.
+
+Other useful validator invocations:
+
+```sh
+python3 scripts/validate_collections.py            # full check, warnings don't fail
 python3 scripts/validate_collections.py --collection seinfeld
 ```
 
-The validator is stdlib-only (no install needed) and is the single source of
-truth for the rules below. JSON Schema in [`schema/`](schema/) describes the
-file shapes for editors/tooling.
+Scope matters: `--collection` skips the orphan and cross-collection prefix
+checks, so run at least one full sweep before opening a PR.
+
+Both scripts are stdlib-only (no install needed), and the validator is the
+single source of truth for the rules below. JSON Schema in [`schema/`](schema/)
+describes the file shapes for editors/tooling.
 
 ## Data model
 

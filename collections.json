@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-13T12:00:00Z",
+  "lastUpdated": "2026-08-15T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -483,6 +483,26 @@
       "bytes": 18334
     },
     {
+      "id": "spider-man",
+      "name": "Spider-Man",
+      "description": "Web-slinging wisdom from Peter Parker, Miles Morales, and everyone who shaped them, across Marvel's live-action films and the animated Spider-Verse.",
+      "author": "Quips Editorial",
+      "quoteCount": 40,
+      "previewQuotes": [
+        "Remember, with great power comes great responsibility.",
+        "It's a leap of faith. That's all it is, Miles. A leap of faith."
+      ],
+      "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "Movies",
+      "addedAt": "2026-08-15T12:00:00Z",
+      "lastUpdated": "2026-08-15T12:00:00Z",
+      "contentHash": "sha256-X/p/EgHE40yQP3fTqsBQxw85K5ldgKN20kdvNBWbStc=",
+      "bytes": 19891
+    },
+    {
       "id": "dc-comics",
       "name": "DC Comics & Films",
       "description": "Legendary quotes from Batman, Superman, Wonder Woman, and the DC universe across comics and film.",
@@ -779,8 +799,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Iu4ol80V2/QOGSD3xeyQPLn+XleC/PI8/LeGtIf/Dm8=",
-      "bytes": 17055
+      "contentHash": "sha256-DXCAS+FiLFaA1+DQXr5bZ/klRCkrwcgJ0vki7mIxqvc=",
+      "bytes": 18199
     },
     {
       "id": "cs-lewis",
