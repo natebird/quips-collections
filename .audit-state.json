@@ -88,13 +88,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 7,
-    "file": "christian-saints",
-    "quoteIndex": 20,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. Next run starts at christian-saints quotes[20] (saint-021)."
+    "fileIndex": 8,
+    "file": "civil-rights-voices",
+    "quoteIndex": 0,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. christian-saints finished this pass (31/31). Next run starts at civil-rights-voices quotes[0]."
   },
   "totalQuotes": 2727,
-  "totalQuotesAudited": 194,
+  "totalQuotesAudited": 205,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -232,7 +232,7 @@
       "flaggedIds": [
         "dylan-014"
       ],
-      "issue": "dylan-014: truncated quote. Stored content was \"I welcome them—with open arms.\" but the full line, confirmed via multiple independent transcript/press sources of the 1965 KQED San Francisco press conference, is \"I welcome them with open arms and my bank account also welcomes them.\" The dropped clause is the actual punchline of Dylan's ironic answer about people who analyze his songs -- the stored version read as a sincere answer instead of the joke it was.",
+      "issue": "dylan-014: truncated quote. Stored content was \"I welcome them\u2014with open arms.\" but the full line, confirmed via multiple independent transcript/press sources of the 1965 KQED San Francisco press conference, is \"I welcome them with open arms and my bank account also welcomes them.\" The dropped clause is the actual punchline of Dylan's ironic answer about people who analyze his songs -- the stored version read as a sincere answer instead of the joke it was.",
       "resolution": "fixed in PR #49, which was merged to main on 2026-08-06 (the 2026-08-05 run had independently re-confirmed the same wording via WebSearch). dylan-005..013 all verified verbatim (Nobel banquet speech, Nobel Lecture 2017, MusiCares 2015 speech, and the same 1965 KQED press conference, all primary/authoritative sources) -- no changes needed.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/48",
       "processNote": "carried forward from PR #49 (branch claude/charming-brown-3r07nr) so the state file reflects progress regardless of merge order. NOTE: this branch does NOT contain #49's dylan-014 content fix -- only its state entry; #49 was merged to main separately on 2026-08-06. PRs #46 (poem-038) and #47 (ldr-029) reviewed: well-sourced, positive corrections, no issues."
@@ -366,6 +366,22 @@
       "resolution": "saint-020 fixed in this run's PR: content replaced with the Schroeder (2009) translation wording, source updated to cite the specific published translation, notes updated to record the aggregator-vs-scholarly-translation discrepancy so it isn't rediscovered as a false lead by a future run.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/77",
       "processNote": "WebFetch remained EGRESS_BLOCKED this run (heartlandchurch.org, mystagogyresourcecenter.com), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation, including cross-referencing two independent secondary citations of the same named scholarly translation (WIST Quotations 'Sermon #6 [tr. Schroeder (2009)]', Mystagogy Resource Center) to reconstruct confident replacement wording for saint-020. Coverage-gap fix: found 'great-economists' (40 quotes, merged via PR #76 on 2026-08-13/14) present in collections/ but missing from order[] -- same class of bug as the michael-jordan (2026-07-13) and avatar-last-airbender (2026-08-11) gaps; added to order[] at its alphabetical position (between gratitude and great-poems) and to totalQuotes (2687 -> 2727). It has not yet been audited and will enter the rotation there on a future run. PR review: 2 open PRs. #75 ('Add 5 verified quotes across 4 collections', opened 2026-08-13) independently re-verified all 5 new quotes (Le Guin NBA speech, Morrison Nobel lecture, Barbara Jordan Judiciary Committee statement, Pauli Murray 'Dark Testament', Wheatley 'On Being Brought from Africa to America') against primary/authoritative sources -- all confirmed verbatim, no issues, not merged (left for manual review per its own note). #69 ('Add Burke misattribution quote'), unchanged since the 2026-08-13 review (same single commit, same head sha), remains a well-handled positive example. 4 open audit-report issues remained at the start of this run (#67, #70, #72, #73), none closed -- flagged again as a growing housekeeping item; left untouched since closing issues is outside this run's explicit scope."
+    },
+    {
+      "runDate": "2026-08-15",
+      "file": "christian-saints",
+      "quoteRange": "saint-021..saint-031",
+      "count": 11,
+      "passed": 9,
+      "flagged": 2,
+      "flaggedIds": [
+        "saint-021",
+        "saint-022"
+      ],
+      "issue": "saint-023 (Bernard of Clairvaux, On Loving God ch.1), saint-024 (Irenaeus, Against Heresies IV.20.7, ANF translation confirmed near-verbatim), saint-025 (Tertullian, Apologeticus 50, standard recognized-as-loose translation), saint-026 (Cyprian, On the Unity of the Catholic Church ch.6), saint-027 (Jerome, Commentary on Isaiah prologue), saint-028 (Anthony the Great, Sayings of the Desert Fathers/Apophthegmata Patrum, Ward translation, Saying 7), saint-029/030 (Benedict, Rule of St Benedict ch.48 and Prologue), and saint-031 (Therese of Lisieux, Story of a Soul last conversations) all verified verbatim or near-verbatim against primary/authoritative texts -- no issues. saint-021 (Chrysostom, Homily 50 on Matthew): source field claimed the content was 'translation from the Nicene and Post-Nicene Fathers edition', but the stored wording ('Do you wish to honor the body of Christ?...') is a modern paraphrase that does not match the actual NPNF text (Schaff series 1 vol.10, trans. Prevost, rev. Riddle: 'Wouldest thou do honour to Christ's body?...'); the underlying passage is genuine and famous, but content didn't match its cited edition. saint-022 (attributed to St. Teresa of Calcutta / Mother Teresa, 'A Simple Path'): this specific wording ('Not all of us can do great things...') could not be traced to a primary page citation -- only aggregator sites repeat it, at least three incompatible phrasings circulate under the same book citation, and the Mother Teresa Center's own false-quotes page lists a closely related variant as a false attribution.",
+      "resolution": "saint-021 fixed in this run's PR: content replaced with the verified NPNF wording so it matches its cited source; source/notes updated to record the correction. saint-022 downgraded to verificationStatus unverified with a note describing the doubt; no content/source rewrite proposed since no single confirmed-correct wording was found. christian-saints collection finishes this pass (31/31 quotes audited across issues #73, #77, and this batch).",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "WebFetch remained EGRESS_BLOCKED this run (newadvent.org, motherteresa.org, web.archive.org), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation. PR review: only 1 open PR (#69, 'Add Burke misattribution quote to courage-conviction'), confirmed unchanged via pull_request_read (identical head sha f41971a9564a08f59706feade67af1c55ad27812, same single commit) since the 2026-08-13/08-14 reviews, remains a well-handled positive example, nothing new to flag. 5 open audit-report issues remained at the start of this run (#67, #70, #72, #73, #77), none closed -- flagged again as a growing housekeeping item; left untouched since closing issues is outside this run's explicit scope. Pass 1 total after this run: 205/2727. Next run begins Pass 1 coverage of civil-rights-voices."
     }
   ]
 }

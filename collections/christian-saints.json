@@ -9,7 +9,7 @@
   "iconName": "cross.circle.fill",
   "category": "Faith",
   "addedAt": "2026-07-01T01:58:18Z",
-  "lastUpdated": "2026-08-14T12:00:00Z",
+  "lastUpdated": "2026-08-15T12:00:00Z",
   "quotes": [
     {
       "id": "saint-001",
@@ -233,13 +233,13 @@
     },
     {
       "id": "saint-021",
-      "content": "Do you wish to honor the body of Christ? Do not ignore him when he is naked. Do not honor him here in the church with silk, only to neglect him outside where he is cold and naked.",
+      "content": "Wouldest thou do honour to Christ's body? Neglect Him not when naked; do not while here thou honourest Him with silken garments, neglect Him perishing without of cold and nakedness.",
       "authorName": "St. John Chrysostom",
-      "source": "Homilies on the Gospel of Matthew, Homily 50 (c. 390)",
+      "source": "Homilies on the Gospel of Matthew, Homily 50, section 4 (c. 390)",
       "quoteDate": "c. 390 CE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Chrysostom links the Eucharist to care for the poor; translation from the Nicene and Post-Nicene Fathers edition.",
+      "notes": "Chrysostom links the Eucharist to care for the poor. Content corrected 2026-08-15: the previously stored wording ('Do you wish to honor the body of Christ?...') was a modern paraphrase that does not match the Nicene and Post-Nicene Fathers translation its source field claimed; replaced with the actual NPNF text (Schaff series 1, vol. 10, trans. Prevost, rev. Riddle) so content matches the cited edition.",
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
@@ -248,9 +248,9 @@
       "authorName": "St. Teresa of Calcutta",
       "source": "A Simple Path (1995)",
       "quoteDate": "c. 1995",
-      "verificationStatus": "verified",
+      "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "A documented saying of Mother Teresa published in the collected spiritual counsels 'A Simple Path.'",
+      "notes": "Flagged 2026-08-15: this exact wording could not be independently traced to a page in 'A Simple Path' -- searches surface only aggregator sites (Goodreads, PureLoveQuotes, QuoteCatalog, etc.) repeating it, and at least three different phrasings of this saying circulate under the same 'A Simple Path' citation ('Not all of us can do great things...', 'In this life we cannot do great things...', 'We cannot do great things, only small things with great love'). The Mother Teresa Center's own false-quotes page (motherteresa.org/mtc/false-quotes) lists the closely related 'In this life we cannot do great things. We can only do small things with great love.' as a false attribution, which raises real doubt about this variant too. The underlying sentiment is well attested as hers, but this specific wording is not confirmed verbatim against the primary text; content left unchanged since no single confirmed-correct wording was found.",
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
