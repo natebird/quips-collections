@@ -60,6 +60,26 @@
       "weekStart": "2026-10-19",
       "collectionId": "disney-animated",
       "note": "Disney Animated — never featured"
+    },
+    {
+      "weekStart": "2026-10-26",
+      "collectionId": "avatar-last-airbender",
+      "note": "One of our newest additions — balance, growth, and found family from Avatar: The Last Airbender, in its featured debut."
+    },
+    {
+      "weekStart": "2026-11-02",
+      "collectionId": "gratitude",
+      "note": "Opening the month of Thanksgiving with lines on gratitude and appreciation."
+    },
+    {
+      "weekStart": "2026-11-09",
+      "collectionId": "oscar-wilde",
+      "note": "Sharp, quotable wit from Oscar Wilde, finally getting its turn to headline."
+    },
+    {
+      "weekStart": "2026-11-16",
+      "collectionId": "great-economists",
+      "note": "Our freshest collection yet — clear-eyed thinking on markets and money from history's great economists."
     }
   ]
 }
