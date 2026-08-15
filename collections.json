@@ -127,7 +127,7 @@
       "name": "Creative Minds",
       "description": "Insights on creativity and innovation from artists, writers, and inventors.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 32,
       "previewQuotes": [
         "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
         "Every child is an artist. The problem is how to remain an artist once we grow up."
@@ -138,9 +138,9 @@
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-06-20T12:00:00Z",
-      "contentHash": "sha256-Fp5yCA+1IHettULAoMa8Qvz8fdlmW52HTiOJETbKN1E=",
-      "bytes": 15600
+      "lastUpdated": "2026-08-13T12:00:00Z",
+      "contentHash": "sha256-VsAax0/em2PqkkPD+3nf9bHNYBvJ3eGIxb17ZkZs0xw=",
+      "bytes": 16980
     },
     {
       "id": "tech-visionaries",
@@ -287,7 +287,7 @@
       "name": "Great Poems",
       "description": "The most unforgettable lines of verse ever written, from Frost's diverging roads to Dickinson's feathered hope.",
       "author": "Quips Editorial",
-      "quoteCount": 38,
+      "quoteCount": 39,
       "previewQuotes": [
         "Two roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
         "I am the master of my fate,\nI am the captain of my soul."
@@ -298,9 +298,9 @@
       "iconName": "scroll.fill",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-iFU+FO170f17S3crOkSYlsShqwXRJdIUQ57wIUsWxq8=",
-      "bytes": 18891
+      "lastUpdated": "2026-08-13T12:00:00Z",
+      "contentHash": "sha256-HV2Q3b4SuPsafsm8/f1pTuGeWjDAyWEvbO7CcNdKvoE=",
+      "bytes": 19537
     },
     {
       "id": "dystopian-fiction",
@@ -799,8 +799,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-QYOZIHxGx32lnQ+ztrCe1jMN+d7LuUQ3+zdAan/chTs=",
-      "bytes": 16477
+      "contentHash": "sha256-Iu4ol80V2/QOGSD3xeyQPLn+XleC/PI8/LeGtIf/Dm8=",
+      "bytes": 17055
     },
     {
       "id": "cs-lewis",
@@ -1147,7 +1147,7 @@
       "name": "Great Speeches",
       "description": "The lines that changed history, drawn from the world's most powerful addresses.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "I have nothing to offer but blood, toil, tears and sweat.",
         "Free at last! Free at last! Thank God Almighty, we are free at last!"
@@ -1158,9 +1158,9 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-20T12:00:00Z",
-      "contentHash": "sha256-6W6g8mivhlBZqle25c8QYoJJKs5FBmJQ/HwUeJLKdbA=",
-      "bytes": 18651
+      "lastUpdated": "2026-08-13T12:00:00Z",
+      "contentHash": "sha256-10seHBxKQ5y8C/BDhnwB14rUdz6z38QA6IxVdQRkJYM=",
+      "bytes": 19305
     },
     {
       "id": "founding-fathers",
@@ -1187,7 +1187,7 @@
       "name": "Civil Rights Voices",
       "description": "Courage and conscience from the leaders who marched for freedom and equality.",
       "author": "Quips Editorial",
-      "quoteCount": 29,
+      "quoteCount": 30,
       "previewQuotes": [
         "Nobody's free until everybody's free.",
         "I am sick and tired of being sick and tired."
@@ -1198,9 +1198,9 @@
       "iconName": "figure.walk.motion",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-30T12:00:00Z",
-      "contentHash": "sha256-UaJOy8M3KjcQN7PRa8dBPq1jVxj6FuNeCn67lpXGUj0=",
-      "bytes": 17151
+      "lastUpdated": "2026-08-13T12:00:00Z",
+      "contentHash": "sha256-xMaFKX3f86l40wsj73gbT+TZCcYRpwLwVcB7aw6L5PI=",
+      "bytes": 17800
     },
     {
       "id": "cosmos-space",

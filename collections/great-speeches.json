@@ -9,7 +9,7 @@
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-20T12:00:00Z",
+  "lastUpdated": "2026-08-13T12:00:00Z",
   "quotes": [
     {
       "id": "speech-001",
@@ -362,6 +362,17 @@
       "sourceType": "speech",
       "notes": "From Socrates's defense speech at his trial in Athens, spoken during the penalty phase after the jury's guilty verdict, explaining why he won't propose exile or silence as his counter-penalty. Recorded by Plato, a student of Socrates, not a transcript; Xenophon's independent Apology of the same trial differs in detail.",
       "addedAt": "2026-07-20T12:00:00Z"
+    },
+    {
+      "id": "speech-033",
+      "content": "My faith in the Constitution is whole; it is complete; it is total.",
+      "authorName": "Barbara Jordan",
+      "source": "Statement to the House Judiciary Committee, Nixon impeachment inquiry (July 25, 1974)",
+      "quoteDate": "1974-07-25",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Jordan's televised opening statement as a member of the Judiciary Committee weighing articles of impeachment against President Nixon. Wording confirmed against the National Portrait Gallery's transcript of the speech.",
+      "addedAt": "2026-08-13T12:00:00Z"
     }
   ]
 }
