@@ -52,6 +52,7 @@ jobs:
           # truth). build_manifest.py hashes these from the working copy, so this
           # must run before it.
           python3 scripts/build_recently_added.py
+          python3 scripts/build_new_collections.py
           python3 scripts/build_on_this_day.py
           python3 scripts/build_newsletter_picks.py
           python3 scripts/build_featured.py
@@ -59,11 +60,11 @@ jobs:
           mkdir -p dist/collections
           cp collections.json dist/
           cp collections/*.json dist/collections/
-          cp recently-added.json on-this-day.json newsletter-picks.json \
-             featured-collections.json search-index.json dist/
+          cp recently-added.json new-collections.json on-this-day.json \
+             newsletter-picks.json featured-collections.json search-index.json dist/
           ( cd dist && zip -qr "quips-collections-${TAG}.zip" collections.json collections \
-              recently-added.json on-this-day.json newsletter-picks.json \
-              featured-collections.json search-index.json )
+              recently-added.json new-collections.json on-this-day.json \
+              newsletter-picks.json featured-collections.json search-index.json )
           python3 scripts/build_manifest.py "$VER" > dist/manifest.json
           echo "Manifest:"; cat dist/manifest.json
 

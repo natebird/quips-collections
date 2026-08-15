@@ -6,6 +6,7 @@ dist/
 # featured-schedule.json is NOT here: it is the hand-edited source the featured
 # feed is built *from*, not an output.
 recently-added.json
+new-collections.json
 on-this-day.json
 newsletter-picks.json
 featured-collections.json

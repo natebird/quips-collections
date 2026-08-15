@@ -32,8 +32,14 @@ GENERATED_FEEDS = [
 # shelf" — so an index nobody renders is named at the top level instead, where a
 # consumer has to ask for it by name rather than meet it while iterating shelves.
 # Same url/hash/bytes contract either way.
+#
+# new-collections.json belongs here rather than in GENERATED_FEEDS for the same
+# reason: every entry in `generated` carries `quotes[]`, and a client iterating
+# it to draw quote shelves must not meet a payload of `collections[]` it cannot
+# render. Naming it at the top level means a consumer opts in by name.
 ANCILLARY_ASSETS = [
     ("searchIndex", "search-index.json"),
+    ("newCollections", "new-collections.json"),
 ]
 
 
