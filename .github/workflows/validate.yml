@@ -34,6 +34,7 @@ jobs:
         run: |
           set -euo pipefail
           python3 scripts/build_recently_added.py
+          python3 scripts/build_new_collections.py
           python3 scripts/build_on_this_day.py
           python3 scripts/build_newsletter_picks.py
           python3 scripts/build_featured.py
