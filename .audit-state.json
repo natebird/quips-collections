@@ -71,6 +71,7 @@
     "shakespeare",
     "sherlock-holmes",
     "sikh-wisdom",
+    "spider-man",
     "standup-legends",
     "star-wars",
     "starcraft",
@@ -90,11 +91,11 @@
   "cursor": {
     "fileIndex": 8,
     "file": "civil-rights-voices",
-    "quoteIndex": 0,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. christian-saints finished this pass (31/31). Next run starts at civil-rights-voices quotes[0]."
+    "quoteIndex": 12,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. rights-001..012 audited this run (issue #85), 12/12 passed. Next run starts at civil-rights-voices quotes[12] (rights-013)."
   },
-  "totalQuotes": 2727,
-  "totalQuotesAudited": 205,
+  "totalQuotes": 2767,
+  "totalQuotesAudited": 217,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -382,6 +383,19 @@
       "resolution": "saint-021 fixed in this run's PR: content replaced with the verified NPNF wording so it matches its cited source; source/notes updated to record the correction. saint-022 downgraded to verificationStatus unverified with a note describing the doubt; no content/source rewrite proposed since no single confirmed-correct wording was found. christian-saints collection finishes this pass (31/31 quotes audited across issues #73, #77, and this batch).",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "WebFetch remained EGRESS_BLOCKED this run (newadvent.org, motherteresa.org, web.archive.org), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation. PR review: only 1 open PR (#69, 'Add Burke misattribution quote to courage-conviction'), confirmed unchanged via pull_request_read (identical head sha f41971a9564a08f59706feade67af1c55ad27812, same single commit) since the 2026-08-13/08-14 reviews, remains a well-handled positive example, nothing new to flag. 5 open audit-report issues remained at the start of this run (#67, #70, #72, #73, #77), none closed -- flagged again as a growing housekeeping item; left untouched since closing issues is outside this run's explicit scope. Pass 1 total after this run: 205/2727. Next run begins Pass 1 coverage of civil-rights-voices."
+    },
+    {
+      "runDate": "2026-08-16",
+      "file": "civil-rights-voices",
+      "quoteRange": "rights-001..rights-012",
+      "count": 12,
+      "passed": 12,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- rights-001/002 (Frederick Douglass, West India Emancipation address 1857), rights-003 (Douglass, Anti-Slavery Movement lecture 1855), rights-004 (Harriet Tubman, Bradford Scenes in the Life of Harriet Tubman 1869), rights-006 (Sojourner Truth, Robinson Anti-Slavery Bugle transcription 1851), rights-008 (Ida B. Wells, Crusade for Justice 1970), rights-010 (W. E. B. Du Bois, The Souls of Black Folk 1903), rights-011 (Du Bois, John Brown 1909), and rights-012 (Thurgood Marshall, The Equality Speech, Howard Law School, Nov 18 1978) all verified verbatim against primary/authoritative sources. rights-012 near-miss noted: some aggregators misattribute this quote to a different 1978 Marshall speech (UVA commencement); the collection's Howard/Wiley-Branton citation is the correct one, confirmed via an independent academic reference source -- flagged in the report so a future run does not \"fix\" it into the wrong speech. rights-005, rights-007, and rights-009 were already correctly marked unverified with accurate notes (Tubman \"freed a thousand slaves\" fabrication, Gage's dialect reconstruction of Ain't I a Woman, and Wells' unsourced \"right wrongs\" line) -- no changes needed, these are the batch's intentional negative examples.",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/85",
+      "processNote": "WebFetch remained EGRESS_BLOCKED this run (docsouth.unc.edu, library.schlagergroup.com), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation. Coverage-gap fix: found 'spider-man' (40 quotes, merged via PR #82) present in collections/ but missing from order[] -- same class of bug as the michael-jordan (2026-07-13), avatar-last-airbender (2026-08-11), and great-economists (2026-08-14) gaps; added to order[] at its alphabetical position (between sikh-wisdom and standup-legends) and to totalQuotes (2727 -> 2767). It has not yet been audited and will enter the rotation there on a future run. PR review: only 1 open PR (#69, unchanged since 2026-08-13/14/15 reviews, same head sha), remains a well-handled positive example, nothing new to flag. 0 open audit-report issues existed at the start of this run -- the housekeeping backlog flagged in several recent runs (issues #67, #70, #72, #73, #77) has been fully cleared. Pass 1 total after this run: 217/2767. Next run begins civil-rights-voices quotes[12] (rights-013)."
     }
   ]
 }
