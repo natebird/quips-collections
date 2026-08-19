@@ -89,13 +89,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 8,
-    "file": "civil-rights-voices",
-    "quoteIndex": 22,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. rights-013..022 audited this run, 10/10 passed after one content fix (rights-013). Next run starts at civil-rights-voices quotes[22] (rights-023)."
+    "fileIndex": 9,
+    "file": "cosmos-space",
+    "quoteIndex": 0,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. rights-023..030 audited this run, 8/8 passed, no changes needed. civil-rights-voices finishes this pass (30/30 quotes audited across issues #85, #87, and this run). Next run starts at cosmos-space quotes[0]."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 227,
+  "totalQuotesAudited": 235,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -411,6 +411,19 @@
       "resolution": "rights-013 fixed in this run's PR: content corrected to the fuller wording ('...a white mother's son, we who believe in freedom cannot rest until this happens.'), notes updated to record the correction and the competing shorter variant so it isn't rediscovered as ambiguous by a future run. civil-rights-voices remains in progress (22/30 quotes audited across issues #85 and this run).",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/87",
       "processNote": "WebFetch remained blocked on external domains this run (snopes.com returned EGRESS_BLOCKED); verification relied on WebSearch snippet triangulation across multiple independent sources per quote, consistent with the multi-week pattern. No coverage gaps found (collections/*.json and order[] are in exact agreement -- 85 files, 85 entries). PR review: only 1 open PR (#69, 'Add Burke misattribution quote to courage-conviction'), confirmed unchanged via pull_request_read (identical head sha f41971a9564a08f59706feade67af1c55ad27812) since the 2026-08-13..16 reviews, remains a well-handled positive example, nothing new to flag. 1 open audit-report issue (#85) existed at the start of this run, now effectively superseded by this run's own issue since #85's batch (rights-001..012) is fully covered -- left open since closing issues is outside this run's explicit scope. Pass 1 total after this run: 227/2767. Next run begins civil-rights-voices quotes[22] (rights-023)."
+    },
+    {
+      "runDate": "2026-08-18",
+      "file": "civil-rights-voices",
+      "quoteRange": "rights-023..rights-030",
+      "count": 8,
+      "passed": 8,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- rights-023 (Malcolm X, OAAU founding rally, Audubon Ballroom, 1964-06-28) independently re-confirmed against a primary-adjacent source (a direct quote of the same speech, correctly dated and located) despite heavy aggregator circulation, matching the collection's own citation exactly. rights-024 (Malcolm X, letter from Mecca quoted in The Autobiography of Malcolm X, ch. 19) verified. rights-026 (John Lewis tweet): the collection's single-sentence excerpt and its 2018-06-27 date were checked against the two similar-but-distinct Lewis tweets that both end in the 'good trouble' line (2018-06-27 and 2019-07-11) -- the shorter wording without the 'We will find a way to make a way out of no way' coda matches only the earlier, correctly-cited 2018-06-27 tweet. rights-027 (Lewis, posthumous NYT essay, 2020-07-30) verified. rights-028 (Ruby Bridges, foundation motto) verified with the pre-existing 'minor wording variants exist' caveat still accurate -- at least two slightly different phrasings of her own foundation's slogan circulate (including from her own Facebook account), consistent with a spoken/repeated motto rather than a single fixed text; not changed. rights-029 (James Baldwin, NYT Book Review, 1962-01-14) verified verbatim in substance; Quote Investigator's read of the original shows a semicolon where the collection and virtually every modern citation use a comma -- a punctuation-only variant, not a wording change, so left as-is. rights-030 (Pauli Murray, 'Dark Testament,' 1970) verified verbatim. civil-rights-voices collection finishes this pass (30/30 quotes audited across issues #85, #87, and this run).",
+      "resolution": "no fixes needed",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/91",
+      "processNote": "PR review: 3 open PRs. #90 ('Model the newsletter log as backlog/scheduled/sent') touches no collections/*.json content (renames published-quotes.json to newsletter-issues.json, plus workflow/docs changes) -- out of scope for quote-sourcing review, not evaluated further. #89 ('Add \\\"two most important days\\\" misattribution quote to inspiration-daily,' opened 2026-08-17 after issue #87) independently re-verified via WebSearch against Quote Investigator's own findings (Rev. Ernest T. Campbell's 1970 Riverside Church sermon as earliest documented appearance, 'it has been said' framing indicating an already-circulating anonymous line, no trace in the Twain corpus) -- matches the PR's research exactly; correctly marked unverified with authorName recording both the anonymous origin and the common misattribution; author's own note flags it 'not for merge yet.' #69 ('Add Burke misattribution quote'), confirmed unchanged via pull_request_read (identical head sha f41971a9564a08f59706feade67af1c55ad27812) since every review since 2026-08-13, remains a well-handled positive example. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). 2 open audit-report issues (#85, #87) remained at the start of this run, both now effectively superseded by this run's own issue since their batches are fully covered by later runs -- left open since closing issues is outside this run's explicit scope. Pass 1 total after this run: 235/2767. Next run begins cosmos-space quotes[0]."
     }
   ]
 }
