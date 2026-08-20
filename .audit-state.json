@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 9,
     "file": "cosmos-space",
-    "quoteIndex": 0,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. rights-023..030 audited this run, 8/8 passed, no changes needed. civil-rights-voices finishes this pass (30/30 quotes audited across issues #85, #87, and this run). Next run starts at cosmos-space quotes[0]."
+    "quoteIndex": 10,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. cosmos-001..010 audited this run, 10/10 passed, no changes needed. Next run starts at cosmos-space quotes[10] (cosmos-011)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 235,
+  "totalQuotesAudited": 245,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -424,6 +424,19 @@
       "resolution": "no fixes needed",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/91",
       "processNote": "PR review: 3 open PRs. #90 ('Model the newsletter log as backlog/scheduled/sent') touches no collections/*.json content (renames published-quotes.json to newsletter-issues.json, plus workflow/docs changes) -- out of scope for quote-sourcing review, not evaluated further. #89 ('Add \\\"two most important days\\\" misattribution quote to inspiration-daily,' opened 2026-08-17 after issue #87) independently re-verified via WebSearch against Quote Investigator's own findings (Rev. Ernest T. Campbell's 1970 Riverside Church sermon as earliest documented appearance, 'it has been said' framing indicating an already-circulating anonymous line, no trace in the Twain corpus) -- matches the PR's research exactly; correctly marked unverified with authorName recording both the anonymous origin and the common misattribution; author's own note flags it 'not for merge yet.' #69 ('Add Burke misattribution quote'), confirmed unchanged via pull_request_read (identical head sha f41971a9564a08f59706feade67af1c55ad27812) since every review since 2026-08-13, remains a well-handled positive example. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). 2 open audit-report issues (#85, #87) remained at the start of this run, both now effectively superseded by this run's own issue since their batches are fully covered by later runs -- left open since closing issues is outside this run's explicit scope. Pass 1 total after this run: 235/2767. Next run begins cosmos-space quotes[0]."
+    },
+    {
+      "runDate": "2026-08-19",
+      "file": "cosmos-space",
+      "quoteRange": "cosmos-001..cosmos-010",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- cosmos-001..004 (Carl Sagan, Cosmos, 1980: opening lines, 'star-stuff', ch.1 imagination line, and the 'Sagan standard' from episode 12) verified against direct knowledge of the well-documented book/series text -- no ambiguity found in independent secondary sourcing. cosmos-005/006 (Sagan, Pale Blue Dot, 1994) verified verbatim via convergent independent transcriptions of the full passage. cosmos-007 (Sagan, Contact novel, 1985) verified as a genuine late-book line, correctly cited as fiction (sourceType book) rather than misattributed as a spoken quote. cosmos-009 (Neil deGrasse Tyson, TIME magazine reader-question interview, 2008) verified verbatim, including the full three-clause sentence, via convergent independent secondary sources describing the same TIME piece. cosmos-010 (Tyson, The Colbert Report, 2011): independently confirmed the specific January 6, 2011 episode date via WebSearch (Colbert asked Tyson about presenting 'both sides' of scientific findings; this is the exchange that produced the line) -- distinguishes it from a similar-sounding but separate Tyson appearance on the same show in March 2014 also covered by press at the time, so the collection's 2011 date is the correct one for this specific wording and context. cosmos-008 was already correctly self-flagged verificationStatus unverified in the data (popularly attributed to Sagan, not traced to any documented writing or broadcast, dated only by the earliest known circulated appearance in a 1977 Newsweek profile) -- left unchanged, this run's research did not surface a stronger source either way.",
+      "resolution": "no fixes needed",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Found PR #92 ('Audit civil-rights-voices rights-023..030') already open at the start of this run, containing exactly the batch this run would otherwise have re-audited (already fully reported in issue #91 the previous day, 2026-08-18) -- merged #92 directly rather than duplicating the work, then reset this run's branch to the fresh tip of main before starting new work at cosmos-space quotes[0], consistent with the state-PR-merge precedent set in the 2026-08-06 run. PR review: re-checked #90, #89, #69 via pull_request_read -- all three unchanged (identical head shas: 13d851b, 04003fd, f41971a respectively) since the 2026-08-18 review in issue #91; prior findings still hold (#90 out of scope, no collections/*.json changes; #89 and #69 both well-handled unverified misattribution additions, not for merge yet per their own authors' notes). No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). WebFetch remained EGRESS_BLOCKED this run (salon.com), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation. Pass 1 total after this run: 245/2767. Next run begins cosmos-space quotes[10] (cosmos-011)."
     }
   ]
 }
