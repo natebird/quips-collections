@@ -9,7 +9,7 @@
   "iconName": "dollarsign.circle.fill",
   "category": "Business & Leadership",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-06T12:00:00Z",
+  "lastUpdated": "2026-08-20T12:00:00Z",
   "quotes": [
     {
       "id": "invest-001",
@@ -373,6 +373,17 @@
       "sourceType": "book",
       "notes": "Klarman's summary of the temperament value investing demands; the long-out-of-print book now sells for thousands of dollars used.",
       "addedAt": "2026-07-06T12:25:35Z"
+    },
+    {
+      "id": "invest-034",
+      "content": "I violated the Noah rule: Predicting rain doesn't count; building arks does.",
+      "authorName": "Warren Buffett",
+      "source": "Berkshire Hathaway Chairman's Letter to Shareholders (2001)",
+      "quoteDate": "2001",
+      "verificationStatus": "verified",
+      "sourceType": "letter",
+      "notes": "Buffett's admission that he had foreseen a September 11-style catastrophic loss at General Re but hadn't acted on it; wording confirmed against independent full-text reproductions of the 2001 annual letter.",
+      "addedAt": "2026-08-20T12:00:00Z"
     }
   ]
 }

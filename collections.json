@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-15T12:00:00Z",
+  "lastUpdated": "2026-08-20T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -1067,7 +1067,7 @@
       "name": "Entrepreneurs",
       "description": "Building, betting, and beginning — hard lessons from founders who bet on themselves.",
       "author": "Quips Editorial",
-      "quoteCount": 28,
+      "quoteCount": 29,
       "previewQuotes": [
         "Screw it, let's do it.",
         "Competition is for losers."
@@ -1078,9 +1078,9 @@
       "iconName": "lightbulb.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-Nanu9WpfVOHFoHi0+8vCmUIT/OZPkwxZd1FOMI+8Enw=",
-      "bytes": 16054
+      "lastUpdated": "2026-08-20T12:00:00Z",
+      "contentHash": "sha256-6e38CbcN+KIKifhf6biO3/pnY3ZHW8t41bA8oIdOUZw=",
+      "bytes": 16666
     },
     {
       "id": "on-leadership",
@@ -1107,7 +1107,7 @@
       "name": "Money & Investing",
       "description": "Timeless sense about wealth, markets, and money from investors who built it.",
       "author": "Quips Editorial",
-      "quoteCount": 33,
+      "quoteCount": 34,
       "previewQuotes": [
         "Lost time is never found again.",
         "Pain plus reflection equals progress."
@@ -1118,16 +1118,16 @@
       "iconName": "dollarsign.circle.fill",
       "category": "Business & Leadership",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-07-06T12:00:00Z",
-      "contentHash": "sha256-VtLXi/qTeemO7OrB+YNkGWZEL+MGL1UQB4DQscNyPEk=",
-      "bytes": 16670
+      "lastUpdated": "2026-08-20T12:00:00Z",
+      "contentHash": "sha256-HEU9jYUK9HirLlmufFHl2wbHqD8UTaI+53KthmgXu0o=",
+      "bytes": 17285
     },
     {
       "id": "great-economists",
       "name": "Great Economists",
       "description": "Sharp thinking on markets, money, and human choice from the economists who shaped how we see the world.",
       "author": "Quips Editorial",
-      "quoteCount": 40,
+      "quoteCount": 41,
       "previewQuotes": [
         "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.",
         "If something cannot go on forever, it will stop."
@@ -1138,16 +1138,16 @@
       "iconName": "chart.line.uptrend.xyaxis",
       "category": "Business & Leadership",
       "addedAt": "2026-08-13T12:00:00Z",
-      "lastUpdated": "2026-08-13T12:00:00Z",
-      "contentHash": "sha256-0+6S0wdxrsjAypytg9I5a1CzvJljfbBGmrfW3xtMK1c=",
-      "bytes": 23339
+      "lastUpdated": "2026-08-20T12:00:00Z",
+      "contentHash": "sha256-gUC3pSX4WCGN6q58yGTKaTlvY8FTtuwlLz3KOd0iOeQ=",
+      "bytes": 24029
     },
     {
       "id": "great-speeches",
       "name": "Great Speeches",
       "description": "The lines that changed history, drawn from the world's most powerful addresses.",
       "author": "Quips Editorial",
-      "quoteCount": 33,
+      "quoteCount": 34,
       "previewQuotes": [
         "I have nothing to offer but blood, toil, tears and sweat.",
         "Free at last! Free at last! Thank God Almighty, we are free at last!"
@@ -1158,16 +1158,16 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-13T12:00:00Z",
-      "contentHash": "sha256-10seHBxKQ5y8C/BDhnwB14rUdz6z38QA6IxVdQRkJYM=",
-      "bytes": 19305
+      "lastUpdated": "2026-08-20T12:00:00Z",
+      "contentHash": "sha256-ZlGGNIVIxdinJCGczIVl10zJnU+c6csPMIKyj1OQL8A=",
+      "bytes": 20077
     },
     {
       "id": "founding-fathers",
       "name": "Founding Fathers",
       "description": "Liberty, virtue, and self-government in the words of America's founders.",
       "author": "Quips Editorial",
-      "quoteCount": 33,
+      "quoteCount": 34,
       "previewQuotes": [
         "Well done is better than well said.",
         "My country is the world, and my religion is to do good."
@@ -1178,9 +1178,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-ankfMzpSTMWYwiyDUBmDHqVt5mO35ItjycDYVmx2dBM=",
-      "bytes": 20129
+      "lastUpdated": "2026-08-20T12:00:00Z",
+      "contentHash": "sha256-DFG4l7x1MBVu8qSHhhffdJsAVWpreXgrL9XaQQcm6CM=",
+      "bytes": 20693
     },
     {
       "id": "civil-rights-voices",
