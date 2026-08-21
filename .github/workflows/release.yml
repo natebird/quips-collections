@@ -60,11 +60,21 @@ jobs:
           mkdir -p dist/collections
           cp collections.json dist/
           cp collections/*.json dist/collections/
-          cp recently-added.json new-collections.json on-this-day.json \
-             newsletter-picks.json featured-collections.json search-index.json dist/
-          ( cd dist && zip -qr "quips-collections-${TAG}.zip" collections.json collections \
-              recently-added.json new-collections.json on-this-day.json \
-              newsletter-picks.json featured-collections.json search-index.json )
+          # A feed builder may legitimately produce nothing — newsletter-picks is
+          # absent until an issue is actually sent. build_manifest.py already lists
+          # each feed only when its file exists, so publish whichever were built
+          # rather than naming them all and failing on the missing one.
+          FEEDS=""
+          for feed in recently-added.json new-collections.json on-this-day.json \
+                      newsletter-picks.json featured-collections.json search-index.json; do
+            if [ -f "$feed" ]; then
+              cp "$feed" dist/
+              FEEDS="$FEEDS $feed"
+            else
+              echo "feed not built, skipping: $feed"
+            fi
+          done
+          ( cd dist && zip -qr "quips-collections-${TAG}.zip" collections.json collections $FEEDS )
           python3 scripts/build_manifest.py "$VER" > dist/manifest.json
           echo "Manifest:"; cat dist/manifest.json
 

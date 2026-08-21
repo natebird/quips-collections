@@ -55,5 +55,13 @@ Two extra notes for these runs:
   AZQuotes) establish neither. See the `add-quotes` skill for the full bar.
 - Derived feeds (`search-index.json`, `recently-added.json`, `on-this-day.json`,
   and friends) are rebuilt during release. Don't hand-edit them.
+- `newsletter-issues.json` is the Quote Unquote log — hand-edited source, like
+  `featured-schedule.json`, not an output. An entry's `status` is the whole
+  point: only `sent` reaches `newsletter-picks.json`, and only a `sent` issue
+  may carry an `issueNumber` it didn't already own publicly. Never write
+  "Featured in Quote Unquote #N" into a collection quote's `notes` — membership
+  is derived by `build_newsletter_picks.py`, and authoring it in prose is what
+  put three unsent issues into three releases. `natebird/quote-unquote` has a
+  `check_newsletter_sync.py` that verifies this file against the drafts.
 - Releases happen by pushing a semver tag: patch for quote edits, minor for a
   new collection. See [CONTRIBUTING.md](CONTRIBUTING.md).
