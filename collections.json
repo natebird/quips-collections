@@ -7,7 +7,7 @@
       "name": "Daily Inspiration",
       "description": "Start your day with motivational quotes from visionary leaders and thinkers.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "The only way to do great work is to love what you do.",
         "You miss 100% of the shots you don't take."
@@ -18,9 +18,9 @@
       "iconName": "sunrise.fill",
       "category": "Inspiration",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-07-24T12:00:00Z",
-      "contentHash": "sha256-dhFlMH89jWXCK6HKnLTTKnaGA/3chQEBLg3f5y9qRVc=",
-      "bytes": 17369
+      "lastUpdated": "2026-08-17T12:00:00Z",
+      "contentHash": "sha256-dIv36LjRv1opCI4JKJvqNlnTQMdubpzdcWn0ioMF3eQ=",
+      "bytes": 18327
     },
     {
       "id": "grit-perseverance",
@@ -67,7 +67,7 @@
       "name": "Courage & Conviction",
       "description": "On facing fear, standing for what's right, and acting anyway.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Courage is resistance to fear, mastery of fear — not absence of fear.",
         "Power concedes nothing without a demand. It never did and it never will."
@@ -78,9 +78,9 @@
       "iconName": "shield.fill",
       "category": "Inspiration",
       "addedAt": "2026-07-01T01:53:56Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-zApUu+yicYykDMhLl/XhnAIidNShsTLcsTXuo6CMMDU=",
-      "bytes": 18263
+      "lastUpdated": "2026-08-10T12:00:00Z",
+      "contentHash": "sha256-uWEGwcX2N5xbpsodQFlYA6Zal/QZvnQidoNkQAqcIks=",
+      "bytes": 19365
     },
     {
       "id": "dream-big",
@@ -1219,8 +1219,8 @@
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-08-06T12:00:00Z",
-      "contentHash": "sha256-hoTrh4mvbwKcYtpnj1emWzY/LliN+f1vgNmlbMZFT7w=",
-      "bytes": 17361
+      "contentHash": "sha256-3UcRz9Gsco8mXI7abdccrhisrHMIsIyYVP2kzsvFRyM=",
+      "bytes": 17750
     },
     {
       "id": "great-scientists",

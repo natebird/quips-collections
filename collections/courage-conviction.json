@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-08-10T12:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -340,6 +340,17 @@
       "verificationStatus": "unverified",
       "notes": "Widely circulated online but absent from Cummings's published work; the attribution axis fails. Date is estimated from Cummings's 1955 'A Poet's Advice to Students,' whose genuine line ('to be nobody-but-yourself... means to fight the hardest battle') this appears to compress.",
       "addedAt": "2026-07-01T01:53:56Z"
+    },
+    {
+      "id": "courage-031",
+      "content": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "authorName": "Edmund Burke",
+      "source": "Popularly attributed to Burke; not found in his authenticated writings or speeches",
+      "sourceType": "unspecified",
+      "quoteDate": "c. 1920",
+      "verificationStatus": "unverified",
+      "notes": "The attribution axis fails: this exact sentence does not appear anywhere in Burke's authenticated writings or speeches. The closest genuine Burke passage is \"When bad men combine, the good must associate; else they will fall one by one, an unpitied sacrifice in a contemptible struggle\" (Thoughts on the Cause of the Present Discontents, 1770). The modern phrasing evolved through John Stuart Mill's 1867 St Andrews rectorial address (\"Bad men need nothing more to compass their ends, than that good men should look on and do nothing\") and a 1916 Rev. Charles F. Aked temperance sermon, before being first attributed to Burke by J. Murray Hyslop in 1920.",
+      "addedAt": "2026-08-10T12:00:00Z"
     }
   ]
 }

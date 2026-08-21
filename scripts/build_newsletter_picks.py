@@ -2,13 +2,26 @@
 """Generate newsletter-picks.json — collection quotes that have been featured in
 the Quote Unquote newsletter ("As seen in Quote Unquote").
 
-Cross-references published-quotes.json against the collections: a published
+Cross-references newsletter-issues.json against the collections: an issue's
 quote is matched to a collection quote when their normalized texts (lowercased,
 alphanumerics only) contain one another. Matched collection quotes are emitted
 with a `newsletterIssue` number and a `sourceCollection` back-reference. Not
 every newsletter quote maps to a collection quote — many issues are about
 misattributions/paraphrases with no verified entry in the dataset; those are
 reported and skipped.
+
+**Only issues with `status: "sent"` are eligible.** The log also carries the
+backlog and the scheduled-but-unsent, and a quote badged "Quote Unquote #7" for
+an issue no subscriber has received — and no reader can open — is a claim the
+newsletter has not earned yet. Quote Unquote has not launched, so today this
+feed is empty by construction.
+
+When nothing qualifies the feed is **not written**, and any existing copy is
+removed. An empty feed file is worse than an absent one: build_manifest.py lists
+each feed only when its file exists, so absence propagates cleanly (the website
+drops the shelf, the app drops the tile), whereas a file with `quotes: []` still
+draws an empty "From Quote Unquote" tile in the app, which gates on the feed
+being present rather than on it having contents.
 
 Standalone like the other generated feeds: NOT registered in collections.json
 and outside collections/. Deterministic output. Stdlib only.
@@ -57,11 +70,24 @@ def main():
         for q in data.get("quotes", []):
             quotes.append((data["id"], q, normalize(q.get("content", ""))))
 
-    with open(os.path.join(args.root, "published-quotes.json"), encoding="utf-8") as f:
-        published = json.load(f)
+    with open(os.path.join(args.root, "newsletter-issues.json"), encoding="utf-8") as f:
+        issues = json.load(f)
+
+    out = args.out or os.path.join(args.root, "newsletter-picks.json")
+
+    sent = [i for i in issues if i.get("status") == "sent"]
+    if not sent:
+        # Absent, not empty — see the module docstring.
+        if os.path.exists(out):
+            os.remove(out)
+            print(f"no sent issues; removed {out}")
+        else:
+            print(f"no sent issues; wrote nothing (by design — {len(issues)} "
+                  f"issue(s) still backlog/scheduled)")
+        return 0
 
     picked, unmatched = [], []
-    for p in published:
+    for p in sent:
         pn = normalize(p.get("quote", ""))
         match = next((
             (cid, q) for cid, q, qn in quotes if pn and (pn in qn or qn in pn)
@@ -86,7 +112,6 @@ def main():
         "quotes": picked,
     }
 
-    out = args.out or os.path.join(args.root, "newsletter-picks.json")
     with open(out, "w", encoding="utf-8") as f:
         json.dump(collection, f, ensure_ascii=False, indent=2)
         f.write("\n")
