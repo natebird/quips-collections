@@ -9,7 +9,7 @@
   "iconName": "chart.line.uptrend.xyaxis",
   "category": "Business & Leadership",
   "addedAt": "2026-08-13T12:00:00Z",
-  "lastUpdated": "2026-08-13T12:00:00Z",
+  "lastUpdated": "2026-08-20T12:00:00Z",
   "quotes": [
     {
       "id": "econ-001",
@@ -450,6 +450,17 @@
       "sourceType": "book",
       "notes": "The r > g thesis stated plainly in the book's introduction.",
       "addedAt": "2026-08-13T12:00:00Z"
+    },
+    {
+      "id": "econ-041",
+      "content": "Every banker knows that if he has to prove that he is worthy of credit, however good may be his arguments, in fact his credit is gone.",
+      "authorName": "Walter Bagehot",
+      "source": "Lombard Street: A Description of the Money Market, Ch. II, \"A General View of Lombard Street\" (1873)",
+      "quoteDate": "1873",
+      "verificationStatus": "verified",
+      "sourceType": "book",
+      "notes": "Bagehot's observation that bank credit rests on presumed, unquestioned confidence rather than on argument; wording confirmed against Econlib's and Wikisource's editions of the chapter.",
+      "addedAt": "2026-08-20T12:00:00Z"
     }
   ]
 }

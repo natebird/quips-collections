@@ -9,7 +9,7 @@
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-13T12:00:00Z",
+  "lastUpdated": "2026-08-20T12:00:00Z",
   "quotes": [
     {
       "id": "speech-001",
@@ -373,6 +373,17 @@
       "sourceType": "speech",
       "notes": "From Jordan's televised opening statement as a member of the Judiciary Committee weighing articles of impeachment against President Nixon. Wording confirmed against the National Portrait Gallery's transcript of the speech.",
       "addedAt": "2026-08-13T12:00:00Z"
+    },
+    {
+      "id": "speech-034",
+      "content": "What, to the American slave, is your 4th of July? I answer: a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.",
+      "authorName": "Frederick Douglass",
+      "source": "\"What to the Slave Is the Fourth of July?\", Rochester, New York (July 5, 1852)",
+      "quoteDate": "1852-07-05",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered to the Rochester Ladies' Anti-Slavery Society the day after Independence Day; wording confirmed against the Gilder Lehrman Institute and San Diego State University transcripts of the original 1852 pamphlet.",
+      "addedAt": "2026-08-20T12:00:00Z"
     }
   ]
 }

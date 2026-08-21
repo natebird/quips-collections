@@ -9,7 +9,7 @@
   "iconName": "lightbulb.fill",
   "category": "Business & Leadership",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-08-20T12:00:00Z",
   "quotes": [
     {
       "id": "entre-001",
@@ -318,6 +318,17 @@
       "sourceType": "book",
       "notes": "Source axis fails: attributed to Kroc's memoir but no primary passage was reachable to confirm it, and wording splits between 'a dividend' and 'the dividend.'",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "entre-029",
+      "content": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma — which is living with the results of other people's thinking.",
+      "authorName": "Steve Jobs",
+      "source": "Stanford University Commencement Address (June 12, 2005)",
+      "quoteDate": "2005-06-12",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Jobs's widely cited commencement address; wording confirmed against Stanford's own published transcript of the speech.",
+      "addedAt": "2026-08-20T12:00:00Z"
     }
   ]
 }

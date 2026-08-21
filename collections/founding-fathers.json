@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-06T12:00:00Z",
+  "lastUpdated": "2026-08-20T12:00:00Z",
   "quotes": [
     {
       "id": "found-001",
@@ -373,6 +373,17 @@
       "sourceType": "letter",
       "notes": "Jay, later the first Chief Justice and a founder of the New York Manumission Society, on his hope for the abolition of slavery; confirmed on Founders Online (Jay Papers).",
       "addedAt": "2026-08-06T12:00:00Z"
+    },
+    {
+      "id": "found-034",
+      "content": "Ambition must be made to counteract ambition.",
+      "authorName": "James Madison",
+      "source": "Federalist No. 51 (February 6, 1788)",
+      "quoteDate": "1788-02-06",
+      "verificationStatus": "verified",
+      "sourceType": "article",
+      "notes": "From Madison's argument for separation of powers with checks between branches; text confirmed against the Avalon Project, Bill of Rights Institute, and Founders Online transcriptions of Federalist No. 51.",
+      "addedAt": "2026-08-20T12:00:00Z"
     }
   ]
 }
