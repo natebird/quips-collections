@@ -89,13 +89,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 9,
-    "file": "cosmos-space",
-    "quoteIndex": 20,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. cosmos-011..020 audited this run, 9/10 passed (cosmos-014 fixed). Next run starts at cosmos-space quotes[20] (cosmos-021)."
+    "fileIndex": 10,
+    "file": "courage-conviction",
+    "quoteIndex": 0,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. cosmos-021..033 audited this run, 13/13 passed (cosmos-023 remains correctly self-flagged unverified, no change); cosmos-space collection finishes this pass (33/33 quotes audited). Next run starts at courage-conviction quotes[0]."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 255,
+  "totalQuotesAudited": 268,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -452,6 +452,19 @@
       "resolution": "fixed in this run's PR; content corrected to the original Der Spiegel wording, note updated to document the correction",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "Remaining 9 quotes verified: cosmos-011 (Hawking, A Brief History of Time closing line) and cosmos-013 (Hawking, 70th birthday symposium 2012 -- confirmed the exact phrase was delivered in that January 2012 Cambridge speech, later reused as the closing of his 2018 book 'Brief Answers to the Big Questions', not a misattribution of the book's ending) both verified. cosmos-012 (Hawking, ABC News/Diane Sawyer interview 2010) independently confirmed as a distinct, real primary source separate from the superficially similar 2018 book closing passage -- both are genuine, this quote correctly cites the 2010 interview. cosmos-015..018 (Armstrong x2, Aldrin, Gagarin -- Apollo 11 and Vostok 1 transcript lines) verified against NASA/historical transcripts, no changes. cosmos-019 was already correctly self-flagged verificationStatus unverified (historians dispute whether the Gagarin line was said in one breath or reassembled) -- left unchanged. cosmos-020 (Sally Ride, Scholastic interview, 20 November 1998) verified directly against the interview's own primary page at teacher.scholastic.com/space/sts7/interview.htm. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). PR review: re-checked #90, #89, #69 via pull_request_read -- all three unchanged (identical head shas: 13d851b, 04003fd, f41971a) since the 2026-08-19 review in issue #93; prior findings still hold. Housekeeping: found PR #94 ('Audit cosmos-space cosmos-001..010') already open and unmerged at the start of this run, containing exactly the batch already reported in issue #93 the previous day -- merged #94 directly rather than duplicating the work, then reset this run's branch to a fresh tip of main before starting new coverage at cosmos-space quotes[10], consistent with the state-PR-merge precedent from prior runs. Pass 1 total after this run: 255/2767. Next run begins cosmos-space quotes[20] (cosmos-021)."
+    },
+    {
+      "runDate": "2026-08-21",
+      "file": "cosmos-space",
+      "quoteRange": "cosmos-021..cosmos-033",
+      "count": 13,
+      "passed": 13,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- cosmos-021 (Sally Ride, Scholastic interview 1998) verified directly against the interview's own primary page. cosmos-022 (Christa McAuliffe, 'I touch the future. I teach.', NASA Teacher in Space Project 1985) corroborated across multiple independent, non-aggregator sources (NHPR, ED.gov). cosmos-024 (Edwin Hubble, 'The Exploration of Space,' Harper's Magazine, May 1929) verified. cosmos-025 (Kepler, Harmonices Mundi) verified verbatim, including pinning down the book/chapter citation precisely as Book III, Ch. 1 (1619) after an initial search briefly surfaced a conflicting 'Book V, Ch. 7' claim that did not hold up against the WIST Quotations primary citation -- collection's existing 'Book III (1619)' citation is correct as stored. cosmos-026 (Kepler's self-composed Latin epitaph) verified in substance and translation family, published in Kepler's collected works. cosmos-027/028 (Tsiolkovsky, 'planet is the cradle of mind' 1911 and 'Man will not always stay on Earth...' Aeronautics in Our Time / Sovremennyi Mir 1912) both verified verbatim as two distinct, correctly-dated Tsiolkovsky lines. cosmos-029/030 (Katherine Johnson, NASA 'A Lifetime of STEM' profile) verified verbatim against the NASA source page. cosmos-031 (Michael Collins, Carrying the Fire, 1974) verified verbatim. cosmos-032 (Eugene Cernan, Apollo 17 final words, 14 December 1972) verified verbatim against the full NASA transcript passage. cosmos-033 (Vera Rubin, preface to Bright Galaxies, Dark Matters, 1997) corroborated in substance and source. cosmos-023 (Kalpana Chawla, attributed 1998 interview) was already correctly self-flagged verificationStatus unverified (repeated across quote sites but no primary transcript found) -- left unchanged, this run's research did not surface a stronger source either way. cosmos-space collection finishes this pass (33/33 quotes audited across issues #93, #95, and this run).",
+      "resolution": "no fixes needed",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Found PR #96 ('Audit cosmos-space cosmos-011..020') already open at the start of this run, containing exactly the batch this run would otherwise have re-audited, reaching the identical cosmos-014 finding (Der Spiegel 1988 misquote, 'a little advanced breed of monkeys on a small planet orbiting around a very average star... and that makes us very special' vs. the shortened aggregator variant) that this run's own independent research also turned up -- merged #96 directly rather than duplicating the work, then reset this run's branch to a fresh tip of main before starting new coverage at cosmos-space quotes[20], consistent with the state-PR-merge precedent from prior runs. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). PR review: 1 new open PR since the last review -- #97 ('Add 5 verified quotes across 5 collections,' opened 2026-08-20) independently re-verified all 5 new quotes (Madison Federalist No. 51, Douglass Fourth of July speech, Buffett 'Noah rule' 2001 letter, Jobs Stanford commencement, Bagehot Lombard Street) against primary/authoritative sources -- all confirmed verbatim, no issues; left open per its own 'not merging, leaving for review' note. #90 and #69 re-checked, unchanged since the 2026-08-19/20 reviews, prior findings still hold. Pass 1 total after this run: 268/2767. Next run begins courage-conviction quotes[0] (courage-001 or equivalent first id)."
     }
   ]
 }
