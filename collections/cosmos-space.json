@@ -9,7 +9,7 @@
   "iconName": "moon.stars.fill",
   "category": "Science",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-06T12:00:00Z",
+  "lastUpdated": "2026-08-20T12:00:00Z",
   "quotes": [
     {
       "id": "cosmos-001",
@@ -156,13 +156,13 @@
     },
     {
       "id": "cosmos-014",
-      "content": "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.",
+      "content": "We are just a little advanced breed of monkeys on a small planet orbiting around a very average star. But we can understand the universe, and that makes us very special.",
       "authorName": "Stephen Hawking",
       "source": "Der Spiegel interview (17 October 1988)",
       "quoteDate": "1988",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "On humanity's smallness in the cosmos balanced against our capacity to comprehend it.",
+      "notes": "On humanity's smallness in the cosmos balanced against our capacity to comprehend it. Content corrected 2026-08-20: prior wording was a commonly-circulated shortened/altered variant ('just an advanced breed of monkeys on a minor planet of'; 'That makes us something very special.') that drops 'little' and 'small planet orbiting around,' and splits the closing clause into a new sentence. Corrected wording matches the original 17 October 1988 Der Spiegel text.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {

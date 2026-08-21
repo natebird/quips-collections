@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 9,
     "file": "cosmos-space",
-    "quoteIndex": 10,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. cosmos-001..010 audited this run, 10/10 passed, no changes needed. Next run starts at cosmos-space quotes[10] (cosmos-011)."
+    "quoteIndex": 20,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. cosmos-011..020 audited this run, 9/10 passed (cosmos-014 fixed). Next run starts at cosmos-space quotes[20] (cosmos-021)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 245,
+  "totalQuotesAudited": 255,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -437,6 +437,21 @@
       "resolution": "no fixes needed",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "Found PR #92 ('Audit civil-rights-voices rights-023..030') already open at the start of this run, containing exactly the batch this run would otherwise have re-audited (already fully reported in issue #91 the previous day, 2026-08-18) -- merged #92 directly rather than duplicating the work, then reset this run's branch to the fresh tip of main before starting new work at cosmos-space quotes[0], consistent with the state-PR-merge precedent set in the 2026-08-06 run. PR review: re-checked #90, #89, #69 via pull_request_read -- all three unchanged (identical head shas: 13d851b, 04003fd, f41971a respectively) since the 2026-08-18 review in issue #91; prior findings still hold (#90 out of scope, no collections/*.json changes; #89 and #69 both well-handled unverified misattribution additions, not for merge yet per their own authors' notes). No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). WebFetch remained EGRESS_BLOCKED this run (salon.com), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation. Pass 1 total after this run: 245/2767. Next run begins cosmos-space quotes[10] (cosmos-011)."
+    },
+    {
+      "runDate": "2026-08-20",
+      "file": "cosmos-space",
+      "quoteRange": "cosmos-011..cosmos-020",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "cosmos-014"
+      ],
+      "issue": "cosmos-014 (Stephen Hawking, Der Spiegel interview, 17 October 1988) carried a commonly-circulated shortened/altered variant of the quote ('just an advanced breed of monkeys on a minor planet of a very average star... That makes us something very special.') rather than the original wording ('just a little advanced breed of monkeys on a small planet orbiting around a very average star... and that makes us very special.'). The altered version is the one that circulates on Wikiquote-style aggregators; the original matches the actual 1988 Der Spiegel text.",
+      "resolution": "fixed in this run's PR; content corrected to the original Der Spiegel wording, note updated to document the correction",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Remaining 9 quotes verified: cosmos-011 (Hawking, A Brief History of Time closing line) and cosmos-013 (Hawking, 70th birthday symposium 2012 -- confirmed the exact phrase was delivered in that January 2012 Cambridge speech, later reused as the closing of his 2018 book 'Brief Answers to the Big Questions', not a misattribution of the book's ending) both verified. cosmos-012 (Hawking, ABC News/Diane Sawyer interview 2010) independently confirmed as a distinct, real primary source separate from the superficially similar 2018 book closing passage -- both are genuine, this quote correctly cites the 2010 interview. cosmos-015..018 (Armstrong x2, Aldrin, Gagarin -- Apollo 11 and Vostok 1 transcript lines) verified against NASA/historical transcripts, no changes. cosmos-019 was already correctly self-flagged verificationStatus unverified (historians dispute whether the Gagarin line was said in one breath or reassembled) -- left unchanged. cosmos-020 (Sally Ride, Scholastic interview, 20 November 1998) verified directly against the interview's own primary page at teacher.scholastic.com/space/sts7/interview.htm. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). PR review: re-checked #90, #89, #69 via pull_request_read -- all three unchanged (identical head shas: 13d851b, 04003fd, f41971a) since the 2026-08-19 review in issue #93; prior findings still hold. Housekeeping: found PR #94 ('Audit cosmos-space cosmos-001..010') already open and unmerged at the start of this run, containing exactly the batch already reported in issue #93 the previous day -- merged #94 directly rather than duplicating the work, then reset this run's branch to a fresh tip of main before starting new coverage at cosmos-space quotes[10], consistent with the state-PR-merge precedent from prior runs. Pass 1 total after this run: 255/2767. Next run begins cosmos-space quotes[20] (cosmos-021)."
     }
   ]
 }
