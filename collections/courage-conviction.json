@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-08-10T12:00:00Z",
+  "lastUpdated": "2026-08-21T00:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -48,11 +48,11 @@
       "id": "courage-004",
       "content": "Courage is resistance to fear, mastery of fear — not absence of fear.",
       "authorName": "Mark Twain",
-      "source": "Following the Equator (1897), Pudd'nhead Wilson's New Calendar",
+      "source": "The Tragedy of Pudd'nhead Wilson (1894), Pudd'nhead Wilson's Calendar, epigraph to Chapter 12",
       "sourceType": "book",
-      "quoteDate": "c. 1897",
+      "quoteDate": "c. 1894",
       "verificationStatus": "verified",
-      "notes": "One of the aphorisms Twain used as a chapter epigraph in his travel book.",
+      "notes": "Corrected from a prior citation of \"Following the Equator (1897), Pudd'nhead Wilson's New Calendar\": the line is the Chapter 12 epigraph of the original 1894 novel's own \"Pudd'nhead Wilson's Calendar,\" a different, earlier maxim collection than the \"New Calendar\" Twain wrote for the 1897 travel book.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {
@@ -112,13 +112,13 @@
     },
     {
       "id": "courage-010",
-      "content": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+      "content": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less important whether or not I am unafraid.",
       "authorName": "Audre Lorde",
       "source": "The Cancer Journals (1980)",
       "sourceType": "book",
       "quoteDate": "c. 1980",
       "verificationStatus": "verified",
-      "notes": "Lorde wrote this while confronting her own mortality after a breast cancer diagnosis.",
+      "notes": "Lorde wrote this in the book's introduction while confronting her own mortality after a breast cancer diagnosis. Corrected from a widely circulated aggregator variant (\"...then it becomes less and less important whether I am afraid\") to the original wording, which pairs \"unafraid\" with \"whether or not.\"",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {

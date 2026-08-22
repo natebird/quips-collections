@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 10,
     "file": "courage-conviction",
-    "quoteIndex": 0,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. cosmos-021..033 audited this run, 13/13 passed (cosmos-023 remains correctly self-flagged unverified, no change); cosmos-space collection finishes this pass (33/33 quotes audited). Next run starts at courage-conviction quotes[0]."
+    "quoteIndex": 10,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. courage-001..010 audited this run, 8/10 passed; courage-004 (wrong Twain source citation) and courage-010 (Lorde wording drift toward aggregator variant) fixed. Next run starts at courage-conviction quotes[10] (courage-011)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 268,
+  "totalQuotesAudited": 278,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -465,6 +465,22 @@
       "resolution": "no fixes needed",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "Found PR #96 ('Audit cosmos-space cosmos-011..020') already open at the start of this run, containing exactly the batch this run would otherwise have re-audited, reaching the identical cosmos-014 finding (Der Spiegel 1988 misquote, 'a little advanced breed of monkeys on a small planet orbiting around a very average star... and that makes us very special' vs. the shortened aggregator variant) that this run's own independent research also turned up -- merged #96 directly rather than duplicating the work, then reset this run's branch to a fresh tip of main before starting new coverage at cosmos-space quotes[20], consistent with the state-PR-merge precedent from prior runs. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). PR review: 1 new open PR since the last review -- #97 ('Add 5 verified quotes across 5 collections,' opened 2026-08-20) independently re-verified all 5 new quotes (Madison Federalist No. 51, Douglass Fourth of July speech, Buffett 'Noah rule' 2001 letter, Jobs Stanford commencement, Bagehot Lombard Street) against primary/authoritative sources -- all confirmed verbatim, no issues; left open per its own 'not merging, leaving for review' note. #90 and #69 re-checked, unchanged since the 2026-08-19/20 reviews, prior findings still hold. Pass 1 total after this run: 268/2767. Next run begins courage-conviction quotes[0] (courage-001 or equivalent first id)."
+    },
+    {
+      "runDate": "2026-08-21",
+      "file": "courage-conviction",
+      "quoteRange": "courage-001..courage-010",
+      "count": 10,
+      "passed": 8,
+      "flagged": 2,
+      "flaggedIds": [
+        "courage-004",
+        "courage-010"
+      ],
+      "issue": "courage-004 (Mark Twain) carried the wrong source citation -- 'Following the Equator (1897), Pudd'nhead Wilson's New Calendar' -- when the line is actually the Chapter 12 epigraph of the original 1894 novel's own 'Pudd'nhead Wilson's Calendar,' a distinct, earlier maxim collection from the 'New Calendar' Twain wrote for the 1897 travel book; confirmed via convergent independent sources including the full epigraph text itself. courage-010 (Audre Lorde) carried the aggregator-circulated wording ('...then it becomes less and less important whether I am afraid') rather than the original Cancer Journals introduction wording ('...then it becomes less important whether or not I am unafraid').",
+      "resolution": "both fixed in this run's PR (#100); courage-004 source/quoteDate corrected, courage-010 content corrected to original wording, notes updated on both",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/101",
+      "processNote": "courage-001 (Mandela, Long Walk to Freedom), courage-002 (Earhart, 'Courage' poem c.1927), courage-003 (Eleanor Roosevelt, You Learn by Living), courage-005 (FDR, First Inaugural), courage-006 (Harper Lee, To Kill a Mockingbird), courage-007 (Theodore Roosevelt, 'Man in the Arena'), courage-008 (John Lewis, independently reconfirmed as the June 27 2018 tweet, matching the shorter wording without the 'we will find a way' coda that belongs to a separate 2019-07-11 tweet), and courage-009 (Elie Wiesel, Nobel Peace Prize speech) all verified against well-documented primary/authoritative sources, no changes. WebFetch was EGRESS_BLOCKED on every external domain tried this run (wist.info, libquotes.com, goodreads.com, quoteinvestigator.com, gutenberg.org, archive.org, wikisource.org, wikiquote.org, online-literature.com, gradesaver.com, twain.lib.virginia.edu), consistent with the established multi-week pattern; verification relied on WebSearch snippet triangulation across multiple independent sources per quote. PR review: no other open PRs at the start of this run. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 278/2767. Next run begins courage-conviction quotes[10] (courage-011)."
     }
   ]
 }
