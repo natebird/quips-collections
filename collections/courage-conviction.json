@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-08-23T00:00:00Z",
+  "lastUpdated": "2026-08-24T12:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -351,6 +351,17 @@
       "verificationStatus": "unverified",
       "notes": "The attribution axis fails: this exact sentence does not appear anywhere in Burke's authenticated writings or speeches. The closest genuine Burke passage is \"When bad men combine, the good must associate; else they will fall one by one, an unpitied sacrifice in a contemptible struggle\" (Thoughts on the Cause of the Present Discontents, 1770). The modern phrasing evolved through John Stuart Mill's 1867 St Andrews rectorial address (\"Bad men need nothing more to compass their ends, than that good men should look on and do nothing\") and a 1916 Rev. Charles F. Aked temperance sermon, before being first attributed to Burke by J. Murray Hyslop in 1920.",
       "addedAt": "2026-08-10T12:00:00Z"
+    },
+    {
+      "id": "courage-032",
+      "content": "No one can make you feel inferior without your consent.",
+      "authorName": "Unknown (often misattributed to Eleanor Roosevelt)",
+      "source": "Earliest located appearance: Reader's Digest (September 1940), printed as an uncited standalone maxim credited to Roosevelt",
+      "sourceType": "unspecified",
+      "quoteDate": "c. 1940",
+      "verificationStatus": "unverified",
+      "notes": "The attribution axis fails: quotation researchers Ralph Keyes and Rosalie Maggio both searched Roosevelt's 1937 autobiography This Is My Story (the book most often cited as its source) and the rest of her writing without finding it; archivists at the Franklin D. Roosevelt Presidential Library report the same. The likely seed is a 1935 White House press-conference remark, where Roosevelt was asked about a perceived snub of Labor Secretary Frances Perkins and reportedly said something like \"A snub is the effort of a person who feels superior to make someone else feel inferior. First, though, you have to find someone who can be made to feel inferior.\" Sometime before its September 1940 Reader's Digest appearance, that remark was condensed by an unidentified hand into the aphorism now attributed to her.",
+      "addedAt": "2026-08-24T12:00:00Z"
     }
   ]
 }
