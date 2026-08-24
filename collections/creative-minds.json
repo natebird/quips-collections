@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-08-13T12:00:00Z",
+  "lastUpdated": "2026-08-24T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -59,10 +59,10 @@
       "id": "cm-005",
       "content": "You can't use up creativity. The more you use, the more you have.",
       "authorName": "Maya Angelou",
-      "source": "Conversations with Maya Angelou (1989)",
-      "sourceType": "interview",
-      "notes": "From an interview. Angelou frequently discussed creativity as an inexhaustible resource in her lectures and writings.",
-      "quoteDate": "1989",
+      "source": "Mary Ardito, \"Creativity: It's the Thought that Counts,\" Bell Telephone Magazine, Vol. 61, No. 1 (1982)",
+      "sourceType": "magazine",
+      "notes": "Corrected 2026-08-24 audit: previously cited to 'Conversations with Maya Angelou (1989)', but that book is a later collection, not the original source -- its editor, Jeffrey M. Elliot, footnoted the line to this 1982 Bell Telephone Magazine profile of Angelou (per Quote Investigator's research), which is the actual primary appearance.",
+      "quoteDate": "1982",
       "verificationStatus": "verified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
@@ -103,11 +103,10 @@
       "id": "cm-009",
       "content": "Art is not what you see, but what you make others see.",
       "authorName": "Edgar Degas",
-      "source": "Attributed (c. 1880s)",
+      "source": "Attributed (unverified)",
       "sourceType": "unspecified",
-      "notes": "Attributed to French Impressionist Edgar Degas. Reflects his philosophy that art is about perception and communication.",
-      "quoteDate": "c. 1880s",
-      "verificationStatus": "attributed",
+      "notes": "Downgraded 2026-08-24 audit: previously marked 'attributed' with an estimated c. 1880s date, but no primary trace to Degas exists -- the line does not appear on French-language sites cataloguing his documented sayings, and a HuffPost investigation (2015) found the attribution untraceable and likely spurious. No confirmed correct attribution found to reassign it to, so downgraded to unverified rather than corrected; date estimate removed since it was unsupported.",
+      "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
