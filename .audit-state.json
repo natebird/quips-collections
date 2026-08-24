@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 11,
     "file": "creative-minds",
-    "quoteIndex": 0,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. courage-023..031 audited this run, 8/9 passed; courage-023 (Malala Yousafzai) fixed. courage-conviction finishes this pass (31/31 quotes audited). Next run starts at creative-minds quotes[0] (the next entry in order[] after courage-conviction, index 11)."
+    "quoteIndex": 10,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. creative-minds cm-001..010 audited this run, 8/10 passed; cm-005 (Maya Angelou) and cm-009 (Edgar Degas) fixed. creative-minds has 32 quotes total, so this run does not finish it -- next run starts at creative-minds quotes[10] (cm-011)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 299,
+  "totalQuotesAudited": 309,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -233,7 +233,7 @@
       "flaggedIds": [
         "dylan-014"
       ],
-      "issue": "dylan-014: truncated quote. Stored content was \"I welcome them\u2014with open arms.\" but the full line, confirmed via multiple independent transcript/press sources of the 1965 KQED San Francisco press conference, is \"I welcome them with open arms and my bank account also welcomes them.\" The dropped clause is the actual punchline of Dylan's ironic answer about people who analyze his songs -- the stored version read as a sincere answer instead of the joke it was.",
+      "issue": "dylan-014: truncated quote. Stored content was \"I welcome them—with open arms.\" but the full line, confirmed via multiple independent transcript/press sources of the 1965 KQED San Francisco press conference, is \"I welcome them with open arms and my bank account also welcomes them.\" The dropped clause is the actual punchline of Dylan's ironic answer about people who analyze his songs -- the stored version read as a sincere answer instead of the joke it was.",
       "resolution": "fixed in PR #49, which was merged to main on 2026-08-06 (the 2026-08-05 run had independently re-confirmed the same wording via WebSearch). dylan-005..013 all verified verbatim (Nobel banquet speech, Nobel Lecture 2017, MusiCares 2015 speech, and the same 1965 KQED press conference, all primary/authoritative sources) -- no changes needed.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/48",
       "processNote": "carried forward from PR #49 (branch claude/charming-brown-3r07nr) so the state file reflects progress regardless of merge order. NOTE: this branch does NOT contain #49's dylan-014 content fix -- only its state entry; #49 was merged to main separately on 2026-08-06. PRs #46 (poem-038) and #47 (ldr-029) reviewed: well-sourced, positive corrections, no issues."
@@ -512,6 +512,22 @@
       "resolution": "courage-023 fixed in this run's PR: verificationStatus upgraded to verified, source/sourceType/quoteDate corrected to cite the speech directly (speech, 2013-07-12), content corrected to add the dropped 'that', notes rewritten to describe the correction and cite the corroborating transcripts.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/105",
       "processNote": "courage-024 (Susan B. Anthony, 'cautious, careful people') re-checked: independent aggregator convergence on the 1860 divorce-law-reform-campaign dating matches the collection's own existing note exactly -- already correctly hedged as 'attributed', no change. courage-025 (Nathan Hale), courage-026 (Martin Luther, Diet of Worms), courage-027 (Sojourner Truth, Akron 1851), and courage-028 (Aristotle paraphrase) are all well-documented cases of genuine wording/attribution uncertainty already correctly marked 'attributed' with accurate notes -- left unchanged. courage-029 (Churchill/William Arthur Ward misattribution) and courage-030 (E. E. Cummings) were already correctly marked 'unverified' with accurate notes -- left unchanged. courage-031 (Edmund Burke misattribution, added via PR #69/merged) re-checked, note remains accurate -- left unchanged. courage-conviction collection finishes this pass (31/31 quotes audited across issues #99, #101, and this run). WebFetch remained EGRESS_BLOCKED this run (malala.org); verification of courage-023 relied on WebSearch snippet triangulation across five independent transcript sources of the same speech, all converging on identical wording. PR review: 0 open PRs at the start of this run (the backlog of 7 open audit-report issues noted in the 2026-08-22 run is a separate, still-open housekeeping item -- issues, not PRs; left untouched since closing issues is outside this run's explicit scope). No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 299/2767. Pass 1 is NOT yet complete -- courage-conviction is index 10 of 85 in order[]; 74 collections remain unaudited in this pass. Next run begins creative-minds quotes[0] (index 11 in order[])."
+    },
+    {
+      "runDate": "2026-08-24",
+      "file": "creative-minds",
+      "quoteRange": "cm-001..cm-010",
+      "count": 10,
+      "passed": 8,
+      "flagged": 2,
+      "flaggedIds": [
+        "cm-005",
+        "cm-009"
+      ],
+      "issue": "cm-005 (Maya Angelou, 'You can't use up creativity...') was cited to 'Conversations with Maya Angelou (1989)', but Quote Investigator traces the line to an earlier primary appearance: Mary Ardito, 'Creativity: It's the Thought that Counts,' Bell Telephone Magazine, Vol. 61, No. 1 (1982) -- the 1989 book's editor (Jeffrey M. Elliot) himself footnoted the quote to that 1982 article rather than originating it. cm-009 (Edgar Degas, 'Art is not what you see, but what you make others see') was marked 'attributed' with an estimated c. 1880s date, but a HuffPost investigation (2015) found the line does not appear on any French-language site cataloguing Degas's documented sayings and could not be traced to any source at all, calling the attribution 'completely bogus'.",
+      "resolution": "cm-005 fixed in this run's PR: source corrected to the 1982 Bell Telephone Magazine article, quoteDate to 1982, notes updated to explain the correction. cm-009 downgraded from 'attributed' to 'unverified'; the unsupported c. 1880s date estimate was removed, and notes rewritten to cite the HuffPost debunking so it isn't miscatalogued as merely unverified-but-plausible by a future run.",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/106",
+      "processNote": "cm-001 (Einstein, Saturday Evening Post interview 1929) verified verbatim against the exact quoted passage from the Viereck interview. cm-002 (Picasso, 'every child is an artist'), cm-003 (Matisse, 'creativity takes courage'), and cm-004 (Picasso, 'chief enemy of creativity is good sense') were already correctly marked 'attributed' with accurate hedged notes describing genuine sourcing uncertainty -- left unchanged; this run's research (including Quote Investigator's findings on cm-002, tracing a possible but unconfirmed 1964 Paris Review interview origin) did not surface a strong enough lead to upgrade or correct any of the three. cm-006 (Osho, Creativity: Unleashing the Forces Within, 1999), cm-007 (Uchtdorf, October 2008 General Conference, confirmed against the official churchofjesuschrist.org transcript), and cm-008 (George Bernard Shaw, Back to Methuselah, 1921) all verified against their cited primary/authoritative sources -- no issues. cm-010 (Einstein, 'creativity is intelligence having fun') was already correctly marked 'unverified', and this run's research corroborates the existing note precisely: Quote Investigator traces it to a paraphrase drift from a March 1984 Harvard Magazine 'Mindplay' article ('Perhaps imagination is only intelligence having fun') that was never said by Einstein -- no change needed. WebFetch remained EGRESS_BLOCKED this run (quoteinvestigator.com), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation. This run's designated branch (claude/charming-cannon-ez06it) had its prior history already merged via PR #104, so it was reset to a fresh tip of main before this commit per the fresh-branch restart convention. PR review: 0 open PRs at the start of this run -- nothing to review. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Housekeeping: the backlog of open audit-report issues noted in recent runs was not re-checked in detail this run (outside explicit scope), flagged again as a standing item for whoever triages issues. Pass 1 total after this run: 309/2767. Pass 1 is NOT yet complete -- creative-minds is index 11 of 85 in order[] and has 32 quotes (only 10 audited so far). Next run begins creative-minds quotes[10] (cm-011)."
     }
   ]
 }
