@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Inspiration",
   "addedAt": "2026-07-01T01:53:56Z",
-  "lastUpdated": "2026-08-22T00:00:00Z",
+  "lastUpdated": "2026-08-23T00:00:00Z",
   "quotes": [
     {
       "id": "courage-001",
@@ -255,13 +255,13 @@
     },
     {
       "id": "courage-023",
-      "content": "I raise up my voice — not so I can shout, but so that those without a voice can be heard.",
+      "content": "I raise up my voice — not so that I can shout, but so that those without a voice can be heard.",
       "authorName": "Malala Yousafzai",
-      "source": "Attributed to Yousafzai in speeches and interviews on girls' education",
-      "sourceType": "unspecified",
-      "quoteDate": "c. 2013",
-      "verificationStatus": "attributed",
-      "notes": "Widely cited to her United Nations Youth Assembly address of 12 July 2013, but the line does not appear in that speech, whose closest sentence is 'I speak not for myself, but for those without a voice.' Date is estimated from the year the wording began circulating; the source axis fails.",
+      "source": "United Nations Youth Assembly address (\"Malala Day\" speech), New York, July 12, 2013",
+      "sourceType": "speech",
+      "quoteDate": "2013-07-12",
+      "verificationStatus": "verified",
+      "notes": "Corrected from a prior note claiming this line does not appear in the July 12, 2013 UN speech: multiple independent transcripts (Rev.com, Speakola, IBTimes, Opportunity Desk) confirm it does, immediately following 'I speak — not for myself, but for all girls and boys.' Content corrected to add the dropped word 'that' ('not so that I can shout'), matching the transcript wording exactly.",
       "addedAt": "2026-07-01T01:53:56Z"
     },
     {

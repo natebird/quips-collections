@@ -89,13 +89,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 10,
-    "file": "courage-conviction",
-    "quoteIndex": 22,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. courage-011..022 audited this run, 10/12 passed; courage-011 (wrong Rosa Parks book citation) fixed, courage-012 (Anaïs Nin wording/date uncertainty) downgraded to attributed. Next run starts at courage-conviction quotes[22] (courage-023)."
+    "fileIndex": 11,
+    "file": "creative-minds",
+    "quoteIndex": 0,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. courage-023..031 audited this run, 8/9 passed; courage-023 (Malala Yousafzai) fixed. courage-conviction finishes this pass (31/31 quotes audited). Next run starts at creative-minds quotes[0] (the next entry in order[] after courage-conviction, index 11)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 290,
+  "totalQuotesAudited": 299,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -497,6 +497,21 @@
       "resolution": "courage-011 fixed in this run's PR: source corrected to Quiet Strength (2000), quoteDate to c. 2000, notes updated. courage-012 downgraded from verified to attributed; quoteDate updated to the commonly-cited c. 1941 (still unconfirmed against a primary text) and notes rewritten to describe the wording/date uncertainty precisely, so it isn't miscatalogued as settled by a future run. No content rewrite proposed for courage-012 since no single confirmed-correct wording was found.",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "courage-013 (Douglass, West India Emancipation 1857), courage-014 (Evelyn Beatrice Hall / S.G. Tallentyre, The Friends of Voltaire 1906 -- correctly attributed to Hall rather than the popular Voltaire misattribution, a positive example already in the data), courage-016 (RBG, Radcliffe Medal remarks, confirmed verbatim and the May 29 2015 luncheon context via Harvard Crimson/WBUR/Radcliffe Institute coverage), courage-021 (Ambrose Redmoon, 'No Peaceful Warriors!', Gnosis #21 Fall 1991, confirmed verbatim including the exact citation via WIST Quotations), and courage-022 (C.S. Lewis, Screwtape Letters Letter 29) all verified against well-documented primary/authoritative sources, no changes. courage-015 (Angelou), courage-017 (Tutu), courage-018 (Confucius), courage-019 (Thucydides), and courage-020 (O'Keeffe) were already correctly marked 'attributed' with accurate hedged notes describing genuine wording/attribution uncertainty from when the collection was created -- these are the batch's intentional hedged examples, left unchanged; this run's spot research did not surface a stronger source for any of them. WebFetch remained EGRESS_BLOCKED this run (medium.com, en.wikiquote.org), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation, including site:en.wikiquote.org queries to recover Wikiquote's own wording for the Nin quote. Coverage-gap check: collections/*.json and order[] remain in exact agreement (85 files, 85 entries). PR review: found PR #100 ('Audit courage-conviction courage-001..010') already open at the start of this run, containing exactly the prior batch (already reported in issue #101 the previous day) -- independently spot-verified both of its fixes (courage-004 Twain citation via Quote Investigator's own article on that exact quote; courage-010 Lorde wording via multiple independent sources) before merging it directly rather than duplicating the work, then reset this run's branch to a fresh tip of main before starting new coverage at courage-conviction quotes[10]. No other open PRs existed at the start of this run. Housekeeping: 7 open audit-report issues now outstanding (#85, #87, #91, #93, #95, #99, #101), none closed since 2026-08-16 -- flagging as a growing backlog again; left untouched since closing issues is outside this run's explicit scope. Pass 1 total after this run: 290/2767. Next run begins courage-conviction quotes[22] (courage-023)."
+    },
+    {
+      "runDate": "2026-08-23",
+      "file": "courage-conviction",
+      "quoteRange": "courage-023..courage-031",
+      "count": 9,
+      "passed": 8,
+      "flagged": 1,
+      "flaggedIds": [
+        "courage-023"
+      ],
+      "issue": "courage-023 (Malala Yousafzai, 'I raise up my voice...') was marked verificationStatus 'attributed' with a note claiming the line does not appear in her 12 July 2013 UN Youth Assembly speech. That note was wrong: multiple independent transcripts of that exact speech (Rev.com, Speakola, IBTimes, Opportunity Desk, teachhumanrights.com PDF) show the line appears immediately after 'I speak — not for myself, but for all girls and boys' -- the two sentences are adjacent, not competing candidates. The stored content also dropped the word 'that' ('not so I can shout' vs. the transcript's 'not so that I can shout').",
+      "resolution": "courage-023 fixed in this run's PR: verificationStatus upgraded to verified, source/sourceType/quoteDate corrected to cite the speech directly (speech, 2013-07-12), content corrected to add the dropped 'that', notes rewritten to describe the correction and cite the corroborating transcripts.",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/105",
+      "processNote": "courage-024 (Susan B. Anthony, 'cautious, careful people') re-checked: independent aggregator convergence on the 1860 divorce-law-reform-campaign dating matches the collection's own existing note exactly -- already correctly hedged as 'attributed', no change. courage-025 (Nathan Hale), courage-026 (Martin Luther, Diet of Worms), courage-027 (Sojourner Truth, Akron 1851), and courage-028 (Aristotle paraphrase) are all well-documented cases of genuine wording/attribution uncertainty already correctly marked 'attributed' with accurate notes -- left unchanged. courage-029 (Churchill/William Arthur Ward misattribution) and courage-030 (E. E. Cummings) were already correctly marked 'unverified' with accurate notes -- left unchanged. courage-031 (Edmund Burke misattribution, added via PR #69/merged) re-checked, note remains accurate -- left unchanged. courage-conviction collection finishes this pass (31/31 quotes audited across issues #99, #101, and this run). WebFetch remained EGRESS_BLOCKED this run (malala.org); verification of courage-023 relied on WebSearch snippet triangulation across five independent transcript sources of the same speech, all converging on identical wording. PR review: 0 open PRs at the start of this run (the backlog of 7 open audit-report issues noted in the 2026-08-22 run is a separate, still-open housekeeping item -- issues, not PRs; left untouched since closing issues is outside this run's explicit scope). No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 299/2767. Pass 1 is NOT yet complete -- courage-conviction is index 10 of 85 in order[]; 74 collections remain unaudited in this pass. Next run begins creative-minds quotes[0] (index 11 in order[])."
     }
   ]
 }
