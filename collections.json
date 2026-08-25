@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-24T12:00:00Z",
+  "lastUpdated": "2026-08-25T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -138,9 +138,9 @@
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-08-13T12:00:00Z",
-      "contentHash": "sha256-FSd/+kUTA8cOpOv6gk8eoHm3JxOqAYMuzxqRq5PXlp8=",
-      "bytes": 17583
+      "lastUpdated": "2026-08-25T12:00:00Z",
+      "contentHash": "sha256-eVx/ix0q9exXInoUClbP+ssLz1cZlZBiSjC9BIzPSFE=",
+      "bytes": 19480
     },
     {
       "id": "tech-visionaries",
