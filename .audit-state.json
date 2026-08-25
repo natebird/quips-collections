@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 11,
     "file": "creative-minds",
-    "quoteIndex": 10,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. creative-minds cm-001..010 audited this run, 8/10 passed; cm-005 (Maya Angelou) and cm-009 (Edgar Degas) fixed. creative-minds has 32 quotes total, so this run does not finish it -- next run starts at creative-minds quotes[10] (cm-011)."
+    "quoteIndex": 20,
+    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. creative-minds cm-011..020 audited this run, 7/10 passed; cm-014 (Van Gogh), cm-017 (Le Guin), and cm-019 (Van Gogh) downgraded to unverified. creative-minds has 32 quotes total, so this run does not finish it -- next run starts at creative-minds quotes[20] (cm-021)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 309,
+  "totalQuotesAudited": 319,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -528,6 +528,23 @@
       "resolution": "cm-005 fixed in this run's PR: source corrected to the 1982 Bell Telephone Magazine article, quoteDate to 1982, notes updated to explain the correction. cm-009 downgraded from 'attributed' to 'unverified'; the unsupported c. 1880s date estimate was removed, and notes rewritten to cite the HuffPost debunking so it isn't miscatalogued as merely unverified-but-plausible by a future run.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/106",
       "processNote": "cm-001 (Einstein, Saturday Evening Post interview 1929) verified verbatim against the exact quoted passage from the Viereck interview. cm-002 (Picasso, 'every child is an artist'), cm-003 (Matisse, 'creativity takes courage'), and cm-004 (Picasso, 'chief enemy of creativity is good sense') were already correctly marked 'attributed' with accurate hedged notes describing genuine sourcing uncertainty -- left unchanged; this run's research (including Quote Investigator's findings on cm-002, tracing a possible but unconfirmed 1964 Paris Review interview origin) did not surface a strong enough lead to upgrade or correct any of the three. cm-006 (Osho, Creativity: Unleashing the Forces Within, 1999), cm-007 (Uchtdorf, October 2008 General Conference, confirmed against the official churchofjesuschrist.org transcript), and cm-008 (George Bernard Shaw, Back to Methuselah, 1921) all verified against their cited primary/authoritative sources -- no issues. cm-010 (Einstein, 'creativity is intelligence having fun') was already correctly marked 'unverified', and this run's research corroborates the existing note precisely: Quote Investigator traces it to a paraphrase drift from a March 1984 Harvard Magazine 'Mindplay' article ('Perhaps imagination is only intelligence having fun') that was never said by Einstein -- no change needed. WebFetch remained EGRESS_BLOCKED this run (quoteinvestigator.com), consistent with the multi-week pattern; verification relied on WebSearch snippet triangulation. This run's designated branch (claude/charming-cannon-ez06it) had its prior history already merged via PR #104, so it was reset to a fresh tip of main before this commit per the fresh-branch restart convention. PR review: 0 open PRs at the start of this run -- nothing to review. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Housekeeping: the backlog of open audit-report issues noted in recent runs was not re-checked in detail this run (outside explicit scope), flagged again as a standing item for whoever triages issues. Pass 1 total after this run: 309/2767. Pass 1 is NOT yet complete -- creative-minds is index 11 of 85 in order[] and has 32 quotes (only 10 audited so far). Next run begins creative-minds quotes[10] (cm-011)."
+    },
+    {
+      "runDate": "2026-08-25",
+      "file": "creative-minds",
+      "quoteRange": "cm-011..cm-020",
+      "count": 10,
+      "passed": 7,
+      "flagged": 3,
+      "flaggedIds": [
+        "cm-014",
+        "cm-017",
+        "cm-019"
+      ],
+      "issue": "cm-014 (Van Gogh, 'I dream my painting and I paint my dream') was marked verified and cited to a specific letter ('Letters to Theo, 1888'), but no such letter exists -- the line doesn't appear anywhere in the Van Gogh Museum/Huygens ING critical edition of all ~900 letters, circulates only via aggregator sites, and the earliest traceable attribution to Van Gogh dates only to the 1990s (one theory traces it to Corot instead). cm-017 (Le Guin, 'The creative adult is the child who survived') is a confirmed misattribution: Le Guin's actual 1974 essay says something different ('an adult is not a dead child, but a child who survived'), and Le Guin herself explicitly disclaimed the popular wording on her own website; Quote Investigator traces the earliest match to an undated, uncredited line in a 1999 quotations collection by Julian F. Fleron. cm-019 (Van Gogh, 'If you hear a voice within you say...') is a genuine letter (16 Oct 1883) but the exact stored wording doesn't match any published translation checked -- the 1927 and 1958 English editions and the modern vangoghletters.org critical edition all keep a trailing clause naming the cause of the silencing ('...but only by working' / '...but precisely because of that') that this collection's popularized wording drops.",
+      "resolution": "cm-014 downgraded from verified to unverified; the invented letter citation and date were removed. cm-017 downgraded from attributed to unverified with a note explaining the confirmed misattribution; authorName kept as Le Guin per the popular-attribution convention used elsewhere (e.g. the Burke quote in courage-conviction). cm-019 downgraded from verified to unverified; content was not rewritten since no single primary translation's exact wording could be confirmed this run (WebFetch to vangoghletters.org and quoteinvestigator.com was blocked).",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "cm-011 (Leonardo da Vinci, Treatise on Painting), cm-012 (Kandinsky, Concerning the Spiritual in Art, 1911), and cm-020 (Sylvia Plath, Unabridged Journals, wording confirmed verbatim including surrounding sentence via independent secondary sources quoting page 545 of the 2007 Anchor edition) all verified against genuine primary/authoritative sources -- no issues. cm-013 (Zola), cm-015/cm-018 (Picasso), and cm-016 (Dali) were already correctly marked 'attributed' with honest unspecified sourcing -- no primary trace found either way this run, left unchanged. WebFetch was EGRESS_BLOCKED again this run (quoteinvestigator.com, vangoghletters.org, ursulakleguin.com), consistent with the multi-week pattern; verification relied entirely on WebSearch snippet triangulation. 0 open PRs at the start of this run -- nothing to review. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 319/2767. Pass 1 is NOT yet complete -- creative-minds has 32 quotes (20 audited so far). Next run begins creative-minds quotes[20] (cm-021)."
     }
   ]
 }

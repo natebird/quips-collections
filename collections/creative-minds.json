@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-08-24T12:00:00Z",
+  "lastUpdated": "2026-08-25T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -157,11 +157,10 @@
       "id": "cm-014",
       "content": "I dream my painting and I paint my dream.",
       "authorName": "Vincent van Gogh",
-      "source": "Letters to Theo (1888)",
-      "sourceType": "letter",
-      "notes": "From Van Gogh's extensive correspondence with his brother Theo. Describes his intuitive creative process.",
-      "quoteDate": "1888",
-      "verificationStatus": "verified",
+      "source": "Attributed (unverified)",
+      "sourceType": "unspecified",
+      "notes": "Downgraded 2026-08-25 audit: previously cited to 'Letters to Theo (1888)', but no such letter exists -- the line does not appear anywhere in the Van Gogh Museum/Huygens ING critical edition (vangoghletters.org, all ~900 letters, fully searchable). It circulates only via aggregator sites (Goodreads, BrainyQuote, AZQuotes, quotefancy); the earliest traceable attributions to Van Gogh date only to the 1990s, and some sources suggest it may actually originate with Corot. No confirmed correct source was found to reassign it to, so downgraded rather than corrected; the invented letter citation and date were removed.",
+      "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -192,9 +191,9 @@
       "authorName": "Ursula K. Le Guin",
       "source": "Attributed (c. 1990s)",
       "sourceType": "unspecified",
-      "notes": "Attributed to the science fiction author. Reflects her views on imagination and the importance of preserving childlike wonder.",
+      "notes": "Downgraded 2026-08-25 audit: confirmed misattribution. Le Guin's actual 1974 essay 'Why Are Americans Afraid of Dragons?' (in The Language of the Night) reads 'an adult is not a dead child, but a child who survived' -- a different sentence, about maturity generally, not a standalone line about creativity. Le Guin explicitly disclaimed the popular wording on her own website (blog post '106. A Child Who Survived'); per Quote Investigator's research the earliest traced match is an undated line in Julian F. Fleron's 1999 quotations collection, credited to no one. Kept under the popular attribution (as with the Burke quote in courage-conviction) since that's what readers will search for, but the line is not authentically hers.",
       "quoteDate": "c. 1990s",
-      "verificationStatus": "attributed",
+      "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -214,9 +213,9 @@
       "authorName": "Vincent van Gogh",
       "source": "Letters to Theo (October 1883)",
       "sourceType": "letter",
-      "notes": "Verified from Van Gogh's letters. Advice about overcoming self-doubt through persistent creative action.",
+      "notes": "Downgraded 2026-08-25 audit: the underlying letter is genuine (Van Gogh to Theo, on or about 16 October 1883, Nieuw-Amsterdam), but this exact wording doesn't match any published translation found. The 1927 'Letters of Vincent Van Gogh to His Brother' and the 1958 'Complete Letters' both render it as '...then paint by all means, lad, and that voice will be silenced, but only by working'; the modern Van Gogh Museum/Huygens ING critical edition (vangoghletters.org, letter 397) reads '...and that voice will be silenced too, but precisely because of that.' All traced translations keep a trailing clause naming the cause of the silencing that this collection's popularized wording drops. Downgraded pending a direct primary-text check (WebFetch to vangoghletters.org and quoteinvestigator.com was blocked this run); content not rewritten since no single wording could be confirmed as the one to cite.",
       "quoteDate": "1883-10",
-      "verificationStatus": "verified",
+      "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
