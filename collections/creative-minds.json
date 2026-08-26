@@ -231,11 +231,11 @@
     },
     {
       "id": "cm-021",
-      "content": "To practice any art, no matter how well or badly, is a way to make your soul grow.",
+      "content": "Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven's sake.",
       "authorName": "Kurt Vonnegut",
-      "source": "A Man Without a Country (2005)",
+      "source": "A Man Without a Country (2005), \"Here Is a Lesson in Creative Writing\"",
       "sourceType": "book",
-      "notes": "From Vonnegut's collection of essays. He encourages creating for its own sake rather than for recognition.",
+      "notes": "From Vonnegut's collection of essays. He encourages creating for its own sake rather than for recognition. Content corrected from the popularized 'To practice any art...' paraphrase to the actual book wording, confirmed by Quote Investigator against page scans.",
       "quoteDate": "2005",
       "verificationStatus": "verified",
       "addedAt": "2026-06-27T20:29:50Z"
@@ -279,20 +279,20 @@
       "authorName": "Vincent van Gogh",
       "source": "Letters to Theo (October 1882)",
       "sourceType": "letter",
-      "notes": "Verified from Van Gogh's correspondence. Advice about breaking large creative projects into manageable steps.",
+      "notes": "The sentiment is genuinely from Van Gogh's 22 October 1882 letter to Theo (letter 274), but Quote Investigator found the popular wording splices together two non-adjacent passages from that letter rather than quoting it directly; the Van Gogh Museum's own translation of the relevant line reads closer to 'the great doesn't happen through impulse alone, and is a succession of little things that are brought together.' Downgraded from verified pending a confirmed single-source translation.",
       "quoteDate": "1882-10",
-      "verificationStatus": "verified",
+      "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
       "id": "cm-026",
       "content": "The true sign of intelligence is not knowledge but imagination.",
       "authorName": "Albert Einstein",
-      "source": "Attributed (c. 1920s-1930s)",
+      "source": "Attributed",
       "sourceType": "unspecified",
-      "notes": "Commonly attributed to Einstein. Aligns with his emphasis on thought experiments and creative thinking in physics.",
-      "quoteDate": "c. 1920s-1930s",
-      "verificationStatus": "attributed",
+      "notes": "Widely attributed to Einstein on quotation sites, but distinct from his documented 'Imagination is more important than knowledge' (1929 Saturday Evening Post interview, cm-001 in this collection). The earliest known print appearance of this exact phrasing traces only to a 2004 self-help book, not to Einstein's lifetime; no primary source has been found. Downgraded from 'attributed' and the unsupported c. 1920s-1930s date estimate removed.",
+      "quoteDate": null,
+      "verificationStatus": "unverified",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -321,11 +321,11 @@
       "id": "cm-029",
       "content": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
       "authorName": "Ayn Rand",
-      "source": "The Fountainhead (1943)",
-      "sourceType": "book",
-      "notes": "From Rand's novel about architect Howard Roark. Reflects her philosophy of individual creative achievement.",
-      "quoteDate": "1943",
-      "verificationStatus": "verified",
+      "source": "\"The Moratorium on Brains,\" The Ayn Rand Letter, Vol. I, No. 2 (October 25, 1971)",
+      "sourceType": "article",
+      "notes": "Reflects Rand's philosophy of individual creative achievement. Source corrected: the line is not from The Fountainhead (no page-cited occurrence found in the novel, including its widely-quoted Roark courtroom speech) but from her essay \"The Moratorium on Brains\" in The Ayn Rand Letter, per the Ayn Rand Institute's own Lexicon and Wikiquote's Competition page.",
+      "quoteDate": "1971-10-25",
+      "verificationStatus": "attributed",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
