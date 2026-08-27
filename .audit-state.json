@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 12,
     "file": "cs-lewis",
-    "quoteIndex": 0,
-    "note": "quoteIndex is the 0-based index of the NEXT quote to audit within `file`. creative-minds cm-021..032 audited this run, 8/12 passed; cm-021 (Vonnegut) had its content corrected, cm-025 (Van Gogh) and cm-026 (Einstein) downgraded to unverified, cm-029 (Ayn Rand) had its source corrected and was downgraded to attributed. This finishes creative-minds (32/32 quotes across three runs). Next run begins cs-lewis quotes[0] (index 12 in order[])."
+    "quoteIndex": 12,
+    "note": "cs-lewis cslewis-001..012 audited this run, 11/12 passed; cslewis-002 (the Liar/Lunatic/Lord trilemma) had a wording error corrected ('on a level with' -> 'on the level with', per Mere Christianity Book 2 Ch 3, cross-checked against Wikipedia's Lewis's trilemma article). 12/32 of cs-lewis done. Next run continues cs-lewis quotes[12]."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 331,
+  "totalQuotesAudited": 343,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -563,6 +563,20 @@
       "resolution": "cm-021 fixed in this run's PR: content corrected to the confirmed book wording. cm-025 downgraded from verified to unverified; content left unrewritten since no single confirmed primary translation was pinned down this run (WebFetch to vangoghletters.org was blocked). cm-026 downgraded from attributed to unverified; the unsupported 1920s-1930s date estimate removed (quoteDate set to null). cm-029 fixed: source/quoteDate corrected to the Ayn Rand Letter essay, downgraded from verified to attributed pending a page-cited primary confirmation of the essay's exact wording.",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/111",
       "processNote": "cm-022 (Thomas Merton, No Man Is an Island, page 35 of the 2005 Shambhala edition), cm-024 (Michelangelo, already correctly attributed -- independent research this run re-confirmed the exact same earliest trace, Ambition magazine January 1916, that the collection's existing note already cited), cm-027 (Picasso, The Arts magazine May 1923, Marius de Zayas's 'Picasso Speaks' interview, confirmed via Quote Investigator), cm-031 (Le Guin, National Book Award acceptance speech, wording reconfirmed against multiple independent transcripts), and cm-032 (Morrison, Nobel Lecture, wording reconfirmed against the official Nobel Prize record) all verified against genuine primary/authoritative sources -- no issues. cm-023 (Picasso, 'inspiration... find you working') and cm-028 (Picasso, 'everything you can imagine is real') and cm-030 (Giacometti) were already correctly marked 'attributed' with honest unsourced/broad-date notes -- no primary trace found either way this run, left unchanged. This run's designated branch (claude/charming-cannon-86tixh) had its prior history already merged via PR #110, so it was reset to a fresh tip of main before starting new coverage. WebFetch remained EGRESS_BLOCKED this run (vangoghletters.org, quoteinvestigator.com, dardiscommunications.com, panarchy.org); verification relied entirely on WebSearch snippet triangulation, including a site:en.wikiquote.org query that recovered the correct Ayn Rand Letter attribution for cm-029. PR review: 0 open PRs at the start of this run -- nothing to review. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). This run finishes a full pass of creative-minds (32/32 quotes audited across the 2026-08-24, 2026-08-25, and this run). Pass 1 total after this run: 331/2767. Pass 1 is NOT yet complete -- creative-minds is index 11 of 85 in order[]; 73 collections remain unaudited in this pass. Next run begins cs-lewis quotes[0] (index 12 in order[])."
+    },
+    {
+      "runDate": "2026-08-27",
+      "file": "cs-lewis",
+      "quoteRange": "cslewis-001..cslewis-012",
+      "count": 12,
+      "passed": 11,
+      "flagged": 1,
+      "flaggedIds": [
+        "cslewis-002"
+      ],
+      "issue": "minor misquote ('on a level with' should be 'on the level with')",
+      "resolution": "fixed in this run's PR; content corrected per Mere Christianity text, cross-checked against Wikipedia's Lewis's trilemma article",
+      "reportedIn": "see GitHub issue created this run"
     }
   ]
 }
