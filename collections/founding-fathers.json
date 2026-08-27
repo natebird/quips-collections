@@ -9,7 +9,7 @@
   "iconName": "flag.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-20T12:00:00Z",
+  "lastUpdated": "2026-08-27T12:00:00Z",
   "quotes": [
     {
       "id": "found-001",
@@ -384,6 +384,17 @@
       "sourceType": "article",
       "notes": "From Madison's argument for separation of powers with checks between branches; text confirmed against the Avalon Project, Bill of Rights Institute, and Founders Online transcriptions of Federalist No. 51.",
       "addedAt": "2026-08-20T12:00:00Z"
+    },
+    {
+      "id": "found-035",
+      "content": "Observe good faith and justice towards all nations; cultivate peace and harmony with all.",
+      "authorName": "George Washington",
+      "source": "Farewell Address (September 19, 1796)",
+      "quoteDate": "1796-09-19",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "From Washington's counsel on foreign policy near the close of his presidency, published as a letter to \"The People of the United States.\"",
+      "addedAt": "2026-08-27T12:00:00Z"
     }
   ]
 }
