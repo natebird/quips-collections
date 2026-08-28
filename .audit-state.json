@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 12,
     "file": "cs-lewis",
-    "quoteIndex": 12,
-    "note": "cs-lewis cslewis-001..012 audited this run, 11/12 passed; cslewis-002 (the Liar/Lunatic/Lord trilemma) had a wording error corrected ('on a level with' -> 'on the level with', per Mere Christianity Book 2 Ch 3, cross-checked against Wikipedia's Lewis's trilemma article). 12/32 of cs-lewis done. Next run continues cs-lewis quotes[12]."
+    "quoteIndex": 22,
+    "note": "cs-lewis cslewis-013..022 audited this run, 6/10 passed; four minor wording drops corrected: cslewis-013 dropped 'certainly' (Four Loves Ch.6), cslewis-014 'that moment' should be 'the moment' (Four Loves Ch.4), cslewis-015 dropped leading 'Indeed' (Screwtape Letters, Letter XII), cslewis-021 dropped leading 'I think' (Reflections on the Psalms Ch.9) -- each confirmed against multiple convergent independent full-passage citations. 22/32 of cs-lewis done. Next run continues cs-lewis quotes[22] (cslewis-023)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 343,
+  "totalQuotesAudited": 353,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -577,6 +577,24 @@
       "issue": "minor misquote ('on a level with' should be 'on the level with')",
       "resolution": "fixed in this run's PR; content corrected per Mere Christianity text, cross-checked against Wikipedia's Lewis's trilemma article",
       "reportedIn": "see GitHub issue created this run"
+    },
+    {
+      "runDate": "2026-08-28",
+      "file": "cs-lewis",
+      "quoteRange": "cslewis-013..cslewis-022",
+      "count": 10,
+      "passed": 6,
+      "flagged": 4,
+      "flaggedIds": [
+        "cslewis-013",
+        "cslewis-014",
+        "cslewis-015",
+        "cslewis-021"
+      ],
+      "issue": "four minor wording drops, each confirmed against multiple convergent independent full-passage citations of the primary text: cslewis-013 dropped 'certainly' ('your heart will be wrung' -> should be 'will certainly be wrung', The Four Loves Ch.6); cslewis-014 had 'that moment' where the original reads 'the moment' (The Four Loves Ch.4); cslewis-015 dropped the leading word 'Indeed' (The Screwtape Letters, Letter XII); cslewis-021 dropped the leading clause 'I think' (Reflections on the Psalms, Ch.9, 'A Word About Praising'). cslewis-016..020, 022 (Screwtape preface, A Grief Observed opening line, Great Divorce Ch.9 x2, Abolition of Man Ch.1, Surprised by Joy Ch.14) all verified verbatim -- no issues.",
+      "resolution": "all four fixed in this run's PR; content corrected in each case, notes updated to record the correction and cite the convergent sourcing",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "WebSearch worked this run (no EGRESS_BLOCKED issues); verification relied on multiple independent full-paragraph quotations per flagged quote (not single aggregator hits) before treating a dropped word as confirmed rather than a benign variant. PR review: 1 open PR (#114, 'Add 5 verified quotes: Sherlock Holmes, Founding Fathers, Great Speeches') -- independently re-verified all 5 new quotes (two Sherlock Holmes canon lines, Washington's Farewell Address, Chief Joseph's surrender speech incl. the Harper's Weekly Nov 17 1877 citation date, and Stanton's Declaration of Sentiments) against primary/authoritative sources -- all confirmed verbatim and well-cited, no issues; left open per its own 'not merging, leaving for review' note. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 353/2767. Next run begins cs-lewis quotes[22] (cslewis-023)."
     }
   ]
 }
