@@ -9,7 +9,7 @@
   "iconName": "magnifyingglass",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-06-27T12:00:00Z",
+  "lastUpdated": "2026-08-27T12:00:00Z",
   "quotes": [
     {
       "id": "sherlock-001",
@@ -483,6 +483,28 @@
       "verificationStatus": "verified",
       "notes": "Dr. Mortimer's chilling revelation that sets the most famous Holmes novel in motion.",
       "addedAt": "2026-06-28T02:20:43Z"
+    },
+    {
+      "id": "sherlock-044",
+      "content": "It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn.",
+      "authorName": "Sherlock Holmes",
+      "source": "A Study in Scarlet, Part I, Ch. 3 \"The Lauriston Garden Mystery\" (1887)",
+      "sourceType": "book",
+      "quoteDate": "1887",
+      "verificationStatus": "verified",
+      "notes": "Holmes needles Inspector Gregson, arguing that a case's sensational trappings make it easier, not harder, to solve.",
+      "addedAt": "2026-08-27T12:00:00Z"
+    },
+    {
+      "id": "sherlock-045",
+      "content": "You know my method. It is founded upon the observation of trifles.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Boscombe Valley Mystery (1891)",
+      "sourceType": "book",
+      "quoteDate": "1891",
+      "verificationStatus": "verified",
+      "notes": "Holmes restates his core methodology to Watson while examining the scene of old McCarthy's murder.",
+      "addedAt": "2026-08-27T12:00:00Z"
     }
   ]
 }
