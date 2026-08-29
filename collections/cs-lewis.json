@@ -343,24 +343,24 @@
     },
     {
       "id": "cslewis-031",
-      "content": "What you see and what you hear depends a great deal on where you are standing. It also depends on what sort of person you are.",
+      "content": "For what you see and hear depends a good deal on where you are standing: it also depends on what sort of person you are.",
       "authorName": "C. S. Lewis",
-      "source": "The Magician's Nephew, Ch. 12 (1955)",
+      "source": "The Magician's Nephew, Ch. 10 (1955)",
       "quoteDate": "1955",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "Narration on how perception is shaped by one's own character.",
+      "notes": "Narration on how perception is shaped by one's own character. Corrected 2026-08-29: wording and chapter were both wrong ('What you see and what you hear depends a great deal...' / Ch. 12 is a popular paraphrase circulating on quote-aggregator sites); the actual text reads 'For what you see and hear depends a good deal...' and is narration in Ch. 10 ('The First Joke and Other Matters'), on Uncle Andrew's perception of Narnia's creation.",
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {
       "id": "cslewis-032",
-      "content": "The greatest evil is not done in those sordid dens of crime that Dickens loved to paint. It is conceived and ordered in clean, carpeted, warmed and well-lighted offices, by quiet men with white collars.",
+      "content": "The greatest evil is not now done in those sordid 'dens of crime' that Dickens loved to paint. It is not done even in concentration camps and labour camps. But it is conceived and ordered (moved, seconded, carried, and minuted) in clean, carpeted, warmed and well-lighted offices, by quiet men with white collars and cut fingernails and smooth-shaven cheeks who do not need to raise their voices.",
       "authorName": "C. S. Lewis",
       "source": "The Screwtape Letters, Preface (1961 revised ed.)",
       "quoteDate": "1961",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "From the preface added to the 1961 edition, on the bureaucratic face of evil.",
+      "notes": "From the preface added to the 1961 edition, on the bureaucratic face of evil. Corrected 2026-08-29: the stored text silently dropped 'now', an entire sentence about concentration and labour camps, the parenthetical '(moved, seconded, carried, and minuted)', and the closing clause about cut fingernails, smooth-shaven cheeks, and not needing to raise one's voice -- restored the full sentence per the original preface text.",
       "addedAt": "2026-07-01T01:58:18Z"
     }
   ]
