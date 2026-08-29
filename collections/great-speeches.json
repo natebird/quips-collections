@@ -9,7 +9,7 @@
   "iconName": "megaphone.fill",
   "category": "History & Speeches",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-08-20T12:00:00Z",
+  "lastUpdated": "2026-08-27T12:00:00Z",
   "quotes": [
     {
       "id": "speech-001",
@@ -384,6 +384,28 @@
       "sourceType": "speech",
       "notes": "Delivered to the Rochester Ladies' Anti-Slavery Society the day after Independence Day; wording confirmed against the Gilder Lehrman Institute and San Diego State University transcripts of the original 1852 pamphlet.",
       "addedAt": "2026-08-20T12:00:00Z"
+    },
+    {
+      "id": "speech-035",
+      "content": "From where the sun now stands I will fight no more forever.",
+      "authorName": "Chief Joseph",
+      "source": "Surrender speech, Bear Paw Mountains, Montana Territory (October 5, 1877)",
+      "quoteDate": "1877-10-05",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Delivered to General Nelson Miles at the end of the Nez Perce War; recorded by Lieutenant Charles Erskine Scott Wood and printed in Harper's Weekly (November 17, 1877).",
+      "addedAt": "2026-08-27T12:00:00Z"
+    },
+    {
+      "id": "speech-036",
+      "content": "We hold these truths to be self-evident: that all men and women are created equal; that they are endowed by their Creator with certain inalienable rights; that among these are life, liberty, and the pursuit of happiness.",
+      "authorName": "Elizabeth Cady Stanton",
+      "source": "Declaration of Sentiments, Seneca Falls Convention, New York (July 19-20, 1848)",
+      "quoteDate": "1848-07-19",
+      "verificationStatus": "verified",
+      "sourceType": "speech",
+      "notes": "Stanton's recasting of the Declaration of Independence to demand equal rights for women, read and adopted at the first women's rights convention.",
+      "addedAt": "2026-08-27T12:00:00Z"
     }
   ]
 }

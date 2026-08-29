@@ -579,6 +579,24 @@
       "reportedIn": "see GitHub issue created this run"
     },
     {
+      "runDate": "2026-08-28",
+      "file": "cs-lewis",
+      "quoteRange": "cslewis-013..cslewis-022",
+      "count": 10,
+      "passed": 6,
+      "flagged": 4,
+      "flaggedIds": [
+        "cslewis-013",
+        "cslewis-014",
+        "cslewis-015",
+        "cslewis-021"
+      ],
+      "issue": "four minor wording drops, each confirmed against multiple convergent independent full-passage citations of the primary text: cslewis-013 dropped 'certainly' ('your heart will be wrung' -> should be 'will certainly be wrung', The Four Loves Ch.6); cslewis-014 had 'that moment' where the original reads 'the moment' (The Four Loves Ch.4); cslewis-015 dropped the leading word 'Indeed' (The Screwtape Letters, Letter XII); cslewis-021 dropped the leading clause 'I think' (Reflections on the Psalms, Ch.9, 'A Word About Praising'). cslewis-016..020, 022 (Screwtape preface, A Grief Observed opening line, Great Divorce Ch.9 x2, Abolition of Man Ch.1, Surprised by Joy Ch.14) all verified verbatim -- no issues.",
+      "resolution": "all four fixed in this run's PR; content corrected in each case, notes updated to record the correction and cite the convergent sourcing",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "WebSearch worked this run (no EGRESS_BLOCKED issues); verification relied on multiple independent full-paragraph quotations per flagged quote (not single aggregator hits) before treating a dropped word as confirmed rather than a benign variant. PR review: 1 open PR (#114, 'Add 5 verified quotes: Sherlock Holmes, Founding Fathers, Great Speeches') -- independently re-verified all 5 new quotes (two Sherlock Holmes canon lines, Washington's Farewell Address, Chief Joseph's surrender speech incl. the Harper's Weekly Nov 17 1877 citation date, and Stanton's Declaration of Sentiments) against primary/authoritative sources -- all confirmed verbatim and well-cited, no issues; left open per its own 'not merging, leaving for review' note. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 353/2767. Next run begins cs-lewis quotes[22] (cslewis-023)."
+    },
+    {
       "runDate": "2026-08-29",
       "file": "cs-lewis",
       "quoteRange": "cslewis-023..cslewis-032",

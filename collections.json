@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-25T12:00:00Z",
+  "lastUpdated": "2026-08-27T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -227,7 +227,7 @@
       "name": "Sherlock Holmes",
       "description": "The sharp deductions, dry wit, and enduring friendship of Sherlock Holmes and Dr. Watson, drawn straight from Arthur Conan Doyle's canon.",
       "author": "Quips Editorial",
-      "quoteCount": 43,
+      "quoteCount": 45,
       "previewQuotes": [
         "You see, but you do not observe. The distinction is clear.",
         "Come, Watson, come! The game is afoot."
@@ -238,9 +238,9 @@
       "iconName": "magnifyingglass",
       "category": "Literature",
       "addedAt": "2026-06-28T02:20:43Z",
-      "lastUpdated": "2026-06-27T12:00:00Z",
-      "contentHash": "sha256-/NcSt3fMRYJjk00xInIIa9VqR2gnZ7oivu9DHuYdpNY=",
-      "bytes": 20286
+      "lastUpdated": "2026-08-27T12:00:00Z",
+      "contentHash": "sha256-ojbcje/kV1+7fpfSqX0FXvPyqGFxMzVBPan5r0XJnr8=",
+      "bytes": 21414
     },
     {
       "id": "edgar-allan-poe",
@@ -819,8 +819,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-UpX0ZBvFjdPILArkqASgEnT1MSeSNl6ymFQdfyg5Agg=",
-      "bytes": 17157
+      "contentHash": "sha256-sJ0JCYLKIi650yht8rxv4bWeSMr7gdADb5aRNRUsX5M=",
+      "bytes": 17915
     },
     {
       "id": "quran",
@@ -1147,7 +1147,7 @@
       "name": "Great Speeches",
       "description": "The lines that changed history, drawn from the world's most powerful addresses.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 36,
       "previewQuotes": [
         "I have nothing to offer but blood, toil, tears and sweat.",
         "Free at last! Free at last! Thank God Almighty, we are free at last!"
@@ -1158,16 +1158,16 @@
       "iconName": "megaphone.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-20T12:00:00Z",
-      "contentHash": "sha256-ZlGGNIVIxdinJCGczIVl10zJnU+c6csPMIKyj1OQL8A=",
-      "bytes": 20077
+      "lastUpdated": "2026-08-27T12:00:00Z",
+      "contentHash": "sha256-kHzu3CpgiN8EuyImK8TyW+uNd3oTkuThmzox7Q624K8=",
+      "bytes": 21387
     },
     {
       "id": "founding-fathers",
       "name": "Founding Fathers",
       "description": "Liberty, virtue, and self-government in the words of America's founders.",
       "author": "Quips Editorial",
-      "quoteCount": 34,
+      "quoteCount": 35,
       "previewQuotes": [
         "Well done is better than well said.",
         "My country is the world, and my religion is to do good."
@@ -1178,9 +1178,9 @@
       "iconName": "flag.fill",
       "category": "History & Speeches",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-08-20T12:00:00Z",
-      "contentHash": "sha256-DFG4l7x1MBVu8qSHhhffdJsAVWpreXgrL9XaQQcm6CM=",
-      "bytes": 20693
+      "lastUpdated": "2026-08-27T12:00:00Z",
+      "contentHash": "sha256-F3RpF1ZRqO/ouu5cypd0N5KpwKGY+6vM/fzlK0CxQmY=",
+      "bytes": 21240
     },
     {
       "id": "civil-rights-voices",
