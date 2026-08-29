@@ -11,7 +11,7 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [Unreleased]
+## [1.14.1] - 2026-08-29
 ### Changed
 `published-quotes.json` is now `newsletter-issues.json`, and each entry carries a
 `slug`, a `status` (`backlog` / `scheduled` / `sent`), a nullable `issueNumber`,
