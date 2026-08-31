@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 13,
     "file": "curiosity-discovery",
-    "quoteIndex": 10,
-    "note": "cs-lewis is fully audited and complete (32/32) as of the 2026-08-29 run; PRs #114, #115, and #117 all merged into main by the time this run started, confirming the prior cursor advance held. This run applied the one outstanding fix #117 itself flagged but left for the branch owner: cslewis-013 was still missing the word 'be' before 'broken' ('...and possibly broken' instead of '...and possibly be broken'), reconfirmed against multiple convergent independent full-passage citations. curiosity-discovery disc-001..010 (10/28) audited this run, 0 flagged. Next run begins curiosity-discovery quotes[10] (disc-011)."
+    "quoteIndex": 20,
+    "note": "This run built its branch directly on top of unmerged PR #119's tip rather than main, since #119 (2026-08-30) already covered cslewis-013's carryover fix and curiosity-discovery disc-001..010 with 0 issues -- see this run's own run entry below for a note on a range/count discrepancy in #119's write-up that this run resolved by independently re-verifying disc-011 and disc-012. curiosity-discovery disc-011..020 (10/28) audited this run, 1 flagged (disc-016). Next run begins curiosity-discovery quotes[20] (disc-021); 8 quotes remain in this collection after that."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 373,
+  "totalQuotesAudited": 383,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -624,6 +624,21 @@
       "resolution": "cslewis-013 fixed in this run's PR (carryover from the 2026-08-29 run's review comment on PR #115, which had since merged with the fix still incomplete); no other changes needed.",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "Start-of-run housekeeping check found the repo further ahead than the state file's own cursor note anticipated: PRs #114, #115, and #117 (cs-lewis audits + 5 new quotes) and #118 (release 1.14.1) had all merged into main since the 2026-08-29 run, so this run's designated branch was created fresh from origin/main rather than needing any reset. list_pull_requests initially reported 'merged: false' for every closed PR going back to #1, including ones with 'Merge pull request #N' commits sitting directly on main's history -- cross-checked with pull_request_read (method: get) on #113 and #118, which correctly reported merged:true; this looks like a bug in list_pull_requests' merged-status field under fields-filtering rather than an actual unmerged-work backlog. Future runs: don't trust list_pull_requests' merged flag, verify with pull_request_read or commit ancestry. 0 open PRs at the start of this run (confirmed via list_pull_requests state=open with no fields filter) -- nothing to review this run. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 373/2767. Next run begins curiosity-discovery quotes[10] (disc-011)."
+    },
+    {
+      "runDate": "2026-08-31",
+      "file": "curiosity-discovery",
+      "quoteRange": "disc-011..disc-020",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "disc-016"
+      ],
+      "issue": "disc-011 (Grace Hopper, 'most damaging phrase... we've always done it this way', Information Week interview, 9 March 1987) and disc-012 (Hopper, 'easier to apologize than to get permission', already correctly noted as a pre-existing proverb she popularized rather than coined) independently re-verified with no issues, resolving an ambiguity left by PR #119: that PR's title/cursor claimed only disc-001..010 were audited, but its own write-up text also described disc-011 and disc-012 as verified -- this run re-checked both directly rather than assuming either claim. disc-013/014 (Turing, 'Computing Machinery and Intelligence', Mind 1950, both lines confirmed verbatim against primary-source PDF mirrors of the actual paper), disc-018 (Nightingale, Notes on Nursing, 1859, verbatim), disc-019/020 (Katherine Johnson, NASA-published interview material, both lines confirmed including the 'I asked questions. I wanted to know why.' continuation) all verified -- no issues. disc-015 (Buckminster Fuller, 'I Seem to Be a Verb') is genuine and the sourced sentence is correct, but independent sources disagree on its very last words ('an integral function of the universe' vs 'of Universe', Fuller's idiosyncratic capitalization) -- not changed, since no primary-text access was available to settle it. disc-016 (Cousteau, 'When one man... has the opportunity to lead an extraordinary life...') was marked verified and cited to The Silent World (1953), but the wording traces only to aggregator/quote sites (Goodreads, BrainyQuote, AZQuotes, quotepark) with no page citation or primary-text excerpt found anywhere; a 2019 tweet from Cousteau's own grandson Fabien Cousteau quotes a differently-worded variant ('the chance to lead', no comma), consistent with an oral saying rather than a fixed book quotation. disc-017 was already correctly self-flagged unverified (left unchanged).",
+      "resolution": "disc-016 downgraded from verified to unverified; source field reworded to 'widely attributed to' rather than a flat citation; content and authorName unchanged since no confirmed correct primary citation was found to replace it with. No other changes needed.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "This run's designated branch was reset to the tip of PR #119 (claude/charming-cannon-t1zg05) rather than main, since #119 was a single commit sitting directly on main's then-current tip (78bf079) with no divergent history to reconcile -- confirmed via `git merge-base --is-ancestor` before treating it as a safe base, per the lesson from the 2026-08-06 run about not assuming ancestry without checking. This run's PR is therefore a strict superset of #119 plus this run's new disc-011..020 coverage and the disc-016 fix; merging this PR alone is sufficient and #119 can be closed as superseded. WebFetch was EGRESS_BLOCKED on nasa.gov this run; verification of the Katherine Johnson quotes relied on WebSearch snippet triangulation across NASA's own published learning-resources page text (returned via search snippets) plus independent corroborating sites. Pass 1 total after this run: 383/2767. Next run begins curiosity-discovery quotes[20] (disc-021); 8 quotes remain in curiosity-discovery after that."
     }
   ]
 }
