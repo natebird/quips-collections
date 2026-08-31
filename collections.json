@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-27T12:00:00Z",
+  "lastUpdated": "2026-08-31T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -427,7 +427,7 @@
       "name": "Self-Compassion & Kindness",
       "description": "Gentle reminders to treat yourself, and everyone you meet, with the kindness you deserve.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Talk to yourself like you would to someone you love.",
         "Be kind whenever possible. It is always possible."
@@ -438,9 +438,9 @@
       "iconName": "heart.circle.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-2tB7LvINZqxlgvwbqG9SqrFlToCmS0k8M+zVmzLFUUM=",
-      "bytes": 15617
+      "lastUpdated": "2026-08-31T12:00:00Z",
+      "contentHash": "sha256-mtSS/ZLIg2Fn/jkWj2m+4WoOPkfeJ667hJd6nnWZzDI=",
+      "bytes": 16432
     },
     {
       "id": "rest-balance",
