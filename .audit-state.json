@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 13,
     "file": "curiosity-discovery",
-    "quoteIndex": 0,
-    "note": "cs-lewis fully audited across two runs: cslewis-013..022 in PR #115 (2026-08-28, open/unmerged as of this run -- 4 wording fixes, one of which was itself incomplete, see this run's PR-review note below) and cslewis-023..032 in this run (8/10 passed, 2 flagged). cs-lewis is now 32/32 complete. This cursor advance assumes PR #115 merges; if it is closed without merging instead, cslewis-013..022 will need re-auditing before curiosity-discovery is picked up for real. Next run begins curiosity-discovery quotes[0]."
+    "quoteIndex": 10,
+    "note": "cs-lewis is fully audited and complete (32/32) as of the 2026-08-29 run; PRs #114, #115, and #117 all merged into main by the time this run started, confirming the prior cursor advance held. This run applied the one outstanding fix #117 itself flagged but left for the branch owner: cslewis-013 was still missing the word 'be' before 'broken' ('...and possibly broken' instead of '...and possibly be broken'), reconfirmed against multiple convergent independent full-passage citations. curiosity-discovery disc-001..010 (10/28) audited this run, 0 flagged. Next run begins curiosity-discovery quotes[10] (disc-011)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 363,
+  "totalQuotesAudited": 373,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -611,6 +611,19 @@
       "resolution": "both fixed in this run's PR; content corrected in full",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "PR review, two open PRs: #114 ('Add 5 verified quotes: Sherlock Holmes, Founding Fathers, Great Speeches') was already independently re-verified in PR #115 (2026-08-28) with no issues found; not re-checked here to avoid duplicate work. #115 ('Audit cs-lewis cslewis-013..022', open/unmerged) was independently re-verified: 3 of its 4 corrections (cslewis-014, -015, -021) confirmed accurate against multiple sources, but its cslewis-013 fix is still incomplete -- it corrected 'will be wrung' to 'will certainly be wrung' but missed the 'be' before 'broken' (should read '...and possibly be broken', confirmed via the full surrounding passage across independent sources). Left a review comment on #115 with the remaining fix rather than pushing to someone else's branch. Also noted #115's own state-file entry claims 'see GitHub issue created this run' but no such issue exists in the repo -- likely a slipped step in that run; flagged here rather than fixed, since it isn't this run's file to edit."
+    },
+    {
+      "runDate": "2026-08-30",
+      "file": "cs-lewis (carryover fix) + curiosity-discovery",
+      "quoteRange": "cslewis-013 (carryover) + disc-001..disc-010",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none in this run's new coverage -- disc-001 (Edison, Rosanoff account, Harper's Monthly Sept 1932), disc-002 (Edison, via Mallory's account in Dyer & Martin's Edison: His Life and Inventions, 1910), disc-003/004 (Tesla, My Inventions, Electrical Experimenter 1919), disc-005 (Tesla, Politika interview April 1927, reproduced in Cheney/Uth/Glenn), disc-006 (Wilbur Wright, address to the Western Society of Engineers, 18 Sept 1901), disc-007 (Orville Wright, letter to George A. Spratt, 7 June 1908), disc-008 (Fleming, Nobel Lecture, 11 Dec 1945, confirmed verbatim against the official nobelprize.org lecture text), disc-010 (Salk, Murrow's See It Now, 12 April 1955), disc-011 (Hopper, Information Week interview, 9 March 1987), and disc-012 (Hopper, habitual saying re: apologize vs. permission) all verified verbatim against primary/authoritative sources -- no issues. disc-009 was already correctly self-flagged verificationStatus unverified (Fleming 'I did not invent penicillin' line, no primary source traced) -- left unchanged. Separately, applied the one remaining carryover fix identified but not yet applied by the 2026-08-29 run: cslewis-013 (The Four Loves, Ch. 6) was still missing the word 'be' before 'broken' after its 2026-08-28 partial correction; corrected to '...and possibly be broken', reconfirmed via multiple convergent independent full-passage citations (CS Lewis Institute, cslewis.com, and secondary quote compilations all agree on this exact wording).",
+      "resolution": "cslewis-013 fixed in this run's PR (carryover from the 2026-08-29 run's review comment on PR #115, which had since merged with the fix still incomplete); no other changes needed.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Start-of-run housekeeping check found the repo further ahead than the state file's own cursor note anticipated: PRs #114, #115, and #117 (cs-lewis audits + 5 new quotes) and #118 (release 1.14.1) had all merged into main since the 2026-08-29 run, so this run's designated branch was created fresh from origin/main rather than needing any reset. list_pull_requests initially reported 'merged: false' for every closed PR going back to #1, including ones with 'Merge pull request #N' commits sitting directly on main's history -- cross-checked with pull_request_read (method: get) on #113 and #118, which correctly reported merged:true; this looks like a bug in list_pull_requests' merged-status field under fields-filtering rather than an actual unmerged-work backlog. Future runs: don't trust list_pull_requests' merged flag, verify with pull_request_read or commit ancestry. 0 open PRs at the start of this run (confirmed via list_pull_requests state=open with no fields filter) -- nothing to review this run. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 373/2767. Next run begins curiosity-discovery quotes[10] (disc-011)."
     }
   ]
 }
