@@ -9,7 +9,7 @@
   "iconName": "heart.circle.fill",
   "category": "Wellness",
   "addedAt": "2026-07-01T12:47:46Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-08-31T12:00:00Z",
   "quotes": [
     {
       "id": "sc-001",
@@ -340,6 +340,17 @@
       "quoteDate": "1901",
       "verificationStatus": "verified",
       "addedAt": "2026-07-01T12:47:46Z"
+    },
+    {
+      "id": "sc-031",
+      "content": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness, that most frightens us.",
+      "authorName": "Marianne Williamson",
+      "source": "A Return to Love: Reflections on the Principles of \"A Course in Miracles\" (HarperCollins, 1992)",
+      "sourceType": "book",
+      "quoteDate": "1992",
+      "verificationStatus": "verified",
+      "notes": "Genuinely Williamson's words, from the chapter's meditation on self-worth in A Return to Love (1992). Widely and falsely attributed to Nelson Mandela's 1994 inaugural address — Mandela never said it, and Williamson has publicly said she has no idea how the misattribution started.",
+      "addedAt": "2026-08-31T12:00:00Z"
     }
   ]
 }
