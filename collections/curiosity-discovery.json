@@ -180,11 +180,11 @@
       "id": "disc-016",
       "content": "When one man, for whatever reason, has the opportunity to lead an extraordinary life, he has no right to keep it to himself.",
       "authorName": "Jacques-Yves Cousteau",
-      "source": "The Silent World (1953), with Frédéric Dumas",
+      "source": "Widely attributed to The Silent World (1953), with Frédéric Dumas; no page citation or primary text confirmation located",
       "quoteDate": "1953",
-      "verificationStatus": "verified",
+      "verificationStatus": "unverified",
       "sourceType": "book",
-      "notes": "From Cousteau's account of early scuba exploration, on the duty to share discovery.",
+      "notes": "Downgraded 2026-08-31: this collection previously cited The Silent World as a confirmed source, but the wording traces only to aggregator sites (Goodreads, BrainyQuote, AZQuotes, quotepark, and similar) with no page number or primary-text excerpt anywhere. Even a 2019 tweet from Cousteau's grandson Fabien Cousteau quotes it with different wording ('the chance to lead' rather than 'the opportunity to lead', no comma before 'he has'), which is more consistent with a paraphrased oral saying than a fixed book quotation. Genuine authorship by Cousteau is plausible but unconfirmed against the actual book text.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
@@ -235,11 +235,11 @@
       "id": "disc-021",
       "content": "Like what you do, and then you will do your best.",
       "authorName": "Katherine Johnson",
-      "source": "Interview, on advice to future NASA employees; cited by Biography.com",
-      "quoteDate": "c. 2015",
+      "source": "Remarks at the dedication of the Katherine G. Johnson Computational Research Facility, NASA Langley, 22 September 2017; cited by Biography.com",
+      "quoteDate": "2017",
       "verificationStatus": "verified",
       "sourceType": "interview",
-      "notes": "Johnson's advice given when a NASA building was named in her honor.",
+      "notes": "Johnson's advice to future NASA employees at the ribbon-cutting for the building named in her honor. Corrected 2026-08-31: quoteDate was 'c. 2015', but the facility was dedicated 2017-09-22 (announced/named 2016); the remarks belong to that dated event, not an undated interview.",
       "addedAt": "2026-07-01T12:47:46Z"
     },
     {
