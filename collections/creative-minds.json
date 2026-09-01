@@ -9,7 +9,7 @@
   "iconName": "paintbrush.fill",
   "category": "Creativity",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-08-25T12:00:00Z",
+  "lastUpdated": "2026-08-31T12:00:00Z",
   "quotes": [
     {
       "id": "cm-001",
@@ -360,6 +360,17 @@
       "quoteDate": "1993-12-07",
       "verificationStatus": "verified",
       "addedAt": "2026-08-13T12:00:00Z"
+    },
+    {
+      "id": "cm-033",
+      "content": "For sale: baby shoes, never worn.",
+      "authorName": "Anonymous (widely but wrongly attributed to Ernest Hemingway)",
+      "source": "Folk six-word story; earliest known precursor is a classified-ad item, \"For sale, baby carriage; never been used,\" Ironwood News Record (Ironwood, Michigan), April 28, 1906",
+      "sourceType": "newspaper",
+      "quoteDate": "c. 1906",
+      "verificationStatus": "unverified",
+      "notes": "No evidence Hemingway wrote this: the earliest traced precursor is an anonymous 1906 newspaper item, and the 'Hemingway wrote it for a bet' anecdote first appears in print only in 1991, three decades after his death. The true original author of the exact modern wording is unknown, so both wording provenance and attribution are unresolved.",
+      "addedAt": "2026-08-31T12:00:00Z"
     }
   ]
 }
