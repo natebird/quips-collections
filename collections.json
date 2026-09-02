@@ -127,7 +127,7 @@
       "name": "Creative Minds",
       "description": "Insights on creativity and innovation from artists, writers, and inventors.",
       "author": "Quips Editorial",
-      "quoteCount": 32,
+      "quoteCount": 33,
       "previewQuotes": [
         "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
         "Every child is an artist. The problem is how to remain an artist once we grow up."
@@ -138,9 +138,9 @@
       "iconName": "paintbrush.fill",
       "category": "Creativity",
       "addedAt": "2026-06-27T20:29:50Z",
-      "lastUpdated": "2026-08-25T12:00:00Z",
-      "contentHash": "sha256-m+2EKfHCMBElADrqJVGN9axS9I4uUkUrooiBPKPxfLc=",
-      "bytes": 20703
+      "lastUpdated": "2026-08-31T12:00:00Z",
+      "contentHash": "sha256-vLqaRJfmke2TIWZPj51kWynhxWb8/dTEYmyXELeh3IA=",
+      "bytes": 21575
     },
     {
       "id": "tech-visionaries",
@@ -427,7 +427,7 @@
       "name": "Self-Compassion & Kindness",
       "description": "Gentle reminders to treat yourself, and everyone you meet, with the kindness you deserve.",
       "author": "Quips Editorial",
-      "quoteCount": 30,
+      "quoteCount": 31,
       "previewQuotes": [
         "Talk to yourself like you would to someone you love.",
         "Be kind whenever possible. It is always possible."
@@ -438,9 +438,9 @@
       "iconName": "heart.circle.fill",
       "category": "Wellness",
       "addedAt": "2026-07-01T12:47:46Z",
-      "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-2tB7LvINZqxlgvwbqG9SqrFlToCmS0k8M+zVmzLFUUM=",
-      "bytes": 15617
+      "lastUpdated": "2026-08-31T12:00:00Z",
+      "contentHash": "sha256-mtSS/ZLIg2Fn/jkWj2m+4WoOPkfeJ667hJd6nnWZzDI=",
+      "bytes": 16432
     },
     {
       "id": "rest-balance",
@@ -839,8 +839,8 @@
       "category": "Faith",
       "addedAt": "2026-07-01T01:58:18Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-sJ0JCYLKIi650yht8rxv4bWeSMr7gdADb5aRNRUsX5M=",
-      "bytes": 17915
+      "contentHash": "sha256-3c+oiELzdyMOvaZgfkW10g3OZrs83fXYNACCvSDsmg8=",
+      "bytes": 17989
     },
     {
       "id": "quran",
@@ -1279,8 +1279,8 @@
       "category": "Science",
       "addedAt": "2026-07-01T12:47:46Z",
       "lastUpdated": "2026-06-30T12:00:00Z",
-      "contentHash": "sha256-3ouXwpBC47ja2jO/uaMJIU3Yqyv2FbNY0eJiMbnXZjE=",
-      "bytes": 15927
+      "contentHash": "sha256-KFuWOAfR1lruzCI1tZYFY9SF0ih4bVAFgvAtk/WxccE=",
+      "bytes": 16815
     },
     {
       "id": "bob-dylan",

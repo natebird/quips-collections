@@ -89,13 +89,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 13,
-    "file": "curiosity-discovery",
+    "fileIndex": 14,
+    "file": "dc-comics",
     "quoteIndex": 0,
-    "note": "cs-lewis fully audited across two runs: cslewis-013..022 in PR #115 (2026-08-28, open/unmerged as of this run -- 4 wording fixes, one of which was itself incomplete, see this run's PR-review note below) and cslewis-023..032 in this run (8/10 passed, 2 flagged). cs-lewis is now 32/32 complete. This cursor advance assumes PR #115 merges; if it is closed without merging instead, cslewis-013..022 will need re-auditing before curiosity-discovery is picked up for real. Next run begins curiosity-discovery quotes[0]."
+    "note": "This run found PR #121 already covering disc-011..020 (opened by an earlier 2026-08-31 run, unmerged, divergent history from main since #119 had merged separately in the meantime -- confirmed via git merge-base --is-ancestor that neither branch is an ancestor of the other). Rather than re-litigate, this run built fresh from current main (which already has #119's cslewis-013 fix + disc-001..010 merged) and reapplied #121's one content fix (disc-016 downgrade) verbatim, then continued with the next batch. curiosity-discovery disc-021..028 (8/28, finishing the collection) audited this run, 1 flagged (disc-021, date fix). curiosity-discovery is now 28/28 complete. Next run begins dc-comics quotes[0]. PR #121 should be closed as superseded once this run's PR merges -- its disc-016 fix is fully carried here, and it holds no other unique content."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 363,
+  "totalQuotesAudited": 391,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -611,6 +611,49 @@
       "resolution": "both fixed in this run's PR; content corrected in full",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "PR review, two open PRs: #114 ('Add 5 verified quotes: Sherlock Holmes, Founding Fathers, Great Speeches') was already independently re-verified in PR #115 (2026-08-28) with no issues found; not re-checked here to avoid duplicate work. #115 ('Audit cs-lewis cslewis-013..022', open/unmerged) was independently re-verified: 3 of its 4 corrections (cslewis-014, -015, -021) confirmed accurate against multiple sources, but its cslewis-013 fix is still incomplete -- it corrected 'will be wrung' to 'will certainly be wrung' but missed the 'be' before 'broken' (should read '...and possibly be broken', confirmed via the full surrounding passage across independent sources). Left a review comment on #115 with the remaining fix rather than pushing to someone else's branch. Also noted #115's own state-file entry claims 'see GitHub issue created this run' but no such issue exists in the repo -- likely a slipped step in that run; flagged here rather than fixed, since it isn't this run's file to edit."
+    },
+    {
+      "runDate": "2026-08-30",
+      "file": "cs-lewis (carryover fix) + curiosity-discovery",
+      "quoteRange": "cslewis-013 (carryover) + disc-001..disc-010",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none in this run's new coverage -- disc-001 (Edison, Rosanoff account, Harper's Monthly Sept 1932), disc-002 (Edison, via Mallory's account in Dyer & Martin's Edison: His Life and Inventions, 1910), disc-003/004 (Tesla, My Inventions, Electrical Experimenter 1919), disc-005 (Tesla, Politika interview April 1927, reproduced in Cheney/Uth/Glenn), disc-006 (Wilbur Wright, address to the Western Society of Engineers, 18 Sept 1901), disc-007 (Orville Wright, letter to George A. Spratt, 7 June 1908), disc-008 (Fleming, Nobel Lecture, 11 Dec 1945, confirmed verbatim against the official nobelprize.org lecture text), disc-010 (Salk, Murrow's See It Now, 12 April 1955), disc-011 (Hopper, Information Week interview, 9 March 1987), and disc-012 (Hopper, habitual saying re: apologize vs. permission) all verified verbatim against primary/authoritative sources -- no issues. disc-009 was already correctly self-flagged verificationStatus unverified (Fleming 'I did not invent penicillin' line, no primary source traced) -- left unchanged. Separately, applied the one remaining carryover fix identified but not yet applied by the 2026-08-29 run: cslewis-013 (The Four Loves, Ch. 6) was still missing the word 'be' before 'broken' after its 2026-08-28 partial correction; corrected to '...and possibly be broken', reconfirmed via multiple convergent independent full-passage citations (CS Lewis Institute, cslewis.com, and secondary quote compilations all agree on this exact wording).",
+      "resolution": "cslewis-013 fixed in this run's PR (carryover from the 2026-08-29 run's review comment on PR #115, which had since merged with the fix still incomplete); no other changes needed.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Start-of-run housekeeping check found the repo further ahead than the state file's own cursor note anticipated: PRs #114, #115, and #117 (cs-lewis audits + 5 new quotes) and #118 (release 1.14.1) had all merged into main since the 2026-08-29 run, so this run's designated branch was created fresh from origin/main rather than needing any reset. list_pull_requests initially reported 'merged: false' for every closed PR going back to #1, including ones with 'Merge pull request #N' commits sitting directly on main's history -- cross-checked with pull_request_read (method: get) on #113 and #118, which correctly reported merged:true; this looks like a bug in list_pull_requests' merged-status field under fields-filtering rather than an actual unmerged-work backlog. Future runs: don't trust list_pull_requests' merged flag, verify with pull_request_read or commit ancestry. 0 open PRs at the start of this run (confirmed via list_pull_requests state=open with no fields filter) -- nothing to review this run. No coverage gaps found (collections/*.json and order[] remain in exact agreement -- 85 files, 85 entries). Pass 1 total after this run: 373/2767. Next run begins curiosity-discovery quotes[10] (disc-011)."
+    },
+    {
+      "runDate": "2026-08-31",
+      "file": "curiosity-discovery",
+      "quoteRange": "disc-011..disc-020",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "disc-016"
+      ],
+      "issue": "disc-011 (Grace Hopper, 'most damaging phrase... we've always done it this way', Information Week interview, 9 March 1987) and disc-012 (Hopper, 'easier to apologize than to get permission', already correctly noted as a pre-existing proverb she popularized rather than coined) verified with no issues. disc-013/014 (Turing, 'Computing Machinery and Intelligence', Mind 1950, both lines confirmed verbatim against primary-source PDF mirrors of the actual paper), disc-018 (Nightingale, Notes on Nursing, 1859, verbatim), disc-019/020 (Katherine Johnson, NASA-published interview material) all verified -- no issues. disc-015 (Buckminster Fuller, 'I Seem to Be a Verb') is genuine and correct; independent sources disagree only on its very last words ('of the universe' vs Fuller's idiosyncratic 'of Universe') -- not changed, no primary-text access available to settle it. disc-016 (Cousteau, 'When one man... has the opportunity to lead an extraordinary life...') was marked verified and cited to The Silent World (1953), but the wording traces only to aggregator/quote sites (Goodreads, BrainyQuote, AZQuotes) with no page citation or primary-text excerpt anywhere; a 2019 tweet from Cousteau's grandson Fabien Cousteau quotes a differently-worded variant, consistent with an oral saying rather than a fixed book quotation. disc-017 was already correctly self-flagged unverified (left unchanged).",
+      "resolution": "disc-016 downgraded from verified to unverified; source field reworded to 'widely attributed to' rather than a flat citation; content and authorName unchanged since no confirmed correct primary citation was found to replace it with.",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/122",
+      "processNote": "This batch was first audited by an earlier same-day run, which opened PR #121 (branch built on unmerged PR #119's pre-merge tip) with this exact finding. By the time this run started, #119 had already merged into main separately, leaving #121 with divergent, non-fast-forwardable history (confirmed via git merge-base --is-ancestor in both directions -- neither branch is an ancestor of the other; #121's own mergeable_state also read 'dirty'). Rather than force-push or rebase another run's branch, this run independently re-derived the same disc-016 finding from scratch (confirming it wasn't just copied) and carried the identical content fix forward on a fresh branch from current main. #121 should be closed as superseded once this run's PR merges."
+    },
+    {
+      "runDate": "2026-08-31",
+      "file": "curiosity-discovery",
+      "quoteRange": "disc-021..disc-028",
+      "count": 8,
+      "passed": 7,
+      "flagged": 1,
+      "flaggedIds": [
+        "disc-021"
+      ],
+      "issue": "disc-022/023 (Leonardo da Vinci, The Notebooks of Leonardo Da Vinci, trans. Richter, 1888) verified against consistent wording across independent citations including Oxford Reference; disc-024/025 (George Washington Carver), disc-026/027 (Archimedes, reported by Pappus and Vitruvius respectively, centuries after his death), and disc-028 (Hypatia line invented by Elbert Hubbard, 1908) were already correctly self-flagged unverified with accurate notes -- left unchanged. disc-021 (Katherine Johnson, 'Like what you do, and then you will do your best.') is genuine and well-sourced in substance -- her remarks at the ribbon-cutting for the Katherine G. Johnson Computational Research Facility, NASA Langley -- but the stored quoteDate ('c. 2015') was wrong: the facility was named in 2016 and dedicated 2017-09-22, and the remarks belong to that dated ceremony, confirmed via NASA/Space.com/WTVR coverage of the event.",
+      "resolution": "disc-021 fixed in this run's PR: quoteDate corrected from 'c. 2015' to '2017', source expanded to name the specific dedication event and date, notes updated to record the correction. curiosity-discovery collection finishes this pass (28/28 quotes audited across issues covering disc-001..010, disc-011..020, and this batch).",
+      "reportedIn": "https://github.com/natebird/quips-collections/issues/126",
+      "processNote": "PR review: 2 open content PRs found. #123 ('Add Marianne Williamson deepest fear quote to self-compassion') independently re-verified -- content is genuine Williamson (A Return to Love, 1992, HarperCollins), correctly notes the false Mandela attribution; no issues. #124 ('Add baby shoes six-word story to creative-minds') independently re-verified -- content correctly marked unverified/anonymous with the true 1906 Ironwood News Record precursor cited and the Hemingway myth debunked (Quote Investigator, Slate, Wikipedia all corroborate); one very minor discrepancy noted but not blocking: the PR's note dates the first print appearance of the Hemingway attribution to 1991, independent sources place it at 1989 (John De Groot's play 'Papa'). Neither PR needs changes; both left for manual merge per repo convention. Pass 1 total after this run: 391/2767. curiosity-discovery is now fully audited; next run begins dc-comics quotes[0]."
     }
   ]
 }
