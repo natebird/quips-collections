@@ -91,11 +91,11 @@
   "cursor": {
     "fileIndex": 14,
     "file": "dc-comics",
-    "quoteIndex": 0,
-    "note": "This run found PR #121 already covering disc-011..020 (opened by an earlier 2026-08-31 run, unmerged, divergent history from main since #119 had merged separately in the meantime -- confirmed via git merge-base --is-ancestor that neither branch is an ancestor of the other). Rather than re-litigate, this run built fresh from current main (which already has #119's cslewis-013 fix + disc-001..010 merged) and reapplied #121's one content fix (disc-016 downgrade) verbatim, then continued with the next batch. curiosity-discovery disc-021..028 (8/28, finishing the collection) audited this run, 1 flagged (disc-021, date fix). curiosity-discovery is now 28/28 complete. Next run begins dc-comics quotes[0]. PR #121 should be closed as superseded once this run's PR merges -- its disc-016 fix is fully carried here, and it holds no other unique content."
+    "quoteIndex": 12,
+    "note": "dc-001..dc-012 audited this run (12/35 of dc-comics). Next run begins dc-comics quotes[12] (dc-013)."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 391,
+  "totalQuotesAudited": 403,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -654,6 +654,22 @@
       "resolution": "disc-021 fixed in this run's PR: quoteDate corrected from 'c. 2015' to '2017', source expanded to name the specific dedication event and date, notes updated to record the correction. curiosity-discovery collection finishes this pass (28/28 quotes audited across issues covering disc-001..010, disc-011..020, and this batch).",
       "reportedIn": "https://github.com/natebird/quips-collections/issues/126",
       "processNote": "PR review: 2 open content PRs found. #123 ('Add Marianne Williamson deepest fear quote to self-compassion') independently re-verified -- content is genuine Williamson (A Return to Love, 1992, HarperCollins), correctly notes the false Mandela attribution; no issues. #124 ('Add baby shoes six-word story to creative-minds') independently re-verified -- content correctly marked unverified/anonymous with the true 1906 Ironwood News Record precursor cited and the Hemingway myth debunked (Quote Investigator, Slate, Wikipedia all corroborate); one very minor discrepancy noted but not blocking: the PR's note dates the first print appearance of the Hemingway attribution to 1991, independent sources place it at 1989 (John De Groot's play 'Papa'). Neither PR needs changes; both left for manual merge per repo convention. Pass 1 total after this run: 391/2767. curiosity-discovery is now fully audited; next run begins dc-comics quotes[0]."
+    },
+    {
+      "runDate": "2026-09-02",
+      "file": "dc-comics",
+      "quoteRange": "dc-001..dc-012",
+      "count": 12,
+      "passed": 10,
+      "flagged": 2,
+      "flaggedIds": [
+        "dc-001",
+        "dc-010"
+      ],
+      "issue": "dc-002..009, dc-011, dc-012 all verified verbatim against the actual film dialogue/on-screen text (Batman Begins 2005, The Dark Knight 2008, Batman 1989, Man of Steel 2013) via independent transcript/citation triangulation -- no issues; these are movie quotes so the film itself is the primary source, and none relied on aggregator sourcing. dc-001 (Thomas Wayne's well-scene line) was stored as 'Why do we fall, Bruce? So we can learn to pick ourselves up.' but the actual line opens with 'And' -- 'And why do we fall, Bruce?' -- confirmed via multiple independent secondary sources describing the scene (the line is distinct from Alfred's later echo, 'Why do we fall, sir?', which does NOT have 'And'). dc-010 (Batman's line to Gordon in The Dark Knight Rises) was truncated: stored as 'A hero can be anyone. Even a man doing something as simple as putting a coat around a young boy's shoulders.' but the actual line continues 'as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended' -- the dropped clause is the actual point of the line (a callback to the orphaned boy from Batman Begins), same failure pattern as dylan-014's truncation cutting a punchline.",
+      "resolution": "dc-001 and dc-010 fixed in this run's PR: content corrected to the full verbatim lines, notes updated to record the corrections.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "0 open PRs found at the start of this run -- housekeeping backlog remains clear (consistent with 2026-08-31). WebFetch was EGRESS_BLOCKED again this run (tv-wiki.fandom.com), consistent with the long-running pattern; verification relied on WebSearch snippet triangulation across multiple independent secondary sources per quote rather than a single citation. Pass 1 total after this run: 403/2767."
     }
   ]
 }
