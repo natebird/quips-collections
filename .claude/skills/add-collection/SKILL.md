@@ -45,24 +45,21 @@ entry, and `previewQuotes`.
 
      Cross-platform clients render from the hex pair; iOS prefers `colorName`. Match an
      existing collection's token when the new one is thematically similar, for consistency.
-   - `iconName` — an SF Symbol. Existing ones: `bolt.fill`, `book.fill`,
-     `building.columns.fill`, `cpu.fill`, `flame.fill`, `leaf.fill`, `paintbrush.fill`,
-     `shield.fill`, `sparkles`, `sun.dust.fill`, `sunrise.fill`, `tv.fill`, `wand.and.stars`.
+   - `iconName` — an SF Symbol. Match an existing collection's when the theme is
+     similar; `collections.json` shows what each one uses.
 
-     **Check the website's registry before picking a new one.** Being a valid SF
-     Symbol is necessary but not sufficient: quipsapp.com renders collections from
-     its own inline-SVG set in `js/icons.js`, and `scripts/build-collections.mjs`
-     fails the site's deploy on an `iconName` it has no drawing for, rather than
-     quietly rendering the wrong glyph. Nothing in this repo can catch that —
-     `validate_collections.py` does not know the registry exists — so it surfaces
-     only after release, as a red `main` on quipsapp.com with the site stuck on the
-     previous build.
+     **Pick from `schema/website-icons.json`.** Being a valid SF Symbol is
+     necessary but not sufficient: quipsapp.com draws collections from its own
+     inline-SVG set, and its build fails on an `iconName` it has no drawing for.
+     That file mirrors the names the website can render, and
+     `validate_collections.py` errors on anything outside it — so a bad icon is
+     caught here, while you are writing the collection, rather than after release
+     as a red `main` on the website.
 
-     So either reuse a name already in `js/icons.js`, or ship the matching SVG to
-     quipsapp.com in the same window as the release. This is not hypothetical: the
-     `andor-rogue-one` collection shipped in v1.15.0 with
-     `antenna.radiowaves.left.and.right`, which broke the site deploy until an icon
-     was added for it.
+     To use an icon that isn't in the list yet, the website has to learn it first:
+     add the SVG to quipsapp.com's `js/icons.js`, let that deploy, then run
+     `python3 scripts/refresh_website_icons.py` to pull the name into the mirror.
+     The ordering is the point — a name is not usable until it is drawable.
 
 2. **Choose a quote id prefix** — a short slug unique to the collection (e.g. `himym`,
    `seinfeld`, `marvel`). Quote ids follow the `add-quotes` format (`<prefix>-NNN`, zero-padded

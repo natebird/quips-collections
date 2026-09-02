@@ -63,5 +63,10 @@ Two extra notes for these runs:
   is derived by `build_newsletter_picks.py`, and authoring it in prose is what
   put three unsent issues into three releases. `natebird/quote-unquote` has a
   `check_newsletter_sync.py` that verifies this file against the drafts.
+- A collection's `iconName` must be one quipsapp.com can draw. The names it
+  supports are mirrored in `schema/website-icons.json` and enforced by the
+  validator; a new one has to reach the website's `js/icons.js` first, then
+  `scripts/refresh_website_icons.py` pulls it into the mirror. Skipping that
+  order ships a release that fails the website's deploy, not ours.
 - Releases happen by pushing a semver tag: patch for quote edits, minor for a
   new collection. See [CONTRIBUTING.md](CONTRIBUTING.md).
