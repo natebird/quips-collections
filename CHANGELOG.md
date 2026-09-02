@@ -11,6 +11,29 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [Unreleased]
+### Added
+**Andor & Rogue One** — 39 quotes from the *Andor* series and the film it leads
+into, spanning S1E2 through S2E12 and all of *Rogue One*. The set is built around
+the speeches: Nemik's manifesto and Luthen Rael's "what do I sacrifice" answer to
+Lonni are carried whole, as self-contained set pieces; Kino Loy's Narkina 5
+broadcast and Maarva's Rix Road eulogy are carried at the length of the speech
+itself rather than the whole scene, which had put them at 216 and 228 words
+against a previous repo-wide ceiling of 140. Around those sit the short lines —
+Jyn's "I rebel!", Chirrut's mantra and kyber blessing, K-2SO, Vader on
+aspirations, Leia's closing "Hope." — plus Mon Mothma's Ghorman address, Saw
+Gerrera on revolution, Partagaz on security as illusion, and Bail Organa handing
+Cassian the mission that becomes the film.
+
+All 39 are `verified` against scene transcripts, with StarWars.com's official
+quote list corroborating the film lines and the episode list confirming every
+`quoteDate`. Verifying turned up three misquotes worth recording: "You're
+confusing peace with terror" is Galen Erso's line to Krennic, not Tarkin's; Galen
+"laid the groundwork" of his revenge, not "the seeds"; and Chirrut's mantra
+follows the official rendering over the widely circulated "and the Force is with
+me" variant. No overlap with `star-wars`, which carries no Andor or Rogue One
+lines.
+
 ## [1.14.1] - 2026-08-29
 ### Changed
 `published-quotes.json` is now `newsletter-issues.json`, and each entry carries a
