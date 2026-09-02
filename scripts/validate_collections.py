@@ -20,6 +20,8 @@ Checks (errors fail the run; warnings are reported but pass unless --strict):
       (verified, attributed, unverified, folk-wisdom)
     - sourceType, when present, is a known QuoteSourceType rawValue
       (speech, book, movie, podcast, …)
+    - iconName is one the website can render, per schema/website-icons.json
+      (skipped with a warning if that mirror is missing or unreadable)
     - no duplicate quote text within a collection
 
   WARN
@@ -63,6 +65,11 @@ VALID_SOURCE_TYPES = {
     "interview", "website", "socialMedia", "video", "game", "letter", "poem",
     "play", "lecture", "documentary",
 }
+# Mirror of the iconName values quipsapp.com can render. The drawings live in
+# that repo's js/icons.js; only the names are mirrored here, because that is the
+# whole constraint this side needs to enforce. Checked in rather than fetched so
+# validation stays offline and stdlib-only; refresh with refresh_website_icons.py.
+WEBSITE_ICONS_REL = os.path.join("schema", "website-icons.json")
 ID_RE = re.compile(r"^[a-z0-9]+-\d{3,}$")
 TS_RE = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
 # Accepts the date shapes actually used across the collections:
@@ -108,11 +115,31 @@ def load_json(path, rep):
     return None
 
 
+def load_website_icons(root, rep):
+    """Names the website can render, or None if the mirror is unavailable.
+
+    A missing mirror warns rather than errors: it makes the icon check
+    unavailable, which is worth flagging, but it is not a defect in the data
+    being validated.
+    """
+    path = os.path.join(root, WEBSITE_ICONS_REL)
+    try:
+        with open(path, encoding="utf-8") as f:
+            names = json.load(f).get("names")
+    except (OSError, json.JSONDecodeError) as e:
+        rep.warn(f"{WEBSITE_ICONS_REL}: unreadable ({e}) — skipping the iconName check")
+        return None
+    if not isinstance(names, list) or not names:
+        rep.warn(f"{WEBSITE_ICONS_REL}: no 'names' list — skipping the iconName check")
+        return None
+    return set(names)
+
+
 def prefix_of(quote_id):
     return quote_id.rsplit("-", 1)[0] if "-" in quote_id else quote_id
 
 
-def validate_collection(cid, data, entry, rep):
+def validate_collection(cid, data, entry, rep, icon_names=None):
     """Validate one collection file against its index entry. Returns the
     collection's quote-id prefix (or None) for the cross-collection check."""
     if data is None:
@@ -120,6 +147,16 @@ def validate_collection(cid, data, entry, rep):
 
     if data.get("id") != cid:
         rep.error(f"{cid}: file id {data.get('id')!r} != filename")
+
+    # The website renders from its own SVG set and fails its deploy on a name it
+    # has no drawing for. Catching it here means a bad icon surfaces while the
+    # collection is being written, not after it ships.
+    if icon_names is not None and data.get("iconName") not in icon_names:
+        rep.error(
+            f"{cid}: iconName {data.get('iconName')!r} is not one the website can render — "
+            f"pick one from {WEBSITE_ICONS_REL}, or add an SVG for it to quipsapp.com's "
+            f"js/icons.js and refresh the mirror"
+        )
 
     quotes = data.get("quotes")
     if not isinstance(quotes, list):
@@ -207,6 +244,8 @@ def main():
     if not TS_RE.match(str(index.get("lastUpdated", ""))):
         rep.warn("collections.json: top-level lastUpdated not YYYY-MM-DDTHH:MM:SSZ")
 
+    icon_names = load_website_icons(args.root, rep)
+
     entries = {e.get("id"): e for e in index.get("collections", [])}
 
     files = set()
@@ -231,7 +270,7 @@ def main():
         if cid not in files:
             continue
         data = load_json(os.path.join(coll_dir, f"{cid}.json"), rep)
-        prefix = validate_collection(cid, data, entries.get(cid), rep)
+        prefix = validate_collection(cid, data, entries.get(cid), rep, icon_names)
         if prefix:
             prefixes.setdefault(prefix, []).append(cid)
 
