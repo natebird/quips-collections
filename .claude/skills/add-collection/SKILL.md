@@ -48,7 +48,21 @@ entry, and `previewQuotes`.
    - `iconName` — an SF Symbol. Existing ones: `bolt.fill`, `book.fill`,
      `building.columns.fill`, `cpu.fill`, `flame.fill`, `leaf.fill`, `paintbrush.fill`,
      `shield.fill`, `sparkles`, `sun.dust.fill`, `sunrise.fill`, `tv.fill`, `wand.and.stars`.
-     A new valid SF Symbol is fine if it fits the theme better.
+
+     **Check the website's registry before picking a new one.** Being a valid SF
+     Symbol is necessary but not sufficient: quipsapp.com renders collections from
+     its own inline-SVG set in `js/icons.js`, and `scripts/build-collections.mjs`
+     fails the site's deploy on an `iconName` it has no drawing for, rather than
+     quietly rendering the wrong glyph. Nothing in this repo can catch that —
+     `validate_collections.py` does not know the registry exists — so it surfaces
+     only after release, as a red `main` on quipsapp.com with the site stuck on the
+     previous build.
+
+     So either reuse a name already in `js/icons.js`, or ship the matching SVG to
+     quipsapp.com in the same window as the release. This is not hypothetical: the
+     `andor-rogue-one` collection shipped in v1.15.0 with
+     `antenna.radiowaves.left.and.right`, which broke the site deploy until an icon
+     was added for it.
 
 2. **Choose a quote id prefix** — a short slug unique to the collection (e.g. `himym`,
    `seinfeld`, `marvel`). Quote ids follow the `add-quotes` format (`<prefix>-NNN`, zero-padded
