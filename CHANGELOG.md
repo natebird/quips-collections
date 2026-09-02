@@ -11,7 +11,7 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
-## [Unreleased]
+## [1.15.0] - 2026-09-02
 ### Added
 **Andor & Rogue One** — 39 quotes from the *Andor* series and the film it leads
 into, spanning S1E2 through S2E12 and all of *Rogue One*. The set is built around
@@ -33,6 +33,43 @@ confusing peace with terror" is Galen Erso's line to Krennic, not Tarkin's; Gale
 follows the official rendering over the widely circulated "and the Force is with
 me" variant. No overlap with `star-wars`, which carries no Andor or Rogue One
 lines.
+
+`self-compassion` gains `sc-031`, the "our deepest fear" passage from Marianne
+Williamson's *A Return to Love* (1992), `verified` against the book. The entry
+exists as much for its `notes` as for the quote: this is the passage the internet
+has spent thirty years crediting to Nelson Mandela's 1994 inaugural address, which
+he never said, and the note records both the real source and the fact that
+Williamson herself has said she does not know how the misattribution started.
+
+`creative-minds` gains `cm-033`, the "baby shoes" six-word story, credited to
+Anonymous and marked `unverified`. The familiar Hemingway attribution does not
+survive contact with the evidence: the earliest traced precursor is an anonymous
+1906 newspaper classified item, and the "Hemingway wrote it on a bet" anecdote
+first appears in print in 1991, three decades after his death. Recorded as folk
+authorship rather than dropped, with the trail in `notes`.
+
+### Changed
+`curiosity-discovery` completed its audit (`disc-001` through `disc-028`), which
+finishes the collection. Two entries moved:
+
+- `disc-016` (Cousteau, on the duty to share an extraordinary life) went
+  `verified` → `unverified`. It had cited *The Silent World* (1953) as a confirmed
+  source, but the wording traces only to aggregators with no page number or
+  primary-text excerpt anywhere, and Fabien Cousteau has quoted it with different
+  wording — more consistent with a paraphrased oral saying than a fixed book
+  quotation. Authorship stays plausible; the citation does not.
+- `disc-021` (Katherine Johnson, "like what you do") had its `source` and
+  `quoteDate` corrected from an undated `c. 2015` interview to the dedication of
+  the Katherine G. Johnson Computational Research Facility at NASA Langley on
+  22 September 2017, the dated event the remarks actually belong to.
+
+### Fixed
+`cslewis-013` lost one more word than the previous pass caught: *The Four Loves*
+reads "will certainly be wrung and possibly be broken", and the second "be" was
+missing. Restored against convergent full-passage citations. This is the second
+correction to the same sentence — 1.14.x restored a dropped "certainly" and a
+comma — which is a fair argument for auditing a quote's full passage rather than
+the clause that looked wrong.
 
 ## [1.14.1] - 2026-08-29
 ### Changed
