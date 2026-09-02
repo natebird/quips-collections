@@ -39,6 +39,7 @@ import urllib.request
 DEFAULT_URL = "https://quipsapp.com/icons.json"
 MIRROR_REL = os.path.join("schema", "website-icons.json")
 TIMEOUT = 30
+USER_AGENT = "quips-collections refresh_website_icons.py (+https://github.com/natebird/quips-collections)"
 
 NOTE = (
     "Mirror of the iconName values quipsapp.com can render, from "
@@ -49,7 +50,10 @@ NOTE = (
 
 def fetch_names(url):
     """The names the website publishes, sorted and deduped."""
-    with urllib.request.urlopen(url, timeout=TIMEOUT) as resp:
+    # Identify ourselves. urllib's default "Python-urllib/x.y" is 403'd by the
+    # edge in front of quipsapp.com, so the stock request never reaches the file.
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
         payload = json.load(resp)
     names = payload.get("names")
     if not isinstance(names, list) or not names:
