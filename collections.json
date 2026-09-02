@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-08-27T12:00:00Z",
+  "lastUpdated": "2026-09-02T12:00:00Z",
   "collections": [
     {
       "id": "inspiration-daily",
@@ -681,6 +681,26 @@
       "lastUpdated": "2026-06-27T12:00:00Z",
       "contentHash": "sha256-rg+dWezT89/EBfSs0aEtCHKN07FVO16yHD/5eoFOYdY=",
       "bytes": 26957
+    },
+    {
+      "id": "andor-rogue-one",
+      "name": "Andor & Rogue One",
+      "description": "Manifestos, last words, and hard-won defiance from Andor and Rogue One — the Rebellion before it had a hero.",
+      "author": "Quips Editorial",
+      "quoteCount": 39,
+      "previewQuotes": [
+        "We have hope. Rebellions are built on hope!",
+        "I'm one with the Force. The Force is with me."
+      ],
+      "colorName": "red",
+      "colorLightHex": "#E92528",
+      "colorDarkHex": "#FA7064",
+      "iconName": "antenna.radiowaves.left.and.right",
+      "category": "Television",
+      "addedAt": "2026-09-02T12:00:00Z",
+      "lastUpdated": "2026-09-02T12:00:00Z",
+      "contentHash": "sha256-F9rg6uQl47hQYFzkeE3liqPH+Z9kOJWOWwKfjPg0YsE=",
+      "bytes": 26113
     },
     {
       "id": "lego-movies",
