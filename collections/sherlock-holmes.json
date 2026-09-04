@@ -9,7 +9,7 @@
   "iconName": "magnifyingglass",
   "category": "Literature",
   "addedAt": "2026-06-28T02:20:43Z",
-  "lastUpdated": "2026-08-27T12:00:00Z",
+  "lastUpdated": "2026-09-03T12:00:00Z",
   "quotes": [
     {
       "id": "sherlock-001",
@@ -505,6 +505,28 @@
       "verificationStatus": "verified",
       "notes": "Holmes restates his core methodology to Watson while examining the scene of old McCarthy's murder.",
       "addedAt": "2026-08-27T12:00:00Z"
+    },
+    {
+      "id": "sherlock-046",
+      "content": "\"Is there any point to which you would wish to draw my attention?\" \"To the curious incident of the dog in the night-time.\" \"The dog did nothing in the night-time.\" \"That was the curious incident,\" remarked Sherlock Holmes.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of Silver Blaze (1892)",
+      "sourceType": "book",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Inspector Gregory's exchange with Holmes on the train; Holmes's insight that the guard dog stayed silent because it knew the culprit is the case's central clue.",
+      "addedAt": "2026-09-03T12:00:00Z"
+    },
+    {
+      "id": "sherlock-047",
+      "content": "It is my belief, Watson, founded upon my experience, that the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside.",
+      "authorName": "Sherlock Holmes",
+      "source": "The Adventure of the Copper Beeches (1892)",
+      "sourceType": "book",
+      "quoteDate": "1892",
+      "verificationStatus": "verified",
+      "notes": "Holmes explains to Watson, en route to Hampshire, why isolated rural settings can conceal crime more easily than crowded cities.",
+      "addedAt": "2026-09-03T12:00:00Z"
     }
   ]
 }
