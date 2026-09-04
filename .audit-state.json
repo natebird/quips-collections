@@ -2,6 +2,7 @@
   "version": 1,
   "description": "Tracks progress of the recurring quote-sourcing audit so each run covers the next unaudited batch instead of re-checking randomly. Order is the alphabetically sorted list of collections/*.json filenames (without extension); within a file, quotes are walked in their existing array order.",
   "order": [
+    "andor-rogue-one",
     "avatar-last-airbender",
     "battlestar-galactica",
     "bhagavad-gita",
@@ -89,13 +90,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 14,
-    "file": "dc-comics",
-    "quoteIndex": 22,
-    "note": "dc-013..dc-022 audited this run (22/35 of dc-comics). Next run begins dc-comics quotes[22] (dc-023)."
+    "fileIndex": 16,
+    "file": "dhammapada",
+    "quoteIndex": 0,
+    "note": "dc-comics finishes this pass (35/35). Next run begins dhammapada quotes[0] (fileIndex 16, shifted +1 by this run's andor-rogue-one insertion at order[0])."
   },
-  "totalQuotes": 2767,
-  "totalQuotesAudited": 413,
+  "totalQuotes": 2806,
+  "totalQuotesAudited": 426,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -688,6 +689,22 @@
       "resolution": "dc-019 and dc-022 fixed in this run's PR (content corrected to accurate verbatim/order). dc-014 and dc-017 downgraded from verified to unverified with notes explaining the doubt; content not rewritten for either since no single confirmed-correct replacement text was found (dc-014 has two circulating variants, dc-017 has none confirmed at all).",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "WebFetch was EGRESS_BLOCKED on every non-search domain tried this run (en.wikiquote.org, imdb.com, scriptslug.com, subslikescript.com, movies.fandom.com, springfieldspringfield.co.uk, scrapsfromtheloft.com), consistent with the long-running pattern in prior runs; verification relied entirely on WebSearch snippet triangulation across multiple independent secondary sources per quote. This batch's higher-than-usual flag rate (4/10) reflects that DC film one-liners circulate heavily in trimmed/reordered form across clip and quote sites, making truncation and reordering the dominant failure mode here rather than misattribution -- consistent with dc-001/dc-010's findings from the previous run. 0 open PRs found at the start of this run. Pass 1 total after this run: 413/2767."
+    },
+    {
+      "runDate": "2026-09-04",
+      "file": "dc-comics",
+      "quoteRange": "dc-023..dc-035",
+      "count": 13,
+      "passed": 11,
+      "flagged": 2,
+      "flaggedIds": [
+        "dc-023",
+        "dc-030"
+      ],
+      "issue": "dc-024..029 (Joker, journal/social-worker/talk-show lines), dc-031 ('Permission to come aboard?', Aquaman), dc-032 (Justice League, Flash's rooftop line to Gordon -- not independently confirmable via web search but no counter-evidence found either), dc-033 ('Kneel before Zod', Superman II) and dc-034/dc-035 (Sinestro Corps and Green Lantern oaths, both confirmed as accurate partial excerpts of the full published oaths) all verified against primary/authoritative sourcing -- no issues. dc-023 (Selina Kyle, 'The Bat and the Cat...') carried 'It has a nice ring' where multiple independent sources (including one used verbatim as a news headline) converge on 'It's got a nice ring.' dc-030 (Arthur Curry, 'I am the king of Atlantis!'): could not confirm Arthur speaks this line in the 2018 film -- available dialogue from the climax has Nereus and others proclaiming him king rather than Arthur declaring it in these words himself; a near-identical line is confirmed spoken by Arthur in the 2023 sequel, raising the possibility of cross-film conflation. Separately, re-examined dc-016 (Wonder Woman closing narration, previously marked passed with no issues in PR #133's audit of dc-013..dc-022): found on closer inspection that the stored two-sentence quote splices together two non-adjacent lines of the actual closing monologue, dropping the intervening sentence 'To end war and bring peace to mankind.' -- confirmed via three independent, mutually-consistent full-monologue transcriptions. Also noted dc-028's stored wording ('You get what you deserve!') omits profanity present in the actual line ('...you fucking deserve!'); not treated as a defect or changed, since it reads as intentional content-moderation by the collection's editors rather than a sourcing error, and every other axis (attribution, scene, meaning) is correct.",
+      "resolution": "dc-023 and dc-030 fixed/downgraded in this run's PR; dc-030 downgraded from verified to unverified with content left unchanged since no confirmed-correct 2018-film wording was found. dc-016 also corrected in this run's PR as a carryover fix to PR #133's batch (dropped sentence restored, and its notes' 'Opening narration' label corrected to 'Closing narration' -- it's the film's final line, not its first). dc-comics collection finishes this pass (35/35 quotes audited across issues covering dc-001..012, dc-013..022, and this batch).",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "Found PR #133 ('Audit dc-comics dc-013..dc-022') already open at the start of this run, reaching findings for dc-014/017/019/022 that matched this run's own independent re-derivation of the same batch (checked before merging, not after) -- merged #133 directly, then started this run's new coverage at dc-023 on a fresh branch from main. Also reviewed open PR #135 ('Add 2 quotes to sherlock-holmes'): both new quotes (Silver Blaze's 'curious incident of the dog' exchange, Copper Beeches' 'lowest and vilest alleys' line) independently re-verified as exact, correctly-attributed Conan Doyle text -- no issues; left open per its own 'not merging' note. Coverage-gap fix: found 'andor-rogue-one' (39 quotes, merged via a recent PR per its addedAt timestamps) present in collections/ but missing from order[] -- same recurring class of bug as the michael-jordan, avatar-last-airbender, great-economists, and spider-man gaps found in prior runs; added to order[] at its alphabetical position (index 0, before avatar-last-airbender) and to totalQuotes (2767 -> 2806). It has not yet been audited and, since pass 1's cursor is already well past order[0], will be picked up when this pass wraps back to the start rather than out of alphabetical sequence. Pass 1 total after this run: 426/2806. Next run begins dhammapada quotes[0] (fileIndex 16, shifted +1 by the andor-rogue-one insertion)."
     }
   ]
 }
