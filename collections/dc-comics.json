@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Movies",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-07-24T12:00:00Z",
+  "lastUpdated": "2026-09-03T00:00:00Z",
   "quotes": [
     {
       "id": "dc-001",
@@ -161,8 +161,8 @@
       "source": "Wonder Woman (2017)",
       "sourceType": "movie",
       "quoteDate": "2017-06-02",
-      "verificationStatus": "verified",
-      "notes": "Diana's declaration of her purpose. Encapsulates Wonder Woman's protective warrior ethos.",
+      "verificationStatus": "unverified",
+      "notes": "Diana's declaration of her purpose. Encapsulates Wonder Woman's protective warrior ethos. 2026-09-03 audit: independent sources for this scene (Diana telling Hippolyta why she must leave Themyscira) converge on 'I understand enough. That I'm willing to fight for those who cannot fight for themselves' -- not the simple-present 'I fight' stored here. Downgraded pending a primary-transcript check to settle the exact wording; not rewritten since sources vary between 'will fight' and 'willing to fight'.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -194,8 +194,8 @@
       "source": "Wonder Woman (2017)",
       "sourceType": "movie",
       "quoteDate": "2017-06-02",
-      "verificationStatus": "verified",
-      "notes": "Hippolyta describing Amazon warrior standards. Establishes the culture Diana was raised in.",
+      "verificationStatus": "unverified",
+      "notes": "Hippolyta describing Amazon warrior standards. Establishes the culture Diana was raised in. 2026-09-03 audit: couldn't find this line in independent sourcing of the film. The only 'fiercest' line found is Hippolyta telling young Diana she cannot wield the God Killer sword ('only the fiercest among us even could... and that's not you, Diana'), a different scene and point. Downgraded pending primary-transcript confirmation; content not rewritten since no confirmed correct replacement text was found.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -211,13 +211,13 @@
     },
     {
       "id": "dc-019",
-      "content": "If there is even a one percent chance that he is our enemy, we have to take it as an absolute certainty.",
+      "content": "If we believe there is even a one percent chance that he is our enemy, we have to take it as an absolute certainty. And we have to destroy him.",
       "authorName": "Bruce Wayne (Ben Affleck)",
       "source": "Batman v Superman: Dawn of Justice (2016)",
       "sourceType": "movie",
       "quoteDate": "2016-03-25",
       "verificationStatus": "verified",
-      "notes": "Bruce's paranoid logic about Superman. Shows his post-trauma mindset after Metropolis.",
+      "notes": "Bruce's paranoid logic about Superman. Shows his post-trauma mindset after Metropolis. 2026-09-03 audit: restored 'we believe' (was flattened to an objective claim, 'If there is...') and the line's actual conclusion, 'And we have to destroy him,' which the stored text dropped -- that clause is the point of the line (Bruce's justification for a pre-emptive strike), not incidental, per the pattern already fixed in dc-010.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -244,13 +244,13 @@
     },
     {
       "id": "dc-022",
-      "content": "Fear is a tool. When that light hits the sky, it's not just a call. It's a warning.",
+      "content": "When that light hits the sky, it's not just a call. It's a warning. Fear is a tool.",
       "authorName": "Batman (Robert Pattinson)",
       "source": "The Batman (2022)",
       "sourceType": "movie",
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
-      "notes": "Opening narration explaining Batman's psychological warfare approach. Sets the film's noir tone.",
+      "notes": "Opening narration explaining Batman's psychological warfare approach. Sets the film's noir tone. 2026-09-03 audit: the two sentences were stored in reverse order from the monologue -- the film says the Bat-Signal line first, then 'Fear is a tool,' which leads into 'They think I'm hiding in the shadows. But I am the shadows.' Reordered to match.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
