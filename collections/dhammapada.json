@@ -9,7 +9,7 @@
   "iconName": "leaf.circle.fill",
   "category": "Faith",
   "addedAt": "2026-07-01T01:58:18Z",
-  "lastUpdated": "2026-06-30T12:00:00Z",
+  "lastUpdated": "2026-09-05T00:00:00Z",
   "quotes": [
     {
       "id": "dhamma-001",
@@ -112,13 +112,13 @@
     },
     {
       "id": "dhamma-010",
-      "content": "Not a mother, not a father will do so much, nor any other relatives; a well-directed mind will do us greater service.",
+      "content": "Not a mother, not a father will do so much, nor any other relative; a well-directed mind will do us greater service.",
       "authorName": "The Buddha",
       "source": "Dhammapada, verse 43 (Max Muller translation)",
       "quoteDate": "c. 3rd century BCE",
       "verificationStatus": "verified",
       "sourceType": "book",
-      "notes": "The counterpart to verse 42: a rightly-directed mind is the greatest benefactor.",
+      "notes": "The counterpart to verse 42: a rightly-directed mind is the greatest benefactor. Corrected 2026-09-05: 'relatives' -> 'relative' (singular), matching Muller's actual translation.",
       "addedAt": "2026-07-01T01:58:18Z"
     },
     {

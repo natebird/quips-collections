@@ -89,13 +89,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 14,
-    "file": "dc-comics",
-    "quoteIndex": 22,
-    "note": "dc-013..dc-022 audited this run (22/35 of dc-comics). Next run begins dc-comics quotes[22] (dc-023)."
+    "fileIndex": 15,
+    "file": "dhammapada",
+    "quoteIndex": 12,
+    "note": "dhamma-001..012 audited this run (12/30 of dhammapada). Next run begins dhammapada quotes[12] (dhamma-013). dc-comics (fileIndex 14) is skipped over: its remaining dc-023..035 batch was independently re-verified this run (matching an already-open, CI-green PR #137's findings exactly) but not re-committed here to avoid duplicating that PR -- see this run's log entry. Once #137 merges, dc-comics's pass-1 coverage is complete; if it never merges, a future run should redo dc-023..035 for real."
   },
   "totalQuotes": 2767,
-  "totalQuotesAudited": 413,
+  "totalQuotesAudited": 425,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -688,6 +688,21 @@
       "resolution": "dc-019 and dc-022 fixed in this run's PR (content corrected to accurate verbatim/order). dc-014 and dc-017 downgraded from verified to unverified with notes explaining the doubt; content not rewritten for either since no single confirmed-correct replacement text was found (dc-014 has two circulating variants, dc-017 has none confirmed at all).",
       "reportedIn": "see GitHub issue created this run",
       "processNote": "WebFetch was EGRESS_BLOCKED on every non-search domain tried this run (en.wikiquote.org, imdb.com, scriptslug.com, subslikescript.com, movies.fandom.com, springfieldspringfield.co.uk, scrapsfromtheloft.com), consistent with the long-running pattern in prior runs; verification relied entirely on WebSearch snippet triangulation across multiple independent secondary sources per quote. This batch's higher-than-usual flag rate (4/10) reflects that DC film one-liners circulate heavily in trimmed/reordered form across clip and quote sites, making truncation and reordering the dominant failure mode here rather than misattribution -- consistent with dc-001/dc-010's findings from the previous run. 0 open PRs found at the start of this run. Pass 1 total after this run: 413/2767."
+    },
+    {
+      "runDate": "2026-09-05",
+      "file": "dhammapada",
+      "quoteRange": "dhamma-001..dhamma-012",
+      "count": 12,
+      "passed": 11,
+      "flagged": 1,
+      "flaggedIds": [
+        "dhamma-010"
+      ],
+      "issue": "dhamma-001..009, 011, 012 (Dhammapada verses 1-6, 33, 35, 42, 80, 94, Max Muller translation) verified verbatim against Muller's public-domain text (Wikisource/Gutenberg/Sacred Texts, cross-checked via search since direct fetch of those domains is blocked -- see processNote) -- no issues; one search result usefully flagged a popular paraphrase of verse 5 as a 'fake Buddha quote' circulating online, confirming this collection already carries Muller's real wording rather than that paraphrase. dhamma-010 (verse 43) had 'nor any other relatives' where Muller's text reads 'nor any other relative' (singular) -- fixed.",
+      "resolution": "dhamma-010 corrected in this run's PR (singular 'relative', matching Muller). Separately: found PR #137 ('Audit dc-comics dc-023..dc-035...') already open, covering the exact batch this run's cursor pointed to next. Independently re-derived its two findings from scratch before looking at the PR (dc-023 wording fix, dc-030 downgrade) and got identical results; also independently verified its carryover dc-016 fix against the full closing-monologue text. All three checked out -- CI green, mergeable. Did not merge it myself (no standing instruction to merge PRs autonomously); recommend merging as-is. This run's own dc-comics edits were discarded to avoid duplicating/conflicting with it.",
+      "reportedIn": "see this run's report",
+      "processNote": "WebFetch remains EGRESS_BLOCKED on every content domain tried (gutenberg.org, sacred-texts.com, en.wikisource.org, imdb.com, clip.cafe, graciousquotes.com, scrapsfromtheloft.com) -- consistent with every prior run; verification relied entirely on WebSearch snippet triangulation. Found PR #137 open at the start of this run: it was created by what appears to be a prior firing of this same scheduled task whose cursor advance never got committed to main (main's cursor still pointed at dc-comics quotes[22], the same batch #137 already covers), meaning this run started by redoing already-done work. Caught it before pushing by checking open PRs before committing, not after -- recommend treating 'check for an already-open PR covering the next cursor batch' as a standing first step, not just the separate end-of-run PR-review pass. Advanced the cursor past dc-comics regardless of #137's merge state (see cursor note) so this doesn't recur. 1 open PR found and reviewed (#137); no other open PRs. Pass 1 total after this run: 425/2767 (dc-comics's own +13 will land whenever #137 merges, independent of this count)."
     }
   ]
 }
