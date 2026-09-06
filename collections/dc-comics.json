@@ -9,7 +9,7 @@
   "iconName": "shield.fill",
   "category": "Movies",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-09-03T00:00:00Z",
+  "lastUpdated": "2026-09-04T00:00:00Z",
   "quotes": [
     {
       "id": "dc-001",
@@ -178,13 +178,13 @@
     },
     {
       "id": "dc-016",
-      "content": "I used to want to save the world. But then I glimpsed the darkness that lives within their light.",
+      "content": "I used to want to save the world. To end war and bring peace to mankind. But then I glimpsed the darkness that lives within their light.",
       "authorName": "Diana Prince (Gal Gadot)",
       "source": "Wonder Woman (2017)",
       "sourceType": "movie",
       "quoteDate": "2017-06-02",
       "verificationStatus": "verified",
-      "notes": "Opening narration reflecting on Diana's disillusionment. Sets up her journey in the film.",
+      "notes": "Closing narration reflecting on Diana's disillusionment. Wraps up her journey in the film. 2026-09-04 audit: restored the dropped middle sentence ('To end war and bring peace to mankind.'), confirmed via multiple convergent independent transcriptions of the full closing monologue; the stored two-sentence version spliced together non-adjacent lines. Also corrected 'Opening' to 'Closing' in these notes -- this line closes the film, it doesn't open it.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -255,13 +255,13 @@
     },
     {
       "id": "dc-023",
-      "content": "The Bat and the Cat. It has a nice ring.",
+      "content": "The Bat and the Cat. It's got a nice ring.",
       "authorName": "Selina Kyle (Zoe Kravitz)",
       "source": "The Batman (2022)",
       "sourceType": "movie",
       "quoteDate": "2022-03-04",
       "verificationStatus": "verified",
-      "notes": "Selina's playful acknowledgment of their partnership. Hints at their comic book romance.",
+      "notes": "Selina's playful acknowledgment of their partnership. Hints at their comic book romance. 2026-09-04 audit: corrected 'It has' to \"It's got\", confirmed via multiple independent sources quoting the line verbatim (including outlets using it as an article headline).",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -337,8 +337,8 @@
       "source": "Aquaman (2018)",
       "sourceType": "movie",
       "quoteDate": "2018-12-21",
-      "verificationStatus": "verified",
-      "notes": "Arthur claiming his birthright. Momoa's portrayal reinvented Aquaman for modern audiences.",
+      "verificationStatus": "unverified",
+      "notes": "Arthur claiming his birthright. Momoa's portrayal reinvented Aquaman for modern audiences. 2026-09-04 audit: could not confirm Arthur speaks this exact line in the 2018 film -- available dialogue from the climax has Nereus and others proclaiming him king ('Then that half-breed is your king'), not Arthur declaring it himself in these words; a very similar line ('I am the King of Atlantis') is confirmed spoken by Arthur in the 2023 sequel. Downgraded pending primary-transcript confirmation; content not rewritten since no single confirmed-correct wording was found for the 2018 film specifically.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
