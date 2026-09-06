@@ -37,6 +37,12 @@ after a release had already shipped (as happened with v1.15.0's
 `andor-rogue-one`). `scripts/refresh_website_icons.py` keeps the mirror in
 sync with the website's published list.
 
+### Fixed
+**Dhammapada** `dhamma-010` (verse 43, Max Muller translation) read "nor any
+other relatives"; corrected to "nor any other relative" (singular), matching
+Muller's actual wording. Found during a sourcing audit of dhamma-001..012,
+which confirmed the other 11 quotes verbatim.
+
 ## [1.15.0] - 2026-09-02
 ### Added
 **Andor & Rogue One** — 39 quotes from the *Andor* series and the film it leads
