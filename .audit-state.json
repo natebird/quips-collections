@@ -92,11 +92,11 @@
   "cursor": {
     "fileIndex": 16,
     "file": "dhammapada",
-    "quoteIndex": 12,
-    "note": "dc-comics finished this pass via #137 (35/35); dhamma-001..012 audited on top of that in a separate run (12/30 of dhammapada). Next run begins dhammapada quotes[12] (dhamma-013). fileIndex 16 reflects the andor-rogue-one insertion at order[0]."
+    "quoteIndex": 22,
+    "note": "dhamma-001..022 audited across the last two runs (22/30 of dhammapada). Next run begins dhammapada quotes[22] (dhamma-023)."
   },
   "totalQuotes": 2806,
-  "totalQuotesAudited": 438,
+  "totalQuotesAudited": 448,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -720,6 +720,19 @@
       "resolution": "dhamma-010 corrected in this run's PR (singular 'relative', matching Muller). Separately: found PR #137 ('Audit dc-comics dc-023..dc-035...') already open, covering the exact batch this run's cursor pointed to next. Independently re-derived its two findings from scratch before looking at the PR (dc-023 wording fix, dc-030 downgrade) and got identical results; also independently verified its carryover dc-016 fix against the full closing-monologue text. All three checked out -- CI green, mergeable. Did not merge it myself at the time (no standing instruction to merge PRs autonomously); the user merged #137 directly the next day, which is what produced this file's own merge conflict (resolved here by keeping both this run's and #137's runs[] entries and combining their cursor/count progress).",
       "reportedIn": "see this run's report",
       "processNote": "WebFetch remains EGRESS_BLOCKED on every content domain tried (gutenberg.org, sacred-texts.com, en.wikisource.org, imdb.com, clip.cafe, graciousquotes.com, scrapsfromtheloft.com) -- consistent with every prior run; verification relied entirely on WebSearch snippet triangulation. Found PR #137 open at the start of this run: it was created by what appears to be a prior firing of this same scheduled task whose cursor advance never got committed to main (main's cursor still pointed at dc-comics quotes[22], the same batch #137 already covers), meaning this run started by redoing already-done work. Caught it before pushing by checking open PRs before committing, not after -- recommend treating 'check for an already-open PR covering the next cursor batch' as a standing first step, not just the separate end-of-run PR-review pass. 1 open PR found and reviewed (#137); no other open PRs at the time."
+    },
+    {
+      "runDate": "2026-09-06",
+      "file": "dhammapada",
+      "quoteRange": "dhamma-013..dhamma-022",
+      "count": 10,
+      "passed": 10,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "n/a",
+      "reportedIn": "n/a",
+      "processNote": "dhamma-013..022 (Dhammapada verses 96, 100, 103, 121, 122, 127, 131, 165, 183, 197, Muller translation) all verified verbatim via WebSearch snippet triangulation against sacred-texts.com/Wikisource/Gutenberg mirrors (direct WebFetch still EGRESS_BLOCKED on those domains). No open PRs at the start of this run."
     }
   ]
 }
