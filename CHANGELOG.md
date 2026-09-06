@@ -11,6 +11,32 @@ Each released version is tagged `vX.Y.Z`; pushing the tag builds `dist/`, publis
 the GitHub Release, and uploads to `data.quipsapp.com`. The section for a version is
 used verbatim as that release's notes.
 
+## [1.15.1] - 2026-09-05
+### Changed
+**Sherlock Holmes** gains 2 verified quotes: the dog-in-the-night-time exchange
+from "Silver Blaze" and the "villainy in the countryside vs. London" line from
+"The Adventure of the Copper Beeches" — both stories previously uncovered in
+this collection.
+
+**DC Comics** completed a full sourcing audit (dc-001 through dc-035). Fixed
+wording restores several previously truncated lines to their actual point:
+Thomas Wayne's "And why do we fall, Bruce?" (dropped leading "And"), Batman's
+full line to Gordon in *The Dark Knight Rises* about reassuring the world the
+end hadn't come, and Bruce's "one percent chance" reasoning in *Batman v
+Superman* (restored "we believe" and the closing "And we have to destroy him").
+*The Batman*'s opening monologue had its two sentences reordered to match the
+film. Two Wonder Woman quotes (dc-014, dc-017) were downgraded to `unverified`
+after independent sourcing couldn't confirm their exact wording.
+
+### Added
+`iconName` is now validated against the icons quipsapp.com can actually draw.
+`schema/website-icons.json` mirrors the website's supported set, and
+`validate_collections.py` errors on any `iconName` outside it — catching a
+mistake that previously only surfaced as a red deploy on the website's `main`
+after a release had already shipped (as happened with v1.15.0's
+`andor-rogue-one`). `scripts/refresh_website_icons.py` keeps the mirror in
+sync with the website's published list.
+
 ## [1.15.0] - 2026-09-02
 ### Added
 **Andor & Rogue One** — 39 quotes from the *Andor* series and the film it leads
