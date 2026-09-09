@@ -92,11 +92,11 @@
   "cursor": {
     "fileIndex": 17,
     "file": "disney-animated",
-    "quoteIndex": 12,
-    "note": "disney-animated in progress (12/52). Next run begins disney-animated quotes[12] (disney-013)."
+    "quoteIndex": 24,
+    "note": "disney-animated in progress (24/52). Next run begins disney-animated quotes[24] (disney-025)."
   },
   "totalQuotes": 2806,
-  "totalQuotesAudited": 468,
+  "totalQuotesAudited": 480,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -765,6 +765,19 @@
       "resolution": "both fixed in this run's PR: disney-002 content corrected to the full line; disney-005 authorName corrected to 'Randy Newman' and notes rewritten to describe it accurately as the film's non-diegetic theme song.",
       "reportedIn": "see this run's report",
       "processNote": "disney-001 (Hakuna Matata refrain), disney-003 (Mufasa's ghost, 'Remember who you are' -- confirmed as an accurate excerpt of a longer three-line exchange, not the whole line), disney-004 (Buzz Lightyear), disney-006 (Dory), disney-007 (Bruce the Shark's shark-pledge line, confirmed via the Pixar Wiki's Shark Pledge page and multiple transcript sources), disney-008/disney-010 (Elsa, Let It Go), disney-009 (Olaf, confirmed exact line and scene via quotes.net/IMDb), disney-011 (Lilo, 'Ohana means family' -- confirmed the full line including 'or forgotten' is genuine film dialogue split across Lilo and Nani in the actual script, just compressed under Lilo as the line's originator; not a defect), and disney-012 (Cinderella) all verified against the films themselves (or, for disney-011, a full script transcript) as primary/authoritative sources -- no issues. No open PRs at the start of this run. Re-checked order[] against collections/*.json and collections.json for coverage gaps -- none found, all three remain in exact agreement (86/86). Pass 1 total after this run: 468/2806. Pass 1 is NOT yet complete -- disney-animated is index 17 of 86 in order[] and has 52 quotes (only 12 audited so far). Next run begins disney-animated quotes[12] (disney-013)."
+    },
+    {
+      "runDate": "2026-09-09",
+      "file": "disney-animated",
+      "quoteRange": "disney-013..disney-024",
+      "count": 12,
+      "passed": 12,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none",
+      "resolution": "n/a",
+      "reportedIn": "n/a",
+      "processNote": "disney-013 (Fairy Godmother, Cinderella, confirmed as a genuine partial excerpt of 'But we have to hurry, because even miracles take a little time.'), disney-014 (already correctly unverified with an accurate note on the Tom Fitzgerald/Epcot Horizons misattribution, left as-is), disney-015 (The Emperor, Mulan), disney-016 (Zeus, Hercules, confirmed exact via IMDb/Wikiquote), disney-017 (Ellie, Up -- confirmed via IMDb's own quotes page that Ellie is the credited speaker, not Carl or Muntz who also use the phrase), disney-018 (Dug, Up), disney-019 (Gusteau, Ratatouille, confirmed exact), disney-020 (Gusteau, Ratatouille -- confirmed genuine via quotes.net/Wikiquote/IMDb convergence; stored text drops the leading 'And', consistent with this collection's partial-quote convention, not a defect), disney-021 (Scar, The Lion King), disney-022 (Merida, Brave -- double-checked the closing-narration attribution given dc-comics' history of narrator mixups; confirmed via IMDb/quotes.net that this is Merida's own closing narration, not the Witch's dialogue), disney-023 (Rapunzel, Tangled, 'I See the Light' duet lyric) and disney-024 (Rapunzel, Tangled -- checked whether 'I've got a dream!' is actually Hook Hand Thug's opening declaration rather than Rapunzel's, since the thugs sing it first; confirmed via multiple independent song-summary sources that Rapunzel also sings this exact line herself later in the number, with the thug chorus responding 'She's got a dream!', so the existing attribution is correct) all verified against primary/authoritative sourcing (the films/songs themselves) -- no issues. 0 open PRs found at the start of this run. WebFetch remains EGRESS_BLOCKED on every content domain tried this run (disneyclips.com), consistent with the long-running pattern; verification relied on WebSearch snippet triangulation across multiple independent sources per quote. Re-checked order[] against collections/*.json for coverage gaps -- none found (86/86). Pass 1 total after this run: 480/2806. Next run begins disney-animated quotes[24] (disney-025)."
     }
   ]
 }
