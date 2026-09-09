@@ -9,7 +9,7 @@
   "iconName": "wand.and.stars",
   "category": "Movies",
   "addedAt": "2026-06-27T20:29:50Z",
-  "lastUpdated": "2026-07-04T12:00:00Z",
+  "lastUpdated": "2026-09-08T00:00:00Z",
   "quotes": [
     {
       "id": "disney-001",
@@ -24,13 +24,13 @@
     },
     {
       "id": "disney-002",
-      "content": "The past can hurt. But the way I see it, you can either run from it or learn from it.",
+      "content": "Oh yes, the past can hurt. But from the way I see it, you can either run from it or learn from it.",
       "authorName": "Rafiki",
       "source": "The Lion King (1994)",
       "sourceType": "movie",
       "quoteDate": "1994-06-24",
       "verificationStatus": "verified",
-      "notes": "Rafiki's wisdom to Simba. Accompanied by the mandrill hitting Simba with his stick to make the point.",
+      "notes": "Rafiki's wisdom to Simba. Accompanied by the mandrill hitting Simba with his stick to make the point. Full line restored (2026 audit) after the opening 'Oh yes,' and 'from' before 'the way I see it' were dropped in the stored wording.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {
@@ -58,12 +58,12 @@
     {
       "id": "disney-005",
       "content": "You've got a friend in me.",
-      "authorName": "Woody (Tom Hanks)",
+      "authorName": "Randy Newman",
       "source": "Toy Story (1995)",
       "sourceType": "song",
       "quoteDate": "1995-11-22",
       "verificationStatus": "verified",
-      "notes": "Randy Newman's theme song, sung as dialogue by Woody. Became the franchise's signature song.",
+      "notes": "Written and performed by Randy Newman as the film's non-diegetic theme song, not sung on-screen by Woody. Became the franchise's signature song. Attribution corrected (2026 audit) from 'Woody (Tom Hanks)'; unlike Elsa's or Cinderella's songs elsewhere in this collection, no character sings this one in-universe in the 1995 film.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {

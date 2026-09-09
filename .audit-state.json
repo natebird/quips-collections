@@ -92,11 +92,11 @@
   "cursor": {
     "fileIndex": 17,
     "file": "disney-animated",
-    "quoteIndex": 0,
-    "note": "dhammapada finished this pass (30/30). Next run begins disney-animated quotes[0]."
+    "quoteIndex": 12,
+    "note": "disney-animated in progress (12/52). Next run begins disney-animated quotes[12] (disney-013)."
   },
   "totalQuotes": 2806,
-  "totalQuotesAudited": 456,
+  "totalQuotesAudited": 468,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -749,6 +749,22 @@
       "resolution": "dhamma-026 and dhamma-028 corrected in this run's PR. dhammapada collection finishes this pass (30/30 quotes audited across the three runs covering dhamma-001..012, dhamma-013..022, and this batch).",
       "reportedIn": "see this run's report",
       "processNote": "No open PRs at the start of this run. Re-checked order[] against collections/*.json for coverage gaps (the recurring class of bug found in several prior runs, e.g. andor-rogue-one) -- none found this time, order[] and the directory match exactly (86/86). Next run begins disney-animated quotes[0] (fileIndex 17)."
+    },
+    {
+      "runDate": "2026-09-08",
+      "file": "disney-animated",
+      "quoteRange": "disney-001..disney-012",
+      "count": 12,
+      "passed": 10,
+      "flagged": 2,
+      "flaggedIds": [
+        "disney-002",
+        "disney-005"
+      ],
+      "issue": "disney-002 (Rafiki, 'the past can hurt'): stored wording dropped the opening 'Oh yes,' and the word 'from' before 'the way I see it', confirmed against convergent independent sources (IMDb's own quotes page, multiple movie-quote databases) that all agree on 'Oh yes, the past can hurt. But from the way I see it, you can either run from it or learn from it.' disney-005 ('You've got a friend in me.'): authorName was 'Woody (Tom Hanks)' and the note claimed it was 'sung as dialogue by Woody', but the song is a non-diegetic soundtrack theme written and performed by Randy Newman -- no character sings it on-screen in the 1995 film (confirmed via Wikipedia/Fandom song pages). This breaks the collection's own established convention elsewhere (disney-001, disney-008, disney-010, disney-012, and others) of attributing song lyrics to the character who actually sings them in-universe.",
+      "resolution": "both fixed in this run's PR: disney-002 content corrected to the full line; disney-005 authorName corrected to 'Randy Newman' and notes rewritten to describe it accurately as the film's non-diegetic theme song.",
+      "reportedIn": "see this run's report",
+      "processNote": "disney-001 (Hakuna Matata refrain), disney-003 (Mufasa's ghost, 'Remember who you are' -- confirmed as an accurate excerpt of a longer three-line exchange, not the whole line), disney-004 (Buzz Lightyear), disney-006 (Dory), disney-007 (Bruce the Shark's shark-pledge line, confirmed via the Pixar Wiki's Shark Pledge page and multiple transcript sources), disney-008/disney-010 (Elsa, Let It Go), disney-009 (Olaf, confirmed exact line and scene via quotes.net/IMDb), disney-011 (Lilo, 'Ohana means family' -- confirmed the full line including 'or forgotten' is genuine film dialogue split across Lilo and Nani in the actual script, just compressed under Lilo as the line's originator; not a defect), and disney-012 (Cinderella) all verified against the films themselves (or, for disney-011, a full script transcript) as primary/authoritative sources -- no issues. No open PRs at the start of this run. Re-checked order[] against collections/*.json and collections.json for coverage gaps -- none found, all three remain in exact agreement (86/86). Pass 1 total after this run: 468/2806. Pass 1 is NOT yet complete -- disney-animated is index 17 of 86 in order[] and has 52 quotes (only 12 audited so far). Next run begins disney-animated quotes[12] (disney-013)."
     }
   ]
 }
