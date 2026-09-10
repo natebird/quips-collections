@@ -365,13 +365,13 @@
     },
     {
       "id": "disney-033",
-      "content": "I am Moana of Motunui. You will board my boat and restore the heart to Te Fiti.",
+      "content": "I am Moana of Motunui. You will board my boat, sail across the sea, and restore the heart of Te Fiti.",
       "authorName": "Moana",
       "source": "Moana (2016)",
       "sourceType": "movie",
       "quoteDate": "2016-11-23",
       "verificationStatus": "verified",
-      "notes": "Moana's repeated declaration to Maui. Shows her determination and identity.",
+      "notes": "Moana's repeated declaration to Maui. Shows her determination and identity. 2026-09-10 audit: corrected wording -- stored text had dropped the middle clause ('sail across the sea, and') and changed 'restore the heart of Te Fiti' to 'restore the heart to Te Fiti'; confirmed exact wording via Disney's own official account and multiple independent transcript sources.",
       "addedAt": "2026-06-27T20:29:50Z"
     },
     {

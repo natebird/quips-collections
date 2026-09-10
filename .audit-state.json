@@ -92,11 +92,11 @@
   "cursor": {
     "fileIndex": 17,
     "file": "disney-animated",
-    "quoteIndex": 24,
-    "note": "disney-animated in progress (24/52). Next run begins disney-animated quotes[24] (disney-025)."
+    "quoteIndex": 34,
+    "note": "disney-animated in progress (34/52). Next run begins disney-animated quotes[34] (disney-035)."
   },
   "totalQuotes": 2806,
-  "totalQuotesAudited": 480,
+  "totalQuotesAudited": 490,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -778,6 +778,21 @@
       "resolution": "n/a",
       "reportedIn": "n/a",
       "processNote": "disney-013 (Fairy Godmother, Cinderella, confirmed as a genuine partial excerpt of 'But we have to hurry, because even miracles take a little time.'), disney-014 (already correctly unverified with an accurate note on the Tom Fitzgerald/Epcot Horizons misattribution, left as-is), disney-015 (The Emperor, Mulan), disney-016 (Zeus, Hercules, confirmed exact via IMDb/Wikiquote), disney-017 (Ellie, Up -- confirmed via IMDb's own quotes page that Ellie is the credited speaker, not Carl or Muntz who also use the phrase), disney-018 (Dug, Up), disney-019 (Gusteau, Ratatouille, confirmed exact), disney-020 (Gusteau, Ratatouille -- confirmed genuine via quotes.net/Wikiquote/IMDb convergence; stored text drops the leading 'And', consistent with this collection's partial-quote convention, not a defect), disney-021 (Scar, The Lion King), disney-022 (Merida, Brave -- double-checked the closing-narration attribution given dc-comics' history of narrator mixups; confirmed via IMDb/quotes.net that this is Merida's own closing narration, not the Witch's dialogue), disney-023 (Rapunzel, Tangled, 'I See the Light' duet lyric) and disney-024 (Rapunzel, Tangled -- checked whether 'I've got a dream!' is actually Hook Hand Thug's opening declaration rather than Rapunzel's, since the thugs sing it first; confirmed via multiple independent song-summary sources that Rapunzel also sings this exact line herself later in the number, with the thug chorus responding 'She's got a dream!', so the existing attribution is correct) all verified against primary/authoritative sourcing (the films/songs themselves) -- no issues. 0 open PRs found at the start of this run. WebFetch remains EGRESS_BLOCKED on every content domain tried this run (disneyclips.com), consistent with the long-running pattern; verification relied on WebSearch snippet triangulation across multiple independent sources per quote. Re-checked order[] against collections/*.json for coverage gaps -- none found (86/86). Pass 1 total after this run: 480/2806. Next run begins disney-animated quotes[24] (disney-025)."
+    },
+    {
+      "runDate": "2026-09-10",
+      "file": "disney-animated",
+      "quoteRange": "disney-025..disney-034",
+      "count": 10,
+      "passed": 9,
+      "flagged": 1,
+      "flaggedIds": [
+        "disney-033"
+      ],
+      "issue": "disney-025..032, 034 all verified verbatim against the films/songs themselves as primary sources (Under the Sea, Part of Your World, Beauty and the Beast title song, Belle Reprise, A Whole New World, Friend Like Me, How Far I'll Go, You're Welcome). disney-031 (Aladdin, 'I'm not worthless. And I don't have fleas.') confirmed exact via transcript sources. disney-033 (Moana's declaration to Maui) was missing the middle clause 'sail across the sea, and' and had 'restore the heart of Te Fiti' altered to 'restore the heart to Te Fiti' -- confirmed the correct full wording via Disney's own official account (twitter/x.com) plus independent transcript sources.",
+      "resolution": "disney-033 fixed in this run's PR: content corrected to the full, exact line. hashes refreshed via compute_hashes.py and validate_collections.py --strict passed.",
+      "reportedIn": "see GitHub issue created this run",
+      "processNote": "This run found PR #145 (branch claude/charming-cannon-3dnoke) already open and unmerged from 2026-09-09, independently auditing this exact next batch (disney-013..024, 12 quotes, 0 flagged, state-only change, mergeable_state clean). Verified via `git merge-base --is-ancestor` that #145's single commit sits directly on top of main's tip with nothing else in between, so this run's branch was fast-forwarded onto #145's commit (a true superset, confirmed by direct ancestry rather than assumed) before continuing with new work. Independently re-verified disney-013..022 (matches #145's findings exactly) and additionally checked disney-023/024 (also matches). PR #145 is being closed as superseded by this run's PR, which contains its exact commit. No coverage gaps found: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (86/86)."
     }
   ]
 }
