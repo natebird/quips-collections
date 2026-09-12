@@ -90,13 +90,13 @@
     "zen-wisdom"
   ],
   "cursor": {
-    "fileIndex": 17,
-    "file": "disney-animated",
-    "quoteIndex": 44,
-    "note": "disney-animated in progress (44/52). Next run begins disney-animated quotes[44] (disney-045)."
+    "fileIndex": 18,
+    "file": "dream-big",
+    "quoteIndex": 0,
+    "note": "disney-animated finishes this pass (52/52). Next run begins dream-big quotes[0] (dream-big-001 or equivalent first id)."
   },
   "totalQuotes": 2806,
-  "totalQuotesAudited": 500,
+  "totalQuotesAudited": 508,
   "passNumber": 1,
   "passStartedAt": "2026-07-06T00:00:00Z",
   "runs": [
@@ -810,6 +810,19 @@
       "resolution": "disney-014 content corrected to 'If we can dream it, we can do it.' with notes clarifying the Fitzgerald/Silverstein wording split (stays unverified -- misattribution note, not a clean verified fix). disney-016 content corrected to restore the leading 'For'. disney-036 downgraded from verified to unverified, content/attribution not rewritten (no confirmed correct source located). disney-037 content corrected to restore 'do'/\"'ve\". disney-040 downgraded from verified to unverified pending lyrics-sheet access; content not rewritten. All in this run's PR; hashes refreshed via compute_hashes.py and validate_collections.py --strict passed (0 errors, 0 warnings, 86 collections).",
       "reportedIn": "see this run's report",
       "processNote": "PR #146 (branch claude/charming-cannon-u0gxf6, supersedes #145) was open at the start of this run, covering disney-013..034 -- further than this run's cursor (which pointed at disney-035). Verified via `git merge-base --is-ancestor` that #146 is a clean fast-forward from main, then reset this run's branch to #146's exact tip before adding fixes and new coverage, rather than creating a conflicting PR. This run's PR is therefore a strict superset of #146 (and, transitively, #145); recommend closing both as superseded once this run's PR merges. PR #148 ('Add 3 verified quotes: great-scientists, legendary-coaches, great-economists') reviewed: all three new quotes (Emmy Noether letter to Hasse via Dick's 1981 biography, Krzyzewski's own 'Leading with the Heart' book, Sowell's own 'A Conflict of Visions' book) trace to genuine primary/authoritative sources, no aggregator reliance -- one minor, non-blocking wording variant noted: coach-029's stored 'it's for excellence' reads as 'it is for excellence' (no contraction) across several independent secondary citations (Quotefancy, AZQuotes); flagged in this run's report but not fixed since it isn't this run's file to edit and no primary page citation was available either way. Not merged (left for manual review per repo convention -- no standing instruction to merge PRs autonomously). No coverage gaps: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (86/86). Next run begins disney-animated quotes[44] (disney-045); disney-animated has 8 quotes remaining and will finish this pass on the next run."
+    },
+    {
+      "runDate": "2026-09-12",
+      "file": "disney-animated",
+      "quoteRange": "disney-045..disney-052",
+      "count": 8,
+      "passed": 8,
+      "flagged": 0,
+      "flaggedIds": [],
+      "issue": "none -- disney-045..047 (Yzma, The Emperor's New Groove: lever command, exasperated follow-up, and the 'extract of llama' realization) and disney-048..050 (Kronk: the soup-and-salad non-sequitur, the deadpan poison-mixup excuse, and 'Yeah, weird.') all verified verbatim against primary transcript/clip sources (clip.cafe closed-caption transcript for disney-049, confirming 'You might think about relabeling' over a lower-confidence meme-site paraphrase 'You might consider relabeling' that surfaced during search). disney-051 (Pacha, '6 generations' line) and disney-052 (Pacha's llama-Kuzco leverage line) both confirmed verbatim against movie-sounds.org's sound-clip-backed quote page and independent transcript sources. disney-animated collection finishes this pass (52/52 quotes audited).",
+      "resolution": "no fixes needed",
+      "reportedIn": "see this run's report",
+      "processNote": "Found PR #149 (branch claude/charming-cannon-rawz6r, supersedes #145 and #146, both already closed) open at the start of this run, already covering disney-013..044 -- well ahead of this run's own cursor (quoteIndex 12) -- including two real corrections to disney-013..024 that a still-earlier run had missed (disney-014's Fitzgerald/Silverstein wording conflation, disney-016's dropped leading 'For'). Independently re-verified both corrections from scratch via WebSearch before trusting them (Tomorrow Society/AllEars corroborate the Horizons wall mural read 'If we can dream it, we can do it'; two independent transcript-style sources confirm Zeus's line opens with 'For') -- both hold. Also independently spot-checked PR #149's disney-037 (Dory/Finding Nemo) correction against a transcript source -- confirmed. Reset this run's branch to PR #149's exact tip (a clean fast-forward from main per `git merge-base --is-ancestor`) rather than creating a conflicting PR, then continued with new coverage (disney-045..052) -- this run's PR is a strict superset of #149. Recommend closing #149 as superseded once this run's PR merges. PR #148 ('Add 3 verified quotes: great-scientists, legendary-coaches, great-economists') independently re-reviewed: all three new quotes (Sowell's own book, Noether's letter via Dick's 1981 biography, Krzyzewski's own book) trace to genuine primary/authoritative sources, no aggregator reliance -- consistent with #149's own review of the same PR. Not merged, per repo convention. No coverage gaps: collections.json, .audit-state.json order[], and collections/*.json remain in exact agreement (86/86)."
     }
   ]
 }
